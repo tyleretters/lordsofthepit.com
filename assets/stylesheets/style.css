@@ -1,0 +1,18 @@
+body {
+  color: #ffffff;
+  background: #000000; }
+
+a {
+  color: #FF0000; }
+  a:hover {
+    color: #cc0000; }
+
+header {
+  margin-bottom: 50px; }
+
+nav, main, footer {
+  margin: 50px 100px 40px 100px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ffffff; }
+
+/*# sourceMappingURL=style.css.map */
