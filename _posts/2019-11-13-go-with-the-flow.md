@@ -1,0 +1,67 @@
+---
+layout: post
+author: mtg_border_eraser
+title: "Go With the Flow"
+date: "2019-11-13"
+---
+
+## Sunday, Old School Main Event at Elks Lodge #339
+
+I am somewhat jaded by big Old School events like Eternal Weekend. At a pub or a small tournament, I’m happy to run unpowered aggro against spicy Arboria builds. But when 200 people sign up to compete against each other, the guys at the top are always going to be, as Lord Moss would say, cutthroat sweathog grinders. And because I enjoy winning, I’m going to be on a try-hard list, wallowing around in the shit, sweating with all those hogs. The problem with most of my previous lists has been pride in my own collection, of which the crowning jewels are a playset of Revised Plateaus and a CE Chaos Orb. As a rule, I’d rather win with my own cards than with someone else’s. But winning with my own cards is never going to happen at EW. By my estimates, the cost of a typical sweathog deck is in the neighborhood of $15,000. For this event, I swallowed my pride and borrowed some pretty toys from the Jaconian lending library.
+
+My first idea for an EW try-hard deck was called “Oops, All Restricted Cards!” The joke was that it would cram all 22 restricted cards in the main because restricted cards are good and more restricted cards are better. This is basically The Deck’s strategy, minus Time Vault, Channel, and Wheel of Fortune. I was convinced by my own inner sweathog to play something more focused and tested (I wasn’t that interested in extensively testing such a wretched deck myself). Since I wanted the deck to be aggro (easy), my research left me with two decks that were packed with the most restricted cards: Atog and four-color aggro. Four-color aggro appealed to me because I could build most of it from my own collection. Some Lords and I decided that a more descriptive name for the pile of cards is “The Aggro Deck.”
+
+![](/assets/images/2019/11/LorienOldSchoolDeck.jpg)
+
+*The Aggro Deck*
+
+I start the day off strong, 0-1, from a bad keep in game one and mana screw in game two. “Oh, right,” I think, “mana screw. That happens even when your cards are expensive.” The rest of the day goes better and is highlighted by degenerate play patterns of stringing together restricted cards. Ancestral myself. Time Walk. Recall the Ancestral and Time Walk. Mana Drain your Mind Twist then Twist you with your own mana. Turn one Serendib. Turn two Serra Angel. Timetwister, Mox, Time Walk. The most complicated play I have to make is floating a white to Disenchant a Blood Moon, and boy do I get Blood Mooned. One match I win in five minutes. The first game, my opponent draws nothing but land. In the second, he is stuck on two. I buy him a beer and we shoot the shit for the next half hour. One of my opponents is on his eighth bourbon but seems to be keeping it together. I offer him a snack pack of nuts and berries. He accepts, then he Strip Mines me back to the Stone Age. The last game of my last match ends absurdly. On the play, my Shops opponent drops a turn one Tetravus. I play a turn one Plateau into a Savannah Lions. Turn two I topdeck Energy Flux, play a Sol Ring and a Tundra, and he gets Fluxed. The lone Lion deals 20 damage over 10 turns, as neither of us plays any other relevant spell. When the fog of war clears, I am 5-3, no better than my record at the Old School Player’s Ball, where I battled with my favorite Tier 2 deck, Pink Aggro. Guess I’ll have to try Atog next year as I hear it’s the sweathog’s choice.
+
+## Saturday, Middle School Event at Mike’s Beer Bar
+
+I can’t remember the particular day that Lords Jaco and Mullen explained to me what Middle School was, but ever since then I’ve been hyped on it. It closely resembles early-aughts Extended, my favorite format when I was in college and played a lot of tournament Magic. After college, I sold my entire collection to pay for a cross-country move, so returning to those busted-but-not-too-busted cards—like Psychatog, Pernicious Deed, and Goblin Piledriver—is a nostalgia trip for me.
+
+In my experience, Middle School is a balanced format. Sure, maybe a card or two needs to be banned or unbanned, but there’s no deck that warps the format, and many unconventional strategies are viable. Also, there’s no restricted list, which inevitably forces players into an arms race of cramming the most restricted cards into their deck (see my Old School report above). What I may like most about Middle School is its affordability. There are lots of powerful, fun cards that aren’t good enough for Legacy or Vintage, so they remain readily available for purchase. I especially appreciate that modern-bordered cards are tolerated (if frowned upon), as that makes the format even cheaper and less susceptible to speculative buyouts.
+
+![](/assets/images/2019/11/TSI-MS-meetup.jpg)
+
+*Middle School meetup organized by Team Serious*
+
+The one downside of the format is that it’s even more niche than Old School. More nerds have nostalgia for the good old days (‘93 and ‘94) than the Middle School days. Fortunately for me, I live in the Middle School Mecca of Chicago, where get-togethers of six-to-eight aren’t unusual, and a twenty-person tournament fires off every couple of months. It can get stale, though, playing the same Lord on the same deck over and over again When Team Serious announced the Saturday tournament capped at 24, I signed up immediately. My excitement for the bar event easily trumped my anticipation for Sunday’s Old School grindfest.
+
+Half the fun of Middle School is all the room it has for brewing. It doesn’t take long to learn the core cards for a given strategy, but deep research is rewarded with unheard-of heaters and combinations that have never seen the light of day in any format. For Pittsburgh, I wanted to brew a new list. As I had just purchased a playset of Wooded Foothills from a fellow Lord, and I had not yet built a Pernicious Deed deck, I settled on playing both, most likely in the Rock with red. When I searched mtgtop8 for Extended decks with both cards, I noticed a build called “Flow Rock,” which I hadn’t seen before. The “Flow” in Flow Rock is named for Destructive Flow, a BRG enchantment that makes each player sacrifice a non-basic land at the beginning of their upkeep. The deck typically plays a suite of aggressive threats not legal in the Middle School format (Dark Confidant, Troll Ascetic, Umezawa's Jitte). Jamming Flow was too appealing to give up on since there are many greedy mana bases in Middle School and several decks rely on man-lands as win conditions. Eight fetches got me most of the way to a playable mana base, but two Undiscovered Paradises (which can avoid Destructive Flow) were required for consistency. After testing against some mono-color strategies, I decided to put a couple Flows in the sideboard. I also came to the conclusion that Burning Wish was generally more backbreaking than Living Wish. I added three River Boas to apply early pressure if my opponent got stuck in the Flow, or to stall an aggressive opponent until I could drop a Deed. I hadn’t seen a lot of Rock decks floating around Middle School tournament reports, so I thought my deck would be a bit unexpected, especially with the red splash.
+
+![](/assets/images/2019/11/Destructive-Flow.png)
+
+**Round 1**
+I play Eric C., the organizer of the event. Game one, turn one I Duress him and his hand is some lands, a Cabal Therapy, a Flametongue Kavu, and a Ravenous Baloth. “I've made a terrible mistake with this deck choice,” I think. Here I thought I had brought some metagame spice, but I'm playing a mirror match right off the bat. I glance at the game on my left and one of them is also playing the Rock. I look to my right, another Rock deck. “Is half the fucking room on my deck?” What I assume will be a grind turns into a rout after I draw enough discard to wipe out his hand, Wish for a Haunting Echoes, and remove all his win conditions from his deck. Game two is a testament to the tenacity of my River Boas, who fight through three of Eric’s Pernicious Deeds on the way to victory.
+
+**Round 2**
+I play Sam K., a Milwaukee dude who has made a number of the Lords’ events. Game one, his turn one Careful Study puts a piece of his Pandeburst combo in the graveyard. I try to resolve a Destructive flow, but he counters it since almost all of his lands are non-basic. I have enough discard and pressure to close out the game, though. Game two is more tense; he has the turn one Careful Study and drops both combo pieces into the graveyard. I try to disrupt him until I can play the Haunting Echoes that I Wished for. Turn four I Cabal Therapy him. His awkward mana (one counter on a Saprazzan Skerry) indicates that if an Intuition were in his hand, he wouldn’t have been able to cast it at the end of my last turn without stranding it in his hand. I name Intuition and hit it. After I cast Echoes, Sam valiantly plays to his one out (Gigapede beats) until I deploy a couple threats.
+
+**Round 3**
+I am paired with Jimmy M. The last time I played Jimmy was round one of the first Old School Player’s Ball. I had been on U/R Counterburn because I was new to the format and didn't know any better. My main innovation had been two main deck Energy Fluxes, as the Lords’ metagame had been dominated by artifact decks. When Jimmy dropped a game-one-turn-one Mishra’s Workshop, I felt like a genius, especially because I had a Flux in-hand. But then I never found three mana sources. He rolled me in game two as well, and that was that. The middle school battle plays out much the same, except this time he’s on a mono-red deck with eight Jackal Pups and eight Rishadan Ports. That’s what it seems like, anyway, as he plays multiples each game, and my deck gives me one green source in each game. I only cast three spells, all discard, across the two games.
+
+![](/assets/images/2019/11/LorienMiddleSchoolRock.jpg)
+
+*Flow Rock*
+
+I am a bit drained after the match and find myself telling Jimmy that you can “generate a lot of money” by sacking goblins to Skirk Prospector before casting Living Death. There’s a statistic going around that chess players can burn thousands of calories a day during a tournament. Magic players must burn a couple hundred, at least. I scarf down a meal to recharge.
+
+**Round 4**
+I play Alan F., a friendly Nashvillager on W/R Tax Stax. Game one, he aggros with two Mishra’s Factories, then puts the nail in the coffin with a Masticore. Game two, I Deed him twice, then drop a Baloth and Spiritmonger. He slow rolls me with Kjeldoran Outpost soldiers, trying to set up a lethal Seismic Assault. He doesn’t have enough lands for lethal because my beasts can sac for life, so he ends up burning his hand on my buffed Spiritmonger. But I have another Monger in my hand. Game three, Destructive Flow does some work, nuking his Undiscovered Paradise, Kjeldoran Outpost, and Mishra’s Factory. The game grinds on as I draw and play multiple Deeds to wipe him out. Eventually, I Wish for Haunting Echoes, then remove most of his threats and answers. A Baloth and a Spiritmonger threaten a fast clock. He draws into Masticore. I Wish for Chainer’s Edict to seal the deal.
+
+**Round 5**
+I play Kevin P., a fellow Chicagoan who has flown under the radar of the Lords. Kevin is on one of the spiciest Middle School decks I have ever seen, a White-Black prison deck that runs tons of pain lands, drops both players’ life with effects like Plague Spitter, then reaps the benefits of low life with Convalescent Care. I do not understand how the deck beats direct damage, but it puts up a grindy fight against me game one. In the mid-game I resolve a Flow, which eventually blows up all of his lands. A Deed and a Baloth are enough to finish him off. Game two, he keeps a land-heavy hand. I Duress his Vindicate, then drop a Baloth. He plays a couple top-decked creatures, but I Edict and flash it back to get through.
+
+![](/assets/images/2019/11/TournamentStandingsMS-1.png)
+
+*Final Standings*
+
+I finish in third place with my 4-1 record. Overall, the deck performed as expected. It is a solid strategy for an unknown metagame: strip the best cards out of my opponents’ hands, destroy their best lands, blow up everything else with Pernicious Deed, Wish for silver bullets, and beat with fair green fatties. River Boa may have been the weakest card, but it filled the role of early pressure. Although the deck may be weak to Rishadan Port, I think the mono-red matchup is not as bad as the two games made it appear. I will consider replacing my two sideboard Engineered Plagues with Pyroclasms. After some casual games with Lord Greg back at the crash pad, I am more concerned about Standstill. I probably need something like City of Solitude to shore up the match.
+
+I want to give a quick shout-out to all the folks I met and hung out with over the weekend. I have some nostalgia for Old School, as I built my first deck from a pile of my buddy’s extra Fourth Edition and Anthologies cards, however I think I would have already lost interest in the format if it weren’t for all the consistently wonderful people who make Old School (and Middle School) what it is. I guess you could say the real Magic is all the friends I’ve made along the way. That, and Ancestral Recall. That card is fucked up.
+
+![](/assets/images/2019/11/LorienWithOrb.jpg)
+
+*Gotta light?*

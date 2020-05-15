@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col-12 col-sm-8">
+
+    <article itemscope itemtype="http://schema.org/BlogPosting">
+
+      <header>
+        <h1 itemprop="name headline">{{ page.title | escape }}</h1>
+        <hr>
+        <p>
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            {{ page.date | date: date_format }}
+          </time> by {{ page.author }}
+        </p>
+      </header>
+
+      <div itemprop="articleBody">
+        {{ content }}
+      </div>
+    </article>
+
+    <div class="row">
+      <div class="col-12">
+        <h2 class="post-footer">More Posts <span class="faded">Pro tip: Use your left and right arrow keys to quickly browse through posts.</span></h2>
+        <hr>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-sm-6 next-post">
+        {% if page.next.url %}
+          <a href="{{ page.next.url }}">&larr; {{ page.next.title }}</a>
+        {% endif %}
+      </div>
+      <div class="col-12 col-sm-6 previous-post">
+      {% if page.previous.url %}
+        <a href="{{ page.previous.url }}">{{ page.previous.title }} &rarr;</a>
+      {% endif %}
+      </div>
+    </div>
+  </div>
+  {% include aside.html %}
+</div>

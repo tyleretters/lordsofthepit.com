@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<div class="row archives-row">
+
+    <div class="col-12 col-sm-8">
+      {%- if page.title -%}
+      <h1>{{ page.title | escape }}</h1>
+      {%- endif -%}
+      <p>
+        <img src="/assets/images/site/archives.jpg" />
+      </p>
+      {% for post in site.posts %}
+      {% assign currentdate = post.date | date: "%Y" %}
+      {% if currentdate != date %}
+        {% unless forloop.first %}</ul>{% endunless %}
+        <h4>{{ currentdate }}</h4>
+        <hr>
+        <ul class="list-unstyled">
+        {% assign date = currentdate %}
+      {% endif %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d" -%}
+            {{ post.date | date: date_format }}
+          </time>
+        </li>
+      {% if forloop.last %}</ul>{% endif %}
+    {% endfor %}
+    </div>
+
+  {% include aside.html %}
+
+</div>

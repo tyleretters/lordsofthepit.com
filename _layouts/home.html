@@ -1,22 +1,31 @@
 ---
 layout: default
 ---
-{% for post in site.posts limit:3 %}
-<article>
+<div class="row">
+  <div class="col-12 col-sm-8">
+    {% for post in site.posts limit:3 %}
+    <article>
 
-  <header>
-    <h1>{{ post.title | escape }}</h1>
-    <p>
-      <time datetime="{{ post.date | date_to_xmlschema }}">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ post.date | date: date_format }}
-      </time> · <a href="{{ post.url | relative_url }}">Link</a>
-    </p>
-  </header>
+    <header>
+      <h1>{{ post.title | escape }}</h1>
+      <hr>
+      <p>
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ post.date | date: date_format }}
+        </time> by {{ post.author }} · <a href="{{ post.url | relative_url }}">Link</a>
+      </p>
+    </header>
+    <div>
+      {{ post.content }}
+    </div>
 
-  <div>
-    {{ post.content }}
+    </article>
+    {% endfor %}
+    <hr>
+    <p class="all-posts"><a href="/archives">View All Posts &rarr;</a></p>
   </div>
 
-</article>
-{% endfor %}
+{% include aside.html %}
+
+</div>
