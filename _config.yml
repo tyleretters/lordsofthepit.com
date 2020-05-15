@@ -1,9 +1,8 @@
 title: Lords of the Pit
-email: 
-description: Add some information about the album below, the author, or any other background context. Make it a few sentences long so folks can pick up some informative tidbits. Then, link them off to some social networking sites or contact information.
+description: "The Lords of the Pit are the United States’ premiere Old School Magic: the Gathering club based out of Chicago, IL. Members of this group include current club members ('Lords') as well as prospective new members ('Thrulls')."
 baseurl: /
 url: https://lordsofthepit.com
-googleAnalytics: 
+s3BucketPrefix: https://lordsofthepit.s3.us-east-2.amazonaws.com
 permalink: pretty
 sort_by: year, month
 markdown: kramdown

@@ -4,3 +4,9 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
+*.pdf
+*.zip
+*.psd
+*.wav
+*.mp3
+*.mp4

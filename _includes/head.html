@@ -1,4 +1,14 @@
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-22848601-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-22848601-2');
+</script>
+
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,9 +17,20 @@
 
 {% seo title=false %}
 
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@LordsOfThePitOG">
+<meta name="twitter:creator" content="@LordsOfThePitOG">
+{% if page.url == "/" %}<meta name="twitter:title" content="{{ site.title }} | Balling the fuck out of control.">{% elsif page.title %}<meta name="twitter:title" content="{{ page.title }} | Lords of the Pit">{% else %}<meta name="twitter:title" content="{{ site.title }}">{% endif %}
+{% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
+{% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">{% else %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
+<meta name="twitter:image:src" content="{{ site.url }}/assets/images/lords-of-the-pit-open-graph.jpg">  
+
+
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<script src="https://kit.fontawesome.com/bf8e061a12.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="{{ "/assets/stylesheets/style.css" | relative_url }}?{{site.time | date: '%s%N'}}">
-<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
 <link rel="shortcut icon" href="/favicon.ico?v=1" />
 <link rel="mask-icon" href="/mask-icon.svg" color="#ffffff">
 {% feed_meta %}
