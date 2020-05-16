@@ -60,6 +60,10 @@ main.container-fluid {
 .arcanaeum-row {
   margin-bottom: 50px; }
 
+article p img {
+  margin: auto;
+  display: block; }
+
 /* header and nav */
 header nav.navbar-dark,
 header nav.bg-dark {
