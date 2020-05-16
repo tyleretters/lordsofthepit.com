@@ -3,7 +3,7 @@ description: "The Lords of the Pit are the United States’ premiere Old School 
 baseurl: /
 url: https://lordsofthepit.com
 s3BucketPrefix: https://lordsofthepit.s3.us-east-2.amazonaws.com
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 sort_by: year, month
 markdown: kramdown
 plugins:
