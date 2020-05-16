@@ -54,7 +54,7 @@ button {
   text-align: right; }
 
 /* containers, rows, pages */
-main.container-fluid {
+main.container {
   overflow: hidden; }
 
 .arcanaeum-row {
