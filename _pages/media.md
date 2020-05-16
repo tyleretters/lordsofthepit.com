@@ -6,7 +6,7 @@ permalink: /media
 
 ![](/assets/images/site/media.jpg)
 
-Original Gansta Logo: [JPG]({{ site.s3BucketPrefix }}/lords-of-the-pit.jpg) \| [PSD]({{ site.s3BucketPrefix }}/lords-of-the-pit.psd) \| [AI]({{ site.s3BucketPrefix }}/lords-of-the-pit-onecolor.zip)
+Original Gangsta Logo: [JPG]({{ site.s3BucketPrefix }}/lords-of-the-pit.jpg) \| [PSD]({{ site.s3BucketPrefix }}/lords-of-the-pit.psd) \| [AI]({{ site.s3BucketPrefix }}/lords-of-the-pit-onecolor.zip)
 
 Death Metal Logo: [JPG]({{ site.s3BucketPrefix }}/death-metal-logo.jpg) \| [AI]({{ site.s3BucketPrefix }}/death-metal-logo.ai)
 
