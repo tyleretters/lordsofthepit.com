@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast - Pack A Lunch"
 date: "2019-08-28"
+category: Pitcast
 ---
 
 Five Preachers, four Forks, three dudes, two days to go, and one CoP Red story!
