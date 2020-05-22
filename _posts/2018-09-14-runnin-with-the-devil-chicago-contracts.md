@@ -3,6 +3,7 @@ layout: post
 author: Mossman
 title: "Runnin' With the Devil: Chicago Contracts"
 date: "2018-09-14"
+category: Blog
 ---
 
 **I. The Gathering Storm**
@@ -19,9 +20,7 @@ I demurred, thinking the stipulation imprudent on the eve of the Ball.
 
 "Fuck it."
 
-![](/assets/images/2018/09/1.jpg)
-
-*Tasty*
+![*Tasty*](/assets/images/2018/09/1.jpg)
 
 **II. Contractual Obligations**
 
@@ -39,47 +38,35 @@ I sat alone at Kuma's bar nursing my Old Fashioned and watching Fight Club. Prov
 
 Someone across the way left for the bar to make good on their ante. The first soul had been sold and the crowd went wild. It was now time to heed the call.
 
-![](/assets/images/2018/09/5.jpg)
-
-*Siq Turn 1*
+![*Siq Turn 1*](/assets/images/2018/09/5.jpg)
 
 **IV. Coin Flip Red!**
 
 Any simp can add four Underground Sea to support a Contract From Below, but it takes true diabolical intellect to break Contract. How so, you may ask? Fork. This two-red instant is the key to weaponizing Contract From Below. You want to cast one? Fuck you, mine resolves first, let's hammer 'em down: [https://www.youtube.com/watch?v=PONW46BP18s](https://www.youtube.com/watch?v=PONW46BP18s)
 
-![](/assets/images/2018/09/3.jpeg)
-
-*Red Menace*
+![*Red Menace*](/assets/images/2018/09/3.jpeg)
 
 The shell I grafted Fork/Contract onto was Coin Flip Red, the brainchild of Michigan's own "Cap'n" Mike Lupo, a dear friend of mine who had to forego the second Ball. To honor him, I jacked his signature recipe. The premise of Coin Flip Red is to play as many different, funky "flip" cards as I can. Ydwen Efreet and Mijae Djinn were down to party, Mana Clash provided some additional support for Fork, and hopefully I'd swill from the Bottle o' Suleiman.
 
 Playing against Coin Flip Red is a bit like wandering the jungle at night trying to avoid claymore tripwire. Poor Josh Burgoa\*\*, my nemesis from Chattanooga, TN, soon fell prey. During one of our games, I led with a Mountain, Ruby and a pair of Mana Clash. We each took eleven to the cabeza. That's a whopping 22 damage for two red, a tidy little ROI that even the #mtgfinance bros can understand. Onto T2 and Josh Tutored... Fork! Then he passed; bad for him. I Wheeled (via the Fork as I didn't have black mana to Tutor up Contract at this point), ripped Lotus, Bolt, Bolt, Chain and left Josh a smoldering husk on T3. Clash and Fork done did him in. The Red Wizard proves a vicious foe.
 
-![](/assets/images/2018/09/4.jpeg)
-
-*Two red, twenty two damage!*
+![*Two red, twenty two damage!*](/assets/images/2018/09/4.jpeg)
 
 *(\*\*Josh took vengeance on me at Table 3 the following day where we met each with a record of 5-1. He took the match 2-1 and finished 3/84 on the day. Maja big ups!)*
 
 Later, I sat with Dan Ersch a.k.a. "Old School Dan" and asked if he wanted to borrow a copy of Contract. Yes, I'd packed three extra copies (signed, of course) to lend. "Sure!" he responded, "It'll make my deck even better." Oh shit, he was on Reanimator! One black mana to bin his dudes, Draw 7, and win the game. Dan put the boots to me and I don't recall winning a single game, though Ydwen and Mijae nearly got me there once. After this the train derailed. During my three game set vs. Old School Dan, we loaded up on five, count ‘em, five Hamms + Kabanes. Cans and shot glasses littered the battlefield. Dan even double-Contracted me a game on the back of a Recall.
 
-![](/assets/images/2018/09/6.jpeg)
-
-*The Glimmer Twins holding the line*
+![*The Glimmer Twins holding the line*](/assets/images/2018/09/6.jpeg)
 
 The evening finished a zany success. We didn't take a proper headcount, but it seemed we had at least two dozen dudesweats that dropped by to battle or just hang out and grab a drink. Our "prize" cards were awarded via ad-hoc Chaos Orb shootouts and Lord Mullen captured most everyone's mugshot (see the rogues gallery below). As the Old School Players' Ball continues to scale up, side events such as this evening's will become an integral part and allow Old Schoolers the chance to chill away from the hustle and bustle of the primary tournament. 
 
-![](/assets/images/2018/09/7.jpg)
-
-*Greatness at any cost*
+![*Greatness at any cost*](/assets/images/2018/09/7.jpg)
 
 **V.  On the Value of Camaraderie**
 
 As I drunkenly balanced on a chair, surveying the throng, I tried to remember everyone I wanted to thank. Of course I'd left my notes in my bag. It came out a rushed, drunken ramble: Bob and Jaco for the organizing Ball, Shane for help lining up DMen, all the fellas for dropping by, etc. etc. This Contracts meetup was my first foray into event planning and it was a blast. At the very least, it made for interesting storytelling throughout the weekend. Perhaps the kindest words I received in return came from one guest who told me he entered the backroom at DMen surrounded by strangers but was immersed in hugs, beers and Old School MTG; he said it was one of the more surreal experiences he'd ever had. Therein lies the true magic, the spark that makes Old School special. Wherever we are, wherever we go, we are never alone.
 
-![](/assets/images/2018/09/8.jpg)
-
-*Loots*
+![*Loots*](/assets/images/2018/09/8.jpg)
 
 *(Extra special thanks go to Lord Mullen for chronicling the evening's madness!)*
 
