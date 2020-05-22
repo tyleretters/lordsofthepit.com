@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast - Western Formal"
 date: "2019-12-15"
+category: Pitcast
 ---
 
 OG Lord of the Pit Danny Friedman guests on the morning of the Party of the Pit Lords.
