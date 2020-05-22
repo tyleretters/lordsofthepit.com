@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast - Ad Infinitum"
 date: "2019-10-16"
+category: Pitcast
 ---
 
 Newly-minted Lord of the Pit, "Jedi" Bill Schriver, joins to chat up combo builds across various Old School formats. Also, we pick Meatball's scabrous brain on his performance at Lobstercon.
