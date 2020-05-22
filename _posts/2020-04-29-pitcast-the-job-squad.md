@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast - The Job Squad"
 date: "2020-04-29"
+category: Pitcast
 ---
 
 Lords Rohr, Etters, Petray and Moss share war stories from Q-Cup 2 before peeling back some philosophical layers of the Old School onion.
