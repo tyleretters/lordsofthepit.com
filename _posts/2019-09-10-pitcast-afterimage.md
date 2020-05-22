@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast - Afterimage"
 date: "2019-09-10"
+category: Pitcast
 ---
 
 The Lords recount their thrills & spills from OSPB3 weekend before turning the page to OS95 and B&R news.
