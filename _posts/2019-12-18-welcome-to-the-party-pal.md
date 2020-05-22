@@ -3,29 +3,24 @@ layout: post
 author: Necron 99
 title: "Welcome to the Party, Pal"
 date: "2019-12-18"
+category: Blog
 ---
 
 In terms of color philosophy, at their core, I can’t think of a pair more emblematic of Old School than Red and White. Red, in its purest essence, is impulsive and prone to raucous celebration. White, conversely, is all about order and balance. For my money, there isn’t a better group that represents a party for the people.
 
-![](/assets/images/2019/12/Big-Chill.jpg)
-
-*The Lords at Marz Community Brewing Co. on Chicago's South Side*
+![*The Lords at Marz Community Brewing Co. on Chicago's South Side*](/assets/images/2019/12/Big-Chill.jpg)
 
 The game wouldn’t exist without the counterbalance of the other three colors, sure. There’s always some losers at the party because the room needs bodies. But Red and White are each responsible for the fun and making sure the group is in on it. What I’m really getting at is, if you and I have ever been paired up before or will be in the future, then you’re welcome. Then or preemptively, respectively.
 
 I proudly fly the Red/White banner as often as possible in 93/94, but often in the heavy guns department. Maindeck Blood Moon, Earthquake, Nevinyrral’s Disk. I like the answers broad and all encompassing. For this event, I shed the big answers in favor of an archetype I hadn’t explored much: full-fledged aggro.
 
-![](/assets/images/2019/12/IMG_1723.jpg)
-
-*The Real Pinko*
+![*The Real Pinko*](/assets/images/2019/12/IMG_1723.jpg)
 
 White Weenie had always been an issue in Old School to me. It’s a big reason why I chose wide answers. It can certainly apply pressure quickly and relentlessly. My entry to Old School had been Big Red, so White Weenie had always been that deck that if I didn’t get my Earthquake, I would get smothered by a Circle of Protection: Red and an army of White Knights and Savannah Lions. It was this very matchup that led to adding White to become Big Pink so that I’d have Disenchant and Balance.
 
 Part of me wondered if I was missing out on something strong in these party-oriented colors by preferring the reactive approach, so I built a more proactive Pink list. I figured combining the quickest little dudes with Bolts I could zap their blockers with, if not toss to their face, should provide a potent result.
 
-![](/assets/images/2019/12/rohr-pink.jpg)
-
-*Lean & Mean Pink Aggro Machine*
+![*Lean & Mean Pink Aggro Machine*](/assets/images/2019/12/rohr-pink.jpg)
 
 **Round 1: Tyler - Nayatog**
 Playing against Tyler is always a great time if only because he also seems to clearly understand the superiority of incorporating Red and White, so he can forgiven for running Green. I know I’ve polluted my decks with that shameful color because I was curious about Sylvan Library and Regrowth, maybe even a Channel to spice up my Fireballs.
@@ -45,9 +40,7 @@ Ray is easily one of my favorite players to be paired up with. I can’t imagine
 **Game 2:** This was a rough one. Ray mulligans down to four and I don’t necessarily pull a God hand, but it’s a Plateau, Mishra’s Factory, Plains, Savannah Lions, Preacher, White Knight and Lightning Bolt. He gets stuck on a couple off-color lands and my little army puts the beats down.
 _Result: 2-0_
 
-![](/assets/images/2019/12/Pastrami-Sandwaj.jpg)
-
-*Pastrami Sandwich Feature Match*
+![*Pastrami Sandwich Feature Match*](/assets/images/2019/12/Pastrami-Sandwaj.jpg)
 
 **Round 3: Erik - White Weenie**
 I first played Eric at the Festival of the Pit in 2016, which if my understanding is correct, was his first Old School event and he hadn’t been to one since. He remembered me from then and upon reflecting on a report from then, he was playing Mono Black Rack, so it’s great to see him back.
@@ -57,9 +50,7 @@ I first played Eric at the Festival of the Pit in 2016, which if my understandin
 **Game 2:** Almost as a sort of joke, I keep a hand with two Strip Mine, a Plateau and City of Brass, Disenchant, White Knight and Order of Leitbur. He’s on the play and drops a Plains into a Land Tax. I Strip his land, he plays another. I Strip that land, he plays another. I play a land and he keeps himself at one to hopefully trigger his Land Tax on his next turn. I play my second land but Disenchant his Land Tax on my main phase and it sets him back significantly. He baits me out, resolving a Crusade and passing. I play three little dudes right into it, which are all met by a Balance. Eventually he gets a Serra Angel down, which I Swords to Plowshares and while I don’t like see him gain five life, I do have an Order of Leitbur I can pump that’s already a 3/2 thanks to Crusade. They handle the job.
 _Result: 2-0_
 
-![](/assets/images/2019/12/loots.jpg)
-
-*Signed Loots*
+![*Signed Loots*](/assets/images/2019/12/loots.jpg)
 
 **Round 4: Dan - Pink Aggro**
 Dan is also another player who truly appreciates the value of going Pink.  Our lists are very similar; my curve is lower and he brings in some heavier via Serra Angel. Always a pleasure to catch up with Dan who can really play a list that I feel confident in and still second guess my own card choices and lines of play.
@@ -69,9 +60,7 @@ Dan is also another player who truly appreciates the value of going Pink.  Our 
 **Game 2:** I open again with Javelineers. This might be a bad omen, but I’m not going to send it back on account of that. Well, in and of itself, it wasn’t the Javelineers that were a bad omen, but bad luck was looming over me when he played his Mishra’s Factory, Mox Ruby and Sol Ring. Nothing big following that (thankfully not the terrifying Granite Gargoyle he runs).  Through combat and Bolts, we get to top deck mode. He beats me down to three lives as I run into a similar problem from the previous game and when I top deck Shahrazad, I am presented with a potential out. We begin our subgame and let me say, if you’ve never played Shahrazad, do give it a shot. It’s a beautiful experience for all involved. In terms of aggro, your deck should be completely redundant with Bolts and similarly-costed critters that you won’t be missing any key elements in the subgame and winning that can cause a major swing in life totals in the prime game. I win the subgame fairly handily (though of note in the subgame, he does knock two of my guys out with a Falling Star and I’m tickled by this tech). It’s still not enough of a swing in the prime game, I can chump a little, but he still slips through the damage to slay me.
 _Result: 0-2_
 
-![](/assets/images/2019/12/Toy-Drive.jpg)
-
-*Lords of the Pit 2019 Toy Drive*
+![*Lords of the Pit 2019 Toy Drive*](/assets/images/2019/12/Toy-Drive.jpg)
 
 **Round 5: Zack - The Deck**
 I don’t know Zack super well, I don’t think we’d been paired up before at an event but we had a great couple of games and I do look forward to slinging some spells together again.
@@ -82,9 +71,7 @@ I don’t know Zack super well, I don’t think we’d been paired up before at 
 _Result: 2-0
 Overall: 3-2_
 
-![](/assets/images/2019/12/partyofthepitlordsstandings2.png)
-
-*Final Standings*
+![*Final Standings*](/assets/images/2019/12/partyofthepitlordsstandings2.png)
 
 Originally set to be six rounds, I was thrilled we cut after five so my record appears more favorable than 3-3. Besides that, I also find five rounds to be just enough before I’m drunk enough to rather just socialize and stop seeing Strip Mines and Mishra’s Factories carry games regardless of color or build.
 
@@ -92,85 +79,45 @@ As always, this was a great day filled with great games, drinks and waxing indul
 
 ## Deck Lists
 
-![](/assets/images/2019/12/Andy-Arabian-Aggro.jpg)
+![*MacDougal - Arabian Aggro*](/assets/images/2019/12/Andy-Arabian-Aggro.jpg)
 
-*MacDougal - Arabian Aggro*
+![*Agra - Lords of the Breeding Pit*](/assets/images/2019/12/Bob-Lord-of-the-Breeding-Pit.dec_.jpg)
 
-![](/assets/images/2019/12/Bob-Lord-of-the-Breeding-Pit.dec_.jpg)
+![*Petray - Slot Machine*](/assets/images/2019/12/Carter-Slot-Machine.jpg)
 
-*Agra - Lords of the Breeding Pit*
+![*Friedman - Power Surge Combo*](/assets/images/2019/12/Danny-Power-Surge.jpg)
 
-![](/assets/images/2019/12/Carter-Slot-Machine.jpg)
+![*Flores - Grixis Disko*](/assets/images/2019/12/Enrique-Grixis-Disco.jpg)
 
-*Petray - Slot Machine*
+![*Etters - Nayatog*](/assets/images/2019/12/Etters-Nayatog.jpg)
 
-![](/assets/images/2019/12/Danny-Power-Surge.jpg)
+![*Blank - Arboria Control*](/assets/images/2019/12/Ian-Arboria.jpg)
 
-*Friedman - Power Surge Combo*
+![*Jaco - Naya Zoo*](/assets/images/2019/12/Jaco-Naya-Zoo.jpg)
 
-![](/assets/images/2019/12/Enrique-Grixis-Disco.jpg)
+![*Elleman - Monoblack*](/assets/images/2019/12/Lorien-Monoblack-Humbug.jpg)
 
-*Flores - Grixis Disko*
+![*Moss - Understanding White Weenie&trade;*](/assets/images/2019/12/Moss-White-Weenie.jpg)
 
-![](/assets/images/2019/12/Etters-Nayatog.jpg)
+![*Piquard - Pink*](/assets/images/2019/12/Piquard-Pink.jpg)
 
-*Etters - Nayatog*
+![*Beadle - Monogreen*](/assets/images/2019/12/Rob-Beadle-Monogreen.jpg)
 
-![](/assets/images/2019/12/Ian-Arboria.jpg)
+![*Sanders - Big Black*](/assets/images/2019/12/Sanders-Monoblack.jpg)
 
-*Blank - Arboria Control*
+![*Semmens - 5C Juxtapose Stew*](/assets/images/2019/12/Semmens-Juxtapose-Stew.jpg)
 
-![](/assets/images/2019/12/Jaco-Naya-Zoo.jpg)
+![*Velasco - Monogreen*](/assets/images/2019/12/Velasco-Green-Black-Berserk.jpg)
 
-*Jaco - Naya Zoo*
+![*Vincent - Disko Minivan*](/assets/images/2019/12/Vincent-Phoenix-Disco.jpg)
 
-![](/assets/images/2019/12/Lorien-Monoblack-Humbug.jpg)
+![*Baran - 'merican Midrange*](/assets/images/2019/12/Baran-midrange.jpg)
 
-*Elleman - Monoblack*
+![*Butzen - 4chainz.dec*](/assets/images/2019/12/butzen-4-chainz.jpg)
 
-![](/assets/images/2019/12/Moss-White-Weenie.jpg)
+![*Kotscharjan - Jeskai Weenie*](/assets/images/2019/12/Greg-Weenie.jpg)
 
-*Moss - Understanding White Weenie&trade;*
-
-![](/assets/images/2019/12/Piquard-Pink.jpg)
-
-*Piquard - Pink*
-
-![](/assets/images/2019/12/Rob-Beadle-Monogreen.jpg)
-
-*Beadle - Monogreen*
-
-![](/assets/images/2019/12/Sanders-Monoblack.jpg)
-
-*Sanders - Big Black*
-
-![](/assets/images/2019/12/Semmens-Juxtapose-Stew.jpg)
-
-*Semmens - 5C Juxtapose Stew*
-
-![](/assets/images/2019/12/Velasco-Green-Black-Berserk.jpg)
-
-*Velasco - Monogreen*
-
-![](/assets/images/2019/12/Vincent-Phoenix-Disco.jpg)
-
-*Vincent - Disko Minivan*
-
-![](/assets/images/2019/12/Baran-midrange.jpg)
-
-*Baran - 'merican Midrange*
-
-![](/assets/images/2019/12/butzen-4-chainz.jpg)
-
-*Butzen - 4chainz.dec*
-
-![](/assets/images/2019/12/Greg-Weenie.jpg)
-
-*Kotscharjan - Jeskai Weenie*
-
-![](/assets/images/2019/12/rays-hordes.jpg)
-
-*Mattson - Yawgmoth's Instilled Hordes*
+![*Mattson - Yawgmoth's Instilled Hordes*](/assets/images/2019/12/rays-hordes.jpg)
 
 ## Candids
 
