@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast - What Makes The Scene"
 date: "2020-04-15"
+category: Pitcast
 ---
 
 Lords Agra, Petray, Sanders & Moss team up for another Quarantine Edition of the Pitcast, mulling over future card prices, satanic controversies and the mysteries of the Black Lodge.
