@@ -3,15 +3,14 @@ layout: post
 author: mtg_beer_punts
 title: "Two Formats, One Cup: The Quarantine Cup Report"
 date: "2020-04-16"
+category: Blog
 ---
 
 On March 16th, 2020, as the COVID-19 pandemic accelerated across the U.S., it became clear that a shared neighborhood or city would no longer provide a safe venue to sling overpriced cardboard.  Thus, the Lords of the Pit decided to migrate to the interwebs and launched the Quarantine Cup.  The purpose of the Q-Cup, like all Lords events, was to step away from the seriousness of the real world, have fun, and ball novices to oblivion.  Chicago’s Meals on Wheels was our designated Q-Cup charity; this organization is in dire need of financial support right now as the demand on their resources has skyrocketed.  If you have the means, we encourage you to donate [here](https://mealsonwheelschicago.formstack.com/forms/donation__online_payment).
 
 Adopting the batch pairing method used by DFB for organizing many online events, the Q-Cup consisted of eight rounds of MTG split into two batches with 10 days to complete each batch.  The wrinkle here was that each batch would be a different format: the first batch featured old warhorse, EC 93/94, while the second batch was Middle School, the new Chicago favorite.  Because trading and borrowing cards was not feasible under our scattered circumstance, proxies were encouraged (with guidelines that they needed to be legible by webcam).  The Lords’ Discord chatroom was the rallying point to coordinate matches and talk trash before using Whereby or other video services to play matches. 
 
-![](/assets/images/2020/04/1st-place.jpg)
-
-*Shell Games*
+![*Shell Games*](/assets/images/2020/04/1st-place.jpg)
 
 The Q-Cup was open to members of the club and select friends. In the end, 24 mages signed up, sleeved up their heaters (and some stinkers), and logged on for some steamy camjam action. A healthy 180 matches were played over 20 days with an untold number of side matches jammed, cocktails slurped, and beers guzzled.
 
@@ -19,13 +18,9 @@ While the Q-Cup was intended as an individual, non-team, event we had one except
 
 At the end of the two batches we had one clear winner standing over the virtual heap of decimated opponents - Lord Mith crushed the field with an 8-0 finish.  I can attest to the power of his run.  He rolled over me so hard in MS that I didn’t know what was happening as he resolved Recurring Nightmares and Living Deaths after stripping my hands away.  It was a balling I will not soon forget.  Mith took possession of Mario Kart Island as his prize and below are his weapons of choice from our inaugural online event.
 
-![](/assets/images/2020/04/Mith-OS.jpg)
+![*On-call to ball*](/assets/images/2020/04/Mith-OS.jpg)
 
-*On-call to ball*
-
-![](/assets/images/2020/04/Mith-MS.jpg)
-
-*Prescription Painkillers*
+![*Prescription Painkillers*](/assets/images/2020/04/Mith-MS.jpg)
 
 ## Q&A with Lord Petray
 
@@ -37,17 +32,13 @@ _A: Would probably feel great, if it actually happened for a change. So disrespe
 
 **Q: You know I love this OS decklist of yours – what brought you to play the best deck on this plague-wrecked planet?  Any card choices you want to hit on in the list (other than the obviously great 15th sideboard slot).**
 
-![](/assets/images/2020/04/carter-os-T8.jpg)
-
-*No joke*
+![*No joke*](/assets/images/2020/04/carter-os-T8.jpg)
 
 _A: I chose to play The Deck because, don’t get it twisted, I’m here to grind out the W’s. The guy who was once called the Brewmaster of Old School (I think it was Moss who said it) is now an incorrigible spike. It’s nearly Danny’s exact list from Lord’s Haus, with the addition of a fourth Tome in the board. I wouldn’t leave home without a play set in the 75._
 
 **Q: In Middle School you returned to what I perceive as your true MS joy: The Rock.  In a format as diverse as MS, what keeps bringing you back to the deck?**
 
-![](/assets/images/2020/04/Carter-MS.jpeg)
-
-*Layeth the Smacketh Down*
+![*Layeth the Smacketh Down*](/assets/images/2020/04/Carter-MS.jpeg)
 
 _A: A wise man once said The Rock has a 45% matchup against every deck ... including the mirror. I’m thinking I could bump that up to 46%._
 
@@ -61,21 +52,15 @@ _A: Moss’ theft of the door prize is a downright travesty of justice. Here’s
 
 Thank you Carter for being such a class act and taking the time to connect with your global fan base!
 
-![](/assets/images/2020/04/door-prize.jpg)
-
-*Sign o' the Times*
+![*Sign o' the Times*](/assets/images/2020/04/door-prize.jpg)
 
 ## Takeaways
 
 It is a rare moment for a small Lords gathering (virtual or not!) to pull in three copies of the Deck, even with recently turned try-hard Carter picking it up.  I decided to run something a little different this time after I stumbled upon my childhood Goblin King in its original penny sleeve and scrapped some cards to put a goblins list together based on Bergeson builds.  The best moment with the little red dudes was balling Moss 2-0 while he played a Deck variant very close to what I normally run.  After the match, he bitched that over the course of 10 games he would win 8.  Five additional games later and Moss squeaked out a single W against the red horde. Sweet victory.  In MS I returned to the Tog.  I love the combo-control archetype and all the powerful blue spells.  In general, I have no idea what is going on in MS, but getting to play Gush is always great. 
 
-![](/assets/images/2020/04/Matt-s-T8.jpg)
+![*King & Co.*](/assets/images/2020/04/Matt-s-T8.jpg)
 
-*King & Co.*
-
-![](/assets/images/2020/04/matt-s-MS.jpg)
-
-*Blue will do*
+![*Blue will do*](/assets/images/2020/04/matt-s-MS.jpg)
 
 ## Technology
 
@@ -89,160 +74,82 @@ Special thanks to [jts\_mtg\_alters](https://www.instagram.com/jts_mtg_alters/) 
 
 ## Old School Gallery
 
-![](/assets/images/2020/04/Chris-B.jpg)
+![*Bergeson - RUGobbos*](/assets/images/2020/04/Chris-B.jpg)
 
-*Bergeson - RUGobbos*
+![*Baran - Sceptercism*](/assets/images/2020/04/Tim-B-OS_ScepterRack.jpg)
 
-![](/assets/images/2020/04/Tim-B-OS_ScepterRack.jpg)
+![*Rajah - UR Cairo Control*](/assets/images/2020/04/Rajah-OS.png)
 
-*Baran - Sceptercism*
+![*Semmens - mirroruniverse.dec*](/assets/images/2020/04/Shane-OS.jpg)
 
-![](/assets/images/2020/04/Rajah-OS.png)
+![*Fiero - UG Aggro*](/assets/images/2020/04/Paul-Fiero-OS.jpg)
 
-*Rajah - UR Cairo Control*
+![*Agra - BUG Shops*](/assets/images/2020/04/Bob.jpeg)
 
-![](/assets/images/2020/04/Shane-OS.jpg)
+![*Why couldn't Cam include his SB with his deck list?*](/assets/images/2020/04/Cam-SB.jpg)
 
-*Semmens - mirroruniverse.dec*
+![*Rohr - 4C Disko*](/assets/images/2020/04/Nick-RT8.jpg)
 
-![](/assets/images/2020/04/Paul-Fiero-OS.jpg)
+![*Moss - Punt Yardage*](/assets/images/2020/04/Moss-The-Deck.jpg)
 
-*Fiero - UG Aggro*
+![*Finney - Juzam Disko*](/assets/images/2020/04/Alan-T8.jpg)
 
-![](/assets/images/2020/04/Bob.jpeg)
+![*Wall - Stinky Pink*](/assets/images/2020/04/Cam-MD.jpg)
 
-*Agra - BUG Shops*
+![*Velasco - Green Hardass*](/assets/images/2020/04/David-OS-T8.jpg)
 
-![](/assets/images/2020/04/Cam-SB.jpg)
+![*Castleton - Naya Speedbump (1-3 Drop)*](/assets/images/2020/04/grant-OS.jpg)
 
-*Why couldn't Cam include his SB with his deck list?*
+![*Blank - Fogboria*](/assets/images/2020/04/Ian-OS.jpg)
 
-![](/assets/images/2020/04/Nick-RT8.jpg)
+![*Happel - Grixis Tryhard*](/assets/images/2020/04/Jaso-T8.jpg)
 
-*Rohr - 4C Disko*
+![*Schrank - BG Land Destruction*](/assets/images/2020/04/Justin-OS.jpg)
 
-![](/assets/images/2020/04/Moss-The-Deck.jpg)
+![*Freidman - Words on a Page*](/assets/images/2020/04/Friedman-Deck-LIST.png)
 
-*Moss - Punt Yardage*
+![*MacDougall - RUG Aggro*](/assets/images/2020/04/andy-os.jpg)
 
-![](/assets/images/2020/04/Alan-T8.jpg)
+![*Braun - Upkeep Tanks*](/assets/images/2020/04/Matt-B.jpg)
 
-*Finney - Juzam Disko*
+![*Elleman - Esper Tryhard*](/assets/images/2020/04/LorienOS-T8.jpg)
 
-![](/assets/images/2020/04/Cam-MD.jpg)
-
-*Wall - Stinky Pink*
-
-![](/assets/images/2020/04/David-OS-T8.jpg)
-
-*Velasco - Green Hardass*
-
-![](/assets/images/2020/04/grant-OS.jpg)
-
-*Castleton - Naya Speedbump (1-3 Drop)*
-
-![](/assets/images/2020/04/Ian-OS.jpg)
-
-*Blank - Fogboria*
-
-![](/assets/images/2020/04/Jaso-T8.jpg)
-
-*Happel - Grixis Tryhard*
-
-![](/assets/images/2020/04/Justin-OS.jpg)
-
-*Schrank - BG Land Destruction*
-
-![](/assets/images/2020/04/Friedman-Deck-LIST.png)
-
-*Freidman - Words on a Page*
-
-![](/assets/images/2020/04/andy-os.jpg)
-
-*MacDougall - RUG Aggro*
-
-![](/assets/images/2020/04/Matt-B.jpg)
-
-*Braun - Upkeep Tanks*
-
-![](/assets/images/2020/04/LorienOS-T8.jpg)
-
-*Elleman - Esper Tryhard*
-
-![](/assets/images/2020/04/Dan-P-1.jpg)
-
-*Piquardo - My Own Prison*
+![*Piquardo - My Own Prison*](/assets/images/2020/04/Dan-P-1.jpg)
 
 ## Middle School Gallery
 
-![](/assets/images/2020/04/Alan-MS.jpg)
+![*Finney - Pox*](/assets/images/2020/04/Alan-MS.jpg)
 
-*Finney - Pox*
+![*MacDougall - BoaRock*](/assets/images/2020/04/Andy-MS.jpg)
 
-![](/assets/images/2020/04/Andy-MS.jpg)
+![*Agra - Wow Bob Wow*](/assets/images/2020/04/BOB-MS.jpeg)
 
-*MacDougall - BoaRock*
+![*Wall - Natty Light Rock*](/assets/images/2020/04/Cam-MS.jpg)
 
-![](/assets/images/2020/04/BOB-MS.jpeg)
+![*Bergeson - RecSur*](/assets/images/2020/04/Chris-B-MS.jpg)
 
-*Agra - Wow Bob Wow*
+![*Piquard - Terrargeddon*](/assets/images/2020/04/DanP-MS.jpg)
 
-![](/assets/images/2020/04/Cam-MS.jpg)
+![*Velasco - Grixis Goodstuff*](/assets/images/2020/04/David-MS.jpg)
 
-*Wall - Natty Light Rock*
+![*Blank - Pox*](/assets/images/2020/04/Ian-MS.jpeg)
 
-![](/assets/images/2020/04/Chris-B-MS.jpg)
+![*Schrank - Red Aggro*](/assets/images/2020/04/Justin-MS.jpeg)
 
-*Bergeson - RecSur*
+![*Elleman - Jund Rock*](/assets/images/2020/04/Lorien-MS.jpg)
 
-![](/assets/images/2020/04/DanP-MS.jpg)
+![*Braun - upkeeptriggers.dec*](/assets/images/2020/04/Matt-B-MS.jpg)
 
-*Piquard - Terrorgeddon*
+![*Moss - Mosstill*](/assets/images/2020/04/Moss-MS.jpg)
 
-![](/assets/images/2020/04/David-MS.jpg)
+![*Mullen - More Like RootBALLA*](/assets/images/2020/04/nathan-ms.jpg)
 
-*Velasco - Grixis Goodstuff*
+![*Rohr - Knights of the Rohr Table*](/assets/images/2020/04/Nick-R-MS.jpg)
 
-![](/assets/images/2020/04/Ian-MS.jpeg)
+![*Fiero - Next Level Land Destruction*](/assets/images/2020/04/Paul-Fiero-MS.jpg)
 
-*Blank - Pox*
+![*Rajah - Doomsday*](/assets/images/2020/04/Rajah-MS.jpg)
 
-![](/assets/images/2020/04/Justin-MS.jpeg)
+![*Semmens - 4C Oath*](/assets/images/2020/04/shane-MS.jpg)
 
-*Schrank - Red Aggro*
-
-![](/assets/images/2020/04/Lorien-MS.jpg)
-
-*Elleman - Jund Rock*
-
-![](/assets/images/2020/04/Matt-B-MS.jpg)
-
-*Braun - upkeeptriggers.dec*
-
-![](/assets/images/2020/04/Moss-MS.jpg)
-
-*Moss - Mosstill*
-
-![](/assets/images/2020/04/nathan-ms.jpg)
-
-*Mullen - More Like RootBALLA*
-
-![](/assets/images/2020/04/Nick-R-MS.jpg)
-
-*Rohr - Knights of the Rohr Table*
-
-![](/assets/images/2020/04/Paul-Fiero-MS.jpg)
-
-*Fiero - Next Level Land Destruction*
-
-![](/assets/images/2020/04/Rajah-MS.jpg)
-
-*Rajah - Doomsday*
-
-![](/assets/images/2020/04/shane-MS.jpg)
-
-*Semmens - 4C Oath*
-
-![](/assets/images/2020/04/Tim-B-MS.jpg)
-
-*Baran - 5C Survival*
+![*Baran - 5C Survival*](/assets/images/2020/04/Tim-B-MS.jpg)
