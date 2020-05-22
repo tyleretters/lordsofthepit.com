@@ -6,4 +6,4 @@ date: "2018-11-06"
 category: Pitcast
 ---
 
-Live from the Lords' Boathouse in Pittsburgh: Moss, Etters, & Greg debrief.
+Live from the Lords' Boathouse in Pittsburgh: Moss, Etters, & Greg debrief on EW.
