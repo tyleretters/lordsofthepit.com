@@ -3,15 +3,14 @@ layout: post
 author: Mossman
 title: "The Dungeon of Doom: Chapter I"
 date: "2019-11-21"
+category: OS-EDH
 ---
 
 *Everyone thinks they know the Prophecy of Rhuidean, but what they know is what Wise Ones and clan chiefs have told them for generations. Not lies, but not the whole truth. The truth might break the strongest man. In this case, the whole truth, the truth known only to Wise Ones and clan chiefs before this, is that you are our doom. Our doom, and our salvation. Without you, no one of our people will live beyond the Last battle. Perhaps not even until the Last Battle. That is prophecy, and truth.*
 
 *~ The Prophecy of Rhuidean, as told to the Car'a'carn_*
 
-![](/assets/images/2019/11/image1-1-1.jpg)
-
-*Dungeon & Dragons*
+![*Dungeon & Dragons*](/assets/images/2019/11/image1-1-1.jpg)
 
 Into the unexplored & unexplained we delved. Gathered on this damp, autumn evening, with winter’s chill threatening outside, we sought the knowledge and glory lying deep within the Dungeon of Doom. Four Mages we were, intent on capturing forgotten treasures, summoning forbidden monsters and defeating fearsome foes enroute to Total Victory:
 
@@ -20,9 +19,7 @@ Into the unexplored & unexplained we delved. Gathered on this damp, autumn eveni
 - Schriver - Mirmulnir, the Aged (Junk)
 - Semmens - Nicol Bolas (Grixis)
 
-![](/assets/images/2019/11/image0-1-1.jpg)
-
-*Setting up*
+![*Setting up*](/assets/images/2019/11/image0-1-1.jpg)
 
 **I. The Dungeon of Doom, Briefly**
 
@@ -30,9 +27,7 @@ Historically, our games of OS-EDH have marginalized creature-based strategies. T
 
 With this in-mind, we decided to use a top-down game design to force the issue of creatures. We drew inspiration from the _Djinn-Efreet War_, originally featured in _InQuest_ ([Issue No. 2, June 1995](https://imgur.com/a/f2Zmy#4m9i12I)) and later re-explored by _Eternal Central_ [here](https://www.eternalcentral.com/so-many-insane-plays-the-djinn-efreet-war/) and [here](https://www.eternalcentral.com/so-many-insane-plays-the-djinn-efreet-war-part-deux/), and created a “mini game” within our OS-EDH game.
 
-![](/assets/images/2019/11/inquest.jpg)
-
-_Inquest_ No.2 feat. the original Djinn-Efreet War
+![_Inquest_ No.2 feat. the original Djinn-Efreet War](/assets/images/2019/11/inquest.jpg)
 
 (Note that both _InQuest_ and _Eternal Central_ used this concept to augment an Emperor game, emphasizing team tactics, while we maintained a wide-open, PVP setting. Furthermore, the original _Djinn-Efreet War_ was heavily oriented toward the _Arabian Nights_ set, and while we retained much of that flavor, we opened up our own Dungeon of Doom to include cards from all Old School era sets.)
 
@@ -40,37 +35,27 @@ Within our mini game, our players could accrue Victory Points by attacking into 
 
 (For a full detailing of the in-game mechanics, you can read our white paper [here](https://drive.google.com/file/d/1CGxUG-QAOB_OXUAcswpaFzzH8XtH2caZ/view?usp=sharing). We will update these rules from time to time as we gain additional insight.)
 
-![](/assets/images/2019/11/image3.jpg)
-
-*Journey Into Parts Unknown*
+![*Journey Into Parts Unknown*](/assets/images/2019/11/image3.jpg)
 
 **II. Dungeon Dive**
 
 Lord Semmens arrived to Moss' Logan Square stronghold at 6 p.m. bearing a gift, an entire Dante’s pizza, to share, perhaps for the purpose of lulling his enemies into a false sense of security. The wizards assembled and gnoshed, engaging in small-talk about the uncertainties of the forthcoming game. We expected to see many more creatures than in games past, but beyond that we were unsure how this concept would function in the "real" cardboard world. Lords Moss and Etters laid out the Dungeon cards across the center of the table, in escalating order of Victory Points value. Etters had the high roll, and we commenced…
 
-![](/assets/images/2019/11/image2-1.jpg)
-
-*First Blood*
+![*First Blood*](/assets/images/2019/11/image2-1.jpg)
 
 Etters summoned an Atog and dove headlong into the Dungeon on turn three. The seal was broken! Atog attacked Urza’s Mine and Etters revealed our first Guardian: Tobias Andrion! The U/W legend easily crushed the grinder’s best friend. More creatures hit the table. Etters curved out nicely with Serra Angel on turn five and Shivan Dragon on turn six. Semmens Cloned the Angel. Moss Cloned the Cloned Angel. Lord Schriver built up his own peculiar board featuring Uncle Istvan and Helm of Chatzuk. He clearly had some madcap scheme in-mind. Back to Etters, who doggedly assaulted the Dungeon capturing all three pieces of Urzatron! Moss’ attempts to break up the trio was defeated as Cloned Serra and an Air Elemental Guardian annihilated each other at Urza’s Power Plant. Clockwork Beast then found Riven Turnbull at another Urza’s location, but Moss sacrificed the Beast to Diamond Valley rather than have a second double-KO leaving the Resource unguarded. Etters racked up Victory Points via the Urzatron, Diamond Valley and Bazaar of Baghdad. He hoarded Treasures to equip his creatures: Kry Shield, Runesword, Tawnos’ Weaponry and Ashnod’s Battle Gear. At so many trips to the slot machine, he was coming up all-sevens, but the target on his back grew and grew. Etters' attack on the Bazaar of Baghdad was particularly fortuitous, as Palladia-Mors (or was it a 13/13 Angry Mob equipped with Tawno's Weaponry?) handily defeated a lowly War Mammoth and Bog Wraith and the Naya wizard collected two Victory Points and a nice engine to draw cards. Then, following a devastating Balance leaving the crew at zero creatures and zero cards, the conclave struck back, carving up Etters with wave after wave of Wasp token attacks from Semmens and Moss. In a desperate gambit to gain life, and in response to Moss’ Willow Satyr target, Etters used Kry Shield, Tawnos’ Weaponry and Diamond Valley to net 16 lives from his commander, the venerable Palladia-Mors. The assault continued, aided by Moss’ underwhelming 2/2 Nightmare and Schriver’s Scarwood Bandits. The blitz was stymied and Etters was defeated holding eight Victory Points.
 
-![](/assets/images/2019/11/image0-2-1.jpg)
-
-*Attack of the Clones*
+![*Attack of the Clones*](/assets/images/2019/11/image0-2-1.jpg)
 
 Approximately 90 minutes in, we stood at three players. Moss held three Victory Points after defeating Etters. Schriver held one Victory Point from the Dungeon. Semmens led with five Victory Points and one location remaining, the infamous Library of Alexandria (as protected by Mijae Djinn, Barktooth Warbeard and Jasmine Boreal having an immense 16/13 aggregated power/toughness). Moss attacked the Library with a swarm of 1/1 Hivelings and Tetravites and 0/1 Nathan (read: Thrullen) tokens, the entire host lead by the mighty Sol’Kanar the Swamp King, stolen by Moss from Semmens via Willow Satyr. But the BUG wizard’s forces were thwarted by Schriver’s Maze of Ith, which removed the King from combat, resulting in only two Guardians’ (Mijae and Barktooth) destruction at the Library. The host of tokens were obliterated in the battle. The turn then passed to Semmens, who defeated Jasmine, captured the Library, cleared the Dungeon and paced the remaining trio at eight Victory Points. Semmens would have to defeat either Schriver or Moss to win, however.
 
-![](/assets/images/2019/11/image1-2.jpg)
-
-*Clearing out the Dungeon*
+![*Clearing out the Dungeon*](/assets/images/2019/11/image1-2.jpg)
 
 **III. The Ensuing Struggle**
 
 We rolled past the two-hour mark in the game. We’d spun through several entire records, Iggy Pop’s _The Idiot,_ David Crosby’s _If I Could Only Remember My Name,_ and Paul Gilbert’s _Fuzz Universe_, before moving onto _Apocryphon_ by The Sword. Semmen’s Nevinyraal’s Disk had obliterated the battlefield. The end did was not in-sight. Moss paced the trio with 60 lives before converting that total into cards via Sylvan Library. Schriver rebuilt an impregnable position using Greater Realm of Preservation, Maze of Ith, Island of Wak Wak, Preacher, Singing Tree, Witch Hunter and Icy Manipulator to turn back any attack. After perfecting such a fortress, it was time for a win-con, a particularly wretched win-con: The Wretched. First, Schriver enchanted this unassumingly terrible card with Regeneration. Second, the now slightly less-terrible card was enchanted again, with Lure, creating a terrifying monstrosity. Third, that monstrosity attacked Moss, regenerated in-combat, and stole all of his blockers. Moss’ poor Sea Serpent was unceremoniously destroyed by the oft-overlooked Islandhome clause. Semmens played not one but two Mirror Universe, the first being Desert Twister’d and the second following Recall, and exchanged life totals with Moss, who was left at six. The evening’s host finally committed seppuku via Sylvan Library damage, avoiding handing three Victory Points and Total Victory to Bolas on the subsequent turn. Moss informed an enraged Semmens that he would have to face Schriver’s overwhelming board to win.
 
-![](/assets/images/2019/11/IMG_1800.jpg)
-
-*Hello, Kitty*
+![*Hello, Kitty*](/assets/images/2019/11/IMG_1800.jpg)
 
 The now mano-y-mano contest continued as Etters found a feline friend and Moss the last, cold piece of pizza. For a time, Semmens staved off Schriver’s forces using Arena and Tawnos’ Coffin, but he couldn’t stem the tide forever and fell dead to The Wretched, Thicket Basilisk and Sengir Vampire. Schriver captured three Victory Points, going from one to four. He was the last wizard standing and… what exactly?
 
@@ -83,9 +68,7 @@ At approx. 9:15 p.m., with no wizard achieving a Total Victory, our game conclud
 
 We determined Schriver to be our inaugural Dungeon of Doom “winner,” while it seemed that Etters and Semmens had most-played the game the “intended way.” Moss primarily enjoyed playing spoiler to Etters and riling up Semmens while executing a large number of punts.
 
-![](/assets/images/2019/11/pizza2.png)
-
-*Endgame*
+![*Endgame*](/assets/images/2019/11/pizza2.png)
 
 **IV. Aftermath**
 
@@ -95,9 +78,7 @@ The slot machine-like element of attacking into unknown Guardians and revealing 
 
 Perhaps the most enduring takeaway from this evening is appreciation for the ingenuity and creativity (and depravity) our OS-EDH players continue to pour into this game as we experiment and explore the uncharted Shores of Imagination.
 
-![](/assets/images/2019/11/image1-3.jpg)
-
-*Turncoat Swamp King*
+![*Turncoat Swamp King*](/assets/images/2019/11/image1-3.jpg)
 
 **V. Role Call**
 
@@ -125,49 +106,26 @@ What would this report be without a role call of the siqqest creatures that saw 
 
 **VI. Decklists**
 
-![](/assets/images/2019/11/image4.jpg)
+![*Etters - Naya*](/assets/images/2019/11/image4.jpg)
 
-*Etters - Naya*
+![*Moss - BUG*](/assets/images/2019/11/IMG_1813.jpg)
 
-![](/assets/images/2019/11/IMG_1813.jpg)
+![*Schriver - Junk*](/assets/images/2019/11/billjunk.jpg)
 
-*Moss - BUG*
-
-![](/assets/images/2019/11/billjunk.jpg)
-
-*Schriver - Junk*
-
-![](/assets/images/2019/11/semmensbolas.jpg)
-
-*Semmens - Grixis*
-
+![*Semmens - Grixis*](/assets/images/2019/11/semmensbolas.jpg)
 
 **VII. More Photos**
 
-![](/assets/images/2019/11/IMG_1811.jpg)
+![*Resources & Guardians*](/assets/images/2019/11/IMG_1811.jpg)
 
-*Resources & Guardians*
+![*Traps & Treasures*](/assets/images/2019/11/IMG_1812.jpg)
 
-![](/assets/images/2019/11/IMG_1812.jpg)
+![*Tunes*](/assets/images/2019/11/IMG-1814.jpg)
 
-*Traps & Treasures*
+![*Settling Combat*](/assets/images/2019/11/IMG_1797.jpg)
 
-![](/assets/images/2019/11/IMG-1814.jpg)
+![*Junkhead*](/assets/images/2019/11/image0-4.jpg)
 
-*Tunes*
+![*Tormented Token*](/assets/images/2019/11/image0-3-2.jpg)
 
-![](/assets/images/2019/11/IMG_1797.jpg)
-
-*Settling Combat*
-
-![](/assets/images/2019/11/image0-4.jpg)
-
-*Junkhead*
-
-![](/assets/images/2019/11/image0-3-2.jpg)
-
-*Tormented Token*
-
-![](/assets/images/2019/11/image2-2.jpg)
-
-*0/16 Elder Dragon Legend*
+![*0/16 Elder Dragon Legend*](/assets/images/2019/11/image2-2.jpg)
