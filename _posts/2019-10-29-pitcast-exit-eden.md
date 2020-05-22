@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast – Exit Eden"
 date: "2019-10-29"
+category: Pitcast
 ---
 
 New Lords Ian Blank & David Velasco take us on their butterfly-like, metamorphosing journey to Old School.
