@@ -3,6 +3,7 @@ layout: post
 author: mtg_border_eraser
 title: "Go With the Flow"
 date: "2019-11-13"
+category: Blog
 ---
 
 ## Sunday, Old School Main Event at Elks Lodge #339
@@ -11,9 +12,7 @@ I am somewhat jaded by big Old School events like Eternal Weekend. At a pub or a
 
 My first idea for an EW try-hard deck was called “Oops, All Restricted Cards!” The joke was that it would cram all 22 restricted cards in the main because restricted cards are good and more restricted cards are better. This is basically The Deck’s strategy, minus Time Vault, Channel, and Wheel of Fortune. I was convinced by my own inner sweathog to play something more focused and tested (I wasn’t that interested in extensively testing such a wretched deck myself). Since I wanted the deck to be aggro (easy), my research left me with two decks that were packed with the most restricted cards: Atog and four-color aggro. Four-color aggro appealed to me because I could build most of it from my own collection. Some Lords and I decided that a more descriptive name for the pile of cards is “The Aggro Deck.”
 
-![](/assets/images/2019/11/LorienOldSchoolDeck.jpg)
-
-*The Aggro Deck*
+![*The Aggro Deck*](/assets/images/2019/11/LorienOldSchoolDeck.jpg)
 
 I start the day off strong, 0-1, from a bad keep in game one and mana screw in game two. “Oh, right,” I think, “mana screw. That happens even when your cards are expensive.” The rest of the day goes better and is highlighted by degenerate play patterns of stringing together restricted cards. Ancestral myself. Time Walk. Recall the Ancestral and Time Walk. Mana Drain your Mind Twist then Twist you with your own mana. Turn one Serendib. Turn two Serra Angel. Timetwister, Mox, Time Walk. The most complicated play I have to make is floating a white to Disenchant a Blood Moon, and boy do I get Blood Mooned. One match I win in five minutes. The first game, my opponent draws nothing but land. In the second, he is stuck on two. I buy him a beer and we shoot the shit for the next half hour. One of my opponents is on his eighth bourbon but seems to be keeping it together. I offer him a snack pack of nuts and berries. He accepts, then he Strip Mines me back to the Stone Age. The last game of my last match ends absurdly. On the play, my Shops opponent drops a turn one Tetravus. I play a turn one Plateau into a Savannah Lions. Turn two I topdeck Energy Flux, play a Sol Ring and a Tundra, and he gets Fluxed. The lone Lion deals 20 damage over 10 turns, as neither of us plays any other relevant spell. When the fog of war clears, I am 5-3, no better than my record at the Old School Player’s Ball, where I battled with my favorite Tier 2 deck, Pink Aggro. Guess I’ll have to try Atog next year as I hear it’s the sweathog’s choice.
 
@@ -23,9 +22,7 @@ I can’t remember the particular day that Lords Jaco and Mullen explained to me
 
 In my experience, Middle School is a balanced format. Sure, maybe a card or two needs to be banned or unbanned, but there’s no deck that warps the format, and many unconventional strategies are viable. Also, there’s no restricted list, which inevitably forces players into an arms race of cramming the most restricted cards into their deck (see my Old School report above). What I may like most about Middle School is its affordability. There are lots of powerful, fun cards that aren’t good enough for Legacy or Vintage, so they remain readily available for purchase. I especially appreciate that modern-bordered cards are tolerated (if frowned upon), as that makes the format even cheaper and less susceptible to speculative buyouts.
 
-![](/assets/images/2019/11/TSI-MS-meetup.jpg)
-
-*Middle School meetup organized by Team Serious*
+![*Middle School meetup organized by Team Serious*](/assets/images/2019/11/TSI-MS-meetup.jpg)
 
 The one downside of the format is that it’s even more niche than Old School. More nerds have nostalgia for the good old days (‘93 and ‘94) than the Middle School days. Fortunately for me, I live in the Middle School Mecca of Chicago, where get-togethers of six-to-eight aren’t unusual, and a twenty-person tournament fires off every couple of months. It can get stale, though, playing the same Lord on the same deck over and over again When Team Serious announced the Saturday tournament capped at 24, I signed up immediately. My excitement for the bar event easily trumped my anticipation for Sunday’s Old School grindfest.
 
@@ -42,9 +39,7 @@ I play Sam K., a Milwaukee dude who has made a number of the Lords’ events. Ga
 **Round 3**
 I am paired with Jimmy M. The last time I played Jimmy was round one of the first Old School Player’s Ball. I had been on U/R Counterburn because I was new to the format and didn't know any better. My main innovation had been two main deck Energy Fluxes, as the Lords’ metagame had been dominated by artifact decks. When Jimmy dropped a game-one-turn-one Mishra’s Workshop, I felt like a genius, especially because I had a Flux in-hand. But then I never found three mana sources. He rolled me in game two as well, and that was that. The middle school battle plays out much the same, except this time he’s on a mono-red deck with eight Jackal Pups and eight Rishadan Ports. That’s what it seems like, anyway, as he plays multiples each game, and my deck gives me one green source in each game. I only cast three spells, all discard, across the two games.
 
-![](/assets/images/2019/11/LorienMiddleSchoolRock.jpg)
-
-*Flow Rock*
+![*Flow Rock*](/assets/images/2019/11/LorienMiddleSchoolRock.jpg)
 
 I am a bit drained after the match and find myself telling Jimmy that you can “generate a lot of money” by sacking goblins to Skirk Prospector before casting Living Death. There’s a statistic going around that chess players can burn thousands of calories a day during a tournament. Magic players must burn a couple hundred, at least. I scarf down a meal to recharge.
 
@@ -54,14 +49,10 @@ I play Alan F., a friendly Nashvillager on W/R Tax Stax. Game one, he aggros wit
 **Round 5**
 I play Kevin P., a fellow Chicagoan who has flown under the radar of the Lords. Kevin is on one of the spiciest Middle School decks I have ever seen, a White-Black prison deck that runs tons of pain lands, drops both players’ life with effects like Plague Spitter, then reaps the benefits of low life with Convalescent Care. I do not understand how the deck beats direct damage, but it puts up a grindy fight against me game one. In the mid-game I resolve a Flow, which eventually blows up all of his lands. A Deed and a Baloth are enough to finish him off. Game two, he keeps a land-heavy hand. I Duress his Vindicate, then drop a Baloth. He plays a couple top-decked creatures, but I Edict and flash it back to get through.
 
-![](/assets/images/2019/11/TournamentStandingsMS-1.png)
-
-*Final Standings*
+![*Final Standings*](/assets/images/2019/11/TournamentStandingsMS-1.png)
 
 I finish in third place with my 4-1 record. Overall, the deck performed as expected. It is a solid strategy for an unknown metagame: strip the best cards out of my opponents’ hands, destroy their best lands, blow up everything else with Pernicious Deed, Wish for silver bullets, and beat with fair green fatties. River Boa may have been the weakest card, but it filled the role of early pressure. Although the deck may be weak to Rishadan Port, I think the mono-red matchup is not as bad as the two games made it appear. I will consider replacing my two sideboard Engineered Plagues with Pyroclasms. After some casual games with Lord Greg back at the crash pad, I am more concerned about Standstill. I probably need something like City of Solitude to shore up the match.
 
 I want to give a quick shout-out to all the folks I met and hung out with over the weekend. I have some nostalgia for Old School, as I built my first deck from a pile of my buddy’s extra Fourth Edition and Anthologies cards, however I think I would have already lost interest in the format if it weren’t for all the consistently wonderful people who make Old School (and Middle School) what it is. I guess you could say the real Magic is all the friends I’ve made along the way. That, and Ancestral Recall. That card is fucked up.
 
-![](/assets/images/2019/11/LorienWithOrb.jpg)
-
-*Gotta light?*
+![*Gotta light?*](/assets/images/2019/11/LorienWithOrb.jpg)
