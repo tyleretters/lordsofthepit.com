@@ -3,6 +3,7 @@ layout: post
 author: lord_permanence
 title: "Finals Report of Middle School Lords League #1"
 date: "2020-03-02"
+category: Blog
 ---
 
 "That's pretty lucky to get the fourth Survival."
