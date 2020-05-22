@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast – Turn and Face the Strange"
 date: "2020-01-02"
+category: Pitcast
 ---
 
 We’re mulling over the ever-changing Old School landscape with new Lord of the Pit Andy MacDougall and special guest Mike Van Dyke of the Beasts of the Bay
