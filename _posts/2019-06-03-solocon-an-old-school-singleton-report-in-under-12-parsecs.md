@@ -3,6 +3,7 @@ layout: post
 author: Mossman
 title: "Solocon: An Old School Singleton Report in Under 12 Parsecs"
 date: "2019-06-03"
+category: Blog
 ---
 
 *Hokey religions and ancient weapons are no match for a good blaster at your side, kid.*
@@ -13,9 +14,7 @@ It’s summer in Chicago. With temps finding the mid-80s, the Lords of the Pit a
 
 For Solocon, we adopted the Ride Janie Ride Foundation, an organization that for 12 years has paid it forward to families shouldering the financial burden of cancer treatment. The foundation organizes a yearly motorcycle ride that, to date, has benefitted over 55 recipients and the Lords proudly raised $375 to contribute to Ride Janie Ride.
 
-![](/assets/images/2019/06/IMG_1099.jpg)
-
-*Signed Loots*
+![*Signed Loots*](/assets/images/2019/06/IMG_1099.jpg)
 
 **Hear me baby, hold together.**
 
@@ -25,33 +24,25 @@ The Beasts crafted Singleton as a Powerless (Timetwister excluded) format that s
 
 Winter released its iron grip on Chicago, grey slush turned to rain, potholes widened and the ivy turned green as Singleton testing crept into various spring meetups. Interest gained steam as Lords Piquard, Elleman, Semmens, Mattson and Sanders all brought various builds to tinker with. We adopted the well-tested Beasts ruleset. I had a few notes of my own after testing: Demonic Tutor was a catch-all, auto-include card. Maze of Ith and Icy Manipulator were all-stars. Armageddon was a game buster. Recall was perhaps too powerful and worth of watch-listing. Small creatures and mid-game X-spells were potent strategies. And, just as in Old School EDH, Enchantments remained robust with so few answers.
 
-![](/assets/images/2019/06/IMG_1101.jpg)
-
-*River Wizards*
+![*River Wizards*](/assets/images/2019/06/IMG_1101.jpg)
 
 **Never tell me the odds!**
 
 Singleton is a format that harkens back to the kitchen table, to the big, mid-game busted plays or improbable, show-stopping combos. Shivan Dragon rules the skies… but Royal Assassin remains the great equalizer. A Clockwork Beast is an indomitable threat… unless he’s lost in the Flood. Those precious playsets be damned! The Lords would be armed with 60-card decks of one-offs (basic lands notwithstanding) to duel in 40-minute, one game rounds. Ballers-take-all: no sideboarding, no optimization, no regrets. Oft-overlooked cards would run alongside the old warhorses. Playing White Weenie? Here’s Mesa Pegasus, Pikemen or Benalish Hero. Diving into Blue? Gaze ye mighty upon Leviathan. Would mages go wide on the attack or build fortresses from which to drop massive X-bombs? How many Channel Fireballs would be unleashed? I was excited to see what strategies would unfold at Solocon. With limited mana fixing, would the greedy, multi-color builds prevail or would one/two color decks prove more reliable?
 
-![](/assets/images/2019/06/Untitled.png)
-
-*Final Standings*
+![*Final Standings*](/assets/images/2019/06/Untitled.png)
 
 **You know, sometimes I amaze even myself.**
 
 Solocon sped past us like the Falcon in Hyperspace. Since each round was one game, we were able to complete six rounds plus dole out prizes in just under four hours. Mr. Evan Smith, a newcomer from neighboring Indiana, barnstormed the event at 5-1 on a Blue Black Control pile. Evan won on breakers; hot on his heels at 5-1 were Andy MacDougal on Red Green Beats and Lord Elleman on Pink Aggro. Below the top tier was a three-way tie between Lords Piquard, Semmens and Moss at 4-2. The rounds were as high-variance as they were an exploration of Old School’s dusty, forgotten corners. Lord Rohr’s secret tech was The Fallen to bleed opponents in the long game. Cyclopean Tomb did work for Lord Piquard, bogging down enemy lands. Banding creatures were featured in a couple builds (s/o to Mesa Pegasus) and one salty wizard even packed an entirely International Edition, clear-sleeved deck! We had numerous combos including Power Monolith, Animated Time Vault, Beast-Orb and Archaeologist-Orb. Lord Sanders, meanwhile, hacked the Secret of the Ooze, powered by Mana Flare, while Mossman made use of an indestructibly Consecrated Maze of Ith. And then there was this...
 
-![](/assets/images/2019/06/IMG_1083-1.jpg)
-
-*Build your own Time Vault!*
+![*Build your own Time Vault!*](/assets/images/2019/06/IMG_1083-1.jpg)
 
 The unearthed technology of the day was the suite of “Sac Lands” from Fallen Empires (Ruins of Trokair, Havenwood Battleground, Ebon Stronghold, Svyelunite Temple and Dwarven Ruins) which acted as backdoor mana acceleration against slow-moving opponents. Unfortunately, a byproduct of the overall lack of mana fixing and one game rounds was that some mages were subjected to bad luck and being quickly mauled, but our ethos on the day was to not take the event too seriously and I think everyone was able to laugh at their own misfortune. It was refreshing to have an event that was anti-competitive in this regard and reverted us to the old days at the cafeteria table or living room floor.
 
 We boogied out of Metropolitan for an early dinner at our new mainstay, Traspassada. Over a bevy of chips & black salsa, burrito dinners and margaritas, we toasted another successful Gathering of the Lords. To keep pressing forward with this backward-looking game, it’s important to remember what brought us here in the first place: the spark that fires our collective imagination.
 
-![](/assets/images/2019/06/dinner.jpg)
-
-*Dinner Gathering*
+![*Dinner Gathering*](/assets/images/2019/06/dinner.jpg)
 
 **Hyper(drive) Links:**
 
@@ -62,183 +53,94 @@ We boogied out of Metropolitan for an early dinner at our new mainstay, Traspass
 
 **Decks:**
 
-![](/assets/images/2019/06/Agra-Monoredtube.jpg)
+![*Agra - Mono Redtube*](/assets/images/2019/06/Agra-Monoredtube.jpg)
 
-*Agra - Mono Redtube*
+![*Another Naya Deck by Grant*](/assets/images/2019/06/Another-Grant-Naya-Build.jpg)
 
-![](/assets/images/2019/06/Another-Grant-Naya-Build.jpg)
+![*Edwards - Internaional.dec*](/assets/images/2019/06/Edwards-International.dec_.jpg)
 
-*Another Naya Deck by Grant*
+![*Jaco - Prismatic Aggro*](/assets/images/2019/06/Jaco-Prismatic-Aggro.jpg)
 
-![](/assets/images/2019/06/Edwards-International.dec_.jpg)
+![*MacDougal - Red Green Beats*](/assets/images/2019/06/MacDougal-Red-Green-Beats.jpg)
 
-*Edwards - Internaional.dec*
+![*Maldo - Grixis Goodstuff*](/assets/images/2019/06/Maldo-Grixis-Goodstuff.jpeg)
 
-![](/assets/images/2019/06/Jaco-Prismatic-Aggro.jpg)
+![*Moss - Monowhite*](/assets/images/2019/06/Moss-Monowhite.jpg)
 
-*Jaco - Prismatic Aggro*
+![*Piquard - Rubinia Control*](/assets/images/2019/06/Piquard-Rubinia-Control.jpg)
 
-![](/assets/images/2019/06/MacDougal-Red-Green-Beats.jpg)
+![*Sanders - Monored Ooze*](/assets/images/2019/06/Sanders-Monored-Ooze.jpg)
 
-*MacDougal - Red Green Beats*
+![*Silenus - Black White Weirdness*](/assets/images/2019/06/Silenus-Black-White.jpg)
 
-![](/assets/images/2019/06/Maldo-Grixis-Goodstuff.jpeg)
+![*Smith - Blue Black Control*](/assets/images/2019/06/Smith-Blue-Black-Control.jpg)
 
-*Maldo - Grixis Goodstuff*
+![*Blank - Blue White*](/assets/images/2019/06/Blank-Blue-White-2.jpg)
 
-![](/assets/images/2019/06/Moss-Monowhite.jpg)
+![*Elleman - Pink Aggro*](/assets/images/2019/06/Elleman-Pink-Aggro-2.jpg)
 
-*Moss - Monowhite*
+![*Schriver - Titania's Buggy Combo (w/Ringboard)*](/assets/images/2019/06/Schriver-Titania-Buggy-Combos-2.jpg)
 
-![](/assets/images/2019/06/Piquard-Rubinia-Control.jpg)
+![*Semmens - 3C Hotness*](/assets/images/2019/06/Semmens-3C-Hotness-2.jpg)
 
-*Piquard - Rubinia Control*
+![*Velasco - Deep Blue*](/assets/images/2019/06/Velasco-Deep-Blue-2.jpg)
 
-![](/assets/images/2019/06/Sanders-Monored-Ooze.jpg)
-
-*Sanders - Monored Ooze*
-
-![](/assets/images/2019/06/Silenus-Black-White.jpg)
-
-*Silenus - Black White Weirdness*
-
-![](/assets/images/2019/06/Smith-Blue-Black-Control.jpg)
-
-*Smith - Blue Black Control*
-
-![](/assets/images/2019/06/Blank-Blue-White-2.jpg)
-
-*Blank - Blue White*
-
-![](/assets/images/2019/06/Elleman-Pink-Aggro-2.jpg)
-
-*Elleman - Pink Aggro*
-
-![](/assets/images/2019/06/Schriver-Titania-Buggy-Combos-2.jpg)
-
-*Schriver - Titania's Buggy Combo (w/Ringboard)*
-
-![](/assets/images/2019/06/Semmens-3C-Hotness-2.jpg)
-
-*Semmens - 3C Hotness*
-
-![](/assets/images/2019/06/Velasco-Deep-Blue-2.jpg)
-
-*Velasco - Deep Blue*
-
-![](/assets/images/2019/06/IMG_1102.jpg)
-
-*Mattson - Tres Brujas*
-
+![*Mattson - Tres Brujas*](/assets/images/2019/06/IMG_1102.jpg)
 
 **Candids:**
 
-![](/assets/images/2019/06/IMG_3893-1.jpg)
+![*Lorien vs. David*](/assets/images/2019/06/IMG_3893-1.jpg)
 
-*Lorien vs. David*
+![*Ian vs. Jason*](/assets/images/2019/06/IMG_3895-1.jpg)
 
-![](/assets/images/2019/06/IMG_3895-1.jpg)
+![*Rohr & Moss*](/assets/images/2019/06/IMG_3899-1.jpg)
 
-*Ian vs. Jason*
+![*Infinite Burn*](/assets/images/2019/06/IMG_3887-1.jpg)
 
-![](/assets/images/2019/06/IMG_3899-1.jpg)
+![*Marty vs. B^3*](/assets/images/2019/06/IMG_3902-1.jpg)
 
-*Rohr & Moss*
+![*"What's this card do?"*](/assets/images/2019/06/IMG_3907-1.jpg)
 
-![](/assets/images/2019/06/IMG_3887-1.jpg)
+![*Enjoying the afternoon*](/assets/images/2019/06/IMG_3910-1.jpg)
 
-*Infinite Burn*
-
-![](/assets/images/2019/06/IMG_3902-1.jpg)
-
-*Marty vs. B^3*
-
-![](/assets/images/2019/06/IMG_3907-1.jpg)
-
-*"What's this card do?"*
-
-![](/assets/images/2019/06/IMG_3910-1.jpg)
-
-*Enjoying the afternoon*
-
-![](/assets/images/2019/06/IMG_3935.jpg)
-
-*Ray tries to go Infinite*
-
+![*Ray tries to go Infinite*](/assets/images/2019/06/IMG_3935.jpg)
 
 **Starring:**
 
-![](/assets/images/2019/06/Andrea.jpg)
+![*Andrea*](/assets/images/2019/06/Andrea.jpg)
 
-*Andrea*
+![*Andy*](/assets/images/2019/06/Andy.jpg)
 
-![](/assets/images/2019/06/Andy.jpg)
+![*Bob*](/assets/images/2019/06/BBB.jpg)
 
-*Andy*
+![*Bill*](/assets/images/2019/06/Bill.jpg)
 
-![](/assets/images/2019/06/BBB.jpg)
+![*Lorien*](/assets/images/2019/06/Elleman.jpg)
 
-*Bob*
+![*Evan*](/assets/images/2019/06/Evan.jpg)
 
-![](/assets/images/2019/06/Bill.jpg)
+![*Ian*](/assets/images/2019/06/Ian.jpg)
 
-*Bill*
+![*Jaco*](/assets/images/2019/06/Jaco.jpg)
 
-![](/assets/images/2019/06/Elleman.jpg)
+![*Jason Paul*](/assets/images/2019/06/Jason.jpg)
 
-*Lorien*
+![*Maldo*](/assets/images/2019/06/Maldo.jpg)
 
-![](/assets/images/2019/06/Evan.jpg)
+![*Marty*](/assets/images/2019/06/Marty.jpg)
 
-*Evan*
+![*Moss*](/assets/images/2019/06/Moss.jpg)
 
-![](/assets/images/2019/06/Ian.jpg)
+![*Peter*](/assets/images/2019/06/Peter.jpg)
 
-*Ian*
+![*Piquard*](/assets/images/2019/06/Piquardo.jpg)
 
-![](/assets/images/2019/06/Jaco.jpg)
+![*Ray*](/assets/images/2019/06/Ray.jpg)
 
-*Jaco*
+![*Ron*](/assets/images/2019/06/Ron.jpg)
 
-![](/assets/images/2019/06/Jason.jpg)
+![*Sanders*](/assets/images/2019/06/Sanders.jpg)
 
-*Jason Paul*
-
-![](/assets/images/2019/06/Maldo.jpg)
-
-*Maldo*
-
-![](/assets/images/2019/06/Marty.jpg)
-
-*Marty*
-
-![](/assets/images/2019/06/Moss.jpg)
-
-*Moss*
-
-![](/assets/images/2019/06/Peter.jpg)
-
-*Peter*
-
-![](/assets/images/2019/06/Piquardo.jpg)
-
-*Piquard*
-
-![](/assets/images/2019/06/Ray.jpg)
-
-*Ray*
-
-![](/assets/images/2019/06/Ron.jpg)
-
-*Ron*
-
-![](/assets/images/2019/06/Sanders.jpg)
-
-*Sanders*
-
-![](/assets/images/2019/06/Velasco.jpg)
-
-*David*
-
+![*David*](/assets/images/2019/06/Velasco.jpg)
 
 **Special thanks to Lord Semmens for sharing photos.**
