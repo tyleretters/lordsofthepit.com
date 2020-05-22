@@ -3,15 +3,14 @@ layout: post
 author: mtg_beer_punts
 title: "The Luckiest Player Alive"
 date: "2019-09-19"
+category: Blog
 ---
 
 **The Ball**
 
 The following is a report replete with unimportant ramblings, minutia over the last three cards in the 76, stories of punts, and of course moments of immense skill (read: luck). More than anything, it is the reminiscing of Gathering with good friends over a shared niche hobby. Indeed, it is the Gathering that the Lords of the Pit provide over all else that makes this thing special. Replace the cards with clubs and carts and the Old School Players Ball could resemble a sweaty charity golf tournament somewhere in central Alabama between ever older (and often ever rounder) college buddies escaping the demands of life. The cards are the shared passion that brought everyone together, but it is the people that keep us coming back.
 
-![](/assets/images/2019/09/IMG_1441.jpg)
-
-*Viva la Revolución*
+![*Viva la Revolución*](/assets/images/2019/09/IMG_1441.jpg)
 
 **Prepare to Get Balled**
 
@@ -21,29 +20,21 @@ What to play? As my [previous post](/2018/08/30/an-old-school-love-story/) can a
 
 Having settled on The Deck, I put a whopping five games of prep in via a camjam session with the preeminent Mossman who promptly burned a hole in my dome with his Big Red deck. After collecting myself from the long distance balling, I was not sure the exact 76 to pull together. One COP Red or two was a question the entire Old School internet and I considered. Beyond the COP shenanigans, there were a few considerations running through my mind. First, EC Old School and especially the Midwest player base were likely to skew heavily towards aggro and aggro control. This is normal for the event and is why I usually build The Deck the way I do - lots of cheap one-for-one removal to survive while the mana base is under threat. Then slowly stabilize, get that beautiful card advantage machine online, and flip-flop go the life totals. Second, blue-based Workshops were putting up a ton of finishes and the East Coasters were jamming away with it. The previous year I was handily run over by Shops and wanted to be ready this year despite not having any reps against it since. Finally, the Atog menace. Very fast damage, plenty of burn, and hits mana hard. After spending too much of time daydreaming I snapped a picture of 76 based on last year’s list, shoved it in a deck box, and threw a bunch of maybes into a box of middle school decks and a carefully packaged Revised 40 list.
 
-![](/assets/images/2019/09/deck-pile.jpg)
-
-*Revised 40 Pile*
+![*Revised 40 Pile*](/assets/images/2019/09/deck-pile.jpg)
 
 **The Nerds Descend**
 
 Per custom, a bunch of nerds rallied the night before to jam with Contract From Below, Middle School, or just get some Old School reps in.  DMen Tap bulged past capacity as the sweathogs rolled in.  Uncharacteristically, I played very little MTG that evening. I was too focused on seeing old friends, telling stories, and squeezing to the bar. All the better. I can always camjam to play some Old School, but there are only a few times a year I can feel the warm embrace of the [mtgmeatball](https://www.instagram.com/mtgmeatball/?hl=en) himself, Mr. Carter Petray. That evening I was glad to see the venerable Danny Friedman escaping from the hellscape that is Texas. Danny is a good friend and we regularly vie for the title of “luckiest player alive.” After discussion of the downsides of living in the furnaces below the Mason-Dixon Line, Danny’s voice lowered and asked “are you on The Deck tomorrow?”  Danny is known for being an exceptionally tight player and running control decks with very few (or plain bad) win conditions and here was an opportunity for the two of us to nerd out on the minutiae of card selection. What luck! We got to catch-up and I could make some last minute changes to my list.
 
-![](/assets/images/2019/09/reserved.jpg)
-
-*Before the Storm*
+![*Before the Storm*](/assets/images/2019/09/reserved.jpg)
 
 Danny, being the unconventional genius he is, was all in on a great heresy: no Factories and a reduced land count to maximize gas.  Moat would jam opposing Factories, facilitating 49 minutes of durdle before a big ol’ Fireball or Mirror tricks.  The reduced count enabled some slots in the main to explore. I was excited about trying it, but lacked the gumption to cut all the Factories. That night I settled on two Factories in the main, a Divine Offering to boost the Workshop and Atog matchups an unperceivable smidge, and a Red Blast for shits and giggles. And let’s be honest, if the opponent is not on blue, a dead 61st card probably doesn’t matter. I put Moat in the board and kept Abyss in the main. Shane, the best dude in Old School Magic, loaned a last-minute, Beta Copy Artifact (to replace a Fellwar Stone), an English Moat and a third Divine Offering. 
 
-![](/assets/images/2019/09/ospb3-76-the-deck.jpg)
-
-*The (Main) Deck*
+![*The (Main) Deck*](/assets/images/2019/09/ospb3-76-the-deck.jpg)
 
 The real goodness lurked deeper in my sideboard. I still wanted an option to finish fast so two fatties made the cut. First, the MVP of any list, Shivan Dragon, which is pretty much an auto-include for its level of 3rd grade badassery. Second, an Alpha Serra Angel because she is the actual right choice being able to block after attacking and can’t get BEB’d. But most importantly, the aforementioned great dude Shane once loaned that Alpha Angel to me for an event years ago. Afterward, I paid Mr. Shuler a pittance to Sharpie his signature on the card mistaking it for my own less-impressive Beta Angel. Lessons were learned. I became the sheepish owner of a Sharpied Alpha Angel, and Shane received a new Angel in two business days. And no, I don’t know why Shane is still loaning me cards.  Finally, Aladdin made the cut again – because IF you have two red available, and IF he lives, and IF your opponent has artifacts, he just might find some utility.  But no matter the usefulness, he is always awesome.  Skip to the end if you want final impressions of this half-Frankenstein configuration.
 
-![](/assets/images/2019/09/sideboard.jpg)
-
-*Sideboard T.G.S.*
+![*Sideboard T.G.S.*](/assets/images/2019/09/sideboard.jpg)
 
 **Strap on Those Dancing Shoes**
 
@@ -59,9 +50,7 @@ Round one, I faced Chicago stalwart Nick Rohr on Big Pink Burn.  There was soli
 
 Round two, I faced off against Brandon on an EC classic, White Weenie.  WW has not been as prominent lately and I have fond memories of it running me over in the finals of Eternal Weekend 2016. The Deck delivered and overcame crazy starts by Brandon with lots of one-for-ones, into Balance, into other grossness to finish with the Angel.  Brandon was a great opponent and I was happy to see him break the Top 16 at the end of the day.
 
-![](/assets/images/2019/09/vs-white-weenie-rd-2.jpg)
-
-*Over the Top*
+![*Over the Top*](/assets/images/2019/09/vs-white-weenie-rd-2.jpg)
 
 **Round 3 – My man, that motherfucker Ray (3-0)**
 
@@ -79,15 +68,11 @@ I just knew it would happen. I knew I would have to face Danny. I basically lear
 
 Game one is always interesting given that we are both pre-boarded against aggro decks. There will be plenty of blanks, especially on my end without even Factories to hit with the three main deck Swords. Danny puts the clinic on during game one. The game was long, and every now and then, I almost got close but it was just always out of my grasp. I slipped into a position where I had to start running bombs into likely answers because they were the only way back in. Danny suffocated me out and it was a truly awesome time. We went to board and I think 10 cards came in including all three creatures and Dust to Dust. Danny does not believe in Dust to Dust given its mana cost and sorcery speed, but I think it is amazing in the mirror. I resolved it killing two mana sources early and it was a huge 2:1 swing.  Game 2 was another grinder but the luck was stronger on my side of the table. Serra and Shivan ended it together in glorious Old School flavoring.
 
-![](/assets/images/2019/09/deck-mirror-vs-danny.jpg)
-
-*Creature Feature in the Mirror*
+![*Creature Feature in the Mirror*](/assets/images/2019/09/deck-mirror-vs-danny.jpg)
 
 Game three starts with a time remaining warning from Jaco. I think six minutes. Shit. Danny is resigned to flips, I remark that “we’ll see” and ask him to play quick. I really don’t want to press the luck on flips with a master. The Force is strong with me and turn one Ancestral steals the title of “Luckiest Player.” I have some early interaction then run out my MAIN MAN, Aladdin. I cannot stop laughing. We are locked in an epic struggle and one of my favorite childhood cards arrives to kick ass and take names. Danny has some mana rocks, but the one point of damage seems like a better line and I turn the little dude sideways.  The game is up in the air at this point and Danny has a grip but the clock is ticking. The Deck delivers the Dragon right off the top. The inner lizard brain says do it and I immediately run it out. No answer. Those early beats mattered and Aladdin and the Dragon swing in for lethal in two turns. Aladdin had stranded powerful artifacts in Danny’s hands and the insane clock of Shivan got the deed done quick. I get a beer with seconds to spare.
 
-![](/assets/images/2019/09/aladdin-shivan.jpg)
-
-*Aladdin Sane*
+![*Aladdin Sane*](/assets/images/2019/09/aladdin-shivan.jpg)
 
 **Round 6 – Aaron “The Champ” West (5-1)**
 
@@ -97,9 +82,7 @@ I sit down across from Aaron, the reigning champion of the Ball. I knew he was 
 
 I find Bob, true master of tournament organizing and self-proclaimed master of Revised 40, a putrid format for only the grimiest of ballers. We throw some cards down across a barrel of booze and get to it. I ball Bob back to the Stone Age with my raw, unsleeved Revised powerhouse and get to tattoo his ante cards in both games. This dumbest-of-all-formats ended up being a blast between rounds as I later battled David and Ray. Getting to memorialize the games with a Sharpie and the carefree, sleeveless riffles is true joy. 
 
-![](/assets/images/2019/09/R40-sidegames.jpg)
-
-*Balling Bob at the Barrel*
+![*Balling Bob at the Barrel*](/assets/images/2019/09/R40-sidegames.jpg)
 
 **Round 7 – Matt on 4C Aggro (5-2)**
 
@@ -113,17 +96,13 @@ I saddle up with Sonny for the final round. We immediately start bullshitting an
 
 My 6-2 record squeaked over the line for a third Top 8 finish to defend the dignity of the Lords. Newly-minted Lord Ian Blank cracked the creative Top 8, maintaining a minimum of honor in Chicago. A Gathering of long-toothed Lords quickly boogied out of Rev to grab some beef mountains at Kuma’s and another round or two recalling inflated stories of balling.
 
-![](/assets/images/2019/09/IMG_1445.jpg)
-
-*The Crew at Kuma's*
+![*The Crew at Kuma's*](/assets/images/2019/09/IMG_1445.jpg)
 
 **To Deck or Not to Deck?**
 
 If you are interested in playing a Deck variant, I highly recommend it.  The decision trees are large, all the busted cards are there, and the sweathogs will boo the shit out of you. It’s great. In terms of this year’s list, I would not run it back exactly. The matches I lost or those that were close were almost always because of Factory. Having Factories of my own to block or a main deck Moat (or two) over Abyss would probably be better. Also, under mana pressure from Strips, I am not sold cutting land drops is the right move. The main deck REB never mattered, although it scared Danny. If it had, it would have been an awesome blowout and therefore maybe worth it just for the photos. The one card I really liked was Copy Artifact over Fellwar Stone. Low downside, high upside. Dust to Dust was great. Seeing both Danny and Will Magrann’s list, I am surprised by their use of Twister. I do not like draw 7s in The Deck (despite their fun).
 
-![](/assets/images/2019/09/loots.jpg)
-
-*Loots*
+![*Loots*](/assets/images/2019/09/loots.jpg)
 
 As Shane astutely noted at the Contracts meetup prior to the Ball, none of these card decisions really matter. Playing tight with any of these configurations will work. He is undoubtedly correct but it’s fun to labor over a few cards, change a bunch at the last minute, and then get balled. 
 
