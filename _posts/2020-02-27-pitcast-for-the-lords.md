@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast – For the Lords"
 date: "2020-02-27"
+category: Pitcast
 ---
 
 The boys are back with found footage live from the inaugural Lords Haüs.
