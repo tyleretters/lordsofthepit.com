@@ -3,6 +3,7 @@ layout: post
 author: Mossman
 title: "Bottoms Up"
 date: "2019-08-27"
+category: Pitcast
 ---
 
 *It’s Old School Players Ball week! As our anticipation crescendos, we are pleased to provide this retrospective of the ‘18 Ball by Cam Wall, known brewer, lover of strong coffee and dear friend of the Lords. Thanks for sharing, Cam!*
@@ -11,15 +12,11 @@ Once more into the breach, my brothers and sisters. The third Old School Players
 
 My first foray into the national OS Magic scene was at the 2018 Ball. I spent some formative mid-90s years in NW Illinois (go Freeport Pretzels!) and talked my dad into travelling to Chicago with me to see family and friends before the Ball. I dropped him off in Savanna on Friday morning and started off on my drive through the rolling cornfields of Central Illinois, listening to old episodes of _All Tings Considered_. 
 
-![](/assets/images/2019/08/hamms.jpg)
-
-*City Scene*
+![*City Scene*](/assets/images/2019/08/hamms.jpg)
 
 I got into the City Friday afternoon and checked into an Airbnb in Logan Square. I first met up with Bill Schriver, a Lord of the Pit I’d chatted with via Discord. We got some coffees and sat down to battle. I had mono-red goblins and a GW control build, but Bill busted out 4C Enchantress on my ass. As he played, as I mostly watched, we talked about the City and our respective entries into OS. It was a great start to the weekend and as we bro-hugged at the end of our session, I could feel the excitement of the weekend kicking in. 
 
-![](/assets/images/2019/08/loots.png)
-
-*Loots*
+![*Loots*](/assets/images/2019/08/loots.png)
 
 I met up with my two Airbnb mates, alterist Dustin Brossard and ‘19 Summer Derby Champ Jared Doucette, and we swapped deck techs and travel complaints. Jared split off to partake in Elliot Davidoff’s fully black-bordered cube while Dustin and I went to an impromptu Friday night Lords meet-up.
 
@@ -39,9 +36,7 @@ I Goblin Grenaded everything in sight but the games didn’t really matter. No o
 
 We awoke Saturday morning, picked up Winston Wood and Mark Brothers, two OS staples from the Free State of Texas, and grabbed breakfast at a local diner. As we slammed chicken fried steaks, we talked about our decks and snuck a few quick games in. Citanul Druid made an appearance and, to be honest, I wasn’t sure what I was walking into.
 
-![](/assets/images/2019/08/spiritforce-1.jpg)
-
-*Spirit Force, #1 in my heart*
+![*Spirit Force, #1 in my heart*](/assets/images/2019/08/spiritforce-1.jpg)
 
 We arrived at Revolution a few minutes before noon and spied a horde of 30-something guys sporting backpacks, cargo shorts, and black denim vests. The event organizer, “Azorius” Bob Agra, handed us our registration slips and Ball patches, and in we went. 
 
