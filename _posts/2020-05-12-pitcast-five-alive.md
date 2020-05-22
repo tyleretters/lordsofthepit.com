@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast - Five Alive"
 date: "2020-05-12"
+category: Pitcast
 ---
 
 The Lords crack open their Memory Jars to tell tales of victories and beats from yesteryear to the current day.
