@@ -3,6 +3,7 @@ layout: post
 author: Pitcast Thrull
 title: "Pitcast - A League of Their Own"
 date: "2020-03-05"
+category: Pitcast
 ---
 
 Lords Lorien and Lil' Greg come through to put a bow on the first Middle School Lords' League.
