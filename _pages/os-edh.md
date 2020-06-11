@@ -23,23 +23,7 @@ permalink: /os-edh
 
 ---
 
-Old School Elder Dragon Highlander (or “OS-EDH”) is an Eternal MTG format favored by a small cadre of Lords of the Pit. We typically play OS-EDH as a multiplayer Gathering of four or five mages. The Lords utilize standard Commander rules (100-card Singleton, 40 lives, Command Zone, mana restricted to Commander’s colors, Commander Damage, etc.) and employ the following banlist:
-
-- Ancestral Recall
-- Black Lotus
-- Karakas
-- Library of Alexandria
-- Off-color Moxen (Moxen tied to the Commander’s colors are allowed)
-- Time Walk
-
-Meanwhile, the following cards are watch-listed (don't play these, ya dingus):
-
-- Armageddon
-- City in a Bottle
-- Shahrazad
-- Jokulhaups (OS95-EDH)
-
-The list above is merely a suggestion and we invite your group to experiment with any banlist, or none at all!
+Old School Elder Dragon Highlander (or “OS-EDH”) is an Eternal MTG format favored by a small cadre of Lords of the Pit. We typically play OS-EDH as a multiplayer Gathering of four or five mages. The Lords utilize standard Commander rules (100-card Singleton, 40 lives, Command Zone, mana restricted to Commander’s colors, Commander Damage, and so forth).
 
 ![](/assets/images/2019/02/unnamed.jpg)
 Lord Semmens explains how he's going to ball you.
