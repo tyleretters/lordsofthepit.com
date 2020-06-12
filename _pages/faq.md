@@ -50,7 +50,7 @@ Never. Ever.
 
 ---
 
-Check out the [93/94 rules](http://www.eternalcentral.com/9394rules/) and start building a deck. Proxies are totally fine. For best results, start with the cards that gave you the most joy from your childhood. Next, get in contact with a [club near you](/clubs) to be invited to the next meet up!
+Check out the 93/94 rules and start building a deck. Proxies are totally fine. For best results, start with the cards that gave you the most joy from your childhood. Next, get in contact with a [club near you](/clubs) to be invited to the next meet up!
 
 ## Do I need [power](https://en.wikipedia.org/wiki/Power_Nine) to enjoy Old School?
 
@@ -72,7 +72,7 @@ Absolutely. Old School is about community, camaraderie, and 25-year-old cardboar
 
 ---
 
-Middle School is the logical next step after Old School utilizing sets from 1995 through 2003. This new and growing format offers a retrospective MTG experience with near-limitless brewing potential. [A detailed introduction is available here.](https://www.eternalcentral.com/introducing-middle-school/)
+Middle School is the logical next step after Old School utilizing sets from 1995 through 2003. This new and growing format offers a retrospective MTG experience with near-limitless brewing potential.
 
 ## What does BTFOOC mean?
 
