@@ -14,7 +14,21 @@ The Lords of the Pit are the United States' premiere Old School Magic: the Gathe
 
 ![](/assets/images/2019/08/lotp.jpg)
 
-Membership in the Lords of the Pit is based on active involvement in our events and contributions to our cause -- the proliferation of Old School MTG in the United States, improving the world through the club's charitable contributions and community service, and fierce representation of our club.
+Membership in the Lords of the Pit is based on active involvement in our events and contributions to our cause -- the proliferation of Old School MTG in the United States, improving the world through the club's charitable contributions & community service, and fierce representation of our club.
+
+We value equality, inclusivity, tolerance and, of course, slinging old cardboard. 
+
+All members of the Lords of the Pit are unified under these values. We unequivocally reject racism and support the causes of equality, tolerence and inclusivity, not only in our club, but throughout the Old School community at large. Lords of the Pit events are a safe space for friends and strangers alike and are a catalyst for charitable giving to numerous Chicago-area organizations* as nominated by our members. In solidarity with the worldwide movement against institutional racism, we will be pledging upcoming charitable contributions to The Chicago Bond Fund, My Block My Hood My City, the NAACP and the Equal Justice Initiative.
+
+*Past organizations that we our events have sponsored:
+https://cplfoundation.org
+http://www.ccolife.org/
+https://www.citizenschools.org
+https://girlswhocode.com
+https://www.pawschicago.org
+https://www.onetail.org
+https://www.chicagosfoodbank.org
+https://www.ridejanieride.org/
 
 ![](/assets/images/2019/09/OSPB19LOTPFront.jpg)
 
@@ -22,7 +36,7 @@ Membership in the Lords of the Pit is based on active involvement in our events 
 
 ---
 
-A [subset of a children's card game](http://www.eternalcentral.com/oldschool/) adapted for an aging demographic.
+A subset of a children's card game adapted for an aging demographic.
 
 ## What's up with the charity donations at your events?
 
