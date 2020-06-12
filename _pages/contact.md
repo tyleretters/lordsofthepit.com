@@ -24,4 +24,3 @@ permalink: /contact
 - [@mozz2099](https://twitter.com/mozz2099)
 
 ![](/assets/images/2020/02/pitcast-crew.jpg)
-*The boys making noise.*
