@@ -25,7 +25,7 @@ permalink: /os-edh
 
 Old School Elder Dragon Highlander (or “OS-EDH”) is an Eternal MTG format favored by a small cadre of Lords of the Pit. We typically play OS-EDH as a multiplayer Gathering of four or five mages. The Lords utilize standard Commander rules (100-card Singleton, 40 lives, Command Zone, mana restricted to Commander’s colors, Commander Damage, and so forth).
 
-![](/assets/images/2019/02/unnamed.jpg)
+![](2019/02/unnamed.jpg)
 
 We commonly stick to the Elder Dragons (Bolas, Chromium, Arcades, Palladia, Asmadi) for our Commanders but that mustn’t necessarily be so; a wizard could select any Old School Legend they desire, from Angus MacKenzie to Hazezon Tamar.
 
