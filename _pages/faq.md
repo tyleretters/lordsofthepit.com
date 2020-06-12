@@ -87,9 +87,3 @@ Balling the fuck out of control.
 Drink both and slam a Shivan Dragon.
 
 ![](/assets/images/2019/12/LOTPtoydrive2019.jpg)
-
-## Is there a Discord?
-
----
-
-Here is a link to the general OS Discord: [https://discord.gg/yeUT52r](https://discord.gg/yeUT52r)
