@@ -38,12 +38,6 @@ https://www.ridejanieride.org/
 
 A subset of a children's card game adapted for an aging demographic.
 
-## What's up with the charity donations at your events?
-
----
-
-We are not in this for EV. We believe that giving back to the community is important which is why, instead of tournament entry fees, we ask players to donate to a different charity for each event. In the past we've donated proceeds organizations like [UCS](https://www.ucsusa.org/), [CPLF](https://cplfoundation.org/), and [CCOFL](http://www.ccolife.org/).
-
 ![](/assets/images/2019/11/IMG_20191109_154113-1.jpg)
 
 ## Are your events sanctioned?
