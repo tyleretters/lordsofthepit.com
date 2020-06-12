@@ -144,7 +144,6 @@ Below is our tally of OS-EDH victories:
 
 *Banshee in Command*
 
-
 ![](/assets/images/2020/02/image0-1-1.jpg)
 
 *Nuttin but luv for the Thrulls*
