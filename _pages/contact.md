@@ -11,7 +11,6 @@ permalink: /contact
 - [Pitcast on Anchor](https://anchor.fm/pitcast)
 - [Pitcast on Twitter](https://twitter.com/PitcastPod)
 - [Website Admin](https://twitter.com/lord_permanence)
-- [Old School Rules & Articles: Eternal Central](https://www.eternalcentral.com/oldschool)
 
 ## Our Contributors
 
