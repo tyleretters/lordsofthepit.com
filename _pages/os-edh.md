@@ -26,13 +26,12 @@ permalink: /os-edh
 Old School Elder Dragon Highlander (or “OS-EDH”) is an Eternal MTG format favored by a small cadre of Lords of the Pit. We typically play OS-EDH as a multiplayer Gathering of four or five mages. The Lords utilize standard Commander rules (100-card Singleton, 40 lives, Command Zone, mana restricted to Commander’s colors, Commander Damage, and so forth).
 
 ![](/assets/images/2019/02/unnamed.jpg)
-Lord Semmens explains how he's going to ball you.
 
 We commonly stick to the Elder Dragons (Bolas, Chromium, Arcades, Palladia, Asmadi) for our Commanders but that mustn’t necessarily be so; a wizard could select any Old School Legend they desire, from Angus MacKenzie to Hazezon Tamar.
 
 Additionally, Lords Etters Moss collaborated to create the “missing shard” Elder Dragon Legends, filling a gap left by WotC in the early 1990s. We now have Elder Dragons representing BUG, RUG, Jeskai, Junk and Mardu! We took inspiration from the dragons of Skyrim and sought to adapt character-dragons from that classic game to the realm of Dominaria. See the gallery below for more detail. Playtesting of these new Elder Dragons is ongoing and we may yet choose to revise them. If you would like to try our new Elder Dragons with your own playgroup, [downloadable cards are available here]({{ site.s3BucketPrefix }}/os-edh.zip).
+
 ![](2019/02/IMG_0383.jpg)
-The New Kids on the Block
 
 Our OS-EDH games can be quite long & grindy, sometimes taking a couple of hours, but the ethos of these meetups is to have an MTG hangout inspired equally by Dungeons Dragons, Risk and Settlers of Catan. Only the hardiest wizard can outlast his three opponents (or their CTA schedules).
 
@@ -58,7 +57,6 @@ Below is our tally of OS-EDH victories:
 *(Updated: 02/23/2020)*
 
 ## Prior OS-EDH Action
-
 
 ---
 
