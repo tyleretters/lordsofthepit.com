@@ -31,9 +31,9 @@ We commonly stick to the Elder Dragons (Bolas, Chromium, Arcades, Palladia, Asma
 
 Additionally, Lords Etters Moss collaborated to create the “missing shard” Elder Dragon Legends, filling a gap left by WotC in the early 1990s. We now have Elder Dragons representing BUG, RUG, Jeskai, Junk and Mardu! We took inspiration from the dragons of Skyrim and sought to adapt character-dragons from that classic game to the realm of Dominaria. See the gallery below for more detail. Playtesting of these new Elder Dragons is ongoing and we may yet choose to revise them. If you would like to try our new Elder Dragons with your own playgroup, [downloadable cards are available here]({{ site.s3BucketPrefix }}/os-edh.zip).
 
-![](/assets/images/2019/02/img_0383.jpg)
-
 Our OS-EDH games can be quite long & grindy, sometimes taking a couple of hours, but the ethos of these meetups is to have an MTG hangout inspired equally by Dungeons Dragons, Risk and Settlers of Catan. Only the hardiest wizard can outlast his three opponents (or their CTA schedules).
+
+![](/assets/images/2019/02/img_0383.jpg)
 
 The Lords have also experimented with adding Ice Age and Homelands to the card pool (“OS95-EDH”) and have an eye toward trying Alliances in the near future as we continually seek out the siq-nastiest board states and combos.
 
