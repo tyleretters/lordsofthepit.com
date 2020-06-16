@@ -6,6 +6,9 @@ date: "2020-03-02"
 category: Blog
 ---
 
+![](/assets/images/banners/ms-lords-league.jpg)
+
+
 "That's pretty lucky to get the fourth Survival."
 
 "Yeah, it sure was. But you keep a hand with Survival and two Enlightened Tutors - given what I thought you would be playing."

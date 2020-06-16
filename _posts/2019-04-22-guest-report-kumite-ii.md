@@ -6,6 +6,9 @@ date: "2019-04-22"
 category: Blog
 ---
 
+![](/assets/images/banners/kumiteii.jpg)
+
+
 *The Knights TAPlar of Jackson, MI recently held Kumite! II, their second annual Old School MTG event, on April 13, 2019. One of the event organizers, Paul Fiero, provided a report as well as retrospective on fostering MTG community. Many Lords of the Pit traveled to battle at Kumite! II and we are happy to share his thoughts with you via this guest post. Thanks, Paul, and thanks as well to all the Knights TAPlar for hosting a terrific Gathering!*
 
 ![*Kumite! II*](/assets/images/2019/04/IMG-0895.jpg)

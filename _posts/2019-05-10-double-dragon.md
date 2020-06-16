@@ -6,6 +6,8 @@ date: "2019-05-10"
 category: OS-EDH
 ---
 
+![](/assets/images/banners/presence-of-the-master.jpg)
+
 **_Albert Einstein stared up at the Gathered magi, bottling whatever diabolical Enchantments they had in-mind for this game of OS-EDH. Lord Marty Silenus passed the turn..._**
 
 ![*Respect thy Elders*](/assets/images/2019/05/dragons-front.jpg)

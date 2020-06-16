@@ -6,6 +6,8 @@ date: "2020-04-16"
 category: Blog
 ---
 
+![](/assets/images/banners/greed.jpg)
+
 On March 16th, 2020, as the COVID-19 pandemic accelerated across the U.S., it became clear that a shared neighborhood or city would no longer provide a safe venue to sling overpriced cardboard.  Thus, the Lords of the Pit decided to migrate to the interwebs and launched the Quarantine Cup.  The purpose of the Q-Cup, like all Lords events, was to step away from the seriousness of the real world, have fun, and ball novices to oblivion.  Chicago’s Meals on Wheels was our designated Q-Cup charity; this organization is in dire need of financial support right now as the demand on their resources has skyrocketed.  If you have the means, we encourage you to donate [here](https://mealsonwheelschicago.formstack.com/forms/donation__online_payment).
 
 Adopting the batch pairing method used by DFB for organizing many online events, the Q-Cup consisted of eight rounds of MTG split into two batches with 10 days to complete each batch.  The wrinkle here was that each batch would be a different format: the first batch featured old warhorse, EC 93/94, while the second batch was Middle School, the new Chicago favorite.  Because trading and borrowing cards was not feasible under our scattered circumstance, proxies were encouraged (with guidelines that they needed to be legible by webcam).  The Lords’ Discord chatroom was the rallying point to coordinate matches and talk trash before using Whereby or other video services to play matches. 

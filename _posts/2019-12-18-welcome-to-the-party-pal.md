@@ -6,6 +6,8 @@ date: "2019-12-18"
 category: Blog
 ---
 
+![](/assets/images/banners/preacher.jpg)
+
 In terms of color philosophy, at their core, I can’t think of a pair more emblematic of Old School than Red and White. Red, in its purest essence, is impulsive and prone to raucous celebration. White, conversely, is all about order and balance. For my money, there isn’t a better group that represents a party for the people.
 
 ![*The Lords at Marz Community Brewing Co. on Chicago's South Side*](/assets/images/2019/12/Big-Chill.jpg)

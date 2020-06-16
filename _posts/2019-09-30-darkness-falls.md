@@ -6,6 +6,8 @@ date: "2019-09-30"
 category: OS-EDH
 ---
 
+![](/assets/images/banners/gravity-sphere.jpg)
+
 **_Brooding in the tower_**
 **_Watching o'er his land_**
 **_Holding ev'ry creature_**

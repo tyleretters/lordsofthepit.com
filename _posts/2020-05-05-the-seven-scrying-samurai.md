@@ -6,6 +6,8 @@ date: "2020-05-05"
 category: Blog
 ---
 
+![](/assets/images/banners/river-boa.jpg)
+
 Amidst life under quarantine during April, 2020, mages from across the United States of Dominaria came together for an online orgy of violence and mayhem as Mossman organized a seven-sided round robin rumble featuring [Scryings](https://oldschool-mtg.blogspot.com/p/scryings.html). For the uninformed, Scryings includes the Swedish OS B&R list and rules (no mana burn, one Strip/Workshop, etc.) plus the 116-card “expansion” set drawing selections from _Fallen Empires_ though _Weatherlight_ developed by our Scandinavian Old School brethren.
 
 ![Robotic Warriors](/assets/images/2020/05/samurai-768x1024.jpg)

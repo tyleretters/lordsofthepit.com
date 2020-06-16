@@ -6,6 +6,8 @@ date: "2019-06-15"
 category: OS-EDH
 ---
 
+![](/assets/images/banners/power-surge.jpg)
+
 **_The generals surveyed their chosen battleground and the uncountable, disposable dead littering the blasted landscape like so many hailstones after a violent summer’s storm, and wondered aloud, “What devastation hath these powerful magicks wrought?”_**
 
 ![*Let's cook*](/assets/images/2019/06/IMG-1137.jpg)

@@ -6,6 +6,8 @@ date: "2019-10-29"
 category: Blog
 ---
 
+![](/assets/images/banners/baron.jpg)
+
 **I. Wait til Tomorrow**
 
 June 1995. _Ice Age_ is released, about seven months after the disappointing _Fallen Empires_. Today that gap doesn't seem so long -- the next year's wait for _Alliances_ would be even longer. But for a youngster who'd first picked up the cards in the summer of 1994, those seven months of waiting represented more than half the time I'd played MTG. Today I'm glad for the delay, which kept me buying _Revised_ packs long enough to complete my set of duals. Still, _Ice Age_ is a set for which I have a history of waiting.

@@ -6,6 +6,8 @@ date: "2019-11-13"
 category: Blog
 ---
 
+![](/assets/images/banners/destructive-flow.jpg)
+
 ## Sunday, Old School Main Event at Elks Lodge #339
 
 I am somewhat jaded by big Old School events like Eternal Weekend. At a pub or a small tournament, I’m happy to run unpowered aggro against spicy Arboria builds. But when 200 people sign up to compete against each other, the guys at the top are always going to be, as Lord Moss would say, cutthroat sweathog grinders. And because I enjoy winning, I’m going to be on a try-hard list, wallowing around in the shit, sweating with all those hogs. The problem with most of my previous lists has been pride in my own collection, of which the crowning jewels are a playset of Revised Plateaus and a CE Chaos Orb. As a rule, I’d rather win with my own cards than with someone else’s. But winning with my own cards is never going to happen at EW. By my estimates, the cost of a typical sweathog deck is in the neighborhood of $15,000. For this event, I swallowed my pride and borrowed some pretty toys from the Jaconian lending library.

@@ -6,6 +6,8 @@ date: "2019-11-21"
 category: OS-EDH
 ---
 
+![](/assets/images/banners/wretched.jpg)
+
 *Everyone thinks they know the Prophecy of Rhuidean, but what they know is what Wise Ones and clan chiefs have told them for generations. Not lies, but not the whole truth. The truth might break the strongest man. In this case, the whole truth, the truth known only to Wise Ones and clan chiefs before this, is that you are our doom. Our doom, and our salvation. Without you, no one of our people will live beyond the Last battle. Perhaps not even until the Last Battle. That is prophecy, and truth.*
 
 *~ The Prophecy of Rhuidean, as told to the Car'a'carn_*
