@@ -17,3 +17,18 @@ function checkKey(e) {
   }
 
 }
+
+/*
+ * Image Alt
+ */
+
+$(function() {
+
+   $('article img').each(function() {  
+    // these asterisks are leftover from the markdown migration.
+    // if you're ever bored, go in and replace all these on the posts
+     alt = $(this).attr('alt').replace(/\*/g, '');
+    $(this).after('<em class="text-center d-block">' + alt + '</em>');
+  });  
+
+});
