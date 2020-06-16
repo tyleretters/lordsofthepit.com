@@ -4,18 +4,9 @@ title: Meetups
 permalink: /meetups
 ---
 
-![](/assets/images/site/meetups.jpg)
-
-# Global Old School Community Calendar
-<iframe style="border-width: 0;" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=ldvelfvkm8e4oi6i29oles3004%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=America%2FChicago" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-[To get your event added to the calendar...](https://docs.google.com/forms/d/e/1FAIpQLSfziR_9_87taktfD9dt_GiG-Zs_EA97adAD5dr-jLYnqFXJkA/viewform?fbclid=IwAR2lLQL29zUKB8wtuYoVNxEVO6yLhR0gWO3u3EJnmazt2nyJutlha4VpefU)
-
-
-
 ## Upcoming Lords of the Pit Events
 ---
-Stay tuned, more LOTP events to come! Fuck you, COVID.
+Stay tuned, more LOTP events to come!
 
 
 
