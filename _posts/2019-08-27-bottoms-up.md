@@ -6,6 +6,8 @@ date: "2019-08-27"
 category: Pitcast
 ---
 
+![](/assets/images/banners/icy.jpg)
+
 *It’s Old School Players Ball week! As our anticipation crescendos, we are pleased to provide this retrospective of the ‘18 Ball by Cam Wall, known brewer, lover of strong coffee and dear friend of the Lords. Thanks for sharing, Cam!*
 
 Once more into the breach, my brothers and sisters. The third Old School Players Ball is less than a week away and the Lords have graciously allowed me to Hack the Gibson with my time machine and tell you about my experience at last year’s Ball.

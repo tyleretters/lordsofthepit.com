@@ -6,6 +6,9 @@ date: "2018-09-14"
 category: Blog
 ---
 
+![](/assets/images/banners/contract.jpg)
+
+
 **I. The Gathering Storm**
 
 _The dancing torchlight cast uneven shadows amid stalactites and stalagmites in the narrow cave. That distant, echoing sound... a falling stone? Some other denizen of the underdark? Silence. It was nothing. You creep forward, sword drawn, a cold sweat on your brow. You trained your entire life for this night, your chance to prove yourself, to retrieve evidence of the awakened evil prophesied long ago. The cave path terminates at an underground hollow deep enough to house a keep. A narrow staircase, unused for generations, spirals into darkness. Once you reach the floor, you pick your way warily amongst the boulders when, suddenly, the torch is snuffed out. Silent terror stiffens your limbs. A cruel laughter shatters the void as a massive bulk rises to face you, its leathery wings unfurled. With a clawed hand, it points…_

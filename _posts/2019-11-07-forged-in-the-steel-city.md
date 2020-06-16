@@ -6,6 +6,8 @@ date: "2019-11-07"
 category: OS-EDH
 ---
 
+![](/assets/images/banners/feedback.jpg)
+
 *Pittsburgh is a fat lady jabbering at the bus stop.
 She mistakes me for someone who gives a damn,
 For a native son of her gray industrial breast.

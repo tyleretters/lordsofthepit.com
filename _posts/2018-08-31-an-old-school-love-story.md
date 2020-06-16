@@ -6,6 +6,9 @@ date: "2018-08-31"
 category: Blog
 ---
 
+![](/assets/images/banners/old-school-love-story.jpg)
+
+
 I tried to behave. I tried following our social norms. I tried playing creatures. I tried playing combo. I even built a non-blue deck.
 
 But such a fantasy could not last for ever. The power of my first Old School love was calling. It was time to go back to her. None of the other decks could match her allure, her power, her greedy mana base, or the reactions or revulsions she gets from the Old School denizens far and wide. For too long - in the middle of the night - I would sneak away for a surreptitious encounter. Arrange a 75, shuffle it up, feel the power. It would then get broken apart, its cards back into its binders or into suboptimal builds to appease the "community."

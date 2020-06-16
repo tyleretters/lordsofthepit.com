@@ -6,6 +6,8 @@ date: "2019-09-19"
 category: Blog
 ---
 
+![](/assets/images/banners/the-luckiest-player-alive.jpg)
+
 **The Ball**
 
 The following is a report replete with unimportant ramblings, minutia over the last three cards in the 76, stories of punts, and of course moments of immense skill (read: luck). More than anything, it is the reminiscing of Gathering with good friends over a shared niche hobby. Indeed, it is the Gathering that the Lords of the Pit provide over all else that makes this thing special. Replace the cards with clubs and carts and the Old School Players Ball could resemble a sweaty charity golf tournament somewhere in central Alabama between ever older (and often ever rounder) college buddies escaping the demands of life. The cards are the shared passion that brought everyone together, but it is the people that keep us coming back.

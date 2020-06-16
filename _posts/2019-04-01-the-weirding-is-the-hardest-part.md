@@ -6,6 +6,8 @@ date: "2019-04-01"
 category: OS-EDH
 ---
 
+![](/assets/images/banners/zur.jpg)
+
 ...and so Gathered four mages, four April Fools, seeking to plumb new levels of despair during a stalemated battle of OS95-EDH. Our wedge Elder Dragon Legends were well-represented (BUG, RUG, Jeskai & Mardu) but relegated entirely to the Command Zone. Not one of the great wurms successfully summoned. Powerful enchantments ruled the evening, burying the assembled wizards in triggers and decision trees.
 
 ![*Men deep in the tank*](/assets/images/2019/04/IMG_0846.jpg)

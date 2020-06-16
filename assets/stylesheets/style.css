@@ -64,6 +64,9 @@ article p img {
   margin: auto;
   display: block; }
 
+article {
+  margin-bottom: 200px; }
+
 /* header and nav */
 header nav.navbar-dark,
 header nav.bg-dark {

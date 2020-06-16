@@ -6,6 +6,8 @@ date: "2019-10-24"
 category: OS-EDH
 ---
 
+![](/assets/images/banners/hurricane.jpg)
+
 *Hello, ruby in the dust]
 Has your band begun to rust?
 ~ Neil Young, Cowgirl in the Sand (1969)*

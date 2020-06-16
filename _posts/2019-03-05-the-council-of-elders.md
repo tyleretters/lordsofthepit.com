@@ -6,6 +6,8 @@ date: "2019-03-05"
 category: OS-EDH
 ---
 
+![](/assets/images/banners/zombies.jpg)
+
 The time had finally come to battle test our new Elder Dragons, and five willing wizards gathered at Mossman's Keep in Logan Square to match wits and stamina. The magi rolled in around 6 p.m., braving the unseasonably frigid Chicago wind chill, as Tombstone pizzas, Funyuns and craft beers provided the nourishment required to last this Gathering. Our game this eve would be five men strong, one to test each of the wedge commanders: Sahrotaar the Traitor (RUG), Vulthuryol the Hidden (BUG), Odahviing the Soaring (Jeskai), Mirmulnir the Aged (Junk) and Durnehviir the Dracolich (Mardu). Commander assignments were doled out a week prior and the magi relished the opportunity to brew outside the bun. We settled in with snacks and conversation, then battle commenced a little past 6:30 p.m. with Lord Etters having the headsman's seat and taking the first turn...
 
 ![*Councilmen gather to test the new wedge Elder Dragons*](/assets/images/2019/03/council.jpg)

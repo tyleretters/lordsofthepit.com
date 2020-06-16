@@ -6,6 +6,8 @@ date: "2018-10-23"
 category: Blog
 ---
 
+![](/assets/images/banners/autumn.jpg)
+
 **I. Time of the Season**
 
 Summer is ended and autumn descends. The leaves are coloring, the wind begins to bite and the threat of Chicago’s winter looms ominously over the horizon. It’s been a busy year for the Lords and for Old School MTG writ large, with the largest event, Eternal Weekend, just around the corner. Since not everyone can sojourn to Pittsburgh in two weeks, it only made sense to organize a Gathering to satiate the appetite of our cardboard cowboys in this harvest season. The Lords descended once again on our unofficially official clubhouse, the back room of DMen Tap, to engage in the arcane arts of Old School Magic, this time with the expanded selection of spellcraft offered by MTG’s 1995 sets, the mighty _Ice Age_ and the misfit _Homelands._

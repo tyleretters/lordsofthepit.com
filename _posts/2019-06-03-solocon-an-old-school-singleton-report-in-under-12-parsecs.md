@@ -6,6 +6,8 @@ date: "2019-06-03"
 category: Blog
 ---
 
+![](/assets/images/banners/solocon.jpg)
+
 *Hokey religions and ancient weapons are no match for a good blaster at your side, kid.*
 
 It’s summer in Chicago. With temps finding the mid-80s, the Lords of the Pit assembled on a sunny afternoon on the first of June to celebrate Old School MTG jank in this, the first iteration of Solocon, a Singleton-themed event. I hopped off the 77 bus and walked down Rockwell past a complex of semi-ruinous warehouses nestled alongside the Chicago River. Our battleground was Metropolitan Brewing’s taproom, a lovely, hidden gem of a riverside space in this up-and-coming part of Avondale. Several kayakers paddled past and I hoped for their sake that their shots were current as Chicago’s arterial waterway is famously toxic. We Gathered our full complement of ballers, 21 on this day, and fired at half past noon.

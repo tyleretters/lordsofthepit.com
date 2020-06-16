@@ -6,6 +6,8 @@ date: "2020-03-04"
 category: Blog
 ---
 
+![](/assets/images/banners/scryb-sprites.jpg)
+
 It’s February in Chicago and it’s fucking dreary. The city, and everyone inside it, has frozen. I spend most of my time watching empty sidewalks from the interior of a barren restaurant, dreading another meager paycheck. If not for Valentine’s Day and Restaurant Week, it would be slim pickings. My mind, naturally, drifts toward my favorite diversions. Shimmering in my thoughts like a distant beacon is Lord’s Haüs, a retreat from the city’s doldrums and a chance to win the Golden Demon.
 
 ![*...from hell’s heart I stab at thee.*](/assets/images/2020/03/golden-lord.png)

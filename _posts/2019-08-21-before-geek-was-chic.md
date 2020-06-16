@@ -6,6 +6,8 @@ date: "2019-08-21"
 category: Blog
 ---
 
+![](/assets/images/banners/balduvian-hordes.jpg)
+
 In my preteen to middle teenage years I lived for Gaming Saturdays. The inconvenience of weekdays with their homework deadlines, nagging teachers and social minefields melted away Friday nights before the anticipation of a Saturday. This was the mid-1990s and there were many games: _Magic: The Gathering_, of course, but also TSR's _Advanced Dungeons & Dragons_, Games Workshop's _Warhammer_ or _Blood Bowl_, Decipher's _Star Wars Customizable Card Game_, White Wolf's _Rage_ plus whatever over-hyped and under-cooked non-MTG game WOTC burned shelf space with that month. On Saturdays I'd wake excited and after breakfast either catch a ride from my stepmom in our ‘94 Dodge Caravan, forest green, or I'd strap my card box, source books and/or miniatures case to my bike and hit the pavement. The destination would be one of several comic or card shops around my hometown.
 
 ![*Simpler times*](/assets/images/2019/08/IMG_1359.jpg)

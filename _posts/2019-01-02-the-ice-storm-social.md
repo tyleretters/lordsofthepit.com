@@ -6,6 +6,8 @@ date: "2019-01-02"
 category: Blog
 ---
 
+![](/assets/images/banners/ice-storm-social.jpg)
+
 The Lords' final event of 2018, the Ice Storm Social, was my first attempt at organizing a charity MTG tournament. Since I missed Eternal Weekend this year but still needed to scratch that Old School itch, I decided to use my beer industry connections to line up Lagunitas. We rented a killer lounge space at their brewery, located in Chicago’s Pilsen neighborhood, and everyone seemed to love Willy Wonka-inspired decor. Thirty three gnarly mages from around the Midwest and from as far away as Nashville participated. Beer sales from our event benefited the Jack Vasel Memorial Fund and our thirsty crew raised over $1,000! Again, thank you to everyone who came out to raise their glasses and raise some money for a great cause.
 
 ![*Lagunitas' enormous event space*](/assets/images/2019/01/IMG-4939.jpg)
