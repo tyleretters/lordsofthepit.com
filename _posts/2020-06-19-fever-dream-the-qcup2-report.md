@@ -18,4 +18,10 @@ We have lots of good-looking deck lists to check out. Lord Piquardo played a swe
 
 Given the violence, worry, and uncertainty gripping the world today, the Q-Cup series has been a welcome digital Gathering to escape to connect over a children’s card game. Stay safe and take care of each other out there.   
 
+## Final Standings
+
 ![](/assets/images/2020/qc2 standings.jpg)
+
+## 93/94 Deck Gallery
+
+## Middle School Deck Gallery
