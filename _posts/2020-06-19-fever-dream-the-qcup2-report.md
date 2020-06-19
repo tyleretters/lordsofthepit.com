@@ -6,7 +6,7 @@ date: "2020-06-19"
 category: Blog
 ---
 
-## Preamble: Fever Dream
+## Fever Dream: The Q-Cup 2 Report
 
 ![](/assets/images/banners/akroma.jpg)
 
