@@ -22,10 +22,50 @@ We have lots of good-looking deck lists to check out. Lord Piquardo played a swe
 
 Given the violence, worry, and uncertainty gripping the world today, the Q-Cup series has been a welcome digital Gathering to escape to connect over a children’s card game. Stay safe and take care of each other out there.   
 
-## Final Standings
+## Standings (After Batches)
 
 ![](/assets/images/2020/qc2_standings.jpg)
 
 ## Old School Gallery
+
+![](/assets/images/2020/Alan_OS.jpg)
+
+![](/assets/images/2020/Bob_OS.jpg)
+
+![](/assets/images/2020/Braun_OS.jpg)
+
+![](/assets/images/2020/Cam_OS.jpg)
+
+![](/assets/images/2020/Carter_OS.jpeg)
+
+![](/assets/images/2020/Cayce_OS.jpg)
+
+![](/assets/images/2020/Etters_OS.png)
+
+![](/assets/images/2020/Grant_OS.jpg)
+
+![](/assets/images/2020/Ian_OS.jpg)
+
+![](/assets/images/Lorien_OS.jpg)
+
+![](/assets/images/2020/Moss_OS.jpg)
+
+![](/assets/images/2020/Piquardo_OS.jpg)
+
+![](/assets/images/2020/Punts_OS.jpg)
+
+![](/assets/images/2020/Rajah_OS.jpg)
+
+![](/assets/images/2020/Rohr_OS.jpg)
+
+![](/assets/images/2020/Shane_OS.jpg)
+
+![](/assets/images/2020/Tim_OS.JPG)
+
+![](/assets/images/2020/Velasco_OS.jpg)
+
+![](/assets/images/2020/Viau_OS.jpg)
+
+![](/assets/images/2020/justin_OS.jpg)
 
 ## Middle School Gallery
