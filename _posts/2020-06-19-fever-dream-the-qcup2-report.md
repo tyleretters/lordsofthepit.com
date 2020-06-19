@@ -28,84 +28,84 @@ Given the violence, worry, and uncertainty gripping the world today, the Q-Cup s
 
 ## Old School Gallery
 
-![](/assets/images/2020/Alan_OS.jpg)
+![Finney](/assets/images/2020/Alan_OS.jpg)
 
-![](/assets/images/2020/Bob_OS.jpg)
+![Agra](/assets/images/2020/Bob_OS.jpg)
 
-![](/assets/images/2020/Braun_OS.jpg)
+![Braun](/assets/images/2020/Braun_OS.jpg)
 
-![](/assets/images/2020/Cam_OS.jpg)
+![Wall](/assets/images/2020/Cam_OS.jpg)
 
-![](/assets/images/2020/Carter_OS.jpeg)
+![Petray](/assets/images/2020/Carter_OS.jpeg)
 
-![](/assets/images/2020/Cayce_OS.jpg)
+![Grissom](/assets/images/2020/Cayce_OS.jpg)
 
-![](/assets/images/2020/Etters_OS.png)
+![Etters](/assets/images/2020/Etters_OS.png)
 
-![](/assets/images/2020/Grant_OS.jpg)
+![Castleton](/assets/images/2020/Grant_OS.jpg)
 
-![](/assets/images/2020/Ian_OS.jpg)
+![Blank](/assets/images/2020/Ian_OS.jpg)
 
-![](/assets/images/Lorien_OS.jpg)
+![Elleman](/assets/images/Lorien_OS.jpg)
 
-![](/assets/images/2020/Moss_OS.jpg)
+![Moss](/assets/images/2020/Moss_OS.jpg)
 
-![](/assets/images/2020/Piquardo_OS.jpg)
+![Piquard](/assets/images/2020/Piquardo_OS.jpg)
 
-![](/assets/images/2020/Punts_OS.jpg)
+![Punts](/assets/images/2020/Punts_OS.jpg)
 
-![](/assets/images/2020/Rajah_OS.jpg)
+![James](/assets/images/2020/Rajah_OS.jpg)
 
-![](/assets/images/2020/Rohr_OS.jpg)
+![Rohr](/assets/images/2020/Rohr_OS.jpg)
 
-![](/assets/images/2020/Shane_OS.jpg)
+![Semmens](/assets/images/2020/Shane_OS.jpg)
 
-![](/assets/images/2020/Tim_OS.JPG)
+![Baran](/assets/images/2020/Tim_OS.JPG)
 
-![](/assets/images/2020/Velasco_OS.jpg)
+![Velasco](/assets/images/2020/Velasco_OS.jpg)
 
-![](/assets/images/2020/Viau_OS.jpg)
+![Viau](/assets/images/2020/Viau_OS.jpg)
 
-![](/assets/images/2020/justin_OS.jpg)
+![Schrank](/assets/images/2020/justin_OS.jpg)
 
 ## Middle School Gallery
 
-![](/assets/images/2020/Alan_MS.jpg)
+![Finney](/assets/images/2020/Alan_MS.jpg)
 
-![](/assets/images/2020/Bob_MS.jpg)
+![Agra](/assets/images/2020/Bob_MS.jpg)
 
-![](/assets/images/2020/Braun_MS.jpg)
+![Braun](/assets/images/2020/Braun_MS.jpg)
 
-![](/assets/images/2020/Cam_MS.jpeg)
+![Wall](/assets/images/2020/Cam_MS.jpeg)
 
-![](/assets/images/2020/Carter_MS.jpg)
+![Petray](/assets/images/2020/Carter_MS.jpg)
 
-![](/assets/images/2020/Cayve_MS.jpg)
+![Grissom](/assets/images/2020/Cayve_MS.jpg)
 
-![](/assets/images/2020/Etters_MS.png)
+![Etters](/assets/images/2020/Etters_MS.png)
 
-![](/assets/images/2020/Grant_MS.jpg)
+![Castleton](/assets/images/2020/Grant_MS.jpg)
 
-![](/assets/images/2020/Ian_MS.jpg)
+![Blank](/assets/images/2020/Ian_MS.jpg)
 
-![](/assets/images/2020/Lorien_MS.jpg)
+![Elleman](/assets/images/2020/Lorien_MS.jpg)
 
-![](/assets/images/2020/Moss_MS.jpg)
+![Moss](/assets/images/2020/Moss_MS.jpg)
 
-![](/assets/images/2020/Piquardo_MS.jpg)
+![Piquard](/assets/images/2020/Piquardo_MS.jpg)
 
-![](/assets/images/2020/Punts_MS.jpg)
+![Punts](/assets/images/2020/Punts_MS.jpg)
 
-![](/assets/images/2020/Rajah_MS.jpg)
+![James](/assets/images/2020/Rajah_MS.jpg)
 
-![](/assets/images/2020/Rohr_MS.jpg)
+![Rohr](/assets/images/2020/Rohr_MS.jpg)
 
-![](/assets/images/2020/Shane_MS.jpg)
+![Semmens](/assets/images/2020/Shane_MS.jpg)
 
-![](/assets/images/2020/Tim_MS.jpg)
+![Baran](/assets/images/2020/Tim_MS.jpg)
 
-![](/assets/images/2020/Velasco_MS.jpg)
+![Velasco](/assets/images/2020/Velasco_MS.jpg)
 
-![](/assets/images/2020/Viau_MS.jpg)
+![Viau](/assets/images/2020/Viau_MS.jpg)
 
-![](/assets/images/2020/Justin_MS.jpg)
+![Schrank](/assets/images/2020/Justin_MS.jpg)
