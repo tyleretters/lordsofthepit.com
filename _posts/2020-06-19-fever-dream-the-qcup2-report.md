@@ -6,8 +6,6 @@ date: "2020-06-19"
 category: Blog
 ---
 
-## Fever Dream: The Q-Cup 2 Report
-
 ![](/assets/images/banners/akroma.jpg)
 
 Quarantine Cup 2: Cabin Fever gathered 21 Lords & friends to battle over the interwebs from the safety of their COVID bunkers (aka mothers' basements). Event fees were donated in support of Chicago Meals on Wheels and also served as entry for a sweet door prize. Q-Cup2 was again structured using two batches, however this time we followed with a Top 4. Following precedent from the first Q-Cup, use of proxies was permitted.
