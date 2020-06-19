@@ -46,7 +46,7 @@ Given the violence, worry, and uncertainty gripping the world today, the Q-Cup s
 
 ![Blank](/assets/images/2020/Ian_OS.jpg)
 
-![Elleman](/assets/images/Lorien_OS.jpg)
+![Elleman](/assets/images/2020/Lorien_OS.jpg)
 
 ![Moss](/assets/images/2020/Moss_OS.jpg)
 
@@ -102,7 +102,7 @@ Given the violence, worry, and uncertainty gripping the world today, the Q-Cup s
 
 ![Semmens](/assets/images/2020/Shane_MS.jpg)
 
-![Baran](/assets/images/2020/Tim_MS.jpg)
+![Baran](/assets/images/2020/Tim_MS.JPG)
 
 ![Velasco](/assets/images/2020/Velasco_MS.jpg)
 
