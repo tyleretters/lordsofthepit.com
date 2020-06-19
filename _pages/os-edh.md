@@ -33,8 +33,6 @@ Additionally, Lords Etters Moss collaborated to create the “missing shard” E
 
 Our OS-EDH games can be quite long & grindy, sometimes taking a couple of hours, but the ethos of these meetups is to have an MTG hangout inspired equally by Dungeons Dragons, Risk and Settlers of Catan. Only the hardiest wizard can outlast his three opponents (or their CTA schedules).
 
-![](/assets/images/2019/02/img_0383.jpg)
-
 The Lords have also experimented with adding Ice Age and Homelands to the card pool (“OS95-EDH”) and have an eye toward trying Alliances in the near future as we continually seek out the siq-nastiest board states and combos.
 
 Our goal, as always, remains to push the boundaries of Old School Magic in a way that tests one’s cunning and explores the Shores of Imagination. So clear an evening, find some friends, grab snacks beverages, and belly up to a heaping helping of OS-EDH!
@@ -60,93 +58,49 @@ Below is our tally of OS-EDH victories:
 
 ---
 
-![](/assets/images/2019/09/semmens-battlefield.jpg)
+![Pyramid Scheme](/assets/images/2019/09/semmens-battlefield.jpg)
 
-*Pyramid Scheme*
+![Agra Aggro](/assets/images/2019/10/Fort-Agra.jpg)
 
-![](/assets/images/2019/10/Fort-Agra.jpg)
+![Another Gathering](/assets/images/2019/02/IMG_0277.jpg)
 
-*Agra Aggro*
+![A massive Lhurgoyf prowls the battlefield in a game of OS95-EDH](/assets/images/2019/02/IMG_0279.jpg)
 
-![](/assets/images/2019/02/IMG_0277.jpg)
+![Mossman with all of the Enchantments](/assets/images/2019/02/IMG_0280.jpg)
 
-*Another Gathering*
+![Lord Etters' commanders, old new](/assets/images/2019/02/fullsizeoutput_17f7.jpeg)
 
-![](/assets/images/2019/02/IMG_0279.jpg)
+![The return of the Wizards](/assets/images/2019/02/Capture-1.png)
 
-*A massive Lhurgoyf prowls the battlefield in a game of OS95-EDH*
+![Dakkon Blackblade leads the charge](/assets/images/2019/06/IMG-1146-1.jpg)
 
-![](/assets/images/2019/02/IMG_0280.jpg)
+![Baron Sengir's False Orders](/assets/images/2019/07/Baron.jpg)
 
-*Mossman with all of the Enchantments*
+![Spicy games, spicy snacks](/assets/images/2019/10/image2.jpg)
 
-![](/assets/images/2019/02/fullsizeoutput_17f7.jpeg)
+![Dom, you're partied out. Again.](/assets/images/2020/02/image0-2-1.jpg)
 
-*Lord Etters' commanders, old new*
+![Titania's Army on the march](/assets/images/2019/07/Song.jpg)
 
-![](/assets/images/2019/02/Capture-1.png)
+![Tanking in the new year](/assets/images/2020/01/tanking.jpg)
 
-*The return of the Wizards*
+![Three player deathmatch](/assets/images/2019/07/Trio.jpg)
 
-![](/assets/images/2019/06/IMG-1146-1.jpg)
+![Asmadi goes Berserk!](/assets/images/2019/07/Zerk.jpg)
 
-*Dakkon Blackblade leads the charge*
+![Look at the size of that thing!](/assets/images/2020/02/image0-3-1.jpg)
 
-![](/assets/images/2019/07/Baron.jpg)
+![Setting up the Dungeon of Doom](/assets/images/2019/11/20191119_183137-1.jpg)
 
-*Baron Sengir's False Orders*
+![Stalemate!](/assets/images/2020/01/stalemate.jpg)
 
-![](/assets/images/2019/10/image2.jpg)
+![Bump-N-Grind some 95](/assets/images/2020/02/image0-4.jpg)
 
-*Spicy games, spicy snacks*
+![Impregnable Fortress](/assets/images/2019/09/moss-enchantment-supremacy.jpg)
 
-![](/assets/images/2020/02/image0-2-1.jpg)
+![Banshee in Command](/assets/images/2020/01/banshee.jpg)
 
-*Dom, you're partied out. Again.*
-
-![](/assets/images/2019/07/Song.jpg)
-
-*Titania's Army on the march*
-
-![](/assets/images/2020/01/tanking.jpg)
-
-*Tanking in the new year*
-
-![](/assets/images/2019/07/Trio.jpg)
-
-*Three player deathmatch*
-
-![](/assets/images/2019/07/Zerk.jpg)
-
-*Asmadi goes Berserk!*
-
-![](/assets/images/2020/02/image0-3-1.jpg)
-
-*Look at the size of that thing!*
-
-![](/assets/images/2019/11/20191119_183137-1.jpg)
-
-*Setting up the Dungeon of Doom*
-
-![](/assets/images/2020/01/stalemate.jpg)
-
-*Stalemate!*
-
-![](/assets/images/2020/02/image0-4.jpg)
-
-*Bump-N-Grind some 95*
-
-![](/assets/images/2019/09/moss-enchantment-supremacy.jpg)
-
-*Impregnable Fortress*
-
-![](/assets/images/2020/01/banshee.jpg)
-
-*Banshee in Command*
-
-![](/assets/images/2020/02/image0-1-1.jpg)
-
-*Nuttin but luv for the Thrulls*
+![Nuttin but luv for the Thrulls](/assets/images/2020/02/image0-1-1.jpg)
 
 ## "Missing Shard" Elder Dragon Legends
 
