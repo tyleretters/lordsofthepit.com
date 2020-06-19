@@ -23,19 +23,17 @@ permalink: /os-edh
 
 ---
 
-Old School Elder Dragon Highlander (or “OS-EDH”) is an Eternal MTG format favored by a small cadre of Lords of the Pit. We typically play OS-EDH as a multiplayer Gathering of four or five mages. The Lords utilize standard Commander rules (100-card Singleton, 40 lives, Command Zone, mana restricted to Commander’s colors, Commander Damage, and so forth).
+Old School Elder Dragon Highlander (or “OS-EDH”) is an Eternal MTG format favored by a small cadre of Lords of the Pit. We play OS-EDH as a multiplayer Gathering of four or five mages and utilize standard Commander rules (100-card Singleton, 40 lives, Command Zone, mana restricted to Commander’s colors, Commander Damage, and so forth). We commonly stick to the Elder Dragons (Bolas, Chromium, Arcades, Palladia, Asmadi) for our Commanders but that mustn’t necessarily be so; a wizard could select any Old School Legend they desire, from Angus MacKenzie to Hazezon Tamar.
 
 ![](/assets/images/2019/02/unnamed.jpg)
-
-We commonly stick to the Elder Dragons (Bolas, Chromium, Arcades, Palladia, Asmadi) for our Commanders but that mustn’t necessarily be so; a wizard could select any Old School Legend they desire, from Angus MacKenzie to Hazezon Tamar.
 
 Additionally, Lords Etters Moss collaborated to create the “missing shard” Elder Dragon Legends, filling a gap left by WotC in the early 1990s. We now have Elder Dragons representing BUG, RUG, Jeskai, Junk and Mardu! We took inspiration from the dragons of Skyrim and sought to adapt character-dragons from that classic game to the realm of Dominaria. See the gallery below for more detail. If you would like to try our new Elder Dragons with your own playgroup, [downloadable cards are available here]({{ site.s3BucketPrefix }}/os-edh.zip).
 
 ![](/assets/images/2020/nkotb.jpg)
 
-We've experimented with adding Ice Age and Homelands to the card pool (“OS95-EDH”) and have an eye toward trying Alliances (and beyond!) in the future as we continually seek out the siq-nastiest board states and combos. Our OS-EDH games can be quite long & grindy, sometimes taking a couple of hours, but the ethos of these meetups is to have an MTG hangout inspired equally by Dungeons Dragons, Risk and Settlers of Catan. Only the hardiest wizard can outlast his opponents (or their CTA schedules).
+We've experimented with adding Ice Age and Homelands to the card pool (“OS95-EDH”) and have an eye toward trying Alliances and beyond as we continually seek out the siq-nastiest board states and combos. Our OS-EDH games can be quite long & grindy, sometimes taking a couple of hours, but the ethos of these meetups is to have an MTG hangout inspired equally by Dungeons Dragons, Risk and Settlers of Catan. Only the hardiest wizard can outlast his opponents (or their CTA schedules).
 
-Our goal, as always, remains to push the boundaries of Old School Magic in a way that tests one’s cunning and explores the Shores of Imagination. So clear an evening, find some friends, grab snacks beverages, and belly up to a heaping helping of OS-EDH!
+Our goal, as always, remains to push the boundaries of Old School Magic in a way that tests one’s cunning and explores the Shores of Imagination. So clear an evening, find some friends, grab snacks & beverages, and belly up to a heaping helping of OS-EDH!
 
 ## Leaderboard
 
