@@ -1,12 +1,12 @@
 ---
 layout: post
 author: mtg_beer_punts
-title: "QC2 Report"
+title: "Fever Dream: The Q-Cup2 Report"
 date: "2020-06-19"
 category: Blog
 ---
 
-## Preamble: A Hot Day in the City
+## Preamble: Fever Dream
 
 ![](/assets/images/banners/akroma.jpg)
 
@@ -17,3 +17,5 @@ Batch 1 consisted of four matches of randomly-paired EC 93/94. Batch 2 followed 
 We have lots of good-looking deck lists to check out. Lord Piquardo played a sweet mono-red Goblins deck that featured Goblin Rock Sled and Rajah broke out a slick Gauntet of Nuggetry stew, among other siq brews. The real technology came in the MIddle School rounds, however, and undoubtedly the story of the event was Lord Etters’ insane Battle of Wits brew.  After going 0-4 in OS, Tyler swept his MS opponents with his massive digital stack of cardboard. You can listen to his breakdown of the deck on the Pitcast episode “Five Alive.” (It’s totally worth grinding through Carter’s bloviating to hear it!)  Lord Velasco brought a sweet take on an Esper control pile and Lord Semmens battled with a sweet Necro-Donate deck with Togs in the board. Meanwhile, Moss and I took what has got to be a new MS boogeyman to a combined 7-1 record with Reanimator.  Turn one Akromas proved too much for the field to handle and I imagine an upswing in sideboard hate will follow.  Moss went with Oath of Druids out of the board while I tried Show and Tell.  It’s a blast to play if you like six minute matches and angry opponents.
 
 Given the violence, worry, and uncertainty gripping the world today, the Q-Cup series has been a welcome digital Gathering to escape to connect over a children’s card game. Stay safe and take care of each other out there.   
+
+![](/assets/images/2020/qc2 standings.png)
