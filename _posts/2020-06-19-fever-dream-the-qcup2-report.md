@@ -22,6 +22,6 @@ Given the violence, worry, and uncertainty gripping the world today, the Q-Cup s
 
 ![](/assets/images/2020/qc2 standings.jpg)
 
-## 93/94 Deck Gallery
+## Old School Gallery
 
-## Middle School Deck Gallery
+## Middle School Gallery
