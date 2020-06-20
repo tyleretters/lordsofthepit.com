@@ -22,21 +22,21 @@ All members of the Lords of the Pit are unified under these values. We unequivoc
 
 Previously sponsored organizations:
 
-[https://cplfoundation.org]https://cplfoundation.org
+[https://cplfoundation.org](https://cplfoundation.org)
 
-[http://www.ccolife.org/]http://www.ccolife.org/
+[http://www.ccolife.org/](http://www.ccolife.org/)
 
-[https://www.citizenschools.org]https://www.citizenschools.org
+[https://www.citizenschools.org](https://www.citizenschools.org)
 
-[https://girlswhocode.com]https://girlswhocode.com
+[https://girlswhocode.com](https://girlswhocode.com)
 
-[https://www.pawschicago.org]https://www.pawschicago.org
+[https://www.pawschicago.org](https://www.pawschicago.org)
 
-[https://www.onetail.org]https://www.onetail.org
+[https://www.onetail.org](https://www.onetail.org)
 
-[https://www.chicagosfoodbank.org]https://www.chicagosfoodbank.org
+[https://www.chicagosfoodbank.org](https://www.chicagosfoodbank.org)
 
-[https://www.ridejanieride.org/]https://www.ridejanieride.org/
+[https://www.ridejanieride.org/](https://www.ridejanieride.org/)
 
 ![](/assets/images/2019/09/OSPB19LOTPFront.jpg)
 
