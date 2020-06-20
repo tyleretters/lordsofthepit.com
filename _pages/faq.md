@@ -18,9 +18,9 @@ Membership in the Lords of the Pit is based on active involvement in our events 
 
 We value equality, inclusivity, tolerance and, of course, slinging old cardboard. 
 
-All members of the Lords of the Pit are unified under these values. We unequivocally reject racism and support the causes of equality, tolerence and inclusivity, not only in our club, but throughout the Old School community at large. Lords of the Pit events are a safe space for friends and strangers alike and are a catalyst for charitable giving to numerous Chicago-area organizations as nominated by our members. In solidarity with the worldwide movement against institutional racism, we pledge upcoming charitable contributions to The Chicago Bond Fund, My Block My Hood My City, the NAACP and the Equal Justice Initiative.
+All members of the Lords of the Pit are unified under these values. We unequivocally reject racism and support the causes of equality, tolerence and inclusivity, not only in our club, but throughout the Old School community at large. Lords of the Pit events are a safe space for friends and strangers alike and are a catalyst for charitable giving to numerous Chicago-area organizations* as nominated by our members. In solidarity with the worldwide movement against institutional racism, we pledge upcoming charitable contributions to The Chicago Bond Fund, My Block My Hood My City, the NAACP and the Equal Justice Initiative.
 
-Previously sponsored organizations:
+*Previously sponsored organizations:
 
 [https://cplfoundation.org](https://cplfoundation.org)
 
