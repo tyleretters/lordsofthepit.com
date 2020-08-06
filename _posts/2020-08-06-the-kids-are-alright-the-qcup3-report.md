@@ -20,58 +20,58 @@ The Lords & Co. selected [The Chicago Community Bond Fund](https://chicagobond.o
 
 ## Scryings Gallery
 
-![Finney](/assets/images/2020/Alan Scry.jpg)
+![Finney](/assets/images/2020/AlanScry.jpg)
 
-![Agra](/assets/images/2020/Bob Scry.jpg)
+![Agra](/assets/images/2020/BobScry.jpg)
 
-![Wall](/assets/images/2020/Cam Scry.jpeg)
+![Wall](/assets/images/2020/CamScry.jpeg)
 
-![Velasco](/assets/images/2020/David Scry.jpg)
+![Velasco](/assets/images/2020/DavidScry.jpg)
 
-![Blank](/assets/images/2020/Ian SCryings.jpg)
+![Blank](/assets/images/2020/IanSCryings.jpg)
 
-![Fish](/assets/images/2020/Jesse SCry.jpg)
+![Fish](/assets/images/2020/JesseSCry.jpg)
 
-![Elleman](/assets/images/2020/Lorien Esper_Scryings.png)
+![Elleman](/assets/images/2020/LorienEsper_Scryings.png)
 
-![Moss](/assets/images/2020/Moss Scry.jpg)
+![Moss](/assets/images/2020/MossScry.jpg)
 
-![Punts](/assets/images/2020/Punts Scry.jpg)
+![Punts](/assets/images/2020/PuntsScry.jpg)
 
-![James](/assets/images/2020/Rajah Scry.jpg)
+![James](/assets/images/2020/RajahScry.jpg)
 
-![Rohr](/assets/images/2020/Rohr Scry.jpg)
+![Rohr](/assets/images/2020/RohrScry.jpg)
 
-![Semmens](/assets/images/2020/Shane Scry.jpg)
+![Semmens](/assets/images/2020/ShaneScry.jpg)
 
-![Baran](/assets/images/2020/Tim Scry.JPG)
+![Baran](/assets/images/2020/TimScry.JPG)
 
 ## Classic Gallery
 
-![Finney](/assets/images/2020/Alan Classic.jpg)
+![Finney](/assets/images/2020/AlanClassic.jpg)
 
-![Agra](/assets/images/2020/Bob Classic.jpg)
+![Agra](/assets/images/2020/BobClassic.jpg)
 
-![Wall](/assets/images/2020/Cam Classic.jpg)
+![Wall](/assets/images/2020/CamClassic.jpg)
 
-![Blank](/assets/images/2020/Ian Classic.jpg)
+![Blank](/assets/images/2020/IanClassic.jpg)
 
-![Fish](/assets/images/2020/Jesse Classic.jpg)
+![Fish](/assets/images/2020/JesseClassic.jpg)
 
-![Kotscharjan](/assets/images/2020/LilGreg Classic.jpg)
+![Kotscharjan](/assets/images/2020/LilGregClassic.jpg)
 
-![Elleman](/assets/images/2020/Lorien Classic Tinker.png)
+![Elleman](/assets/images/2020/LorienClassicTinker.png)
 
-![Moss](/assets/images/2020/Moss Classic.jpg)
+![Moss](/assets/images/2020/MossClassic.jpg)
 
-![Punts](/assets/images/2020/Punts Classic.jpg)
+![Punts](/assets/images/2020/PuntsClassic.jpg)
 
-![James](/assets/images/2020/Rajah Classic.jpg)
+![James](/assets/images/2020/RajahClassic.jpg)
 
-![Rohr](/assets/images/2020/Rohr Classic.jpg)
+![Rohr](/assets/images/2020/RohrClassic.jpg)
 
-![Semmens](/assets/images/2020/Shane Classic.jpg)
+![Semmens](/assets/images/2020/ShaneClassic.jpg)
 
-![Baran](/assets/images/2020/Tim Classic.JPG)
+![Baran](/assets/images/2020/TimClassic.JPG)
 
-![Velasco](/assets/images/2020/David Classic.jpg)
+![Velasco](/assets/images/2020/DavidClassic.jpg)
