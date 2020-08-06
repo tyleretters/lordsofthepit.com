@@ -20,7 +20,7 @@ The Lords & Co. selected [The Chicago Community Bond Fund](https://chicagobond.o
 
 ## Scryings Gallery
 
-![Finney](/assets/images/2020/Alan Scry.jpg)
+![](/assets/images/2020/Alan Scry.jpg)
 
 ![Agra](/assets/images/2020/Bob Scry.jpg)
 
