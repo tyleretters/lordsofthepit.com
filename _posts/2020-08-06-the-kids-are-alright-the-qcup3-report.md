@@ -45,3 +45,31 @@ The Lords & Co. selected The Chicago Bond fund as our QC3 charity of choice with
 ![Baran](/assets/images/2020/Tim Scry.JPG)
 
 ## Classic Gallery
+
+![Finney](/assets/images/2020/Alan Classic.jpg)
+
+![Agra](/assets/images/2020/Bob Classic.jpg)
+
+![Wall](/assets/images/2020/Cam Classic.jpg)
+
+![Blank](/assets/images/2020/Ian Classic.jpg)
+
+![Fish](/assets/images/2020/Jesse Classic.jpg)
+
+![Kotscharjan](/assets/images/2020/LilGreg Classic.jpg)
+
+![Elleman](/assets/images/2020/Lorien Classic Tinker.png)
+
+![Moss](/assets/images/2020/Moss Classic.jpg)
+
+![Punts](/assets/images/2020/Punts Classic.jpg)
+
+![James](/assets/images/2020/Rajah Classic.jpg)
+
+![Rohr](/assets/images/2020/Rohr Classic.jpg)
+
+![Semmens](/assets/images/2020/Shane Classic.jpg)
+
+![Baran](/assets/images/2020/Tim Classic.JPG)
+
+![Velasco](/assets/images/2020/David Classic.jpg)
