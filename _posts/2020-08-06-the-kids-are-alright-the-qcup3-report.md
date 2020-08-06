@@ -20,4 +20,28 @@ The Lords & Co. selected The Chicago Bond fund as our QC3 charity of choice with
 
 ![Finney](/assets/images/2020/Alan Scry.jpg)
 
+![Agra](/assets/images/2020/Bob Scry.jpg)
+
+![Wall](/assets/images/2020/Cam Scry.jpeg)
+
+![Velasco](/assets/images/2020/David Scry.jpg)
+
+![Blank](/assets/images/2020/Ian SCryings.jpg)
+
+![Fish](/assets/images/2020/Jesse SCry.jpg)
+
+![Elleman](/assets/images/2020/Lorien Esper_Scryings.png)
+
+![Moss](/assets/images/2020/Moss Scry.jpg)
+
+![Punts](/assets/images/2020/Punts Scry.jpg)
+
+![James](/assets/images/2020/Rajah Scry.jpg)
+
+![Rohr](/assets/images/2020/Rohr Scry.jpg)
+
+![Semmens](/assets/images/2020/Shane Scry.jpg)
+
+![Baran](/assets/images/2020/Tim Scry.JPG)
+
 ## Classic Gallery
