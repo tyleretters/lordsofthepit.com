@@ -16,7 +16,7 @@ The Lords & Co. selected [The Chicago Community Bond Fund](https://chicagobond.o
 
 ## Standings (After Batches)
 
-![](/assets/images/2020/QC3Standings.jpg)
+![Finney](/assets/images/2020/QC3Standings.jpg)
 
 ## Scryings Gallery
 
