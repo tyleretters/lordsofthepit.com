@@ -8,7 +8,7 @@ category: Blog
 
 ## The Kids Are Alright: The Q-Cup3 Report
 
-HEADER IMAGE - USE VAMPIRIC TUTOR
+![](/assets/images/banners/vamp.jpg)
 
 It was during this, our ceaseless summer of discontent, that fifteen maniacal mages Gathered online for the latest installment of the LOTP Quarantine Cup. For our third iteration in the Q-Cup series, we consulted with assorted Deep State dossiers and Dark Web databanks to dredge up two hyper-niche formats in which to wield our aged cardboard. Batch One was [Scryings](https://oldschool-mtg.blogspot.com/p/scryings.html), the Swedish-style Old School variant that features a 116-card “expansion” drawing from _Fallen Empires_ through _Weatherlight_. Batch Two was [Classic](https://www.eternalcentral.com/classicmagicrules/), which is essentially EC Old School + Middle School with a lengthy Restricted List. For a rundown of QC3 play, check our [Pitcast](https://lordsofthepit.com/2020/07/21/sounds-like-emoitonal-jenga/) episode “Sounds Like Emotional Jenga” where Final Four players, Lords Elleman, Velasco, Rohr & Baran, weave tales from their batch, semis and finals battles. Lord Ellemen continued his sizzling 2020 and can now boast back-to-back Q-Cup victories! Finally, a quick shoutout is in order to Lord Punts, our trackless Q-Cup organizer, who dominated batch play at 7-1 but was unable to complete in the Final Four.
 
