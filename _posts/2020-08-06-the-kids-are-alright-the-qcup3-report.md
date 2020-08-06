@@ -6,7 +6,7 @@ date: "2020-08-06"
 category: Blog
 ---
 
-## The Kids Are Alright: The Q-Cup 3 Report
+## The Kids Are Alright: The Q-Cup3 Report
 
 HEADER IMAGE - USE VAMPIRIC TUTOR
 
