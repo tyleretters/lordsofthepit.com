@@ -14,8 +14,10 @@ The Lords & Co. selected The Chicago Bond fund as our QC3 charity of choice with
 
 ## Standings (After Batches)
 
-![](assets/images/2020/QC3Standings.jpg)
+![](/assets/images/2020/QC3Standings.jpg)
 
 ## Scryings Gallery
+
+![Finney](/assets/images/2020/Alan Scry.jpg)
 
 ## Classic Gallery
