@@ -20,7 +20,7 @@ After five rounds of Swiss + 1, it was our illustrious Meatball that proved unde
 
 ![](/assets/images/2020/LOTPLaborDay/champ.png)
 
-Can anything be taken away from this (or any) online “tournament”? The actual gameplay suffers in this environment, no doubt, and we're at the continuous mercy of our ISPs, but assembling in The Pit or catching up before/after rounds is the trve value of a virtual Gathering. Absence in these odd times, have indeed made hearts grow fonder, but though we may be distant, that doesn’t mean we must remain apart.
+Can anything be taken away from this (or any) online “tournament”? The actual gameplay suffers in this environment, no doubt, and we're at the continuous mercy of our ISPs, but assembling in The Pit or catching up before/after rounds is the trve value of the virtual Gathering. Absences in these odd times, have indeed made hearts grow fonder, but though we may be distant, that doesn’t mean we must remain apart.
 
 ## Standings (Swiss +1)
 
