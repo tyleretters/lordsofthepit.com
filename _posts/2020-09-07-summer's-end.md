@@ -24,7 +24,7 @@ Can anything be taken away from this (or any) online “tournament”? The actua
 
 ## Standings (Swiss +1)
 
-![](/assets/images/2020/LOTPLaborDay/standings.png)
+![](/assets/images/2020/LOTPLaborDay/standings2.png)
 
 ## Gallery
 
