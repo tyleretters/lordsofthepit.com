@@ -8,7 +8,7 @@ category: Blog
 
 ## Summer's End
 
-Tyler, the header image goes here. Please use 
+Tyler, the header image goes here. Please use Sol Kanar The Swamp King.
 
 It's a sunny, mild early September Saturday, perfect for enjoying a bike ride, backyard barbeque… or shutting oneself indoors to play Old School Magic: the Gathering on a webcam versus twelve pals. Thusly we found ourselves, thirteen wayward mages, waylaid by the pervasive oddity that is This Year 2020, sleeving up, logging in, adjusting our lighting and grinding out games in search of the almighty doubleyou. Thanks to the organizing efforts of Lord Punts, who’s served as the lodestar by which the Lords have navigated this year's online meetups, we circled the wagons for a “family only” Gathering our first since Lords Haus in February.
 
