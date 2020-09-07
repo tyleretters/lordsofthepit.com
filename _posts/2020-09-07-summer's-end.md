@@ -18,7 +18,7 @@ To that end, we picked up right where we left off. Maybe there was a little rust
 
 After five rounds of Swiss + 1, it was our illustrious Meatball that proved undefeatable, sweeping the afternoon with his patented RUG Atog pile. It seems that Lord Petray, having not died a hero, has now seen himself live long enough to become the villain. His prize for successful grinding? Continued one-on-one training with the merciless Bulu Master. Luckily for R-Kid, the 90 degree temperatures seem to have abated for the season.
 
-![](/assets/images/2020/LOTPLabor ay/champ.png)
+![](/assets/images/2020/LOTPLaborDay/champ.png)
 
 Can anything be taken away from this (or any) online “tournament”? The actual gameplay suffers in this environment, no doubt, and we're at the continuous mercy of our ISPs, but assembling in The Pit or catching up before/after rounds is the trve value of a virtual Gathering. Absence in these odd times, have indeed made hearts grow fonder, but though we may be distant, that doesn’t mean we must remain apart.
 
