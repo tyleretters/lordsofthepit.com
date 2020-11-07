@@ -10,9 +10,9 @@ category: Blog
 
 INSERT BANNER IMAGE - ZURAN ORB
 
-October is one of Chicago’s most pleasant months. The jean jackets come out of the closet. People take long walks through parks. Red leaves and discarded N95 masks flutter together in the autumn wind. For the Lords of the Pit, the colder weather and spiking COVID-19 rates also meant that it was time for our annual Fall Brawl tournament. In years past, Fall Brawl had been a one-day affair of Swiss+1 rounds of Old School '95 (OS95). But because playing in a virtual hellscape had become the new normal for our club, we eighteen Lords and Thrulls stretched the event over the month of October with two four-round batches and then a cut to top four. The first batch was traditional OS95. The second batch brought a new spice to the format: OS95 Singleton (using the [Beasts of the Bay](https://beastsofthebay.com/old-school-singleton.com) banlist + Mana Crypt). Singleton ended up being a contentious 2nd format. Some, like myself, loved the opportunity to pull from Old School's deep pool of second-stringers. Others found the format to be, as Lord mtg_beer_punts put it, “Misery.”
+October is one of Chicago’s most pleasant months. The jean jackets come out of the closet. People take long walks through parks. Red leaves and discarded N95 masks flutter together in the autumn wind. For the Lords of the Pit, the colder weather and spiking COVID-19 rates also meant that it was time for our annual Fall Brawl tournament. In years past, Fall Brawl had been a one-day affair of Swiss+1 rounds of Old School '95 (OS95). But because playing in a virtual hellscape had become the new normal for our club, we eighteen Lords and Thrulls stretched the event over the month of October with two four-round batches and then a cut to top four. The first batch was traditional OS95. The second batch brought a new spice to the format: OS95 Singleton (using the [Beasts of the Bay](https://beastsofthebay.com/old-school-singleton.com) banlist + Mana Crypt). Singleton ended up being a contentious 2nd format. Some, like myself, loved the opportunity to pull from Old School's deep pool of second-stringers. Others found the format to be, as Lord Punts put it, “Misery.”
 
-The Lords and their friends raised $380 for My Block My Hood My City, a [nonprofit](https://www.formyblock.org/mission) that helps underprivileged youth in Chicago.
+The Lords and their friends raised $380 for [My Block My Hood My City](https://www.formyblock.org/mission), a non-profit organization that helps underprivileged youth in Chicago.
 
 [Insert Misery picture here]
 
@@ -24,16 +24,16 @@ In addition to his draw engine and combo, Danny played Fastbond for mana acceler
 
 Danny was the only Lord to go undefeated in the first batch. After that, a whopping 44% of the field (8 decks) went 3-1, while 33% (6 decks) went 1-3. This tail-heavy outcome was due to a combination of two factors: (a) the batch-style pairing system and (b) the apparent fact that half of the Lords were playing to win, while the other half were playing to brew. That’s not to say that all the 3-1 decks were uninspired. Here are a few of the most creative 3-1 lists:
 
---An OS94 UR Atog deck that added Incinerate (Moss).
---An OS94 UR counterburn deck that added Incinerate (Schriver).
---An OS94 UWR aggro deck that added Incinerate (MacDougall).
---An OS94 Tax Edge deck that added *checks notes* Zuran Orb (Petray).
+-An OS94 UR Atog deck that added Incinerate (Moss).
+-An OS94 UR counterburn deck that added Incinerate (Schriver).
+-An OS94 UWR aggro deck that added Incinerate (MacDougall).
+-An OS94 Tax Edge deck that added *checks notes* Zuran Orb (Petray).
 
 There were actually a few interesting decks with winning records, including another Lich deck (Butzen), UWb Millstone (Semmens), and WU banding aggro (Agra). There was a lot more spice in the losing bracket, such as :
 
---A GU “Lore & Order” prison deck using Forgotten Lore, Primal Order, and four Mazes of Ith (Rohr).
---Two Time Vault decks, one that could go infinite with Elder Druid (Baran), and another featuring Merieke Ri Berit and Preacher (Velasco).
---A GRub ramp deck that powered out Shivan Dragons with Orcish Lumberjacks and Tinder Walls (mtg_beer_punts).
+-A GU “Lore & Order” prison deck using Forgotten Lore, Primal Order, and four Mazes of Ith (Rohr).
+-Two Time Vault decks, one that could go infinite with Elder Druid (Baran), and another featuring Merieke Ri Berit and Preacher (Velasco).
+-A GRub ramp deck that powered out Shivan Dragons with Orcish Lumberjacks and Tinder Walls (mtg_beer_punts).
 
 I played a BWU simpleton's Necro Mirror deck, which finished the opponent with Drain Life after switching life totals. As one of the eight players who were 3-1, I knew I’d need at least another 3-1 record to make the cut to top four. The Singleton rounds were going to be a sweat among sweat hogs.
 
