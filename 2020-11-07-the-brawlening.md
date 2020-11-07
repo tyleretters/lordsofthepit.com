@@ -61,9 +61,13 @@ Game two was a long slog, probably an hour and a half. Since the element of surp
 
 For all his effort, Danny was playing only for glory, as there was no 1st place prize. Based on his winning deck, though, I think a CE Lich would be appropriate, with the phrase “Still a lich in my book” scrawled across it. I’ll be sending it to him once I get the order in and the card properly altered. 
 
+A Golden Zuran Orb was awarded for “gnarliest brew” to Winconsinite Robert Vincent, who had the greatest number of *Ice Age* and *Homelands* cards (42) across his two decks. His OS95 BU control deck used Old School staples like Mind Whip, Seizures, and Lim-Dul’s Hex to grind out his opponent.
+
 ![](assets/images/2020/FallBrawl/gnarliestbrew.jpeg)
 
-A Golden Zuran Orb was awarded for “gnarliest brew” to Winconsinite Robert Vincent, who had the greatest number of *Ice Age* and *Homelands* cards (42) across his two decks. His OS95 BU control deck used Old School staples like Mind Whip, Seizures, and Lim-Dul’s Hex to grind out his opponent.
+As we closed out this year's Fall Brawl with a fitting webcam happy hour to swap stories of bad beats, we took a moment to welcome our newest Lord of the Pit, Tim Baran, to the crew. Tim made his debut at our December 2018 "Ice Storm Social" event and has been a Chicago mainstay ever since, battling in the realms of Old School, Middle School and Vintage. Lord Baran won the A.M. Vintage tournament at this years Lords Haüs. Welcome, Tim!
+
+![]assets/images/2020/FallBrawl/baranlotp.png)
 
 ## Batch I Standings & OS95 Gallery
 
@@ -90,20 +94,20 @@ A Golden Zuran Orb was awarded for “gnarliest brew” to Winconsinite Robert V
 ## Batch II Standings & Gallery
 
 ![](assets/images/2020/FallBrawl/singleton95lists/batch2standings.png)
-![](assets/images/2020/FallBrawl/singleton95lists/01elleman.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/02macdougall.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/03friedman.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/04petray.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/05schriver.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/06butzen.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/07semmens.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/09punts.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/10piquard.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/11blank.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/12moss.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/13rohr.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/14baran.jpeg)
-![](assets/images/2020/FallBrawl/singleton95lists/15wall.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/16schrank.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/17velasco.jpg)
-![](assets/images/2020/FallBrawl/singleton95lists/18vincent.jpg)
+![Elleman](assets/images/2020/FallBrawl/singleton95lists/01elleman.jpg)
+![MacDougall](assets/images/2020/FallBrawl/singleton95lists/02macdougall.jpg)
+![Friedman](assets/images/2020/FallBrawl/singleton95lists/03friedman.jpg)
+![Petray](assets/images/2020/FallBrawl/singleton95lists/04petray.jpg)
+![Schriver](assets/images/2020/FallBrawl/singleton95lists/05schriver.jpg)
+![Butzen](assets/images/2020/FallBrawl/singleton95lists/06butzen.jpg)
+![Semmens](assets/images/2020/FallBrawl/singleton95lists/07semmens.jpg)
+![Punts](assets/images/2020/FallBrawl/singleton95lists/09punts.jpg)
+![Piquard](assets/images/2020/FallBrawl/singleton95lists/10piquard.jpg)
+![Blank](assets/images/2020/FallBrawl/singleton95lists/11blank.jpg)
+![Moss](assets/images/2020/FallBrawl/singleton95lists/12moss.jpg)
+![Rohr](assets/images/2020/FallBrawl/singleton95lists/13rohr.jpg)
+![Baran](assets/images/2020/FallBrawl/singleton95lists/14baran.jpeg)
+![Wall](assets/images/2020/FallBrawl/singleton95lists/15wall.jpg)
+![Schrank](assets/images/2020/FallBrawl/singleton95lists/16schrank.jpg)
+![Velasco](assets/images/2020/FallBrawl/singleton95lists/17velasco.jpg)
+![Vincent](assets/images/2020/FallBrawl/singleton95lists/18vincent.jpg)
