@@ -29,13 +29,13 @@ Danny was the only Lord to go undefeated in the first batch. After that, a whopp
 -An OS94 UWR aggro deck that added Incinerate (MacDougall).
 -An OS94 Tax Edge deck that added *checks notes* Zuran Orb (Petray).
 
-![Schriver T1](assets/images/2020/FallBrawl/schriverT1.jpg)
-
 There were actually a few interesting decks with winning records, including another Lich deck (Butzen), UWb Millstone (Semmens), and WU banding aggro (Agra). There was a lot more spice in the losing bracket, such as :
 
 -A GU “Lore & Order” prison deck using Forgotten Lore, Primal Order, and four Mazes of Ith (Rohr).
 -Two Time Vault decks, one that could go infinite with Elder Druid (Baran), and another featuring Merieke Ri Berit and Preacher (Velasco).
 -A GRub ramp deck that powered out Shivan Dragons with Orcish Lumberjacks and Tinder Walls (Punts).
+
+![Schriver T1](assets/images/2020/FallBrawl/schriverT1.jpg)
 
 I played a BWU simpleton's Necro Mirror deck, which finished the opponent with Drain Life after switching life totals. As one of the eight players who were 3-1, I knew I’d need at least another 3-1 record to make the cut to top four. The Singleton rounds were going to be a sweat among sweathogs.
 
