@@ -29,6 +29,8 @@ Danny was the only Lord to go undefeated in the first batch. After that, a whopp
 -An OS94 UWR aggro deck that added Incinerate (MacDougall).
 -An OS94 Tax Edge deck that added *checks notes* Zuran Orb (Petray).
 
+![](assets/images/2020/FallBrawl/Misery.png)
+
 There were actually a few interesting decks with winning records, including another Lich deck (Butzen), UWb Millstone (Semmens), and WU banding aggro (Agra). There was a lot more spice in the losing bracket, such as :
 
 -A GU “Lore & Order” prison deck using Forgotten Lore, Primal Order, and four Mazes of Ith (Rohr).
@@ -38,6 +40,8 @@ There were actually a few interesting decks with winning records, including anot
 I played a BWU simpleton's Necro Mirror deck, which finished the opponent with Drain Life after switching life totals. As one of the eight players who were 3-1, I knew I’d need at least another 3-1 record to make the cut to top four. The Singleton rounds were going to be a sweat among sweat hogs.
 
 Lord Andy MacDougall was the first to report a perfect 4-0 finish in OS95 Singleton. His list was an upgraded version of his OS94 Singleton deck (which got him 2nd place at last year’s Solocon). Andy had added an extra copy of Llanowar Elves, Lightning Bolt and Disintegrate with Ice Age’s Fyndhorn Elves, Incinerate, and Lava Burst. The real backbreaker of the deck was Stormbind, which could win a game on its own. I was the other person to report a 4-0 record in Singleton. Coincidentally, my deck also was an upgraded version of my OS94 Singleton list (pink aggro; 3rd place at Solocon). After adding obvious cards like Order of the White Shield and Incinerate, I noticed that Ice Age’s two sets of ally dual lands (pain and depletion) would allow me to make a green splash without giving up much consistency in white or red. I probably could have gone a little deeper into green, but I added only the bombs: Sylvan Library, Erhnam Djinn, and Stormbind.
+
+![](assets/images/2020/FallBrawl/schriverT1.jpg)
 
 Our 7-1 records put Andy and me in the top two seeds. Danny squeaked out a 2-2 record to go 6-2 overall. The only other player who went 6-2 was Lord Carter Petray, who managed a 3-1 record in both formats. 
 
@@ -49,7 +53,7 @@ I expected to have an advantage in the match versus Carter’s 5-color Tax Edge 
 
 Andy, the good guy on UWR, had been defeated by Danny's unstoppable Lich deck, so the finals was a battle of the bad guys, Danny’s Necro Lich vs. Carter’s Tax Edge. Game one was a testament to the degeneracy of Danny's deck. Danny was on the play, and after a slew of restricted cards and at least one Time Walk, he passed the turn to Carter. Carter dropped a Plains, played Land Tax, and passed. He did not get another turn. 
 
-[Insert game one picture]
+![](assets/images/2020/FallBrawl/finalsg1.png)
 
 Game two was a long slog, probably an hour and a half. Since the element of surprise was ruined with open decklists, Danny did not board into his beatdown plan. The game was prolonged due to both players having Zuran Orb in play, as they could convert life into cards (although Carter’s Sylvan Library engine was not as efficient as Danny’s Necropotence). Danny was very careful about playing around Land Tax; I am not sure if Carter ever got a single trigger from it. At one point, Carter Disenchanted a Necro instead of a Mirror Universe that had just been sitting in play for a while. The peanut gallery strongly disagreed with the play, and Carter himself later said he regretted it. It was hard to fault him, though, since Danny had been out-drawing him the entire game, and they were both at very low life. Carter could never really turn the corner, and Danny’s slow, meticulous play seemed to get to him after a while. At one point, Carter left to go grab a beer, and told Danny to just do whatever. After thinking for a while, Danny finally told the audience that he’d wait for Carter to get back before making his move. However, when Carter returned, Danny just hemmed and hawed, slowly tapping and untapping mana, prompting an exasperated Carter to ask,  “Have you STILL not decided what you want to do with your turn?” It was over soon after that. At the end of Carter’s turn, Danny cast Hurkyl’s Recall. Carter carefully decided which five to discard, but it didn’t matter - that was Danny’s setup for the win. When asked what led to his loss, Carter blamed not drawing enough restricted cards in the second game. Danny said of the second game, "That was one of the best games I've ever played."
 
@@ -57,7 +61,7 @@ Game two was a long slog, probably an hour and a half. Since the element of surp
 
 For all his effort, Danny was playing only for glory, as there was no 1st place prize. Based on his winning deck, though, I think a CE Lich would be appropriate, with the phrase “Still a lich in my book” scrawled across it. I’ll be sending it to him once I get the order in and the card properly altered. 
 
-![](assets/images/2020/FallBrawl/zorb.jpg)
+![](assets/images/2020/FallBrawl/gnarliestbrew.jpeg)
 
 A Golden Zuran Orb was awarded for “gnarliest brew” to Winconsinite Robert Vincent, who had the greatest number of *Ice Age* and *Homelands* cards (42) across his two decks. His OS95 BU control deck used Old School staples like Mind Whip, Seizures, and Lim-Dul’s Hex to grind out his opponent.
 
@@ -97,6 +101,7 @@ A Golden Zuran Orb was awarded for “gnarliest brew” to Winconsinite Robert V
 ![](assets/images/2020/FallBrawl/singleton95lists/10piquard.jpg)
 ![](assets/images/2020/FallBrawl/singleton95lists/11blank.jpg)
 ![](assets/images/2020/FallBrawl/singleton95lists/12moss.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/13rohr.jpg)
 ![](assets/images/2020/FallBrawl/singleton95lists/14baran.jpeg)
 ![](assets/images/2020/FallBrawl/singleton95lists/15wall.jpg)
 ![](assets/images/2020/FallBrawl/singleton95lists/16schrank.jpg)
