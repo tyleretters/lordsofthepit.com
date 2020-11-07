@@ -8,7 +8,7 @@ category: Blog
 
 ## The Brawlening: The Fall Brawl 2.5 Report
 
-INSERT BANNER IMAGE - ZURAN ORB
+INSERT BANNER IMAGE - PLZ USE GLACIAL CHASM
 
 October is one of Chicago’s most pleasant months. The jean jackets come out of the closet. People take long walks through parks. Red leaves and discarded N95 masks flutter together in the autumn wind. For the Lords of the Pit, the colder weather and spiking COVID-19 rates also meant that it was time for our annual Fall Brawl tournament. In years past, Fall Brawl had been a one-day affair of Swiss+1 rounds of Old School '95 (OS95). But because playing in a virtual hellscape had become the new normal for our club, we eighteen Lords and Thrulls stretched the event over the month of October with two four-round batches and then a cut to top four. The first batch was traditional OS95. The second batch brought a new spice to the format: OS95 Singleton (using the [Beasts of the Bay](https://beastsofthebay.com/old-school-singleton.com) banlist + Mana Crypt). Singleton ended up being a contentious 2nd format. Some, like myself, loved the opportunity to pull from Old School's deep pool of second-stringers. Others found the format to be, as Lord Punts put it, “Misery.”
 
@@ -61,7 +61,7 @@ For all his effort, Danny was playing only for glory, as there was no 1st place 
 
 A Golden Zuran Orb was awarded for “gnarliest brew” to Winconsinite Robert Vincent, who had the greatest number of *Ice Age* and *Homelands* cards (42) across his two decks. His OS95 BU control deck used Old School staples like Mind Whip, Seizures, and Lim-Dul’s Hex to grind out his opponent.
 
-## Batch I Standings & Gallery
+## Batch I Standings & OS95 Gallery
 
 ![](assets/images/2020/FallBrawl/os95lists/batch1standings.png)
 ![Friedman](assets/images/2020/FallBrawl/os95lists/01friedman.jpg)
@@ -84,3 +84,21 @@ A Golden Zuran Orb was awarded for “gnarliest brew” to Winconsinite Robert V
 ![Baran](assets/images/2020/FallBrawl/os95lists/18baran.jpeg)
 
 ## Batch II Standings & Gallery
+
+![](assets/images/2020/FallBrawl/singleton95lists/batch2standings.png)
+![](assets/images/2020/FallBrawl/singleton95lists/01elleman.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/02macdougall.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/03friedman.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/04petray.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/05schriver.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/06butzen.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/07semmens.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/09punts.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/10piquard.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/11blank.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/12moss.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/14baran.jpeg)
+![](assets/images/2020/FallBrawl/singleton95lists/15wall.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/16schrank.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/17velasco.jpg)
+![](assets/images/2020/FallBrawl/singleton95lists/18vincent.jpg)
