@@ -25,17 +25,22 @@ In addition to his draw engine and combo, Danny played Fastbond for mana acceler
 Danny was the only Lord to go undefeated in the first batch. After that, a whopping 44% of the field (8 decks) went 3-1, while 33% (6 decks) went 1-3. This tail-heavy outcome was due to a combination of two factors: (a) the batch-style pairing system and (b) the apparent fact that half of the Lords were playing to win, while the other half were playing to brew. That’s not to say that all the 3-1 decks were uninspired. Here are a few of the most creative 3-1 lists:
 
 -An OS94 UR Atog deck that added Incinerate (Moss).
+
 -An OS94 UR counterburn deck that added Incinerate (Schriver).
+
 -An OS94 UWR aggro deck that added Incinerate (MacDougall).
+
 -An OS94 Tax Edge deck that added *checks notes* Zuran Orb (Petray).
+
+![Schriver T1](assets/images/2020/FallBrawl/schriverT1.jpg)
 
 There were actually a few interesting decks with winning records, including another Lich deck (Butzen), UWb Millstone (Semmens), and WU banding aggro (Agra). There was a lot more spice in the losing bracket, such as :
 
 -A GU “Lore & Order” prison deck using Forgotten Lore, Primal Order, and four Mazes of Ith (Rohr).
--Two Time Vault decks, one that could go infinite with Elder Druid (Baran), and another featuring Merieke Ri Berit and Preacher (Velasco).
--A GRub ramp deck that powered out Shivan Dragons with Orcish Lumberjacks and Tinder Walls (Punts).
 
-![Schriver T1](assets/images/2020/FallBrawl/schriverT1.jpg)
+-Two Time Vault decks, one that could go infinite with Elder Druid (Baran), and another featuring Merieke Ri Berit and Preacher (Velasco).
+
+-A GRub ramp deck that powered out Shivan Dragons with Orcish Lumberjacks and Tinder Walls (Punts).
 
 I played a BWU simpleton's Necro Mirror deck, which finished the opponent with Drain Life after switching life totals. As one of the eight players who were 3-1, I knew I’d need at least another 3-1 record to make the cut to top four. The Singleton rounds were going to be a sweat among sweathogs.
 
