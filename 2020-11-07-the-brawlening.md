@@ -72,7 +72,7 @@ A Golden Zuran Orb was awarded for “gnarliest brew” to Winconsinite Robert V
 
 As we closed out this year's Fall Brawl with a fitting webcam happy hour to swap stories of bad beats, we took a moment to welcome our newest Lord of the Pit, Tim Baran, to the crew. Tim made his debut at our December 2018 "Ice Storm Social" event and has been a Chicago mainstay ever since, battling in the realms of Old School, Middle School and Vintage. Lord Baran won the A.M. Vintage tournament at this years Lords Haüs.
 
-![Welcome, Tim!]assets/images/2020/FallBrawl/baranlotp.png)
+![Welcome, Tim!](assets/images/2020/FallBrawl/baranlotp.png)
 
 ## Batch I Standings & OS95 Gallery
 
