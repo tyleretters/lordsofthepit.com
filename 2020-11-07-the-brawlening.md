@@ -57,7 +57,7 @@ Game two was a long slog, probably an hour and a half. Since the element of surp
 
 For all his effort, Danny was playing only for glory, as there was no 1st place prize. Based on his winning deck, though, I think a CE Lich would be appropriate, with the phrase “Still a lich in my book” scrawled across it. I’ll be sending it to him once I get the order in and the card properly altered. 
 
-![](assets/images/2020/FallBrawl/untitledfolder/zorb.jpg)
+![](assets/images/2020/FallBrawl/zorb.jpg)
 
 A Golden Zuran Orb was awarded for “gnarliest brew” to Winconsinite Robert Vincent, who had the greatest number of *Ice Age* and *Homelands* cards (42) across his two decks. His OS95 BU control deck used Old School staples like Mind Whip, Seizures, and Lim-Dul’s Hex to grind out his opponent.
 
