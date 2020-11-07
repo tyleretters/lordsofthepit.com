@@ -14,7 +14,7 @@ October is one of Chicago’s most pleasant months. The jean jackets come out of
 
 The Lords & Co. used Fall Brawl 2.5 entry fees to raise $380 for [My Block My Hood My City](https://www.formyblock.org/mission), a non-profit organization that provides underprivileged Chicago youth with an awareness of the world and opportunities beyond their neighborhood, taking students on explorations focused on STEM, Arts & Culture, Citizenry & Volunteerism, Health, Community Development, Culinary Arts, and Entrepreneurism.
 
-![](/assets/images/2020/assets/images/2020/FallBrawl2.5/untitled folder/cauldron.png)
+![](/assets/images/2020/assets/images/2020/FallBrawl/untitledfolder/cauldron.png)
 
 “I felt robbed of both experiences,” said Lord Danny Friedman, the literal winner of the tournament, referring to the fact that the event split our attention across two formats. 
 
@@ -53,11 +53,11 @@ Andy, the good guy on UWR, had been defeated by Danny's unstoppable Lich deck, s
 
 Game two was a long slog, probably an hour and a half. Since the element of surprise was ruined with open decklists, Danny did not board into his beatdown plan. The game was prolonged due to both players having Zuran Orb in play, as they could convert life into cards (although Carter’s Sylvan Library engine was not as efficient as Danny’s Necropotence). Danny was very careful about playing around Land Tax; I am not sure if Carter ever got a single trigger from it. At one point, Carter Disenchanted a Necro instead of a Mirror Universe that had just been sitting in play for a while. The peanut gallery strongly disagreed with the play, and Carter himself later said he regretted it. It was hard to fault him, though, since Danny had been out-drawing him the entire game, and they were both at very low life. Carter could never really turn the corner, and Danny’s slow, meticulous play seemed to get to him after a while. At one point, Carter left to go grab a beer, and told Danny to just do whatever. After thinking for a while, Danny finally told the audience that he’d wait for Carter to get back before making his move. However, when Carter returned, Danny just hemmed and hawed, slowly tapping and untapping mana, prompting an exasperated Carter to ask,  “Have you STILL not decided what you want to do with your turn?” It was over soon after that. At the end of Carter’s turn, Danny cast Hurkyl’s Recall. Carter carefully decided which five to discard, but it didn’t matter - that was Danny’s setup for the win. When asked what led to his loss, Carter blamed not drawing enough restricted cards in the second game. Danny said of the second game, "That was one of the best games I've ever played."
 
-![](assets/images/2020/FallBrawl2.5/untitled folder/finalsg2t1.png)
+![](assets/images/2020/FallBrawl/untitledfolder/finalsg2t1.png)
 
 For all his effort, Danny was playing only for glory, as there was no 1st place prize. Based on his winning deck, though, I think a CE Lich would be appropriate, with the phrase “Still a lich in my book” scrawled across it. I’ll be sending it to him once I get the order in and the card properly altered. 
 
-![](assets/images/2020/FallBrawl2.5/untitled folder/zorb.jpg)
+![](assets/images/2020/FallBrawl/untitledfolder/zorb.jpg)
 
 A Golden Zuran Orb was awarded for “gnarliest brew” to Winconsinite Robert Vincent, who had the greatest number of *Ice Age* and *Homelands* cards (42) across his two decks. His OS95 BU control deck used Old School staples like Mind Whip, Seizures, and Lim-Dul’s Hex to grind out his opponent.
 
