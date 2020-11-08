@@ -8,7 +8,7 @@ category: Blog
 
 ## The Brawlening: The Fall Brawl 2.5 Report
 
-INSERT BANNER IMAGE - PLZ USE GLACIAL CHASM
+![](/assets/images/banners/glacial-chasm.jpg)
 
 October is one of Chicago’s most pleasant months. The jean jackets come out of the closet. People take long walks through parks. Red leaves and discarded N95 masks flutter together in the autumn wind. For the Lords of the Pit, the colder weather and spiking COVID-19 rates also meant that it was time for our annual Fall Brawl tournament. In years past, Fall Brawl had been a one-day affair of Swiss+1 rounds of Old School '95 (OS95). But because playing in a virtual hellscape had become the new normal for our club, we 18 Lords and Thrulls stretched the event over the month of October with two four-round batches and then a cut to top four. The first batch was traditional OS95. The second batch brought a new spice to the format: OS95 Singleton (using the [Beasts of the Bay](https://beastsofthebay.com/old-school-singleton.com) banlist + Mana Crypt). Singleton ended up being a contentious second format. Some, like myself, loved the opportunity to pull from Old School's deep pool of second-stringers. Others found the format to be, as Lord Punts put it, “Misery.”
 
