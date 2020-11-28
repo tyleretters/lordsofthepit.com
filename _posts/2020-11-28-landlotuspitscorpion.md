@@ -22,7 +22,7 @@ Playing with open Discord video chatrooms allowed us to crash matches and shit t
 
 There were some tasty lists to observe, too. Lords Rohr and Friedman brewed differing versions of Big Red (Rohr cracking our Top Four to boot) and the aforementioned Semmens brought the deep state tech with Poison Counters Agro. Lord Blank continued his dedication to Underworld Dreams and there were two takes on Gobbos as well (Agra and Punts).
 
-![B-movies showing on Bob's vidja playmat](assets/images/2020/lordsandleftovers/tharoom.png)
+![B-movies on Bob's vidja playmat](assets/images/2020/lordsandleftovers/tharoom.png)
 
 At the top, Pink Atog (L.G.), Esper (Lorien), and RUG weenie (Meatball) rounded out the T4 with the Meatball continuing his reign of terror with a 5-0 finish. He noticeably refused to use public Discord rooms, preferring to grind in private and prevent his Euroboard tech from being revealed.
 
