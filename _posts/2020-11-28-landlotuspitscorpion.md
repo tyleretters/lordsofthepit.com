@@ -6,8 +6,6 @@ date: "2020-11-28"
 category: Blog
 ---
 
-## Land, Lotus... Pit Scorpion?
-
 INSERT BANNER IMAGE - PLZ USE PIT SCORPION
 
 Nuked turkey, soggy stuffing and lumpy taters are the staples of any good Thanksgiving leftover feast. Because it’s 2020, the Lords of the Pit added roast unicorn to the mix with our Lords & Leftovers challenge on Black Friday eve. Fifteen LOTP met in the virtual squared circle to find out who their most festive fighter was. For one night only, Feast of the Unicorn, that oft-overlooked black *Homelands* Aura blessing a creature with +4/+0, was legalized. The Lords once again supported the Greater Chicago Food Depository as their charity of choice for the event.
