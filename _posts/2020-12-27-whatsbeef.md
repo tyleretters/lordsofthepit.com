@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Velasco & Friedman
-title: "The Ghost of Christmas Beef"
+title: "What's Beef?"
 date: "2020-12-27"
 category: Blog
 ---
