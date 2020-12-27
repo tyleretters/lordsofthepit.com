@@ -43,6 +43,8 @@ The bulk of Danny’s Beef total came from his sideboard; 15 of the Beefiest cre
 
 While the gap between Danny and the second highest Beef Score was large, I want to highlight some of the other flavorful and Beefy decks across the tournament, starting with friend of the club Nick Viau and his 113-beef count Monoblue list with a Beef Score of 84.75. Nick truly dropped the elbow with his nWo-altered Motis at the top end alongside Water Elementals, Juggernauts and Trikes (two of the most popular robots of the tournament). Nick posted a strong 6-2 record while doing exactly what the tournament called for: turning big creatures sideways and occasionally blowing out opposing Beef with a timely Unsummon.
 
+![Heavy.](/assets/images/2020/ChristmasBeef/bobbigbrainbeef.png)
+
 It would be hard to miss Lord Agra’s powerful 86-lb Beefy Reanimator, bringing powerhouses like Shivan Dragon, Yawgmoth Demon, Nicol Bolas, and Deep Spawn back to the field to absolutely pummel his opponents. Bob ended his run with a 5-3 record and a very respectable Beef Score of 53.75. As Bob displayed across the tournament, a creature that can profitably block a Shivan Dragon is a force to be reckoned with.
 
 ![Baran received the Beef Whelp for having the best W-L record](/assets/images/2020/ChristmasBeef/beefwhelp.jpg)
@@ -66,6 +68,8 @@ In the end, Christmas Beef provided a brief vacation from OS’s famed archetype
 ![Legends of the Fall](/assets/images/2020/ChristmasBeef/beefmaslordsandlegends.jpg)
 
 This raises the ultimate question, how do we truly show Beef? To put it in the words of the great Notorious B.I.G., Beef should be “when you roll no less than 30 (in this case, 40) deep, when I see you, guaranteed to be in I-C-U.” Beef is about confidently staring your opponents down with the biggest, dumbest creature you pulled out of the back of your binder, and absolutely wreaking havoc. 
+
+![Beefcast](/assets/images/2020/ChristmasBeef/beefcast.png)
 
 Sometimes it is hard to find the positives in a year like 2020, where so much of our normal has been disrupted, or to put it more bluntly, added to the constantly growing flames of the dumpster fire that has been this past year. Where my year started with some of my favorite people in the world, slinging cards at Der Rathskeller and trekking to Essen Haüs on a cold Madison evening, I’m happy to say it ended in a very similar fashion, even with a computer screen between us all. With 2020 almost in our rearview mirrors, we can hope that 2021 will bring us back to the places that the Lords have called our homes away from home across Chicago. 
 
