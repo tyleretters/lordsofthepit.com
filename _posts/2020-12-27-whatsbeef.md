@@ -12,7 +12,11 @@ Last December, I remember looking back fondly on my year of Old School: all of t
 
 This year, Lords Punts & Moss worked tirelessly to keep the spirit of the club alive through Quarantine Cups, one-day “family-only” meetups, and special format variations that encouraged the Lords & Friends to return to the drawing board and brew up their gnarliest stews. The Beef Bash first took place in June 2017 at Lord Jaco’s Westside headquarters, back when Lord Petray still had some of his luscious locks and, for the most part, the crew was all in attendance. This was just a short couple of months ahead of the first Player’s Ball, an event that would become one of the most anticipated annual events for OS players across the country. 
 
+![Beefcast](/assets/images/2020/ChristmasBeef/beefcast.png)
+
 It would be another year before I first met the Lords (outside of some chance encounters playing Legacy in Columbus, OH uncovered through a deep dive of tournament results leading up to the dissolution of the DCI), but you could say I’ve been preparing for this tournament since I first found OS. In my short two and a half years of playing OS, Berserk has quickly become my calling card. Where my decks may have been missing a handful of the format’s blue restricted staples, I instead chose to overrun my opponents with good old-fashioned combat tricks and the sheer girth of big green creatures. 
+
+![Legends of the Fall](/assets/images/2020/ChristmasBeef/beefmaslordsandlegends.jpg)
 
 This year’s culminating tournament, aptly titled Christmas Beef, came with its own set of rules: every deck must contain at least 40 total power at the start of each game
 In addition to EC’s standard bans and restrictions, The Abyss, City in a Bottle and Moat were banned, and Maze of Ith and Mishra’s Workshop were additionally restricted. To encourage players to stuff their decks with even more Djinns, Elementals, Lords, and in select cases, Leviathans, prizes were awarded to the Beefiest Deck (highest total base power in the 75) and Beefiest Boardstate (highest total power in a single screenshot during a tournament match). In this sense, victory was not just about having a winning record, it was about being the meatiest mage among us.
@@ -61,17 +65,13 @@ Playing Eureka in a format centered around playing the biggest creatures takes a
 
 On the other end of the spectrum of Beef, Lord Blank in his truest form, brought Lean Beef, a 43-power BU deck featuring sixteen of his favorite two-power creatures and only four creatures at four power. Combining combat hosers like Imprison and Darkness with Meekstone, Ian was able to take his army of low-power creatures to a strong 6-2 finish. When asked about his feelings on creatures, Blank said he thinks “creatures are fine, but (he) prefers playing spells like Enchantments.”
 
-![All-white meat](/assets/images/2020/ChristmasBeef/beefmasbutzenfiero.jpg)
-
 In the end, Christmas Beef provided a brief vacation from OS’s famed archetypes, even with restricted staples still in major attendance. While I don’t imagine I’ll see too many copies of Force of Nature hit the battlefield for a while, there is something special about fearlessly slamming big, Beefy creatures into play game after game. Even with Workshop restricted, artifact creatures still found their way out quickly via a plethora of Mana Vaults and occasionally Dark Ritual across the entire tournament, demonstrating as always the power of robots. In speaking with Danny, one thing he had wished for was to see more “firsts” throughout the tournament; casting oddball creatures like Yawgmoth Demon, using Lure to wipe out a Tetravus and its Tetravites with a Juggernaut, just cool card interactions that might not happen all the time in other tournaments.
 
-![Legends of the Fall](/assets/images/2020/ChristmasBeef/beefmaslordsandlegends.jpg)
+![All-white meat](/assets/images/2020/ChristmasBeef/beefmasbutzenfiero.jpg)
 
-This raises the ultimate question, how do we truly show Beef? To put it in the words of the great Notorious B.I.G., Beef should be “when you roll no less than 30 (in this case, 40) deep, when I see you, guaranteed to be in I-C-U.” Beef is about confidently staring your opponents down with the biggest, dumbest creature you pulled out of the back of your binder, and absolutely wreaking havoc. 
+This raises the ultimate question, how do we truly show Beef? To put it in the words of the great Notorious B.I.G., Beef should be “when you roll no less than 30 (in this case, 40) deep, when I see you, guaranteed to be in I-C-U.” Beef is about confidently staring your opponents down with the biggest, dumbest creature you pulled out of the back of your binder, and absolutely wreaking havoc.
 
-![Beefcast](/assets/images/2020/ChristmasBeef/beefcast.png)
-
-Sometimes it is hard to find the positives in a year like 2020, where so much of our normal has been disrupted, or to put it more bluntly, added to the constantly growing flames of the dumpster fire that has been this past year. Where my year started with some of my favorite people in the world, slinging cards at Der Rathskeller and trekking to Essen Haüs on a cold Madison evening, I’m happy to say it ended in a very similar fashion, even with a computer screen between us all. With 2020 almost in our rearview mirrors, we can hope that 2021 will bring us back to the places that the Lords have called our homes away from home across Chicago. 
+Sometimes it is hard to find the positives in a year like 2020, where so much of our normal has been disrupted, or to put it more bluntly, added to the constantly growing flames of the dumpster fire that has been this past year. Where my year started with some of my favorite people in the world, slinging cards at Der Rathskeller and trekking to Essen Haüs on a cold Madison evening, I’m happy to say it ended in a very similar fashion, even with a computer screen between us all. With 2020 almost in our rearview mirrors, we can hope that 2021 will bring us back to the places that the Lords have called our homes away from home across Chicago.
 
 ## Cattle Call
 
