@@ -27,6 +27,20 @@ Until next time, stay warm & safe and take care of each other out there.
 ## Alpha-Alliances Gallery
 
 ![Batch 1 Standings](/assets/images/2021/winterlude21/winterludebatch1results.png)
+![Petray](/assets/images/2021/winterlude21/a2a/01petraya2a.jpg)
+![Grissom](/assets/images/2021/winterlude21/a2a/02grissoma2a1.jpg)
+![James](/assets/images/2021/winterlude21/a2a/03jamesa2a.jpg)
+![Dotterer](/assets/images/2021/winterlude21/a2a/04dotterera2a.jpg)
+![Moss](/assets/images/2021/winterlude21/a2a/05mossa2a.jpg)
+![Piquard](/assets/images/2021/winterlude21/a2a/06piquarda2a.jpg)
+![Agra](/assets/images/2021/winterlude21/a2a/07agraa2a.jpg)
+![Finney](/assets/images/2021/winterlude21/a2a/08finneya2a.jpg)
+![Semmens](/assets/images/2021/winterlude21/a2a/09semmensa2a.jpg)
+![Blank](/assets/images/2021/winterlude21/a2a/10blanka2a.jpg)
+![Wall](/assets/images/2021/winterlude21/a2a/11walla2a.jpg)
+![Velasco](/assets/images/2021/winterlude21/a2a/12velascoa2a.jpg)
+![Baran](/assets/images/2021/winterlude21/a2a/13barana2a.jpeg)
+![Rohr](/assets/images/2021/winterlude21/a2a/14rohra2a.jpg)
 
 ## Middle School Gallery
 
