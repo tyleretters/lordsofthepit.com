@@ -14,7 +14,7 @@ As calendars mercifully flipped from 2020 to 2021, we found ourselves in need of
 
 ## Batch 1: Alpha to Alliances
 
-For those curious, the [Music City Old School](https://musiccityos.com/2020/08/31/old-school-in-the-time-of-ice-alpha-through-alliances/) crew have a fine primer explaining this OS variant and for Winterlude we tweaked it by restricting Strip Mine. Our own Politburo wanted to push the envelope with broken lands and, sure enough, Bazaar of Baghdad, Glacial Chasm and Kjeldoran Outpost all featured prominently among the top lists. Our field saw several classic and interesting archetypes such as Necro (burn & combo variants), Stormbind Aggro, Reanimator (strengthened by Krovikan Horror), Storm Cauldron Combo and Diminishing Returns Combo. Both Force of Will and Gorilla Shaman were in bountiful supply.
+For those curious, the [Music City Old School](https://musiccityos.com/2020/08/31/old-school-in-the-time-of-ice-alpha-through-alliances/) crew have a fine primer explaining this OS variant and for Winterlude we tweaked it by restricting Strip Mine. Our own Politburo wanted to push the envelope with broken lands and, sure enough, Bazaar of Baghdad, Glacial Chasm and Kjeldoran Outpost all featured prominently among winning lists. Our field saw several classic and interesting archetypes such as Necro (burn & combo variants), Stormbind Aggro, Reanimator (strengthened by Krovikan Horror), Storm Cauldron Combo and Diminishing Returns Combo. Both Force of Will and Gorilla Shaman were in bountiful supply.
 
 ![Proof of Concept](/assets/images/2021/winterlude21/reanimator.jpg)
 
