@@ -8,7 +8,7 @@ category: Blog
 
 (HEADER IMAGE: TYLER PLEASE USE WINTER'S NIGHT)
 
-As our calendars mercifully flipped from 2020 to 2021, we found ourselves in need of a way to keep virtual hearths stoked and the Gathering strong. Enter Winterlude ‘21, a two-batch challenge featuring Old School Alpha-Alliances in Batch 1 and Middle School in Batch 2. Fourteen Lords & Co. met in icy, windswept, digital battlefields to test their mettle against winter’s might.
+As calendars mercifully flipped from 2020 to 2021, we found ourselves in need of a way to keep our virtual hearths stoked and Gathering strong. Enter Winterlude ‘21, a two-batch challenge featuring Old School Alpha-Alliances in Batch 1 and Middle School in Batch 2. Fourteen Lords & Co. met in icy, windswept, digital battlefields to test their mettle against winter’s might.
 
 ![Boneheads](/assets/images/2021/winterlude21/boneheads.png)
 
