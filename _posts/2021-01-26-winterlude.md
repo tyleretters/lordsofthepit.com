@@ -10,13 +10,13 @@ category: Blog
 
 As our calendars mercifully flipped from 2020 to 2021, we found ourselves in need of a way to keep virtual hearths stoked and the Gathering strong. Enter Winterlude ‘21, a two-batch challenge featuring Old School Alpha-Alliances in Batch 1 and Middle School in Batch 2. Fourteen Lords & Co. met in icy, windswept, digital battlefields to test their mettle against winter’s might.
 
-![Beefcast](/assets/images/2020/ChristmasBeef/beefcast.png)
+![Boneheads](/assets/images/2021/winterlude21/boneheads.png)
 
 ## Batch 1: Alpha to Alliances
 
 For those curious, the [Music City Old School](https://www.eji.org) crew have a fine primer for this OS variant and for Winterlude we tweaked it by restricting Strip Mine. Our own Politburo wanted to push the envelope with broken lands and, sure enough, Bazaar of Baghdad, Glacial Chasm and Kjeldoran Outpost all featured prominently among the top lists. Our field saw several classic and interesting archetypes such as Necro (burn & combo variants), Stormbind Aggro, Reanimator (strengthened by Krovikan Horror), Storm Cauldron Combo and Diminishing Returns Combo.
 
-![Legends of the Fall](/assets/images/2020/ChristmasBeef/beefmaslordsandlegends.jpg)
+![Proof of Concept](/assets/images/2021/winterlude21/reanimator.jpg)
 
 ## Batch 2: Middle School
 
@@ -26,8 +26,21 @@ Until next time, stay warm & safe and take care of each other out there.
 
 ## Alpha-Alliances Gallery
 
-![Friedman](/assets/images/2020/ChristmasBeef/01beefmasfriedman.jpg)
+![Batch 1 Standings](/assets/images/2021/winterlude21/winterludebatch1results.png)
 
 ## Middle School Gallery
 
-![Friedman](/assets/images/2020/ChristmasBeef/01beefmasfriedman.jpg)
+![Final Standings](/assets/images/2021/winterlude21/winterlude21finalstandings.png)
+![Petray](/assets/images/2021/winterlude21/middleschool/01petrayms.jpg)
+![Grissom](/assets/images/2021/winterlude21/middleschool/02grissomms.jpg)
+![Finney](/assets/images/2021/winterlude21/middleschool/03finneyms.jpg)
+![Wall](/assets/images/2021/winterlude21/middleschool/04wallms.jpg)
+![Blank](/assets/images/2021/winterlude21/middleschool/05blankms.jpg)
+![James](/assets/images/2021/winterlude21/middleschool/07jamesms.jpg)
+![Moss](/assets/images/2021/winterlude21/middleschool/08mossms.jpg)
+![Piquard](/assets/images/2021/winterlude21/middleschool/09piquardms.jpg)
+![Semmens](/assets/images/2021/winterlude21/middleschool/11semmensms.jpg)
+![Baran](/assets/images/2021/winterlude21/middleschool/12baranms.jpeg)
+![Rohr](/assets/images/2021/winterlude21/middleschool/13rohrms.jpg)
+![Velasco](/assets/images/2021/winterlude21/middleschool/14velascoms.jpg)
+![](/assets/images/2021/winterlude21/reignoftrerror.jpg)
