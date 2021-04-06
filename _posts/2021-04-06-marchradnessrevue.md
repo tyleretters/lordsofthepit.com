@@ -50,6 +50,8 @@ Bob did some charity work and went easy enough on me to give me a win against hi
 
 Middle School was a ton of fun, and I’d like to give it another shot, though I think I need to read up on the card pool more before next time. Again, would never have ended up playing without Shane’s generosity.
 
+![Triple Carno Sighting!](/assets/images/marchradness/triplecarno.png)
+
 To no one’s surprise, the combo stars of Classic also dominated Middle School with Braun beating Dotterrer on breakers (though a mis-entered match result initially gave Dom the win, Moss crushed him with the final, corrected results). Congrats to both of them for slaying us all. Big thanks to Moss for running yet another excellent event despite being in the middle of a move. I’m looking forward to next time.
 
 ## Classic Gallery
