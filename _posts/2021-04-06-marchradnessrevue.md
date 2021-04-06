@@ -24,9 +24,9 @@ So with most of a Middle School Stasis deck in my hands as a result of Shane’s
 
 On March 4th, a small gathering of Lords and select associates kicked off March Radness with a virtual happy hour. I’ve been living in Dallas, TX over the last three years, and having the opportunity to play virtually has been a great way to stay in touch with the club. I’ve been grateful to my fellow Lords for hosting all of these virtual events over the past few years.
 
-![Usual Suspects](/assets/images/marchradness/radnesskickoff.png)
-
 The event started with Classic, and contained a healthy mix of different decks—Stifle Nought, High Tide, Price of Progress Cam Special™️, Goblin Welder control from yours truly, Food Chain Goblins, Deadguy Ale, Storm Combo, Gro-A-Tog, UR Morphling Control, Devourer Combo, Pox, Goblins, Burn, Zoo Sligh, and Dragon Combo.
+
+![Usual Suspects](/assets/images/marchradness/radnesskickoff.png)
 
 I understand very little about this format, but it is very broken. My Goblin Welder deck was fun to play but had absolutely no chance against both of the Strom decks that easily 2-0’d me. Welder was coincidentally amazing against Lorien’s Dreadnoughts (it helped that they never made an appearance G1). Shane’s Devourer Combo deck was new tech to me – I got lucky and won this match, but the deck was clearly better than mine.
 
