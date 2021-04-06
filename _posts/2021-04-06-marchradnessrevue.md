@@ -40,15 +40,11 @@ Classic is relatively unexplored. There are some obvious historical decks—Stor
 
 As anyone would have guessed, Storm dominated. This deck benefits from playing most of the restricted list and paving the way with Duress. Playing against this gave me Type 1 PTSD (well done Dom & Punts).
 
-![Triple Carno Sighting!](/assets/images/marchradness/triplecarno.png)
-
 On to Middle School – this format is incredibly wide and really requires expert knowledge of the card pool. As a first-time player who has seen many of these cards in the past, I still had almost no idea what was going on as my opponents ran me over. Mossman dropped after a disgraceful performance with Stiflenought in Classic... Just kidding — he was busy moving (congrats on the new place!!!)—and Standstill expert Greg tagged right in.
 
-The Stasis deck I played was really cool, and Forsaken City is some incredible technology. That said, it’s pretty hard to win with Black Vise when your opponent has Manabond in play. This was a new one for me. 
+The Stasis deck I played was really cool, and Forsaken City is some incredible technology. That said, it’s pretty hard to win with Black Vise when your opponent has Manabond in play. This was a new one for me. Stasis was also terrible against Rajah’s Enchantress, but it was cool to see his deck play out. Very very broken. Same can be said about my match against Baran’s Madness deck. Tim played it very well, and there wasn’t a single turn where I was ahead in our two short games. Bob did some charity work and went easy enough on me to give me a win against his Coco Pebbles deck. I did almost lose this one as well, given that he necro-locked himself with 3 cards in hand. And with this, I’d deck out before he did, and could never kill him with Vise. Double Chain of Vapor gave me the win in one of the weirdest games of Magic I’ve played in a long time.
 
-Stasis was also terrible against Rajah’s Enchantress, but it was cool to see his deck play out. Very very broken. Same can be said about my match against Baran’s Madness deck. Tim played it very well, and there wasn’t a single turn where I was ahead in our two short games.
-
-Bob did some charity work and went easy enough on me to give me a win against his Coco Pebbles deck. I did almost lose this one as well, given that he necro-locked himself with 3 cards in hand. And with this, I’d deck out before he did, and could never kill him with Vise. Double Chain of Vapor gave me the win in one of the weirdest games of Magic I’ve played in a long time.
+![Triple Carno Sighting!](/assets/images/marchradness/triplecarno.png)
 
 Middle School was a ton of fun, and I’d like to give it another shot, though I think I need to read up on the card pool more before next time. Again, would never have ended up playing without Shane’s generosity.
 
