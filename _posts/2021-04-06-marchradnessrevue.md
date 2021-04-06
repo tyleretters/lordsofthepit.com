@@ -50,7 +50,7 @@ Middle School was a ton of fun, and I’d like to give it another shot, though I
 
 ![Final Standings (Sorry, Dom)](/assets/images/marchradness/marchradnessbatch2standings.png)
 
-To no one’s surprise, the combo stars of Classic also dominated Middle School with Braun beating Dotterrer on breakers (though a mis-entered match result initially gave Dom the win, Moss crushed him with the final, corrected results). Congrats to both of them for slaying us all. Big thanks to Moss for running yet another excellent event despite being in the middle of a move. I’m looking forward to next time.
+To no one’s surprise, the combo stars of Classic also dominated Middle School with Braun beating Dotterer on breakers (though a mis-entered match result initially gave Dom the win, Moss crushed him with the final, corrected results). Congrats to both of them for slaying us all. Big thanks to Moss for running yet another excellent event despite being in the middle of a move. I’m looking forward to next time.
 
 ## Classic Gallery
 
