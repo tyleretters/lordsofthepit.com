@@ -30,7 +30,7 @@ The event started with Classic, and contained a healthy mix of different decks�
 
 I understand very little about this format, but it is very broken. My Goblin Welder deck was fun to play but had absolutely no chance against both of the Strom decks that easily 2-0’d me. Welder was coincidentally amazing against Lorien’s Dreadnoughts (it helped that they never made an appearance G1). Shane’s Devourer Combo deck was new tech to me – I got lucky and won this match, but the deck was clearly better than mine.
 
-Long time friend of the club, Cam from PDX, and I had a fun set of side games. I had always heard Cam was awesome from Moss and just about anyone who had met him. Unfortunately, neither of us had ever hug out at an event. A few years back, I was visiting Portland on vacation. I texted Moss for Cam’s phone number to see if we could find an opportunity for beers. We got a chance to hang, and I cannot wait to visit again – he’s one of the best dudes.
+Long time friend of the club, Cam from PDX, and I had a fun set of side games. I had always heard Cam was awesome from Moss and just about anyone who had met him. Unfortunately, neither of us had ever hung out at an event. A few years back, I was visiting Portland on vacation. I texted Moss for Cam’s phone number to see if we could find an opportunity for beers. We got a chance to hang, and I cannot wait to visit again – he’s one of the best dudes.
 
 These games were the only time I got Goblin Welder + Tetravus going and it was glorious. Mana Drain proved to be pretty good against Price of Progress + Fork, and I’m looking forward to the next battle.
 
