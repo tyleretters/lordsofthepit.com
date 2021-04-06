@@ -10,15 +10,21 @@ category: Blog
 
 Long time reader, first time poster. You may know of me from my collected works on the merits of including [Ancestral Recall](http://www.understandingancestral.com/) in your 93/94 deck list, as well as my pioneering works on the positive effects of moving immediately to the second main phase. At any rate, I’d like to thank you for reading.
 
-This past February, the Lords organized another charity webcam event to keep the degenerates satiated in spite of the global pandemic. March Radness raised $417 to benefit the Chicago Restaurant Workers Relief Fund via [Southern Smoke](https://southernsmoke.org/chicago-relief-fund/). The formats were [Classic](https://www.eternalcentral.com/classicmagicrules/) and [Middle School](https://www.eternalcentral.com/middleschool/) MTG, two formats I know very little about. 
+This past February, the Lords organized another charity webcam event to keep our degenerates satiated in spite of the global pandemic. March Radness raised $417 to benefit the Chicago Restaurant Workers Relief Fund via [Southern Smoke](https://southernsmoke.org/chicago-relief-fund/). The formats were [Classic](https://www.eternalcentral.com/classicmagicrules/) and [Middle School](https://www.eternalcentral.com/middleschool/) MTG, two formats I know very little about.
+
+PIQ
 
 My first exposure to Magic was in 1994, but I was not actively playing between 1995 and 2004. When I got back in during college, I wanted to play a format where I could play both Sol Ring and dual lands. Thus, I started with Type 1 (Vintage). Aside from a limited amount of Legacy, I knew very few cards from the card pool outside of Type 1. So, as you can imagine, without having played during the Classic and Middle School eras of MTG and never having played Extended, these two formats are pretty far outside of my comfort zone.
 
 Middle School (which seems to be extremely similar to [Premodern](https://premodernmagic.com/), but with some key card differences, like Force of Will) has an extremely wide card pool and many viable decks. I’ve avoided the format, largely because I was happy enough with other throwback formats, and I didn’t want to dive into a new card pool. But sometimes in life, if one is extremely fortunate, he or she will encounter selfless individuals who just want to bring everyone together:
 
-So with most of a Middle School Stasis deck in my hands as a result of Shane’s kindness, I ended up playing in March Randess. I threw together a Goblin Welder control deck with a bunch of blue draw spells for Classic, hoping to live the dream and weld Tetravites for Triskellion (spoiler alert, it DID NOT happen).
+forsaken city pic
+
+So with most of a Middle School Stasis deck in my hands as a result of Shane’s kindness, I ended up playing in March Randess. I threw together a Goblin Welder control deck with a bunch of blue draw spells for Classic, hoping to live the dream and weld Tetravites for Triskelion (spoiler alert, it DID NOT happen).
 
 On March 4th, a small gathering of Lords and select associates kicked off March Radness with a virtual happy hour. I’ve been living in Dallas, TX over the last three years, and having the opportunity to play virtually has been a great way to stay in touch with the club. I’ve been grateful to my fellow Lords for hosting all of these virtual events over the past few years.
+
+PIQ
 
 The event started with Classic, and contained a healthy mix of different decks—Stifle Nought, High Tide, Price of Progress Cam Special™️, Goblin Welder control from yours truly, Food Chain Goblins, Deadguy Ale, Storm Combo, Gro-A-Tog, UR Morphling Control, Devourer Combo, Pox, Goblins, Burn, Zoo Sligh, and Dragon Combo.
 
@@ -26,14 +32,15 @@ I understand very little about this format, but it is very broken. My Goblin Wel
 
 Long time friend of the club, Cam from PDX, and I had a fun set of side games. I had always heard Cam was awesome from Moss and just about anyone who had met him. Unfortunately, neither of us had ever hug out at an event. A few years back, I was visiting Portland on vacation. I texted Moss for Cam’s phone number to see if we could find an opportunity for beers. We got a chance to hang, and I cannot wait to visit again – he’s one of the best dudes.
 
-These games were the only time I got Goblin Welder + Tetravus going and it was glorious. 
-Mana Drain proved to be pretty good against Price of Progress + Fork, and I’m looking forward to the next battle.
+These games were the only time I got Goblin Welder + Tetravus going and it was glorious. Mana Drain proved to be pretty good against Price of Progress + Fork, and I’m looking forward to the next battle.
+
+PIQ
 
 Classic is relatively unexplored. There are some obvious historical decks—Storm, Gro, Goblins, etc, but I am guessing there is some unknown coolness out there that we’re all missing. This format is also really exciting because the internet is not loaded with deck lists. This makes for a great opportunity to play some interesting games if you can convince your friends to build something other than Type 1 net decks from 2003. 
 
-As anyone would have guessed, Storm dominated. This deck benefits from playing most of the restricted list and paving the way with Duress. Playing against this gave me Type 1 PTSD (well done Dom & Matt).
+As anyone would have guessed, Storm dominated. This deck benefits from playing most of the restricted list and paving the way with Duress. Playing against this gave me Type 1 PTSD (well done Dom & Punts).
 
-On to Middle School – this format is incredibly wide and really requires expert knowledge of the card pool. As a first-time player who has seen many of these cards in the past, I still had almost no idea what was going on as my opponents ran me over. Mossman dropped after a disgraceful performance with Stifle Nought in Classic… Just kidding—he was busy moving (congrats on the new place!!!)—and Standstill expert Greg tagged right in.
+On to Middle School – this format is incredibly wide and really requires expert knowledge of the card pool. As a first-time player who has seen many of these cards in the past, I still had almost no idea what was going on as my opponents ran me over. Mossman dropped after a disgraceful performance with Stiflenought in Classic... Just kidding — he was busy moving (congrats on the new place!!!)—and Standstill expert Greg tagged right in.
 
 The Stasis deck I played was really cool, and Forsaken City is some incredible technology. That said, it’s pretty hard to win with Black Vise when your opponent has Manabond in play. This was a new one for me. 
 
@@ -43,7 +50,7 @@ Bob did some charity work and went easy enough on me to give me a win against hi
 
 Middle School was a ton of fun, and I’d like to give it another shot, though I think I need to read up on the card pool more before next time. Again, would never have ended up playing without Shane’s generosity.
 
-To no one’s surprise, the combo stars of Classic also dominated Middle School with Braun beating Dotterrer on breakers (though a mis-entered match result initially gave Dom the win, with Moss crushing him with the final corrected results). Congrats to both of them for slaying us all. Big thanks to Moss for running yet another excellent event despite being in the middle of a move. I’m looking forward to next time.
+To no one’s surprise, the combo stars of Classic also dominated Middle School with Braun beating Dotterrer on breakers (though a mis-entered match result initially gave Dom the win, Moss crushed him with the final, corrected results). Congrats to both of them for slaying us all. Big thanks to Moss for running yet another excellent event despite being in the middle of a move. I’m looking forward to next time.
 
 ## Classic Gallery
 
