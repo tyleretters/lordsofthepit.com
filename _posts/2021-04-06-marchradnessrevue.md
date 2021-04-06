@@ -6,25 +6,25 @@ date: "2021-04-06"
 category: Blog
 ---
 
-(Header image: please use Forsaken City)
+(Header image: Tyler, please use Forsaken City)
 
 Long time reader, first time poster. You may know of me from my collected works on the merits of including [Ancestral Recall](http://www.understandingancestral.com/) in your 93/94 deck list, as well as my pioneering works on the positive effects of moving immediately to the second main phase. At any rate, I’d like to thank you for reading.
 
 This past February, the Lords organized another charity webcam event to keep our degenerates satiated in spite of the global pandemic. March Radness raised $417 to benefit the Chicago Restaurant Workers Relief Fund via [Southern Smoke](https://southernsmoke.org/chicago-relief-fund/). The formats were [Classic](https://www.eternalcentral.com/classicmagicrules/) and [Middle School](https://www.eternalcentral.com/middleschool/) MTG, two formats I know very little about.
 
-PIQ
+![Brain Drain](/assets/images/marchradness/friedmandrains.jpg)
 
 My first exposure to Magic was in 1994, but I was not actively playing between 1995 and 2004. When I got back in during college, I wanted to play a format where I could play both Sol Ring and dual lands. Thus, I started with Type 1 (Vintage). Aside from a limited amount of Legacy, I knew very few cards from the card pool outside of Type 1. So, as you can imagine, without having played during the Classic and Middle School eras of MTG and never having played Extended, these two formats are pretty far outside of my comfort zone.
 
 Middle School (which seems to be extremely similar to [Premodern](https://premodernmagic.com/), but with some key card differences, like Force of Will) has an extremely wide card pool and many viable decks. I’ve avoided the format, largely because I was happy enough with other throwback formats, and I didn’t want to dive into a new card pool. But sometimes in life, if one is extremely fortunate, he or she will encounter selfless individuals who just want to bring everyone together:
 
-forsaken city pic
+![Forsaken, Not Forgotten](/assets/images/marchradness/forsakencity.jpg)
 
-So with most of a Middle School Stasis deck in my hands as a result of Shane’s kindness, I ended up playing in March Randess. I threw together a Goblin Welder control deck with a bunch of blue draw spells for Classic, hoping to live the dream and weld Tetravites for Triskelion (spoiler alert, it DID NOT happen).
+So with most of a Middle School Stasis deck in my hands as a result of Shane’s kindness, I ended up playing in March Radness. I threw together a Goblin Welder control deck with a bunch of blue draw spells for Classic, hoping to live the dream and weld Tetravites for Triskelion (spoiler alert, it DID NOT happen).
 
 On March 4th, a small gathering of Lords and select associates kicked off March Radness with a virtual happy hour. I’ve been living in Dallas, TX over the last three years, and having the opportunity to play virtually has been a great way to stay in touch with the club. I’ve been grateful to my fellow Lords for hosting all of these virtual events over the past few years.
 
-PIQ
+![Usual Suspects](/assets/images/marchradness/radnesskickoff.png)
 
 The event started with Classic, and contained a healthy mix of different decks—Stifle Nought, High Tide, Price of Progress Cam Special™️, Goblin Welder control from yours truly, Food Chain Goblins, Deadguy Ale, Storm Combo, Gro-A-Tog, UR Morphling Control, Devourer Combo, Pox, Goblins, Burn, Zoo Sligh, and Dragon Combo.
 
@@ -34,7 +34,7 @@ Long time friend of the club, Cam from PDX, and I had a fun set of side games. I
 
 These games were the only time I got Goblin Welder + Tetravus going and it was glorious. Mana Drain proved to be pretty good against Price of Progress + Fork, and I’m looking forward to the next battle.
 
-PIQ
+![](/assets/images/marchradness/priceofprogress.jpg)
 
 Classic is relatively unexplored. There are some obvious historical decks—Storm, Gro, Goblins, etc, but I am guessing there is some unknown coolness out there that we’re all missing. This format is also really exciting because the internet is not loaded with deck lists. This makes for a great opportunity to play some interesting games if you can convince your friends to build something other than Type 1 net decks from 2003. 
 
@@ -54,7 +54,10 @@ To no one’s surprise, the combo stars of Classic also dominated Middle School 
 
 ## Classic Gallery
 
-![Batch 1 Standings](/assets/images/2021/winterlude21/winterludebatch1results.png)
+![Batch 1 Standings](/assets/images/marchradness/marchradnessbatch1standings.png)
 ![Petray](/assets/images/2021/winterlude21/a2a/01petraya2a.jpg)
 
 ## Middle School Gallery
+
+![Batch 2 Standings](/assets/images/marchradness/marchradnessbatch2standings.png)
+
