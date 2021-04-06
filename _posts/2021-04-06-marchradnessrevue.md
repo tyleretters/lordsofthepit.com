@@ -8,13 +8,13 @@ category: Blog
 
 (Header image: please use Forsaken City)
 
-Long time reader, first time poster. You may know of me from my collected works on the merits of including Ancestral Recall in your 93/94 deck list, as well as my pioneering works on the positive effects of moving immediately to the second main phase. At any rate, I’d like to thank you for reading.
+Long time reader, first time poster. You may know of me from my collected works on the merits of including [Ancestral Recall](http://www.understandingancestral.com/) in your 93/94 deck list, as well as my pioneering works on the positive effects of moving immediately to the second main phase. At any rate, I’d like to thank you for reading.
 
-This past February, the venerable Mossman announced another split-format charity webcam event to keep us degenerates satiated in spite of the global pandemic. March Radness benefitted Chicago Restaurant Workers Relief Fund via Southern Smoke. The formats were Classic and Middle School MTG, two formats I know very little about. 
+This past February, the Lords organized another charity webcam event to keep the degenerates satiated in spite of the global pandemic. March Radness raised $417 to benefit the Chicago Restaurant Workers Relief Fund via [Southern Smoke](https://southernsmoke.org/chicago-relief-fund/). The formats were [Classic](https://www.eternalcentral.com/classicmagicrules/) and [Middle School](https://www.eternalcentral.com/middleschool/) MTG, two formats I know very little about. 
 
 My first exposure to Magic was in 1994, but I was not actively playing between 1995 and 2004. When I got back in during college, I wanted to play a format where I could play both Sol Ring and dual lands. Thus, I started with Type 1 (Vintage). Aside from a limited amount of Legacy, I knew very few cards from the card pool outside of Type 1. So, as you can imagine, without having played during the Classic and Middle School eras of MTG and never having played Extended, these two formats are pretty far outside of my comfort zone.
 
-Middle School (which seems to be extremely similar to Premodern, but with some key card differences, like Force of Will) has an extremely wide card pool and many viable decks. I’ve avoided the format, largely because I was happy enough with other throwback formats, and I didn’t want to dive into a new card pool. But sometimes in life, if one is extremely fortunate, he or she will encounter selfless individuals who just want to bring everyone together:
+Middle School (which seems to be extremely similar to [Premodern](https://premodernmagic.com/), but with some key card differences, like Force of Will) has an extremely wide card pool and many viable decks. I’ve avoided the format, largely because I was happy enough with other throwback formats, and I didn’t want to dive into a new card pool. But sometimes in life, if one is extremely fortunate, he or she will encounter selfless individuals who just want to bring everyone together:
 
 So with most of a Middle School Stasis deck in my hands as a result of Shane’s kindness, I ended up playing in March Randess. I threw together a Goblin Welder control deck with a bunch of blue draw spells for Classic, hoping to live the dream and weld Tetravites for Triskellion (spoiler alert, it DID NOT happen).
 
