@@ -6,7 +6,7 @@ date: "2021-04-06"
 category: Blog
 ---
 
-(Header image: Tyler, please use Forsaken City)
+![March Radness Revue](/assets/images/marchradness/forsaken-city.jpg)
 
 Long time reader, first time poster. You may know of me from my collected works on the merits of including [Ancestral Recall](http://www.understandingancestral.com/) in your 93/94 deck list, as well as my pioneering works on the positive effects of moving immediately to the second main phase. At any rate, I’d like to thank you for reading.
 
