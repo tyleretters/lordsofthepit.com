@@ -26,7 +26,7 @@ On March 4th, a small gathering of Lords and select associates kicked off March 
 
 The event started with Classic, and contained a healthy mix of different decks—Stifle Nought, High Tide, Price of Progress Cam Special™️, Goblin Welder control from yours truly, Food Chain Goblins, Deadguy Ale, Storm Combo, Gro-A-Tog, UR Morphling Control, Devourer Combo, Pox, Goblins, Burn, Zoo Sligh, and Dragon Combo.
 
-![Usual Suspects](/assets/images/marchradness/radnesskickoff.png)
+![Unusual Suspects](/assets/images/marchradness/radnesskickoff.png)
 
 I understand very little about this format, but it is very broken. My Goblin Welder deck was fun to play but had absolutely no chance against both of the Strom decks that easily 2-0’d me. Welder was coincidentally amazing against Lorien’s Dreadnoughts (it helped that they never made an appearance G1). Shane’s Devourer Combo deck was new tech to me – I got lucky and won this match, but the deck was clearly better than mine.
 
@@ -42,13 +42,13 @@ As anyone would have guessed, Storm dominated. This deck benefits from playing m
 
 On to Middle School – this format is incredibly wide and really requires expert knowledge of the card pool. As a first-time player who has seen many of these cards in the past, I still had almost no idea what was going on as my opponents ran me over. Mossman dropped after a disgraceful performance with Stiflenought in Classic... Just kidding — he was busy moving (congrats on the new place!!!)—and Standstill expert Greg tagged right in.
 
-![Triple Carno Sighting!](/assets/images/marchradness/triplecarno.png)
+![Elsewhere, Triple Carno!](/assets/images/marchradness/triplecarno.png)
 
 The Stasis deck I played was really cool, and Forsaken City is some incredible technology. That said, it’s pretty hard to win with Black Vise when your opponent has Manabond in play. This was a new one for me. Stasis was also terrible against Rajah’s Enchantress, but it was cool to see his deck play out. Very very broken. Same can be said about my match against Baran’s Madness deck. Tim played it very well, and there wasn’t a single turn where I was ahead in our two short games. Bob did some charity work and went easy enough on me to give me a win against his Coco Pebbles deck. I did almost lose this one as well, given that he necro-locked himself with 3 cards in hand. And with this, I’d deck out before he did, and could never kill him with Vise. Double Chain of Vapor gave me the win in one of the weirdest games of Magic I’ve played in a long time.
 
 Middle School was a ton of fun, and I’d like to give it another shot, though I think I need to read up on the card pool more before next time. Again, would never have ended up playing without Shane’s generosity.
 
-![Final Standings](/assets/images/marchradness/marchradnessbatch2standings.png)
+![Final Standings (Sorry, Dom)](/assets/images/marchradness/marchradnessbatch2standings.png)
 
 To no one’s surprise, the combo stars of Classic also dominated Middle School with Braun beating Dotterrer on breakers (though a mis-entered match result initially gave Dom the win, Moss crushed him with the final, corrected results). Congrats to both of them for slaying us all. Big thanks to Moss for running yet another excellent event despite being in the middle of a move. I’m looking forward to next time.
 
