@@ -10,7 +10,7 @@ category: Blog
 
 Long time reader, first time poster. You may know of me from my collected works on the merits of including [Ancestral Recall](http://www.understandingancestral.com/) in your 93/94 deck list, as well as my pioneering works on the positive effects of moving immediately to the second main phase. At any rate, I’d like to thank you for reading.
 
-This past February, the Lords organized another charity webcam event to keep our degenerates satiated in spite of the global pandemic. March Radness raised $417 to benefit the Chicago Restaurant Workers Relief Fund via [Southern Smoke](https://southernsmoke.org/chicago-relief-fund/). The formats were [Classic](https://www.eternalcentral.com/classicmagicrules/) and [Middle School](https://www.eternalcentral.com/middleschool/) MTG, two formats I know very little about.
+This past February, the Lords organized March Radness to keep our degenerates satiated in spite of the global pandemic. Eighteen participants raised $417 to benefit the Chicago Restaurant Workers Relief Fund via [Southern Smoke](https://southernsmoke.org/chicago-relief-fund/). The formats were [Classic](https://www.eternalcentral.com/classicmagicrules/) and [Middle School](https://www.eternalcentral.com/middleschool/) MTG, two formats I know very little about.
 
 ![Brain Drain](/assets/images/marchradness/friedmandrains.jpg)
 
