@@ -1,25 +1,12 @@
 ---
 layout: page
-title: Lords Haus
+title: Lords's Haüs 2: The Sequel
 permalink: /lords-haus
 ---
 
 ![](/assets/images/site/os-edh.jpg)
 
-## OS-EDH Battle Reports
-
----
-
-- [The Dungeon of Doom: Chapter I](/2019/11/21/the-dungeon-of-doom-chapter-i/)
-- [Forged in the Steel City](/2019/11/07/forged-in-the-steel-city/)
-- [A Fall Classic](/2019/10/24/a-fall-classic/)
-- [Darkness Falls](/2019/09/30/darkness-falls/)
-- [Scenes From an Italian Restaurant](/2019/06/15/scenes-from-an-italian-restaurant/)
-- [Double Dragon](/2019/05/10/double-dragon/)
-- [The Weirding (is the Hardest Part)](/2019/04/01/the-weirding-is-the-hardest-part/)
-- [The Council of Elders](/2019/03/05/the-council-of-elders/)
-
-## Enter the Dragon
+## Lords' Haus 2: The Sequel
 
 ---
 
