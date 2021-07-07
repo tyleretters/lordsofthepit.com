@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lords's Haüs 2: The Sequel
+title: "Lords's Haüs 2: The Sequel"
 permalink: /lords-haus
 ---
 
