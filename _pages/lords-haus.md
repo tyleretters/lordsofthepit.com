@@ -6,11 +6,11 @@ permalink: /lords-haus
 
 ![](/assets/images/site/os-edh.jpg)
 
-## Lords' Haus 2: The Sequel
+## Lords' Haüs 2: The Sequel
 
 ---
 
-In the spring of the year 2020, the world was changed forever. Governments were thrown into crisis, people 
+In the early spring of the year 2020, a quiet world began to irreparably change forever. An invisible force would begin to throw governments into crisis, one by one. Eventually, all of humanity was told to shelter in place, to avoid the danger and risk infection. This event is now known the world over as Lords' Haüs. More than two years later, as the dust is finally starts to settle, the survivors of the first Lords' Haüs are making plans to converge again on the sleepy town of Monroe Center, IL. The time is neigh. 
 
 ![](/assets/images/2019/02/unnamed.jpg)
 
