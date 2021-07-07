@@ -1,28 +1,39 @@
 ---
 layout: page
-title: "Lords's Haüs 2: The Sequel"
+title: "Lords' Haüs 2: The Sequel"
 permalink: /lords-haus
 ---
 
 ![](/assets/images/site/os-edh.jpg)
 
-## Lords' Haüs 2: The Sequel
+## "Lords' Haüs 2: The Sequel"
 
 ---
 
-In the early spring of the year 2020, a quiet world began to irreparably change forever. An invisible force would begin to throw governments into crisis, one by one. Eventually, all of humanity was told to shelter in place, to avoid the danger and risk of infection. This event is now known the world over as Lords' Haüs. More than two years later, as the dust is finally starts to settle, the survivors of the first Lords' Haüs are making plans to converge again on the sleepy town of Monroe Center, IL. The time is neigh. 
+"In the early spring of the year 2020, a quiet world began to irreparably change forever. An invisible force would begin to throw governments into crisis, one by one. Eventually, all of humanity was told to shelter in place, to avoid the danger and risk of infection. This event is now known the world over as Lords' Haüs. More than two years later, as the dust is finally starts to settle, the survivors of the first Lords' Haüs are making plans to converge again on the sleepy town of Monroe Center, IL. The time is neigh."
 
-![](/assets/images/2019/02/unnamed.jpg)
+---
 
-Additionally, Lords Etters Moss collaborated to create the “missing shard” Elder Dragon Legends, filling a gap left by WotC in the early 1990s. We now have Elder Dragons representing BUG, RUG, Jeskai, Junk and Mardu! We took inspiration from the dragons of Skyrim and sought to adapt character-dragons from that classic game to the realm of Dominaria. See the gallery below for more detail. If you would like to try our new Elder Dragons with your own playgroup, [downloadable cards are available here]({{ site.s3BucketPrefix }}/os-edh.zip).
+## Event Details
 
-![](/assets/images/2020/nkotb.jpg)
+"Lords' Haüs 2 will take place March 10th - 13th, 2022 at Kilbuck Creek in Monroe Center, IL. Check in begins at 3pm Thursday, March 10th, 2022 and check out is at 10am Sunday, March 13th, 2022"
 
-We've experimented with adding Ice Age and Homelands to the card pool (“OS95-EDH”) and have an eye toward trying Alliances and beyond as we continually seek out the siq-nastiest board states and combos. Our OS-EDH games can be quite long & grindy, sometimes taking a couple of hours, but the ethos of these meetups is to have an MTG hangout inspired equally by Dungeons Dragons, Risk and Settlers of Catan. Only the hardiest wizard can outlast his opponents (or their CTA schedules).
+---
 
-Our goal, as always, remains to push the boundaries of Old School Magic in a way that tests one’s cunning and explores the Shores of Imagination. So clear an evening, find some friends, grab snacks & beverages, and belly up to a heaping helping of OS-EDH!
+## Registration Information
 
-## Leaderboard
+"Registration for Lords' Haüs 2 will take place in three phases. **Registration is now open for all Lords of the Pit in good standing.** All other previous participants of Lords Haüs' will constitute phase two. In the unlikely event that there are any remaining slots, we will open phase three registration to new initiates or friends of the club."
+
+When phase two registration opens, Lords will no longer have exclusivity on slots. **It is highly recommended to register as soon as you can to reserve your spot.**
+
+- **Phase 1: Lords only - NOW OPEN**
+- Phase 2: "Previous Lords' Haus Participants. - Begins TBD
+- Phase 3: Remaining slots
+
+In order to register, Please send $365 [via paypal to Bob Agra via this link](https://paypal.me/bobagra?locale.x=en_US)
+
+Tournament formats and 
+
 
 ---
 
