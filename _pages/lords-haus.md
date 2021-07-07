@@ -6,23 +6,23 @@ permalink: /lords-haus
 
 ![](/assets/images/site/os-edh.jpg)
 
-## "Lords' Haüs 2: The Sequel"
+## Lords' Haüs 2: The Sequel
 
 ---
 
-"In the early spring of the year 2020, a quiet world began to irreparably change forever. An invisible force would begin to throw governments into crisis, one by one. Eventually, all of humanity was told to shelter in place, to avoid the danger and risk of infection. This event is now known the world over as Lords' Haüs. More than two years later, as the dust is finally starts to settle, the survivors of the first Lords' Haüs are making plans to converge again on the sleepy town of Monroe Center, IL. The time is neigh."
+In the early spring of the year 2020, a quiet world began to irreparably change forever. An invisible force would begin to throw governments into crisis, one by one. Eventually, all of humanity was told to shelter in place, to avoid the danger and risk of infection. This event is now known the world over as Lords' Haüs. More than two years later, as the dust is finally starts to settle, the survivors of the first Lords' Haüs are making plans to converge again on the sleepy town of Monroe Center, IL. The time is neigh.
 
 ---
 
 ## Event Details
 
-"Lords' Haüs 2 will take place March 10th - 13th, 2022 at Kilbuck Creek in Monroe Center, IL. Check in begins at 3pm Thursday, March 10th, 2022 and check out is at 10am Sunday, March 13th, 2022"
+Lords' Haüs 2 will take place March 10th - 13th, 2022 at Kilbuck Creek in Monroe Center, IL. Check in begins at 3pm Thursday, March 10th, 2022 and check out is at 10am Sunday, March 13th, 2022
 
 ---
 
 ## Registration Information
 
-"Registration for Lords' Haüs 2 will take place in three phases. **Registration is now open for all Lords of the Pit in good standing.** All other previous participants of Lords Haüs' will constitute phase two. In the unlikely event that there are any remaining slots, we will open phase three registration to new initiates or friends of the club."
+Registration for Lords' Haüs 2 will take place in three phases. **Registration is now open for all Lords of the Pit in good standing.** All other previous participants of Lords Haüs' will constitute phase two. In the unlikely event that there are any remaining slots, we will open phase three registration to new initiates or friends of the club.
 
 When phase two registration opens, Lords will no longer have exclusivity on slots. **It is highly recommended to register as soon as you can to reserve your spot.**
 
