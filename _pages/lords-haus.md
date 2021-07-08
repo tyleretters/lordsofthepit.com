@@ -16,9 +16,19 @@ In early spring of the year 2020, the world began to irreparably change forever.
 
 ## Event Details
 
-Lords' Haüs 2 will take place March 10th - 13th, 2022 at Kilbuck Creek in Monroe Center, IL. Check in begins at 3pm Thursday, March 10th, 2022 and check out is at 10am Sunday, March 13th, 2022.
+Lords' Haüs 2 will take place March 10th - 13th, 2022 at Kilbuck Creek in Monroe Center, IL. Check in begins at 3pm Thursday, March 10th, 2022 and check out is at 10am Sunday, March 13th, 2022. The venue is about 90 minutes west of Chicago. We will work to plan carpools closer to the event for all that need them, including those flying in.
 
 Snacks, breakfasts, catered lunches and catered dinners will be provided. Please incude food allergies or dietary restrictions with your registration. Booze and grass are all BYOB, so bring the good stuff.
+
+---
+
+## Tournament Info
+
+- Friday's main event will be Middle School.
+- Saturday's main event will be the 2022 Lords of the Pit Championship ('93/94 EC Rules.)
+- All other tournaments will be announced at a later date.
+
+Playtest cards (markers on basic lands) are allowed. Please take pride in their presentation. All cards and sleeves must be indistinguishable when face down or shuffled.
 
 ---
 
