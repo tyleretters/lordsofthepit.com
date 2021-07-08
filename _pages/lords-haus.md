@@ -10,7 +10,7 @@ permalink: /lords-haus
 
 ---
 
-In early spring of the year 2020, the world began to irreparably change forever. An event begin to throw governments across the globe into crisis. Eventually, all of humanity was had to shelter in place, to avoid the danger and risk of infection. This event is now known the world over as Lords' Haüs. More than two years later, as the dust is finally starts to settle, the survivors of the first Lords' Haüs are making plans to converge again on the sleepy town of Monroe Center, IL. The time is neigh.
+In early spring of the year 2020, the world began to irreparably change forever. An event begin to throw governments across the globe into crisis. Eventually, all of humanity was had to shelter in place, to avoid the danger and risk of infection. This event is now known the world over as Lords' Haüs. More than two years later, as the dust finally starts to settle, the survivors of the first Lords' Haüs are making plans to converge again on the sleepy town of Monroe Center, IL. The time is neigh.
 
 ---
 
