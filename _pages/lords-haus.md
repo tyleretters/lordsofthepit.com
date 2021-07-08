@@ -20,7 +20,7 @@ Lords' Haüs 2 will take place March 10th - 13th, 2022 at Kilbuck Creek in Monro
 
 Snacks, breakfasts, catered lunches and catered dinners will be provided. Please incude food allergies or dietary restrictions with your registration. Booze and grass are all BYOB, so please plan ahead and bring whatever you like.
 
-Ammenaties include an indoor pool, living room bird cage, six bathrooms, one urinal, and more bunk beds than Heaven's Gate. There will be ancillary activities throughout the event, all of which will be announced at a later date. The weather will be moderately more favorable, so there may be some opportunity for outdoor activities. If you would like to host an activity or have specific requests for events, please reach out.
+Amenities include an indoor pool, living room bird cage, six bathrooms, one urinal, and more bunk beds than Heaven's Gate. There will be ancillary activities throughout the event, all of which will be announced at a later date. The weather will be moderately more favorable, so there may be some opportunity for outdoor activities. If you would like to host an activity or have specific requests for events, please reach out.
 
 ---
 
@@ -41,7 +41,7 @@ Space is again reserved to 35 participants. Registration will take place in thre
 
 - Phase 1: Lords of the Pit in good standing - **REGISTRATION IS NOW OPEN**
 - Phase 2: Previous participants - Opens 10am, Friday, September 10th, 2021
-- Phase 3: New innitiates/friends of the club (if necissary) - 10am, Friday, October 8th, 2021
+- Phase 3: New initiates/friends of the club (if necessary) - 10am, Friday, October 8th, 2021
 
 To register, Please send $365 [via paypal to Bob Agra via this link](https://paypal.me/bobagra?locale.x=en_US)
 
