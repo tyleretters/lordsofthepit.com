@@ -6,7 +6,7 @@ permalink: /lords-haus
 
 ![](/assets/images/site/os-edh.jpg)
 
-## Lords' Haüs 2: The Sequel
+## "Lords' Haüs 2: The Sequel"
 
 ---
 
