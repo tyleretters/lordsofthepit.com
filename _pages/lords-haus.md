@@ -20,12 +20,14 @@ Lords' Haüs 2 will take place March 10th - 13th, 2022 at Kilbuck Creek in Monro
 
 Snacks, breakfasts, catered lunches and catered dinners will be provided. Please incude food allergies or dietary restrictions with your registration. Booze and grass are all BYOB, so bring the good stuff.
 
+Ammenaties include an indoor pool, living room bird cage, six bathrooms, one urinal, and more bunk beds than Heaven's Gate. The weather will be moderately more favorable, so there may be some opportunity for outdoor activities. 
+
 ---
 
 ## Tournament Info
 
 - Friday's main event will be Middle School.
-- Saturday's main event will be the 2022 Lords of the Pit Championship ('93/94 EC Rules.)
+- Saturday's main event will be the 2022 Lords of the Pit Championship (93/94 EC Rules.)
 - All other tournaments will be announced at a later date.
 
 Playtest cards (markers on basic lands) are allowed. Please take pride in their presentation. All cards and sleeves must be indistinguishable when face down or shuffled.
@@ -34,12 +36,12 @@ Playtest cards (markers on basic lands) are allowed. Please take pride in their 
 
 ## Registration Information
 
-Space is restricted to 35 participants. Registration will take place in three phases. **Registration is required to reserve your spot. Please do so as soon as possible.**
+Space is again reserved to 35 participants. Registration will take place in three phases. **Registration is required to reserve your spot. Please do so as soon as your phase opens.**
 
-- **Phase 1: Lords of the Pit - NOW OPEN**
+- Phase 1: Lords of the Pit in good standing - **REGISTRATION NOW OPEN**
 - Phase 2: Previous participants - Opens 10am, Friday, September 10th, 2021
-- Phase 3: New innitiates & friends of the club (if necissary) - 10am, Friday, October 8th, 2021
+- Phase 3: New innitiates/friends of the club (if necissary) - 10am, Friday, October 8th, 2021
 
-In order to register, Please send $365 [via paypal to Bob Agra via this link](https://paypal.me/bobagra?locale.x=en_US)
+To register, Please send $365 [via paypal to Bob Agra via this link](https://paypal.me/bobagra?locale.x=en_US)
 
 ---
