@@ -16,7 +16,7 @@ In early spring of the year 2020, the world began to irreparably change forever.
 
 ## Event Details
 
-Lords' Haüs 2 will take place March 10th - 13th, 2022 at Kilbuck Creek in Monroe Center, IL. Check in begins at 3pm Thursday, March 10th, 2022 and check out is at 10am Sunday, March 13th, 2022. In order to make up for lost time, this iteration will take place across three evenings. Unfortunately there will not be any partial/prorated bookings accepted.
+Lords' Haüs 2 will take place March 10th - 13th, 2022 at [Kilbuck Creek in Monroe Center, IL.](https://www.kilbuckcreek.com/retreats) Check in begins at 3pm Thursday, March 10th, 2022 and check out is at 10am Sunday, March 13th, 2022. In order to make up for lost time, this iteration will take place across three evenings. Unfortunately there will not be any partial/prorated bookings accepted.
 
 The venue is about 90 minutes west of Chicago. We will work to plan carpools for all that need them, including those flying in.
 
