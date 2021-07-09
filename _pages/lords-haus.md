@@ -57,6 +57,6 @@ In order register, please send $365 [via paypal to Lord Agra via this link.](htt
 
 ## Pandemic Fine Print
 
-In the unlikely event of virus resurgence/lockdowns: If it becomes necessary to cancel Lords' Haüs 2, registration fees will be returned to participants (with exception of any non-refundable deposits incurred.) The biggest expense of all is the rental, which is fully refundable up to 60 days before the event. Unfortunately, outside of full cancellation of the event, refunds are not guaranteed after registration is confirmed.
+In the unlikely event of virus resurgence/lockdowns: If it becomes necessary to cancel Lords' Haüs 2, registration fees will be returned to participants (with exception of any non-refundable deposits incurred.) The biggest expense of all is the rental, which is fully refundable up to 60 days before the event. Unfortunately, outside of full cancellation of the event, refunds are not guaranteed after your registration is confirmed.
 
 For your safety, it is strongly encouraged to have had the COVID-19 vaccine and any boosters recommended prior the event.
