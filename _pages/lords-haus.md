@@ -24,25 +24,25 @@ Amenities include an indoor pool, living room bird cage, six bathrooms, one urin
 
 ---
 
-## Tournament Info
+## Tentative Tournament Info
 
 - Friday's main event will be Middle School
 - Saturday's main event will be the 2022 Lords of the Pit Championship (93/94 EC Rules with Top 8)
-- Chaos Orb Trick Flips
+- Chaos Orb Trick Flips Contest
 - All other tournaments will be announced at a later date
 
 Professionally printed proxies and playtest cards (markers on basic lands) are allowed. Please take pride in their presentation. All cards and sleeves must be indistinguishable when face down or shuffled.
 
 ---
 
-## Registration Information
+## Registration
 
-Space is again reserved to 35 participants. Registration will take place in three phases. **Registration is required to reserve your spot. Please do so as soon as your phase opens.** Any remaining spaces become immediately available to those in the next phase.
+Space is again reserved to 35 participants. Registration will take place in three phases. **Registration is required to reserve your spot. Please do so as soon as your phase opens.** Any remaining spaces become immediately available to those in the next phase. Attempting to register before you have been invited to will only result in being refunded.
 
-- Phase 1: Lords of the Pit in good standing - **REGISTRATION IS NOW OPEN**
+- **Phase 1: Lords of the Pit in good standing - REGISTRATION IS NOW OPEN**
 - Phase 2: Previous participants - Opens 10am, Friday, September 10th, 2021
 - Phase 3: New initiates/friends of the club (if necessary) - 10am, Friday, October 8th, 2021
 
-To register, Please send $365 [via paypal to Bob Agra via this link](https://paypal.me/bobagra?locale.x=en_US)
+To register, Please send $365 [via paypal to Lord Agra via this link.](https://paypal.me/bobagra?locale.x=en_US) You will receive an email confirming your secured slot.
 
 ---
