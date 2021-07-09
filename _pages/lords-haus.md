@@ -49,6 +49,8 @@ Space is again reserved to 35 participants. Registration will take place across 
 - Phase 2: Previous Lords' Haüs participants - Registration opens 10am, Friday, September 10th, 2021
 - Phase 3: New initiates/friends of the club (if necessary) - Registration opens 10am, Friday, October 8th, 2021
 
+Unlike all other Lords of the Pit events, there is no charitable component to Lords' Haüs. This one is for the Lords. All fees exclusively go to the rental, catering and snacks.
+
 In order register, please send $365 [via paypal to Lord Agra via this link.](https://paypal.me/bobagra?locale.x=en_US) When you receive an email confirming your secured slot, start getting ready to ball the fuck out of control.
 
 ---
