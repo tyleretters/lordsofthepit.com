@@ -47,4 +47,4 @@ Space is again reserved to 35 participants. Registration will take place in thre
 
 To register, Please send $365 [via paypal to Lord Agra via this link.](https://paypal.me/bobagra?locale.x=en_US) When you receive an email confirming your secured slot, start getting ready to ball the fuck out of control.
 
----
+--- 
