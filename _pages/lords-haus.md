@@ -10,17 +10,17 @@ permalink: /lords-haus
 
 ---
 
-In early spring of the year 2020, the world began to irreparably change forever. An event begin to throw governments across the globe into crisis. Eventually, all of humanity had to shelter in place to avoid the danger and risk of infection. This new plague is now known the world over as Lords' Haüs. More than two years later as the dust finally starts to settle, the survivors of the first Lords' Haüs are making plans to converge again on the sleepy town of Monroe Center, IL. The time is neigh.
+In early spring of the year 2020, the world began to irreparably change forever. An event begins to throw governments across the globe into crisis. Eventually, all of humanity had to shelter in place to avoid the danger and risk of infection. This new plague is now known the world over as Lords' Haüs. More than two years later as the dust finally starts to settle, the survivors of the first Lords' Haüs are making plans to converge again on the sleepy town of Monroe Center, IL. The time is neigh.
 
 ---
 
 ## Event Details
 
-Lords' Haüs 2 will take place March 10th - 13th, 2022 at Kilbuck Creek in Monroe Center, IL. Check in begins at 3pm Thursday, March 10th, 2022 and check out is at 10am Sunday, March 13th, 2022. In order to make up for lost time, this iteration will take place across three evenings. Unfortunately there will not be any partial/prorated bookings accepted. 
+Lords' Haüs 2 will take place March 10th - 13th, 2022 at Kilbuck Creek in Monroe Center, IL. Check in begins at 3pm Thursday, March 10th, 2022 and check out is at 10am Sunday, March 13th, 2022. In order to make up for lost time, this iteration will take place across three evenings. Unfortunately there will not be any partial/prorated bookings accepted.
 
 The venue is about 90 minutes west of Chicago. We will work to plan carpools for all that need them, including those flying in.
 
-Snacks, breakfasts, catered lunches and catered dinners will be provided. Please incude food allergies or dietary restrictions with your registration. Booze and grass are all BYOB, so please plan ahead and bring whatever you like.
+Snacks, breakfasts, catered lunches and catered dinners will be provided. Please include food allergies or dietary restrictions with your registration. Booze and grass are all BYOB, so please plan ahead and bring whatever you like.
 
 Amenities include an indoor pool, living room bird cage, six bathrooms, one urinal, and more bunk beds than Heaven's Gate. There will be ancillary activities throughout the event, all of which will be announced at a later date. The weather will be moderately more favorable, so there may be some opportunity for outdoor activities. If you would like to host an activity or have specific requests for events, please reach out.
 
@@ -35,16 +35,26 @@ Amenities include an indoor pool, living room bird cage, six bathrooms, one urin
 
 Professionally printed proxies and playtest cards (markers on basic lands) are allowed. Please take pride in their presentation. All cards and sleeves must be indistinguishable when face down or shuffled.
 
+All participants of the 2022 Lords of the Pit Championship event must bring a prize valued of at least $20 for the prize pool. Creativity is encouraged. Some notable examples of the last prize pool included a power drill, a CE Mox Emerald, a box of Fallen Empires, mystery vinyl records, altered cards, booze, playmats, and much, much more!
+
+Please plan on bringing whatever cards you'd like to be stamped and signed by all attendees.
+
 ---
 
 ## Registration
 
-Space is again reserved to 35 participants. Registration will take place in three phases. **Registration is required to reserve your spot. Please do so as soon as your phase opens.** Any remaining spaces become immediately available to those in the next phase. Attempting to register before you have been invited to will only result in being refunded.
+Space is again reserved to 35 participants. Registration will take place across three phases. Submit payment before the next phase opens to secure your spot. Remaining spaces become immediately available to those in the next phase. Attempting to register before you have been invited to will only result in being refunded.
 
 - **Phase 1: Lords of the Pit in good standing - REGISTRATION IS NOW OPEN**
-- Phase 2: Previous participants - Opens 10am, Friday, September 10th, 2021
-- Phase 3: New initiates/friends of the club (if necessary) - 10am, Friday, October 8th, 2021
+- Phase 2: Previous Lords' Haüs participants - Registration opens 10am, Friday, September 10th, 2021
+- Phase 3: New initiates/friends of the club (if necessary) - Registration opens 10am, Friday, October 8th, 2021
 
-To register, please send $365 [via paypal to Lord Agra via this link.](https://paypal.me/bobagra?locale.x=en_US) When you receive an email confirming your secured slot, start getting ready to ball the fuck out of control.
+In order register, please send $365 [via paypal to Lord Agra via this link.](https://paypal.me/bobagra?locale.x=en_US) When you receive an email confirming your secured slot, start getting ready to ball the fuck out of control.
 
---- 
+---
+
+## Pandemic Fine Print
+
+In the unlikely event of virus resurgence/lockdowns: If it becomes necessary to cancel Lords' Haüs 2, registration fees will be returned to participants (with exception of any non-refundable deposits incurred.) The biggest expense of all is the rental, which is fully refundable up to 60 days before the event. Unfortunately, outside of full cancellation of the event, refunds are not guaranteed after registration is confirmed.
+
+For your safety, it is strongly encouraged to have had the COVID-19 vaccine and any boosters recommended prior the event.
