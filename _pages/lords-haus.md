@@ -4,7 +4,7 @@ title: "Lords' Haüs 2: The Sequel"
 permalink: /lords-haus
 ---
 
-![](/assets/images/site/os-edh.jpg)
+![](/assets/images/banners/lordshaus2header.jpg)
 
 ## Lords' Haüs 2: The Sequel
 
