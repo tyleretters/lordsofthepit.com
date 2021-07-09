@@ -45,6 +45,6 @@ Space is again reserved to 35 participants. Registration will take place in thre
 - Phase 2: Previous participants - Opens 10am, Friday, September 10th, 2021
 - Phase 3: New initiates/friends of the club (if necessary) - 10am, Friday, October 8th, 2021
 
-To register, Please send $365 [via paypal to Lord Agra via this link.](https://paypal.me/bobagra?locale.x=en_US) You will receive an email confirming your secured slot.
+To register, Please send $365 [via paypal to Lord Agra via this link.](https://paypal.me/bobagra?locale.x=en_US) When you receive an email confirming your secured slot, start getting ready to ball the fuck out of control.
 
 ---
