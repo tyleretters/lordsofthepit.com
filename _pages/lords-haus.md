@@ -22,7 +22,7 @@ The venue is about 90 minutes west of Chicago. We will work to plan carpools for
 
 Snacks, breakfasts, catered lunches and catered dinners will be provided. Please include food allergies or dietary restrictions with your registration. Booze and grass are all BYOB, so please plan ahead and bring whatever you like.
 
-Amenities include an indoor pool, living room bird cage, six bathrooms, one urinal, and more bunk beds than Heaven's Gate. There will be ancillary activities throughout the event, all of which will be announced at a later date. The weather will be moderately more favorable, so there may be some opportunity for outdoor activities. If you would like to host an activity or have specific requests for events, please reach out.
+Amenities include an indoor pool & hot tub, living room bird cage, six bathrooms, one urinal, and more bunk beds than Heaven's Gate. There will be ancillary activities throughout the event, all of which will be announced at a later date. The weather will be moderately more favorable, so there may be some opportunity for outdoor activities. If you would like to host an activity or have specific requests for events, please reach out.
 
 ---
 
