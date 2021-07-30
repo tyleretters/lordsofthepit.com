@@ -51,7 +51,7 @@ Space is again reserved to 35 participants. Registration will take place across 
 
 Unlike all other Lords of the Pit events, there is no charitable component to Lords' Haüs. This one is for the Lords. Fees exclusively go to the rental, catering and snacks.
 
-In order to register, please send $365 [via paypal (friends and family) to Lord Agra via this link.](https://paypal.me/bobagra?locale.x=en_US) When you receive an email confirming your secured slot, start getting ready to ball the fuck out of control.
+In order to register, please send $365 [via paypal (friends and family) to Lord Agra via this link.](https://www.paypal.com/paypalme/bobagra/365) When you receive an email confirming your secured slot, start getting ready to ball the fuck out of control.
 
 ---
 
