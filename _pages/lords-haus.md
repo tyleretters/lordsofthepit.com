@@ -46,7 +46,7 @@ Please plan on bringing whatever cards you'd like to be stamped and signed by al
 Space is again reserved to 35 participants. Registration will take place across three phases. Submit payment before the next phase opens to secure your spot. Remaining spaces become immediately available to those in the next phase. Attempting to register before you have been invited to will only result in being refunded.
 
 - **Phase 1: Lords of the Pit in good standing - REGISTRATION IS NOW OPEN**
-- Phase 2: Previous Lords' Haüs participants - Registration opens 10am, Friday, September 10th, 2021
+- **Phase 2: Previous Lords' Haüs participants - REGISTRATION IS NOW OPEN**
 - Phase 3: New initiates/friends of the club (if necessary) - Registration opens 10am, Friday, October 8th, 2021
 
 Unlike all other Lords of the Pit events, there is no charitable component to Lords' Haüs. This one is for the Lords. Fees exclusively go to the rental, catering and snacks.
