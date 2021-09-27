@@ -47,9 +47,11 @@ Space is again reserved to 35 participants. Registration will take place across 
 
 - **Phase 1: Lords of the Pit in good standing - REGISTRATION IS NOW OPEN**
 - **Phase 2: Previous Lords' Haüs participants - REGISTRATION IS NOW OPEN**
-- Phase 3: New initiates/friends of the club (if necessary) - Registration opens 10am, Friday, October 8th, 2021
+- Phase 3: New initiates/friends of the club (if necessary) - Registration opens 10am Chicago Time, Friday, October 8th, 2021
 
 Unlike all other Lords of the Pit events, there is no charitable component to Lords' Haüs. This one is for the Lords. Fees exclusively go to the rental, catering and snacks.
+
+Being invited to register does not guarantee your admittance. This event will sell out. **Current spots remaining: 6**
 
 In order to register, please send $365 [via paypal (friends and family) to Lord Agra via this link.](https://www.paypal.com/paypalme/bobagra/365) When you receive an email confirming your secured slot, start getting ready to ball the fuck out of control.
 
