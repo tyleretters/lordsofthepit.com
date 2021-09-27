@@ -59,4 +59,4 @@ In order to register, please send $365 [via paypal (friends and family) to Lord 
 
 In the unlikely event of virus resurgence/lockdowns: If it becomes necessary to cancel Lords' Haüs 2, registration fees will be returned to participants (with exception of any non-refundable deposits incurred.) The biggest expense of all is the rental, which is fully refundable up to 60 days before the event. Unfortunately, outside of full cancellation of the event, refunds are not guaranteed after your registration is confirmed.
 
-For your safety, it is required to have had the COVID-19 vaccine and any boosters prior the event.
+For your safety, it is required to have had the COVID-19 vaccine and any boosters prior the event. Beyond being vaccinated, proof of a negative test may also be required if deemed necessary.
