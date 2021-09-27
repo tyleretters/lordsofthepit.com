@@ -47,7 +47,7 @@ Space is again reserved to 35 participants. Registration will take place across 
 
 - **Phase 1: Lords of the Pit in good standing - REGISTRATION IS NOW OPEN**
 - **Phase 2: Previous Lords' Haüs participants - REGISTRATION IS NOW OPEN**
-- Phase 3: New initiates/friends of the club - Registration opens 10am Chicago Time, Friday, October 8th, 2021
+- Phase 3: Invited new initiates/friends of the club - Registration opens 10am Chicago Time, Friday, October 8th, 2021
 
 Unlike all other Lords of the Pit events, there is no charitable component to Lords' Haüs. This one is for the Lords. Fees exclusively go to the rental, catering and snacks.
 
