@@ -43,7 +43,7 @@ Please plan on bringing whatever cards you'd like to be stamped and signed by al
 
 ## Registration
 
-Space is again reserved to 35 participants. Registration will take place across three phases. Submit payment before the next phase opens to secure your spot. Remaining spaces become immediately available to those in the next phase. Attempting to register before you have been invited to will only result in being refunded.
+Space is again reserved to 35 participants. Registration will take place across three phases. Submit payment when phase opens to secure any remaining spots. Attempting to register before you have been invited to will only result in being refunded.
 
 - **Phase 1: Lords of the Pit in good standing - REGISTRATION IS NOW OPEN**
 - **Phase 2: Previous Lords' Haüs participants - REGISTRATION IS NOW OPEN**
