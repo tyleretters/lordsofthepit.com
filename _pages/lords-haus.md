@@ -43,11 +43,11 @@ Please plan on bringing whatever cards you'd like to be stamped and signed by al
 
 ## Registration
 
-Space is again reserved to 35 participants. Registration will take place across three phases. Submit payment before the next phase opens to secure your spot. Remaining spaces become immediately available to those in the next phase. Attempting to register before you have been invited to will only result in being refunded.
+Space is again reserved to 35 participants. Registration will take place across three phases. Submit payment when your phase opens to secure any remaining spots. Attempting to register before you have been invited to will only result in being refunded. Being invited to register does not guarantee your admittance. This event will sell out. **Current spots remaining: 1. If you are reading this, please keep in mind that the last spot may be taken before you have a chance to register. If that happens, you will be refunded and put on standby.**
 
 - **Phase 1: Lords of the Pit in good standing - REGISTRATION IS NOW OPEN**
 - **Phase 2: Previous Lords' Haüs participants - REGISTRATION IS NOW OPEN**
-- Phase 3: New initiates/friends of the club (if necessary) - Registration opens 10am, Friday, October 8th, 2021
+- **Phase 3: Invited new initiates/friends of the club - REGISTRATION IS NOW OPEN**
 
 Unlike all other Lords of the Pit events, there is no charitable component to Lords' Haüs. This one is for the Lords. Fees exclusively go to the rental, catering and snacks.
 
@@ -59,4 +59,4 @@ In order to register, please send $365 [via paypal (friends and family) to Lord 
 
 In the unlikely event of virus resurgence/lockdowns: If it becomes necessary to cancel Lords' Haüs 2, registration fees will be returned to participants (with exception of any non-refundable deposits incurred.) The biggest expense of all is the rental, which is fully refundable up to 60 days before the event. Unfortunately, outside of full cancellation of the event, refunds are not guaranteed after your registration is confirmed.
 
-For your safety, it is required to have had the COVID-19 vaccine and any boosters prior the event.
+For your safety, it is required to have had the COVID-19 vaccine and any boosters prior the event. Beyond being vaccinated, proof of a negative test may also be required if deemed necessary.
