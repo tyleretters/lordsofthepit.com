@@ -140,7 +140,7 @@ Prior to Fall Brawl 4, and for future events, the Lords of the Pit required entr
 
 ![Hello, and have a Hamm's](/assets/images/fallbrawl4/fallbrawlcandids/hamms.jpg)
 
-![More '95 action](/assets/images/fallbrawl4/fallbrawlcandids/swans2.jpg)
+![More '95 action](/assets/images/fallbrawl4/fallbrawlcandids/swans.jpg)
 
 ![Grinders](/assets/images/fallbrawl4/fallbrawlcandids/timvslorien.jpg)
 
