@@ -58,7 +58,7 @@ Meanwhile, over at the top-table, it was Lord Tim Baran’s 5C Necro Goodstuff p
 
 ![Final Standings](/assets/images/fallbrawl4/fallbrawl4standings.jpg)
 
-The only “prize” we had to offer was an altered Brainstorm (special thanks to Cam Wall for the effort!) that went to whomever used the most cards original to ‘95 sets *Ice Age* and *Homelands*. Not to be outdone, it was Lord Nick Rohr, on a deck built entirely from the two sets, who claimed the honor for the second time. A Brainstorm, indeed. His pile even managed one (1) round win, much to Nick’s own surprise. After taking the prize in ‘19 and ‘21, does anyone have what it takes to play more ‘95 cards than this madman?
+The only “prize” we had to offer was an altered Brainstorm (special thanks to Cam Wall for the effort!) that went to whomever used the most cards original to '95. Not to be outdone, it was Lord Nick Rohr, on a deck built entirely from *Ice Age* & *Homelands*, who claimed the honor for the second time. A Brainstorm, indeed. His pile even managed one (1) round win, much to Nick’s own surprise. After taking the prize in ‘19 and ‘21, does anyone have what it takes to play more ‘95 cards than this madman?
 
 ![Big Brains](/assets/images/fallbrawl4/fallbrawlcandids/brainstorm.jpg)
 
