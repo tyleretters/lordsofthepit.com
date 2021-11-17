@@ -12,19 +12,19 @@ Prelude
 
 Seven Hundred Days, that’s how long it had been since the Lords of the Pit gathered for a tournament in the City of Chicago -- Party of the Pit Lords II at Bridgeport’s Marz Community Brewing Company on December 14, 2019. Stop for a moment and contemplate all that’s changed during those 700 days: some of us have moved, changing zip codes or time zones, some started new studies or graduated, started new relationships or jobs, bought homes, added to our families and said goodbye to loved ones. So much life has happened since we last Gathered, so much of the world around us has changed and yet, as the wheel now grinds toward 2022, we found ourselves back together, battling like it’s 1995.
 
-![Urza's Chalice](/assets/images/banners/urzas-chalice.jpg]
+![](/assets/images/fallbrawl4/fallbrawlcandids/fallbrawlhypeimage.jfif]
 [DMEN PIC]
 
 Thankfully, DMen Tap, the Lords’ unofficially official clubhouse on Belmont, weathered the pandemic shitstorm and remembered us when we came calling. The Lords of the Pit had returned.
 
-![Urza's Chalice](/assets/images/banners/urzas-chalice.jpg]
+![Urza's Chalice](/assets/images/fallbrawl4/fallbrawlcandids/toyhaulbob.jpg]
 [TOYS BOB]
 
 2021 Lords of the Pit Toy Drive
 
 Anyone familiar with Lords events knows we select a charitable organization to support. In 2019, we held consecutive toy drive-themed events for donation to Cradles to Crayon. For Fall Brawl 4, the Lords chose to run back that plan with our adopted organization being the WGN Morning News / Chicago Parks District Toy Drive [link] and the boys turned out a generous haul of toys.
 
-![Urza's Chalice](/assets/images/banners/urzas-chalice.jpg]
+![](/assets/images/fallbrawl4/fallbrawlcandids/fallbrawlhypeimage.jfif]
 [DMEN]
 
 A Brief History of OS95 in Chicago, and The Putsch
