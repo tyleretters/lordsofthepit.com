@@ -48,7 +48,7 @@ As my friends sleeved their Tormod’s Crypts with visions of my heartache fueli
 
 In round three, I met Wisconsinite Danny Dunaway… in a mirror match? His version of WW splashed red for Bolts while mine splashed blue for cheese. I stayed one Strip, er, step ahead of Danny, kept him off Plateau and left him thunderstruck by my Thunder Spirits.
 
-![What?](/assets/images/fallbrawl4/fallbrawlcandids/mirror.jpg)
+![Mirror Mirror](/assets/images/fallbrawl4/fallbrawlcandids/mirror.jpg)
 
 Round four paired me with Lord Andy MacDougall, my only interclub pairing for the day. He was on a monoblack land destruction deck. It didn’t fare well for my dude, who got mana screwed and overrun in Game 2. Andy took the beating in-stride, which only makes me more fearful of his designs to get even. Lastly, Bob called out the final round’s pairings and I drew the glacially-minded Matt Braun, whose control stew went to time in each of the first four rounds. I was determined not to. In game one, Braun was chipped away by his own painlands. Game two was a dogfight of removal and counter magic and I just enough weenie mojo to get there. The key play was when my Icatian fell on his own javelin so I could Balance away Braun’s Serra (and hand). I badgered Braun quite a bit, but hey we got in before time was called! The Weenies finished the day a respectable 4-1, yet I won’t be able to look my Ashen Ghouls in the eye for the next 12 months.
 
@@ -60,7 +60,7 @@ Meanwhile, over at the top-table, it was Lord Tim Baran’s 5C Necro Goodstuff p
 
 The only “prize” we had to offer was an altered Brainstorm (special thanks to Cam Wall for the effort!) that went to whomever used the most cards original to '95. Not to be outdone, it was Lord Nick Rohr, on a deck built entirely from *Ice Age* & *Homelands*, who claimed the honor for the second time. A Brainstorm, indeed. His pile even managed one (1) round win, much to Nick’s own surprise. After taking the prize in ‘19 and ‘21, does anyone have what it takes to play more ‘95 cards than this madman?
 
-![Big Brains](/assets/images/fallbrawl4/fallbrawlcandids/brainstorm.jpg)
+![Brain Power](/assets/images/fallbrawl4/fallbrawlcandids/brainstorm.jpg)
 
 **Wrap-up**
 
