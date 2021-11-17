@@ -62,7 +62,7 @@ The only “prize” we had to offer was an altered Brainstorm (special thanks t
 
 After all the anticipation, the Fall Brawl passed like a glorious blur. It wasn’t overwhelming, in fact it felt just right, just as it always does, just as we remembered it. That groove was right there waiting for us to find it once again. To say that I’m privileged to be part of such a wonderful group of gnarly man-child gamer dudes would be an understatement, so I’ll just end this report the way we ended Fall Brawl… “see you in December!”
 
-![](/assets/images/fallbrawl4/fallbrawlcandids/toyhaulmoss.jpg)
+![](/assets/images/fallbrawl4/fallbrawlcandids/iceageboxes.jpg)
 
 **Appendix: Note on COVID-19 Vaccines**
 
