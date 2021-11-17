@@ -62,7 +62,7 @@ The only “prize” we had to offer was an altered Brainstorm (special thanks t
 
 ![Big Brains](/assets/images/fallbrawl4/fallbrawlcandids/brainstorm.jpg)
 
-**Wrap**
+**Wrap-up**
 
 After all the anticipation, the Fall Brawl passed us like a glorious blur. It wasn’t overwhelming, in fact it felt just right, just as it always does, just as we remembered it. That groove was right there waiting for us to find it once again. To say that I’m privileged to be part of such a wonderful group of gnarly man-child gamer dudes would be an understatement, so I’ll just end this report the way we ended Fall Brawl 4… “see you in December!”
 
@@ -70,7 +70,7 @@ After all the anticipation, the Fall Brawl passed us like a glorious blur. It wa
 
 **Appendix: Note on COVID-19 Vaccines**
 
-Prior to Fall Brawl 4, and for future events, the Lords of the Pit required entrants to show proof of vaccination against COVID-19. All 24 Fall Brawl entrants provided proof without hesitation. While I was uneasy asking for this information, I’m thankful they made it easy for me. We all have a role to play in protecting one another.
+Prior to Fall Brawl 4, and for future events, the Lords of the Pit required entrants to show proof of vaccination against COVID-19. All 24 Fall Brawl entrants provided proof without hesitation. While I was initally uncomfortable asking for this information, I’m thankful they made it easy for me. We all have a role to play in protecting one another.
 
 ![](/assets/images/fallbrawl4/fallbrawlcandids/iceageboxes.jpg)
 
