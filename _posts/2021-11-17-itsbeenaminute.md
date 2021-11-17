@@ -146,7 +146,7 @@ Prior to Fall Brawl 4, and for future events, the Lords of the Pit required entr
 
 ![Tetravus trying to get there](/assets/images/fallbrawl4/fallbrawlcandids/timvsshane.jpg)
 
-![Catch!](/assets/images/fallbrawl4/fallbrawlcandids/toyhaulmoss.jpg)
+![In-motion](/assets/images/fallbrawl4/fallbrawlcandids/toyhaulmoss.jpg)
 
 ![Dudesweats 1](/assets/images/fallbrawl4/fallbrawlcandids/dmen1.jpg)
 
