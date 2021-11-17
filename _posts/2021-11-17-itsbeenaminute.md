@@ -64,7 +64,7 @@ The only “prize” we had to offer was an altered Brainstorm (special thanks t
 
 **Wrap-up**
 
-I rearranged the tables, took some empty glasses up front, and got Ray's wayward deck back in-hand with its owner. We were winding down. After all the anticipation, the Fall Brawl passed us like a glorious blur. It wasn’t overwhelming, in fact it felt just right, just as it always does, just as we remembered it. That groove was right there waiting for us to find it once again. To say that I’m privileged to be part of such a wonderful group of gnarly man-child gamer dudes would be an understatement, so I’ll just end this report the way we ended Fall Brawl 4… “see you in December!”
+I rearranged the tables, took some empty glasses up front, and got Ray's wayward deck back in-hand with its owner. We were winding down. After all the anticipation, the Fall Brawl passed us like a glorious blur. It wasn’t overwhelming, in fact it felt just right, just as it always does, just as we remembered it. That groove was right there below the surface waiting for us to find it once again. To say that I’m privileged to be part of such a wonderful group of gnarly man-child gamer dudes would be an understatement, so I’ll just end this report the way we ended Fall Brawl 4… “see you in December!”
 
 ![Loots](/assets/images/fallbrawl4/fallbrawlcandids/loots.jpg)
 
