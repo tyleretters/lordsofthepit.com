@@ -116,9 +116,9 @@ Prior to Fall Brawl 4, and for future events, the Lords of the Pit required entr
 
 **CANDIDS**
 
-![Shane gets there with Hecatomb](/assets/images/fallbrawl4/fallbrawlcandids/hecatomb.jpg)
+![Hecatomb, like a Boss](/assets/images/fallbrawl4/fallbrawlcandids/hecatomb.jpg)
 
-![Sengir's serfs sent to the The Abyss](/assets/images/fallbrawl4/fallbrawlcandids/sengirautocrat.jpg)
+![Shane's Sengir's serfs sent to the showers](/assets/images/fallbrawl4/fallbrawlcandids/sengirautocrat.jpg)
 
 ![Ian's T1 heater](/assets/images/fallbrawl4/fallbrawlcandids/ianturnone.jpg)
 
@@ -142,11 +142,11 @@ Prior to Fall Brawl 4, and for future events, the Lords of the Pit required entr
 
 ![More '95 action](/assets/images/fallbrawl4/fallbrawlcandids/swans.jpg)
 
-![Grinders](/assets/images/fallbrawl4/fallbrawlcandids/timvslorien.jpg)
+![Grinders be grindin'](/assets/images/fallbrawl4/fallbrawlcandids/timvslorien.jpg)
 
 ![Tetravus trying to get there](/assets/images/fallbrawl4/fallbrawlcandids/timvsshane.jpg)
 
-![In-motion](/assets/images/fallbrawl4/fallbrawlcandids/toyhaulmoss.jpg)
+![Constant motion](/assets/images/fallbrawl4/fallbrawlcandids/toyhaulmoss.jpg)
 
 ![Dudesweats 1](/assets/images/fallbrawl4/fallbrawlcandids/dmen1.jpg)
 
