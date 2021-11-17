@@ -42,7 +42,11 @@ Crisp air and cloudy skies greeted us on Saturday morning. Thankfully, the previ
 
 **It’s Happening!**
 
-As my friends sleeved up Tormod’s Crypts with visions of my heartache fueling their wettest of dreams, I decided to keep my beloved Reanimator on ice and deked with a call-back to Marz ‘19 and my patented Understanding White Weenie™ (1995 Edition). With Bob handling pairings and results, I was free to unleash my one-man Crusade through five rounds. Col. Sanders was felled so fast in round one I didn’t even realize he was on a Lich stew. Needless to say, it was sent back to the kitchen for additional seasoning. Round two gave me a chance at revenge against Southsider Enrique Flores, who was my sole loss back at Marz. I felt good about my smoking hot G1, but Enrique unloaded a Swamp-Lotus-double Order of the Ebon Hand against me to open G2 and I was balled. G3 went pear-shaped when a timely Strip and Hymn nuked my mana base. My vengeance will have to wait another day. In round three, I met Wisconsinite Danny Dunaway… in a mirror match? His version splashed red for Bolts while mine splashed blue for cheese. I stayed one Strip, er, step ahead of Danny and left him thunderstruck by my Thunder Spirits.
+As my friends sleeved up Tormod’s Crypts with visions of my heartache fueling their wettest of dreams, I decided to keep my beloved Reanimator on ice and deked with a call-back to Marz ‘19 and my patented Understanding White Weenie™ (1995 Edition). With Bob handling pairings and results, I was free to unleash my one-man Crusade through five rounds. Col. Sanders was felled so fast in round one I didn’t even realize he was on a Lich stew. Needless to say, it was sent back to the kitchen for additional seasoning. Round two gave me a chance at revenge against Southsider Enrique Flores, who was my sole loss back at Marz. I felt good about my smoking hot G1, but Enrique unloaded a Swamp-Lotus-double Order of the Ebon Hand against me to open G2 and I was balled. G3 went pear-shaped when a timely Strip and Hymn nuked my mana base. My vengeance will have to wait another day. 
+
+![Back in action](/assets/images/fallbrawl4/swans2.jpg)
+
+In round three, I met Wisconsinite Danny Dunaway… in a mirror match? His version splashed red for Bolts while mine splashed blue for cheese. I stayed one Strip, er, step ahead of Danny and left him thunderstruck by my Thunder Spirits.
 
 ![What?](/assets/images/fallbrawl4/fallbrawlcandids/mirror.jpg)
 
