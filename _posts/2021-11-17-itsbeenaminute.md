@@ -20,7 +20,7 @@ Thankfully, DMen Tap, our unofficially official clubhouse in Avondale, weathered
 
 **2021 Lords of the Pit Toy Drive**
 
-Anyone familiar with Lords events knows we select a different charitable organization to support each time. In 2019, we held consecutive toy drive-themed events for donations to Cradles to Crayons. For Fall Brawl 4, we ran back that plan with our adopted organization being the [Chicago Parks District Toy Drive](https://www.chicagoparkdistrict.com/toy-drive). The boys answered the bell with a generous haul!
+Anyone familiar with Lords events knows we select different charitable organizations to support. In 2019, we held consecutive toy drive-themed events for donations to Cradles to Crayons. For Fall Brawl 4, we ran back that plan with our adopted organization being the [Chicago Parks District Toy Drive](https://www.chicagoparkdistrict.com/toy-drive). The boys answered the bell with a generous haul!
 
 ![Fall Brawl 4 patches by Lords Rohr and Piquard](/assets/images/fallbrawl4/fallbrawlcandids/patches.jpg)
 
