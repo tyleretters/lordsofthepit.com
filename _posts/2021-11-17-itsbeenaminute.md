@@ -46,7 +46,7 @@ As my friends sleeved their Tormod’s Crypts with visions of my heartache fueli
 
 ![Back in action](/assets/images/fallbrawl4/fallbrawlcandids/swans2.jpg)
 
-In round three, I met Wisconsinite Danny Dunaway… in a mirror match? His version of WW splashed red for Bolts while mine splashed blue for cheese. I stayed one Strip, er, step ahead of Danny, kept him off Plateau and left him thunderstruck by my Thunder Spirits.
+In round three, I met Wisconsinite Danny Dunaway… in a mirror match? His version of WW splashed red for Bolts while mine splashed blue for cheese. I stayed one Strip, er, step ahead of Danny, kept him off Plateau and left him [thunderstruck](https://www.youtube.com/watch?v=v2AC41dglnM) by my Thunder Spirits.
 
 ![Mirror Mirror](/assets/images/fallbrawl4/fallbrawlcandids/mirror.jpg)
 
