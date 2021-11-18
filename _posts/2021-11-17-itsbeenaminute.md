@@ -88,9 +88,13 @@ Prior to Fall Brawl 4, and for future events, the Lords of the Pit required entr
 
 ![Beadle](/assets/images/fallbrawl4/fallbrawllists/06beadle.jfif)
 
+![Stacko](/assets/images/fallbrawl4/fallbrawllists/07stacko.jpg)
+
 ![Braun](/assets/images/fallbrawl4/fallbrawllists/08braun.jpg)
 
 ![Agra](/assets/images/fallbrawl4/fallbrawllists/09agra.jpg)
+
+![Strauch](/assets/images/fallbrawl4/fallbrawllists/10strauch.jpg)
 
 ![Velasco](/assets/images/fallbrawl4/fallbrawllists/11velasco.jpg)
 
@@ -109,6 +113,8 @@ Prior to Fall Brawl 4, and for future events, the Lords of the Pit required entr
 ![Butzen](/assets/images/fallbrawl4/fallbrawllists/18butzen.jpg)
 
 ![Rohr](/assets/images/fallbrawl4/fallbrawllists/19rohr.jpg)
+
+![Cummings](/assets/images/fallbrawl4/fallbrawllists/20cummings.jpg)
 
 ![Mattson](/assets/images/fallbrawl4/fallbrawllists/21mattson.jpeg)
 
