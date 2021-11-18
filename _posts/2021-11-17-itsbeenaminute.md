@@ -14,7 +14,7 @@ Seven Hundred Days, that’s how long it had been since the Lords of the Pit gat
 
 ![](/assets/images/fallbrawl4/fallbrawlcandids/fallbrawlhypeimage.png)
 
-Thankfully, DMen Tap, our unofficially official clubhouse on Belmont, weathered the pandemic shitstorm and remembered us when we came calling. We filled out the backroom like our Meatball fills out a handsome sweater. The Lords had returned.
+Thankfully, DMen Tap, our unofficially official clubhouse in Avondale, weathered the pandemic shitstorm and remembered us when we came calling. We filled out the backroom like our Meatball fills out a handsome sweater. The Lords had returned.
 
 ![Toy haul](/assets/images/fallbrawl4/fallbrawlcandids/toyhaulbob.jpg)
 
