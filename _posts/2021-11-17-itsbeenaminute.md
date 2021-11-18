@@ -40,7 +40,7 @@ Crisp air and cloudy skies greeted us on Saturday morning. Thankfully, the previ
 
 ![Malort](/assets/images/fallbrawl4/fallbrawlcandids/malorts.jpg)
 
-**Cryptology**
+**Crypto Exchange**
 
 As my friends sleeved their Tormod’s Crypts with visions of my heartache fueling their wettest of dreams, I decided to keep my beloved Reanimator on ice and deked with a call-back to [Marz ‘19](https://lordsofthepit.com/2019/12/18/welcome-to-the-party-pal/) and my patented Understanding White Weenie™ (1995 Edition). Since Bob handled results and pairings, I was free to embark on a one-man Crusade across five rounds of OS95. Col. Sanders was felled so fast in round one that I didn’t even realize he was on a Lich stew. Needless to say, it went back to the kitchen for additional seasoning. Round two gave me a chance at revenge against Southsider Enrique Flores, my sole defeat back at Marz. I felt good about my smoking hot G1, but Enrique unloaded a Swamp-Lotus-double Order of the Ebon Hand against me to open G2 and I was balled. G3 went pear-shaped for me after a timely Strip and Hymn nuked my mana base. My vengeance will have to wait another day. 
 
