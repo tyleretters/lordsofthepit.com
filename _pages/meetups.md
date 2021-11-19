@@ -12,6 +12,8 @@ Stay tuned, more LOTP events to come!
 
 ## Past Lords of the Pit Events
 ---
+![](/assets/images/2021/fall-brawl-4.jpg)
+
 ![](/assets/images/2020/01/MTM.jpg)
 
 ![](/assets/images/2019/10/lotp_diehard.jpg)
