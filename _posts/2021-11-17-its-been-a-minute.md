@@ -2,11 +2,11 @@
 layout: post
 author: Mossman
 title: "It's Been a Minute"
-date: "2021-11-17"
+date: "2021-11-18"
 category: Blog
 ---
 
-[HEADER IMAGE - TYLER PLEASE USE BRAINSTORM]
+![](/assets/images/fallbrawl4/brainstorm.jpg)
 
 **Prelude**
 
