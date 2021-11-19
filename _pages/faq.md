@@ -40,6 +40,12 @@ All members of the Lords of the Pit are unified under these values. We unequivoc
 
 ![](/assets/images/2019/09/OSPB19LOTPFront.jpg)
 
+## What is your COVID-19 vaccine policy?
+
+---
+
+Attendees of Lords-hosted events are required to show proof of a COVID-19 vaccine at registration.
+
 ## What is Old School?
 
 ---
