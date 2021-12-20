@@ -6,12 +6,16 @@ permalink: /meetups
 
 ## Upcoming Lords of the Pit Events
 ---
-Stay tuned, more LOTP events to come!
+![](/assets/images/2021/mauraders.png)
 
 
 
 ## Past Lords of the Pit Events
 ---
+![](/assets/images/2021/commando.jpg)
+
+![](/assets/images/2021/xmaschaos2021.png)
+
 ![](/assets/images/2021/fall-brawl-4.jpg)
 
 ![](/assets/images/2020/01/MTM.jpg)
