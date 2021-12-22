@@ -32,7 +32,7 @@ Format newcomer and bonafide The Rack aficionado Ben Jones came to his first Lor
 
 ![Double Dibbo Berserk](/assets/images/christmaschaos/doubleberserk.jpg)
 
-When Tormod's Crypt is safely stowed away in binders, Lord Moss brings out his Bazaars, and his impressive 4-1 Reanimator run proved to be an excellent return to form. Having your choice of virtually any nasty creature you could want when you’re just going to bring it back from the graveyard seems tempting enough on its own, but Moss’ most putrid play of the day saw him using Karn, the Great Creator to wish for cards from “outside the game” via his Middle School MUD deck and taking down his opponent (Lord Tim Baran) with a reanimated Phyrexian Colossus and Voltaic Key combo.
+When Tormod's Crypt is safely stowed away in binders, Lord Moss brings out his Bazaars, and his impressive 4-1 Reanimator run proved to be an excellent return to form. Having your choice of virtually any nasty creature you could want when you’re just going to bring it back from the graveyard seems tempting enough on its own, but Moss’ most putrid play of the day saw him using Karn, the Great Creator to Wish for cards from “outside the game” via his Middle School MUD deck and taking down his opponent (Lord Tim Baran) with a reanimated Phyrexian Colossus and Voltaic Key combo.
 
 ![Karn, Key & Colossus](/assets/images/christmaschaos/colossus.jpg)
 
