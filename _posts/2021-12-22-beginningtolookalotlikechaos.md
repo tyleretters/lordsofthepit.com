@@ -28,7 +28,7 @@ Deck construction amongst the 10 players seemed to predominantly pull in two dif
 
 ![The Red Mage, Forking Booster Tutor for value](/assets/images/christmaschaos/fork.jpg)
 
-Format newcomer and bonafide Rack aficionado Ben Jones came to his first OS event armed with his iteration of Mono Black, perfectly lending itself to the Booster Tutors slotted in at the start of the day. I matched up with Ben in round 2, where he wasted no time in showing me that he came prepared to completely obliterate my hand with Hippies and Hymns, and took me down handily in our first game. In the end, a Berserking Serendib with the help of a Strixhaven Bird Cleric helped me bounce back to take the match.
+Format newcomer and bonafide The Rack aficionado Ben Jones came to his first Lords event armed with his iteration of Mono Black, perfectly lending itself to the Booster Tutors slotted in at the start of the day. I matched up with Ben in round 2, where he wasted no time in showing me that he came prepared to completely obliterate my hand with Hippies and Hymns, and took me down handily in our first game. In the end, a Berserking Serendib with the help of a Strixhaven Bird Cleric helped me bounce back to take the match.
 
 ![Double Dibbo Berserk](/assets/images/christmaschaos/doubleberserk.jpg)
 
