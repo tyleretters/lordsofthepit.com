@@ -52,4 +52,58 @@ While my day ended at 2-3, Eternal Chaos proved to be an incredibly entertaining
 
 **DECK GALLERY**
 
+![Velasco](/assets/images/christmaschaos/decklists/velasco.jpg)
+
+![Velasco booster pulls](/assets/images/christmaschaos/decklists/velascopulls.jpg)
+
+![Piquard](/assets/images/christmaschaos/decklists/piquard.jpg)
+
+![Piquard booster pulls](/assets/images/christmaschaos/decklists/piquardopulls.jpg)
+
+![Moss](/assets/images/christmaschaos/decklists/moss.jpg)
+
+![Moss booster pulls](/assets/images/christmaschaos/decklists/mosspulls.jpg)
+
+![Baran](/assets/images/christmaschaos/decklists/baran.jpg)
+
+![Elleman](/assets/images/christmaschaos/decklists/elleman.jpg)
+
+![Sanders](/assets/images/christmaschaos/decklists/sanders.jpg)
+
+![Semmens](/assets/images/christmaschaos/decklists/semmens.jpg)
+
+![Walker](/assets/images/christmaschaos/decklists/walker.jpg)
+
 **CANDIDS**
+
+![Semmens v. Baran](/assets/images/christmaschaos/candids/semmensbaran.jpg)
+
+![Baran v. Moss](/assets/images/christmaschaos/candids/baranmoss.jfif)
+
+![Semmens v. Sanders](/assets/images/christmaschaos/candids/semmenssanders.jpg)
+
+![Baran v. Zurawski](/assets/images/christmaschaos/candids/baranscatman.jfif)
+
+![Piquard v. Elleman](/assets/images/christmaschaos/candids/piquardelleman.jfif)
+
+![Elleman v. Semmens](/assets/images/christmaschaos/candids/ellemansemmens.jpg)
+
+![Elleman v. Semmens 2](/assets/images/christmaschaos/candids/ellemansemmens2.jpg)
+
+![Moss v. Elleman](/assets/images/christmaschaos/candids/mosselleman.jpg)
+
+![Boosting up Beholder](/assets/images/christmaschaos/candids/mosswalker.jpg)
+
+![Piquard v. Elleman 2](/assets/images/christmaschaos/candids/piquardelleman2.jpg)
+
+![Sanders v. Moss](/assets/images/christmaschaos/candids/sandersmoss.jpg)
+
+![Shrine doing work](/assets/images/christmaschaos/candids/sandersshrine.jpg)
+
+![Semmens v. Elleman](/assets/images/christmaschaos/candids/semmenselleman.jpg)
+
+![Velasco v. Walker](/assets/images/christmaschaos/candids/velascowalker.jpg)
+
+![Semmens v. Walker](/assets/images/christmaschaos/candids/semmenswalker.jpg)
+
+![The Chaotician](/assets/images/christmaschaos/candids/chaotician.jpg)
