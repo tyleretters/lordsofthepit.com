@@ -72,7 +72,7 @@ While my day ended at 2-3, Eternal Chaos proved to be an incredibly entertaining
 
 ![Sanders - The Juicy Special](/assets/images/christmaschaos/decklists/sanders.jpg)
 
-![Walker - 5C Control](/assets/images/christmaschaos/decklists/walker.jpg)
+![Walker - 5C Control feat. Clone](/assets/images/christmaschaos/decklists/walker.jpg)
 
 **CANDIDS**
 
