@@ -90,7 +90,7 @@ While my day ended at 2-3, Eternal Chaos proved to be an incredibly entertaining
 
 ![Elleman v. Semmens](/assets/images/christmaschaos/candids/ellemansemmens.jpg)
 
-![Elleman v. Semmens 2](/assets/images/christmaschaos/candids/ellemansemmens2.jpg)
+![Nissa getting balled](/assets/images/christmaschaos/candids/semmenselleman.jpg)
 
 ![Moss v. Elleman](/assets/images/christmaschaos/candids/mosselleman.jpg)
 
@@ -100,7 +100,7 @@ While my day ended at 2-3, Eternal Chaos proved to be an incredibly entertaining
 
 ![Shrine doing work](/assets/images/christmaschaos/candids/sandersshrine.jpg)
 
-![Semmens v. Elleman](/assets/images/christmaschaos/candids/semmenselleman.jpg)
+![Elleman v. Semmens 2](/assets/images/christmaschaos/candids/ellemansemmens2.jpg)
 
 ![Velasco v. Walker](/assets/images/christmaschaos/candids/velascowalker.jpg)
 
