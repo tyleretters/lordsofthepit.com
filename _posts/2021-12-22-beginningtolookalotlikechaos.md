@@ -54,7 +54,7 @@ While my day ended at 2-3, Eternal Chaos proved to be an incredibly entertaining
 
 ![Velasco - BUG Berserk Aggro feat. Twiddlevault](/assets/images/christmaschaos/decklists/velasco.jpg)
 
-![Velasco boosts... holy Strixhaven](/assets/images/christmaschaos/decklists/velascopulls.jpg)
+![Velasco boosts... holy Strixhaven!](/assets/images/christmaschaos/decklists/velascopulls.jpg)
 
 ![Piquard - BoosterGeddon](/assets/images/christmaschaos/decklists/piquard.jpg)
 
@@ -62,7 +62,7 @@ While my day ended at 2-3, Eternal Chaos proved to be an incredibly entertaining
 
 ![Moss - Bulu Reanimator](/assets/images/christmaschaos/decklists/moss.jpg)
 
-![Moss booster technology](/assets/images/christmaschaos/decklists/mosspulls.jpg)
+![Moss boosted technology](/assets/images/christmaschaos/decklists/mosspulls.jpg)
 
 ![Baran - 5C Heaters](/assets/images/christmaschaos/decklists/baran.jpg)
 
