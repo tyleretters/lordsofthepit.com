@@ -30,7 +30,7 @@ Deck construction amongst the 10 players seemed to predominantly pull in two dif
 
 Format newcomer and bonafide The Rack aficionado Ben Jones came to his first Lords event armed with his iteration of Mono Black, perfectly lending itself to the Booster Tutors slotted in at the start of the day. I matched up with Ben in Round 2, where he wasted no time in showing me that he came prepared to completely obliterate my hand with Hippies and Hymns, and took me down handily in our first game. In the end, a Berserking Serendib with the help of a Strixhaven Bird Cleric helped me bounce back to take the match.
 
-![Double Dibbo Berserk](/assets/images/christmaschaos/doubleberserk.jpg)
+![Dibbo Double Berserk](/assets/images/christmaschaos/doubleberserk.jpg)
 
 When Tormod's Crypt is safely stowed away in binders, Lord Moss brings out his Bazaars, and his impressive 4-1 Reanimator run proved to be an excellent return to form. Having your choice of virtually any nasty creature you could want when you’re just going to bring it back from the graveyard seems tempting enough on its own, but Moss’ most putrid play of the day saw him using Karn, the Great Creator to Wish for cards from “outside the game” via his Middle School MUD deck and taking down his opponent (Lord Tim Baran) with a reanimated Phyrexian Colossus and Voltaic Key combo.
 
