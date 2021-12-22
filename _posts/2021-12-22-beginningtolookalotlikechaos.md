@@ -86,13 +86,13 @@ While my day ended at 2-3, Eternal Chaos proved to be an incredibly entertaining
 
 ![Piquard v. Elleman](/assets/images/christmaschaos/candids/piquardelleman.jfif)
 
+![Boosting up Beholder](/assets/images/christmaschaos/candids/mosswalker.jpg)
+
 ![Elleman v. Semmens](/assets/images/christmaschaos/candids/ellemansemmens.jpg)
 
 ![Elleman v. Semmens 2](/assets/images/christmaschaos/candids/ellemansemmens2.jpg)
 
 ![Moss v. Elleman](/assets/images/christmaschaos/candids/mosselleman.jpg)
-
-![Boosting up Beholder](/assets/images/christmaschaos/candids/mosswalker.jpg)
 
 ![Piquard v. Elleman 2](/assets/images/christmaschaos/candids/piquardelleman2.jpg)
 
