@@ -52,27 +52,27 @@ While my day ended at 2-3, Eternal Chaos proved to be an incredibly entertaining
 
 **DECK GALLERY**
 
-![Velasco](/assets/images/christmaschaos/decklists/velasco.jpg)
+![Velasco - BUG Berserk Aggro feat. Twiddlevault](/assets/images/christmaschaos/decklists/velasco.jpg)
 
 ![Velasco booster pulls](/assets/images/christmaschaos/decklists/velascopulls.jpg)
 
-![Piquard](/assets/images/christmaschaos/decklists/piquard.jpg)
+![Piquard - BoosterGeddon](/assets/images/christmaschaos/decklists/piquard.jpg)
 
 ![Piquard booster pulls](/assets/images/christmaschaos/decklists/piquardopulls.jpg)
 
-![Moss](/assets/images/christmaschaos/decklists/moss.jpg)
+![Moss - Reanimator](/assets/images/christmaschaos/decklists/moss.jpg)
 
 ![Moss booster pulls](/assets/images/christmaschaos/decklists/mosspulls.jpg)
 
-![Baran](/assets/images/christmaschaos/decklists/baran.jpg)
+![Baran - 5C Heaters](/assets/images/christmaschaos/decklists/baran.jpg)
 
-![Elleman](/assets/images/christmaschaos/decklists/elleman.jpg)
+![Semmens - 5C Mirror Control](/assets/images/christmaschaos/decklists/semmens.jpg)
 
-![Sanders](/assets/images/christmaschaos/decklists/sanders.jpg)
+![Elleman - 5C Good Stuff](/assets/images/christmaschaos/decklists/elleman.jpg)
 
-![Semmens](/assets/images/christmaschaos/decklists/semmens.jpg)
+![Sanders - The Juicy Special](/assets/images/christmaschaos/decklists/sanders.jpg)
 
-![Walker](/assets/images/christmaschaos/decklists/walker.jpg)
+![Walker - 5C Control](/assets/images/christmaschaos/decklists/walker.jpg)
 
 **CANDIDS**
 
