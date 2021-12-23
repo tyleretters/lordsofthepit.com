@@ -76,6 +76,9 @@ Never. Ever.
 
 For best results, start with the cards that gave you the most joy from your childhood. Proxies are totally okay. Next, get in contact with a [club near you](/clubs) to be invited to the next meet up!
 
+![](/assets/images/site/boiler-room.jpg)
+
+
 ## Do I need [power](https://en.wikipedia.org/wiki/Power_Nine) to enjoy Old School?
 
 ---
