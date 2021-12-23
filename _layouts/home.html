@@ -16,7 +16,7 @@ layout: default
         </time> by {{ post.author }} · <a href="{{ post.url | relative_url }}">Link</a>
       </p>
     </header>
-    <div>
+    <div{% if post.monospace %} class="post-mono"{% endif %}>
       {{ post.content }}
     </div>
 
