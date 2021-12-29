@@ -28,10 +28,13 @@ Amenities include an indoor pool & hot tub, living room bird cage, six bathrooms
 
 ## Tentative Tournament Info
 
-- Friday's main event will be Middle School
-- Saturday's main event will be the 2022 Lords of the Pit Championship (93/94 EC Rules with Top 8)
-- Chaos Orb Trick Flips Contest
-- All other tournaments will be announced at a later date
+- Thursday PM: Classic EDH Pods & Cubes
+- Friday AM: '95 Two Headed Giant
+- Friday PM: Middle School (Swiss +1)
+- Saturday AM: Vintage (Swiss +1)
+- Saturday PM: The 2022 Lords of the Pit Championship (93/94 EC Rules with Top 8)
+- Chaos Orb Trick Flips Contest (During Chmpionship Top 8)
+- Casual formats all weekend: Cube, Eternal Chaos, Revised 40, Pioneer, Legacy, Biñho
 
 Professionally printed proxies and playtest cards (markers on basic lands) are allowed. Please take pride in their presentation. All cards and sleeves must be indistinguishable when face down or shuffled.
 
