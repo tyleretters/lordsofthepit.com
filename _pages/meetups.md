@@ -46,4 +46,6 @@ permalink: /meetups
 
 ![](/assets/images/2018/08/players-ball-2.jpg)
 
+![](/assets/images/2018/07/Rosemont_Rumble_2.png)
+
 ![](/assets/images/2021/ospb-17.jpg)
