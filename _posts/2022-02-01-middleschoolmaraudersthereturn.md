@@ -24,7 +24,7 @@ After five rounds of Swiss pairings, one mage stood apart from the rest as our o
 
 ![Standings](/assets/images/marauders2022-01-29/standings.jfif)
 
-The remainder of the field saw a plethora of ill MS technology: newcomer Ben Jones wielded a sharp monoblack Rack/Wheel of Torture deck, Lord Andy MacDougall herded squirrels via Enchantress, Lord Greg Kotscharjan ran with Esper Wizards (all Japanese for maximum angle-shooting) and Lord Baran unleashed a Draco/Erratic Explosion combo. While multiple iterations of Tax/Rack circulated the room, we kept the durdling to a minimum.
+The remainder of the field saw a plethora of ill MS technology: newcomer Ben Jones wielded a sharp monoblack Rack deck, Lord Andy MacDougall herded squirrels via Enchantress, Lord Greg Kotscharjan ran with Esper Wizards (all Japanese for maximum angle-shooting) and Lord Baran unleashed a Draco/Erratic Explosion combo. While multiple iterations of Tax/Rack circulated the room, we kept the durdling to a minimum.
 
 With Middle School Marauders now successfully relaunched, the Lords look to ride out the mid-winter doldrums and await further misadventure in 2022…
 
