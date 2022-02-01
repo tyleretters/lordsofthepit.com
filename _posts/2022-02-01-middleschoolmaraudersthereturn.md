@@ -16,7 +16,7 @@ This was how Middle School Marauders: The Return began. Lord Michael Walker show
 
 Harsh winds and lake effect snow may have battered Chicago into submission, but on this fine, late-January afternoon the Lords & Co. gathered to reignite the flame of Middle School MTG, that distinctual, finely-aged format covering *Fourth Edition* through *Scourge*. For those that may not remember (hey, it’s been a couple years), you can read Lord Jaco’s format primer [here](https://www.eternalcentral.com/middleschoolrules/).
 
-For Marauders, the Lords chose to support [My Block My Hood My City](https://www.formyblock.org/mission), an organization that coordinates volunteers across the City of Chicago, raising over $300 for their benefit.
+At Marauders, the Lords chose to support [My Block My Hood My City](https://www.formyblock.org/mission), an organization that coordinates volunteers across the City of Chicago, raising over $300 for their benefit.
 
 ![Pregame](/assets/images/marauders2022-01-29/frontbarDMen.jpg)
 
