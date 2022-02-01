@@ -10,7 +10,7 @@ category: Blog
 
 *“Does anybody have an extra deck?”*
 
-So began Middle School Marauders: The Return. Lord Michael Walker showed up to have a couple beverages and innocently observe games having never played Middle School before; but with the Lords of the Pit, if you show up, you pair up. Walker’s inclusion made an even 18 ballers, perfect for the tight confines of DMen Tap’s back room. Lord Tim Baran had a spare brew (Madness), and thusly we equipped Walker and fired Round 1.
+So began Middle School Marauders: The Return. Lord Michael Walker showed up to have a couple beverages and innocently observe games having never played Middle School; but with the Lords of the Pit, if you show up, you pair up. Walker’s inclusion made an even 18 ballers, perfect for the tight confines of DMen Tap’s back room. Lord Tim Baran had a spare brew (Madness), and thusly we equipped Walker and fired Round 1.
 
 ![](/assets/images/marauders2022-01-29/maraudersbraids.png)
 
