@@ -20,7 +20,7 @@ At Marauders, the Lords supported [My Block My Hood My City](https://www.formybl
 
 ![Pregame](/assets/images/marauders2022-01-29/frontbarDMen.jpg)
 
-After five rounds of Swiss pairings, one mage stood apart from the rest as our own MTG Meatball, Lord Carter Petray, slew the competition with his English Breakfast feat. Stiflenought. After a morning spent hanging lighting fixtures at Lord Moss’ Logan Square fortress (big ups to Meatball Electric!) his 5-0 list dodged enough graveyard hate to grind Ws using the likes of Phage, Akroma and Noughts. The remaining 4-1 lists included Lord Nick Rohr’s Monowhite Shadowgeddon, Southsider Enrique Flores’ Monoblack Necro, and Lord Nathan Mullen’s BG Madness. (A scrivener’s error listed Mullen at 3-2 in the final standings, but as noted in his tasteful deck pic below, he was upon further review awarded the extra W ex post facto.)
+After five rounds of Swiss pairings, one mage stood apart from the rest as our own MTG Meatball, Lord Carter Petray, slew the competition with his English Breakfast feat. Stiflenought. After a morning spent hanging lighting fixtures at Lord Moss’ Logan Square fortress (big ups to Meatball Electric!) his 5-0 list dodged enough graveyard hate to grind Ws using the likes of Phage, Akroma and Noughts. The remaining 4-1 lists included Lord Nick Rohr’s Monowhite Shadowgeddon, Southsider Enrique Flores’ Monoblack Necro, and Lord Nathan Mullen’s BG Madness. (A scrivener’s error listed Mullen at 3-2 in the final standings, but as noted in his tasteful deck pic below, he was upon further review awarded an extra W ex post facto.)
 
 ![Standings](/assets/images/marauders2022-01-29/standings.jfif)
 
