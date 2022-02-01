@@ -8,7 +8,7 @@ category: Blog
 
 [HEADER IMAGE - TYLER PLEASE USE VOLRATH'S SHAPESHIFTER]
 
-“Does anybody have an extra deck?”
+*“Does anybody have an extra deck?”*
 
 This was how Middle School Marauders: The Return began. Lord Michael Walker showed up to have a couple beverages and innocently observe games having never played Middle School before; but with the Lords of the Pit, if you show up, you pair up. Walker’s inclusion made an even 18 ballers, perfect for the tight confines of DMen Tap’s back room. Lord Tim Baran had a spare brew (Madness), and thusly we equipped Walker and fired Round 1.
 
@@ -18,7 +18,7 @@ Harsh winds and lake effect snow may have battered Chicago into submission, but 
 
 For Marauders, the Lords chose to support My Block My Hood My City, an organization that coordinates volunteers across the City of Chicago, raising over $300 for their benefit.
 
-![DMen Tap](/assets/images/marauders2022-01-29/frontbarDMen.jpg)
+![Pregame](/assets/images/marauders2022-01-29/frontbarDMen.jpg)
 
 After five rounds of Swiss pairings, one mage stood apart from the rest as our own MTG Meatball, Lord Carter Petray, slew the competition with his English Breakfast feat. Stiflenought. After a morning spent hanging lighting fixtures at Lord Moss’ Logan Square fortress (big ups to Meatball Electric!) his 5-0 list dodged enough graveyard hate to grind Ws using the likes of Phage, Akroma and Noughts. The remaining 4-1 lists included Lord Nick Rohr’s Monowhite Shadowgeddon, Southsider Enrique Flores’ Monoblack Necro, and Lord Nathan Mullen’s BG Madness. (A scrivener’s error listed Mullen at 3-2 in the final standings, but as noted in his tasteful deck pic below, he was upon further review awarded the extra W ex post facto.)
 
@@ -32,58 +32,64 @@ With Middle School Marauders now successfully relaunched, the Lords look to ride
 
 **DECK GALLERY**
 
-![Velasco - BUG Berserk Aggro feat. Twiddlevault](/assets/images/christmaschaos/decklists/velasco.jpg)
+![Petray](/assets/images/marauders2022-01-29/lists/01petray.jpg)
 
-![Velasco boosts... holy Strixhaven!](/assets/images/christmaschaos/decklists/velascopulls.jpg)
+![Rohr](/assets/images/marauders2022-01-29/lists/02rohr.jpg)
 
-![Piquard - BoosterGeddon](/assets/images/christmaschaos/decklists/piquard.jpg)
+![Flores](/assets/images/marauders2022-01-29/lists/03flores.jpg)
 
-![Piquardo selected siq pulls](/assets/images/christmaschaos/decklists/piquardopulls.jpg)
+![Kotscharjan](/assets/images/marauders2022-01-29/lists/04kotscharjan.jpg)
 
-![Moss - Bulu Reanimator](/assets/images/christmaschaos/decklists/moss.jpg)
+![MacDougall](/assets/images/marauders2022-01-29/lists/05macdougall.jpg)
 
-![Moss boosted technology](/assets/images/christmaschaos/decklists/mosspulls.jpg)
+![Gleicher](/assets/images/marauders2022-01-29/lists/06gleicher.jpg)
 
-![Baran - 5C Heaters](/assets/images/christmaschaos/decklists/baran.jpg)
+![Braun](/assets/images/marauders2022-01-29/lists/07braun.jpg)
 
-![Semmens - 5C Mirror Control](/assets/images/christmaschaos/decklists/semmens.jpg)
+![Elleman](/assets/images/marauders2022-01-29/lists/08elleman.jpg)
 
-![Elleman - 5C Good Stuff](/assets/images/christmaschaos/decklists/elleman.jpg)
+![Mullen](/assets/images/marauders2022-01-29/lists/09mullen.jpg)
 
-![Sanders - The Juice Special](/assets/images/christmaschaos/decklists/sanders.jpg)
+![Jones](/assets/images/marauders2022-01-29/lists/10jones.jpg)
 
-![Walker - 5C Clone Control](/assets/images/christmaschaos/decklists/walker.jpg)
+![Casleton](/assets/images/marauders2022-01-29/lists/11casleton.jpg)
+
+![Moss](/assets/images/marauders2022-01-29/lists/12moss.jpg)
+
+![McCarthy](/assets/images/marauders2022-01-29/lists/13mccarthy.jpg)
+
+![Walker](/assets/images/marauders2022-01-29/lists/16walker.jpg)
+
+![Baran](/assets/images/marauders2022-01-29/lists/17baran.jpg)
 
 **CANDIDS**
 
-![Semmens v. Baran](/assets/images/christmaschaos/candids/semmensbaran.jpg)
+![Dudesweats 1](/assets/images/marauders2022-01-29/candids/dudesweats1.jpg)
 
-![Baran v. Moss](/assets/images/christmaschaos/candids/baranmoss.jfif)
+![Mullen v. Casleton](/assets/images/marauders2022-01-29/candids/mullencasleton.jpg)
 
-![Semmens v. Sanders](/assets/images/christmaschaos/candids/semmenssanders.jpg)
+![Dudesweats 2](/assets/images/marauders2022-01-29/candids/dudesweats2.jpg)
 
-![Baran v. Zurawski](/assets/images/christmaschaos/candids/baranscatman.jfif)
+![Petray v. Jones](/assets/images/marauders2022-01-29/candids/jonespetray.jpg)
 
-![Piquard v. Elleman](/assets/images/christmaschaos/candids/piquardelleman.jfif)
+![Dudesweats 3](/assets/images/marauders2022-01-29/candids/dudesweats3.jpg)
 
-![Boosting up Beholder](/assets/images/christmaschaos/candids/mosswalker.jpg)
+![Casleton v. Elleman](/assets/images/marauders2022-01-29/candids/casletonelleman.jpg)
 
-![Elleman v. Semmens](/assets/images/christmaschaos/candids/ellemansemmens.jpg)
+![Dudesweats 4](/assets/images/marauders2022-01-29/candids/dudesweats4.jpg)
 
-![Nissa getting balled](/assets/images/christmaschaos/candids/semmenselleman.jpg)
+![Braun v. Jones](/assets/images/marauders2022-01-29/candids/braunjones.jpg)
 
-![Moss v. Elleman](/assets/images/christmaschaos/candids/mosselleman.jpg)
+![Dudesweats 5](/assets/images/marauders2022-01-29/candids/dudesweats5.jpg)
 
-![Piquard v. Elleman 2](/assets/images/christmaschaos/candids/piquardelleman2.jpg)
+![Akroma](/assets/images/marauders2022-01-29/candids/akroma.jpg)
 
-![Sanders v. Moss](/assets/images/christmaschaos/candids/sandersmoss.jpg)
+![Hystrodon](/assets/images/marauders2022-01-29/candids/hystrodon.jpg)
 
-![Shrine doing work](/assets/images/christmaschaos/candids/sandersshrine.jpg)
+![Kotscharjan v. Coisson](/assets/images/marauders2022-01-29/candids/kotscharjancoisson.jpg)
 
-![Elleman v. Semmens 2](/assets/images/christmaschaos/candids/ellemansemmens2.jpg)
+![Petray v. Gleicher](/assets/images/marauders2022-01-29/candids/petraygleicher.jpg)
 
-![Velasco v. Walker](/assets/images/christmaschaos/candids/velascowalker.jpg)
+![Moss v. Gleicher](/assets/images/marauders2022-01-29/candids/mossgleicher.jpg)
 
-![Semmens v. Walker](/assets/images/christmaschaos/candids/semmenswalker.jpg)
-
-![The Chaotician](/assets/images/christmaschaos/candids/chaotician.jpg)
+![Meatball Electric](/assets/images/marauders2022-01-29/meatballelectric.jpg)
