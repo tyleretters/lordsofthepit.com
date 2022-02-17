@@ -42,6 +42,8 @@ permalink: /meetups
 
 ![](/assets/images/2018/10/Ice-Storm-Social.jpg)
 
+![](/assets/images/2018/11/IMG_1948.JPG)
+
 ![](/assets/images/2018/09/Fall_Brawl_10-20-18.jpg)
 
 ![](/assets/images/2018/08/players-ball-2.jpg)
