@@ -43,7 +43,7 @@ Proxy Policy: Professionally printed proxies and playtest cards (markers on basi
 
 ---
 
-## Prizes Draft
+## Prize Draft
 
 All participants of the 2022 Lords of the Pit Championship event must bring a prize valued of at least $20 for the prize pool. **Creativity is encouraged.** Some notable examples of the last prize pool included a power drill, a CE Mox Emerald, a box of Fallen Empires, mystery vinyl records, altered cards, booze, playmats, and much, much more!
 
