@@ -78,10 +78,10 @@ Unlike all other Lords of the Pit events, there is no charitable component to Lo
 
 ## Schedule
 
-![](assets/images/2022/LordsHaus2Schedule-01.jpg)
-![](assets/images/2022/LordsHaus2Schedule-02.jpg)
-![](assets/images/2022/LordsHaus2Schedule-03.jpg)
-![](assets/images/2022/LordsHaus2Schedule-04.jpg)
+![](/assets/images/2022/LordsHaus2Schedule-01.jpg)
+![](/assets/images/2022/LordsHaus2Schedule-02.jpg)
+![](/assets/images/2022/LordsHaus2Schedule-03.jpg)
+![](/assets/images/2022/LordsHaus2Schedule-04.jpg)
 
 ---
 
