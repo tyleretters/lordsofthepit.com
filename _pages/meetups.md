@@ -6,12 +6,14 @@ permalink: /meetups
 
 ## Upcoming Lords of the Pit Events
 ---
-![](/assets/images/2021/mauraders.png)
 
-
+![](/assets/images/2022/Screen_Shot_2022-01-28_at_3.59.12_PM.png)
 
 ## Past Lords of the Pit Events
 ---
+
+![](/assets/images/2021/mauraders.png)
+
 ![](/assets/images/2021/commando.jpg)
 
 ![](/assets/images/2021/xmaschaos2021.png)
@@ -41,6 +43,8 @@ permalink: /meetups
 ![](/assets/images/2018/12/lotp_hackers.png)
 
 ![](/assets/images/2018/10/Ice-Storm-Social.jpg)
+
+![](/assets/images/2018/11/IMG_1948.JPG)
 
 ![](/assets/images/2018/09/Fall_Brawl_10-20-18.jpg)
 
