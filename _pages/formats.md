@@ -10,7 +10,10 @@ permalink: /formats
 
 The following rules below mirror those found on Eternal Central, and are rehosted here as a community benefit to ensure the ability to reference when needed. 
 
-[Old School 95 Rules](##-Old-School-95-Rules)
+- [Old School 93-94 Rules](#old-school-93-94-rules)
+- [Old School 95 Rules](#old-school-95-rules)
+- [Middle School Rules](#middle-school-rules)
+- [Classic Magic Rules](#classic-magic-rules)
 
 ---
 
