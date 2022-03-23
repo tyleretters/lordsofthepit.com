@@ -19,9 +19,7 @@ The following rules mirror those as written by and posted on [Eternal Central.](
 
 ## Old School 93-94 Rules
 
-**All Old School 93-94 tournaments that Eternal Central hosts will use the rules below.**
-
-Note: last updated September 7, 2019. EC Old School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
+**All Old School 93-94 tournaments that Eternal Central hosts will use the rules below.** Note: last updated September 7, 2019. EC Old School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
 **Legal Sets**
 
@@ -108,9 +106,7 @@ In order to encourage the maximum amount of Magic and matches being played (and 
 
 ## Old School 95 Rules
 
-**All Old School 95 tournaments that Eternal Central hosts will use the rules below.**
-
-Note: last updated September 7, 2019. EC Old School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
+**All Old School 95 tournaments that Eternal Central hosts will use the rules below.** Note: last updated September 7, 2019. EC Old School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
 **Legal Sets**
 
@@ -206,8 +202,7 @@ In order to encourage the maximum amount of Magic and matches being played (and 
 
 ### Middle School Rules
 
-**All Middle School tournaments that Eternal Central hosts will use the rules below.**
-Note: last updated May 22, 2020. EC Middle School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
+**All Middle School tournaments that Eternal Central hosts will use the rules below.** Note: last updated May 22, 2020. EC Middle School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
 **Legal Sets**
 
@@ -319,8 +314,7 @@ As of right now, there is no official and explicit rule against drawing in Middl
 
 ### Classic Magic Rules
 
-**All Classic Magic tournaments that Eternal Central hosts will mirror the rules as written and maintained on the Classic Magic Facebook page.**
-Note: last updated June 4, 2019. Classic Magic uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
+**All Classic Magic tournaments that Eternal Central hosts will mirror the rules as written and maintained on the Classic Magic Facebook page.** Note: last updated June 4, 2019. Classic Magic uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
 **Legal Sets**
 
