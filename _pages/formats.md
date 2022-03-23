@@ -84,20 +84,27 @@ Constructed decks must contain a minimum of 60 cards (no maximum deck size; howe
 - THE FOLLOWING CARDS WILL HAVE THE UPDATED ORACLE TEXT, AS SHOWN BELOW:
 
 Chaos Orb
+
 2
+
 Artifact
-1, Tap: Choose a nontoken permanent on the battlefield. If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least 360 degrees during the flip, and lands resting on the chosen permanent, destroy that permanent. Then destroy Chaos Orb.
-(Note: because of how Chaos Orb is worded, with it being destroyed after a flip, it can still be Disenchanted or Shattered in response to the activation, which will nullify the ability to flip, since it is no longer on the battlefield. This is consistent with the wording of Chaos Orb not being sacrificed upon activation, as it probably would with modern templating. Also note that Chaos Orb chooses, but does not target.)
+
+1, Tap: Choose a nontoken permanent on the battlefield. If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least 360 degrees during the flip, and lands resting on the chosen permanent, destroy that permanent. Then destroy Chaos Orb. *(Note: because of how Chaos Orb is worded, with it being destroyed after a flip, it can still be Disenchanted or Shattered in response to the activation, which will nullify the ability to flip, since it is no longer on the battlefield. This is consistent with the wording of Chaos Orb not being sacrificed upon activation, as it probably would with modern templating. Also note that Chaos Orb chooses, but does not target.)*
 
 Falling Star
+
 2R
+
 Sorcery
-Choose any number of non-overlapping creatures on the battlefield. Flip Falling Star from at least a height of one foot. If Falling Star turns over completely at least 360 degrees during the flip, it deals 3 damage to each chosen creature it lands resting on. Any creatures damaged by Falling Star that are not destroyed become tapped.
-(Note: Falling Star chooses upon resolution, but does not target.)
+
+Choose any number of non-overlapping creatures on the battlefield. Flip Falling Star from at least a height of one foot. If Falling Star turns over completely at least 360 degrees during the flip, it deals 3 damage to each chosen creature it lands resting on. Any creatures damaged by Falling Star that are not destroyed become tapped. *(Note: Falling Star chooses upon resolution, but does not target.)*
 
 Ring of Ma’rûf
+
 5
+
 Artifact
+
 5, Tap, Exile Ring of Ma’rûf: The next time you would draw a card this turn, instead choose a card you own from exile or from your sideboard, and put it into your hand.
 
 **No Draws in EC Tournaments**
@@ -182,20 +189,27 @@ Constructed decks must contain a minimum of 60 cards (no maximum deck size; howe
 - THE FOLLOWING CARDS WILL HAVE THE UPDATED ORACLE TEXT, AS SHOWN BELOW:
 
 Chaos Orb
+
 2
+
 Artifact
-1, Tap: Choose a nontoken permanent on the battlefield. If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least 360 degrees during the flip, and lands resting on the chosen permanent, destroy that permanent. Then destroy Chaos Orb.
-(Note: because of how Chaos Orb is worded, with it being destroyed after a flip, it can still be Disenchanted or Shattered in response to the activation, which will nullify the ability to flip, since it is no longer on the battlefield. This is consistent with the wording of Chaos Orb not being sacrificed upon activation, as it probably would with modern templating. Also note that Chaos Orb chooses, but does not target.)
+
+1, Tap: Choose a nontoken permanent on the battlefield. If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least 360 degrees during the flip, and lands resting on the chosen permanent, destroy that permanent. Then destroy Chaos Orb. *(Note: because of how Chaos Orb is worded, with it being destroyed after a flip, it can still be Disenchanted or Shattered in response to the activation, which will nullify the ability to flip, since it is no longer on the battlefield. This is consistent with the wording of Chaos Orb not being sacrificed upon activation, as it probably would with modern templating. Also note that Chaos Orb chooses, but does not target.)*
 
 Falling Star
+
 2R
+
 Sorcery
-Choose any number of non-overlapping creatures on the battlefield. Flip Falling Star from at least a height of one foot. If Falling Star turns over completely at least 360 degrees during the flip, it deals 3 damage to each chosen creature it lands resting on. Any creatures damaged by Falling Star that are not destroyed become tapped.
-(Note: Falling Star chooses upon resolution, but does not target.)
+
+Choose any number of non-overlapping creatures on the battlefield. Flip Falling Star from at least a height of one foot. If Falling Star turns over completely at least 360 degrees during the flip, it deals 3 damage to each chosen creature it lands resting on. Any creatures damaged by Falling Star that are not destroyed become tapped. *(Note: Falling Star chooses upon resolution, but does not target.)*
 
 Ring of Ma’rûf
+
 5
+
 Artifact
+
 5, Tap, Exile Ring of Ma’rûf: The next time you would draw a card this turn, instead choose a card you own from exile or from your sideboard, and put it into your hand.
 
 **No Draws in EC Tournaments**
@@ -453,15 +467,21 @@ Constructed decks must contain a minimum of 60 cards (no maximum deck size; howe
 - THE FOLLOWING CARDS WILL HAVE THE UPDATED ORACLE TEXT, AS SHOWN BELOW:
 
 Time Vault
+
 2
+
 Artifact
-Time Vault comes into play tapped.
-Time Vault doesn’t untap during your untap step.
+
+Time Vault comes into play tapped. Time Vault doesn’t untap during your untap step.
+
 Skip your next turn: Untap Time Vault and put a time counter on it.
+
 T, Remove a time counter from Time Vault: Take an extra turn after this one. Play this ability if only there’s a time counter on Time Vault.
 
 Illusionary Mask
+
 2
+
 Artifact
-X: : Put a creature card with converted mana cost X or less from your hand into play face down as a 0/1 creature. Put X mask counters on that creature. Play this ability only any time you could play a sorcery. You may turn the creature face up any time you could play an instant by removing all mask counters from it.
-*Note: this is similar to how Illusionary Mask worked in a previous rules update, prior to the modern wording.*
+
+X: : Put a creature card with converted mana cost X or less from your hand into play face down as a 0/1 creature. Put X mask counters on that creature. Play this ability only any time you could play a sorcery. You may turn the creature face up any time you could play an instant by removing all mask counters from it. *Note: this is similar to how Illusionary Mask worked in a previous rules update, prior to the modern wording.*
