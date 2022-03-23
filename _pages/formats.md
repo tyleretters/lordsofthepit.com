@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cocktails
-permalink: /cocktails
+title: Formats
+permalink: /formats
 ---
 
 ![](/assets/images/site/cocktails.jpg)
