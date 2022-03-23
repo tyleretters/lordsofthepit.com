@@ -293,9 +293,11 @@ We are constantly monitoring the decks and cards in the format to ascertain if a
 Additionally, there are a few important rules differences between Middle School and the way modern Magic has mutated over time:
 - Mana Burn Happens (as in, players lose 1 point of life for each unused mana in the mana pool at the end of each phase).
 - The Judgment Wish Cycle Works as Originally Designed, Pre-M10 Rules Change (as in, Cunning Wish, Burning Wish, Living Wish, Death Wish, and Golden Wish were originally able to find an appropriate card that had either been removed from the game, or was located in your sideboard. The Wish cycle functionality has been restored to allow this).
-- Damage Uses the Stack (as it did with Sixth Edition rules for example, so combat tricks such as Morphling, Triskelion, and Mogg Fanatic work). Quoting the page above in detail:
-Sixth Edition Style:
-C.1.Ruling.3 — The combat phase can be mapped in a longer form like this:
+- Damage Uses the Stack (as it did with Sixth Edition rules for example, so combat tricks such as Morphling, Triskelion, and Mogg Fanatic work).
+
+Sixth Edition Style: C.1.Ruling.3
+
+The combat phase can be mapped in a longer form like this:
 1. Triggers on “beginning of combat,” then chance for instants and abilities.
 2. Declare attackers.
 3. Triggers on attack declaration, then chance for instants and abilities.
