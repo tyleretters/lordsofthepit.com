@@ -22,17 +22,17 @@ Note: last updated September 7, 2019. EC Old School uses the current [London Mul
 **Legal Sets**
 
 **Old School 93-94 decks may consist of cards from these sets printed in 1993-94:**
-*Alpha
-Beta
-Unlimited
-Collector’s Edition (CE)
-International Collector’s Edition (IE)
-Arabian Nights
-Antiquities
-Revised
-Legends
-The Dark
-Fallen Empires*
+- *Alpha*
+- *Beta*
+- *Unlimited*
+- *Collector’s Edition (CE)*
+- *International Collector’s Edition (IE)*
+- *Arabian Nights*
+- *Antiquities*
+- *Revised*
+- *Legends*
+- *The Dark*
+- *Fallen Empires*
 
 **Additional Sets and Cards Allowed (ie. REPRINTS)**
 Tournaments hosted by Eternal Central also allow all non-foil cards from the sets above, that were reprinted IN ANY LANGUAGE with the original frame and original art. So for example, a *Chronicles* City of Brass, *Fifth Edition* Wrath of God, *Time Spiral* Psionic Blast, and *Collector’s Edition* Mox Ruby would all be legal (original frame + original art), while an *Ice Age* Swords to Plowshares or *Arena 1996* Counterspell would not be legal (different art). The misprinted *Revised* Serendib Efreet (with Ifh-Biff Efreet’s art, and green border) is of course allowed, because it was printed in one of the original sets in 1994 *(Revised)*. We always encourage you to seek out the oldest and coolest versions of cards you can find, but these can serve as your de facto substitutes for the cards printed in 93-94. Absolutely no proxies and fake cards allowed. Finally, the following promotional cards from 1994 are also legal: Arena, Sewers of Estark, and Nalathni Dragon.
