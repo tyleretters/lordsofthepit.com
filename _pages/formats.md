@@ -8,7 +8,7 @@ permalink: /formats
 
 ## EC Format Rules
 
-The following rules below mirror those as written by and posted on [Eternal Central.](https://www.eternalcentral.com/) They have been rehosted here as a community benefit to ensure the ability to reference when needed. 
+The following rules mirror those as written by and posted on [Eternal Central.](https://www.eternalcentral.com/) They have been rehosted here as a community benefit to ensure the ability to reference when needed. 
 
 - [Old School 93-94 Rules](#old-school-93-94-rules)
 - [Old School 95 Rules](#old-school-95-rules)
