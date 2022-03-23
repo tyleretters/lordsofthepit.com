@@ -78,8 +78,8 @@ Constructed decks must contain a minimum of 60 cards (no maximum deck size; howe
 
 **Notable Rules/Differences from Modern Era of Magic**
 
-– MANA BURN STILL HAPPENS (as in, players lose 1 point of life for each unused mana in the mana pool at the end of each phase)
-– THE FOLLOWING CARDS WILL HAVE THE UPDATED ORACLE TEXT, AS SHOWN BELOW:
+- MANA BURN STILL HAPPENS (as in, players lose 1 point of life for each unused mana in the mana pool at the end of each phase)
+- THE FOLLOWING CARDS WILL HAVE THE UPDATED ORACLE TEXT, AS SHOWN BELOW:
 
 Chaos Orb
 2
