@@ -4,7 +4,7 @@ title: Formats
 permalink: /formats
 ---
 
-![](/assets/images/site/cocktails.jpg)
+![](/assets/images/banners/vamp.jpg)
 
 ## EC Format Rules
 
