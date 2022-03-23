@@ -325,51 +325,51 @@ Note: last updated June 4, 2019. Classic Magic uses the current [London Mulligan
 **Legal Sets**
 
 **Classic Magic decks may consist of cards from these sets printed in 1993-2003:**
-- *Alpha
-- *Beta
-- *Unlimited
-- *Collector’s Edition (CE)
-- *International Collector’s Edition (IE)
-- *Arabian Nights
-- *Antiquities
-- *Revised
-- *Legends
-- *The Dark
-- *Fallen Empires
-- *Fourth Edition
-- *Chronicles
-- *Renaissance/Rinascimento
-- *Homelands
-- *Ice Age
-- *Alliances
-- *Mirage
-- *Visions
-- *Fifth Edition
-- *Weatherlight
-- *Portal 1
-- *Tempest
-- *Stronghold
-- *Classic Sixth Edition
-- *Exodus
-- *Portal 2
-- *Urza’s Saga
+- *Alpha*
+- *Beta*
+- *Unlimited*
+- *Collector’s Edition (CE)*
+- *International Collector’s Edition (IE)*
+- *Arabian Nights*
+- *Antiquities*
+- *Revised*
+- *Legends*
+- *The Dark*
+- *Fallen Empires*
+- *Fourth Edition*
+- *Chronicles*
+- *Renaissance/Rinascimento*
+- *Homelands*
+- *Ice Age*
+- *Alliances*
+- *Mirage*
+- *Visions*
+- *Fifth Edition*
+- *Weatherlight*
+- *Portal 1*
+- *Tempest*
+- *Stronghold*
+- *Classic Sixth Edition*
+- *Exodus*
+- *Portal 2*
+- *Urza’s Saga*
 - *Urza’s Legacy
-- *Urza’s Destiny
-- *Portal 3 Kingdoms
-- *Mercadian Masques
-- *Starter
-- *Nemesis
-- *Prophecy
-- *Invasion
-- *Planeshift
-- *Seventh Edition
-- *Apocalypse
-- *Odyssey
-- *Torment
-- *Judgment
-- *Onslaught
-- *Legions
-- *Scourge
+- *Urza’s Destiny*
+- *Portal 3 Kingdoms*
+- *Mercadian Masques*
+- *Starter*
+- *Nemesis*
+- *Prophecy*
+- *Invasion*
+- *Planeshift*
+- *Seventh Edition*
+- *Apocalypse*
+- *Odyssey*
+- *Torment*
+- *Judgment*
+- *Onslaught*
+- *Legions*
+- *Scourge*
 
 **Additional Sets and Cards Allowed**
 
