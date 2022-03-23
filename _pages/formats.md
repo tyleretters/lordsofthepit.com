@@ -204,3 +204,113 @@ In order to encourage the maximum amount of Magic and matches being played (and 
 
 ---
 
+### Middle School Rules
+
+**All Middle School tournaments that Eternal Central hosts will use the rules below.**
+Note: last updated May 22, 2020.
+
+**Legal Sets**
+
+**Middle School decks may consist of cards from the sets printed in 1995-2003:**
+- *Fourth Edition (April 1995)*
+- *Ice Age (June 1995)*
+- *Chronicles (July 1995)*
+- *Renaissance & Rinascimento (August 1995)*
+- *Homelands (October 1995)*
+- *Alliances (May 1996)*
+- *Mirage (October 1996)*
+- *Visions (February 1997)*
+- *Fifth Edition (March 1997)*
+- *Weatherlight (June 1997)*
+- *Portal (June 1997)*
+- *Tempest (October 1997)*
+- *Stronghold (March 1998)*
+- *Exodus (June 1998)*
+- *Portal Second Age (June 1998)*
+- *Urza’s Saga (October 1998)*
+- *Urza’s Legacy (February 1999)*
+- *Sixth Edition (April 1999)*
+- *Urza’s Destiny (June 1999)*
+- *Portal Three Kingdoms (June 1999)*
+- *Starter 1999 (July 1999)*
+- *Mercadian Masques (October 1999)*
+- *Nemesis (February 2000)*
+- *Prophecy (June 2000)*
+- *Starter 2000 (July 2000)*
+- *Invasion (October 2000)*
+- *Planeshift (February 2001)*
+- *Seventh Edition (April 2001)*
+- *Apocalypse (June 2001)*
+- *Odyssey (September 2001)*
+- *Torment (February 2002)*
+- *Judgment (May 2002)*
+- *Onslaught (October 2002)*
+- *Legions (January 2003)*
+- *Scourge (May 2003)*
+
+**Additional Sets and Cards Allowed**
+
+Tournaments hosted by Eternal Central also allow all cards from the following box sets and special releases which were printed during the era: *Pro Tour Collector Set Inaugural Edition* (May 1996), *Anthologies* (November 1998), *Battle Royal Box Set* (November 1999), *Beatdown Box Set* (December 2000), *Deckmasters: Garfield vs. Finkel* (September 2001), *World Championship Decks* 1997-2003. Finally, the following cards that were Book Promos from the era are also legal: Arena, Sewers of Estark, Nalathni Dragon, Giant Badger, and Windseeker Centaur (note: Mana Crypt is banned). Arena League and DCI Membership Promos from the era (Fireball, Counterspell, Disenchant, Incinerate basic lands, etc.) are also legal in Middle School.
+
+Due to bogus behavior by investors and speculators for the past few years driving up the costs of cards beyond normal market machinations, we will allow any reprints of these cards to be played, including Collector’s Edition/International Collector’s Edition, World Championship, artist proofs, etc. Even though it goes against the original aesthetic and theme of the format, we will also begrudgingly allow modern bordered reprints of these cards to be played in Middle School. We always encourage you to seek out the oldest and best looking versions of cards you can find, but these newer or more affordable versions can always serve as your de facto substitutes for the original printings of the cards. Absolutely no proxies and fake cards are allowed.
+
+**Deck Construction**
+
+Constructed decks must contain a minimum of 60 cards (no maximum deck size; however, you must be able to shuffle your deck with no assistance). If a player wishes to use a sideboard, it can contain up to 15 cards. With the exception of basic land cards (Plains, Island, Swamp, Mountain, Forest), a player’s combined deck and sideboard may not contain more than 4 of any individual card, counted by its English card title equivalent. There is no Restricted List in Middle School, but there is a Banned List of cards that may not be used.
+
+**The following cards are banned by EC in Middle School tournaments:**
+- Amulet of Quoz
+- Balance
+- Brainstorm
+- Bronze Tablet
+- Channel
+- Dark Ritual
+- Demonic Consultation
+- Flash
+- Goblin Recruiter
+- Imperial Seal
+- Jeweled Bird
+- Lion’s Eye Diamond
+- Mana Crypt
+- Mana Vault
+- Memory Jar
+- Mind’s Desire
+- Mind Twist
+- Rebirth
+- Strip Mine
+- Tempest Efreet
+- Timmerian Fiends
+- Tolarian Academy
+- Vampiric Tutor
+- Windfall
+- Yawgmoth’s Bargain
+- Yawgmoth’s Will
+
+We are constantly monitoring the decks and cards in the format to ascertain if anything needs to be modified as time passes.
+
+**Notable Rules/Differences from Modern Era of Magic**
+
+Additionally, there are a few important rules differences between Middle School and the way modern Magic has mutated over time:
+- Mana Burn Happens (as in, players lose 1 point of life for each unused mana in the mana pool at the end of each phase).
+- The Judgment Wish Cycle Works as Originally Designed, Pre-M10 Rules Change (as in, Cunning Wish, Burning Wish, Living Wish, Death Wish, and Golden Wish were originally able to find an appropriate card that had either been removed from the game, or was located in your sideboard. The Wish cycle functionality has been restored to allow this).
+- Damage Uses the Stack (as it did with Sixth Edition rules for example, so combat tricks such as Morphling, Triskelion, and Mogg Fanatic work). Quoting the page above in detail:
+Sixth Edition Style:
+C.1.Ruling.3 — The combat phase can be mapped in a longer form like this:
+1. Triggers on “beginning of combat,” then chance for instants and abilities.
+2. Declare attackers.
+3. Triggers on attack declaration, then chance for instants and abilities.
+4. Declare blockers.
+5. Triggers on block declaration, then chance for instants and abilities.
+6. Assign combat damage (but don’t deal it yet)
+7. Chance for instants and abilities.
+8. Deal combat damage.
+9. Triggers on damage being dealt, then chance for instants and abilities.
+10. Triggers on “end of combat,” then chance for instants and abilities.
+
+We strongly feel that these specific older rules make for significantly better and more compelling game play, with more strategic depth. Everything else in Middle School works the same as modern Magic rules (current London Mulligan rule, etc.).
+
+**Draws in EC Tournaments**
+
+As of right now, there is no official and explicit rule against drawing in Middle School tournaments (yet). This is a departure from our policy in other Old School tournaments (In order to encourage the maximum amount of Magic and matches being played, and disincentivize draws and concession for seeding, we normally enforce a strict no draw policy, intentional or otherwise). We are still experimenting with solutions at different events we run, and this will be revisited and updated accordingly when necessary.
+
+As usual, if you don’t enjoy these rules, you are free to experiment on your own. These are simply our recommended guidelines, and what we will use for events that we host and promote. 
