@@ -8,8 +8,6 @@ permalink: /formats
 
 ## EC Format Rules
 
----
-
 The following rules below mirror those on Eternal Central, and are reposted here as a community benefit to ensure availability to reference when needed. 
 
 ---
