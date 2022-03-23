@@ -17,6 +17,7 @@ The following rules below mirror those on Eternal Central, and are reposted here
 ## Old School 93-94 Rules
 
 **All Old School 93-94 tournaments that Eternal Central hosts will use the rules below.**
+
 Note: last updated September 7, 2019. EC Old School uses the current [London Mulligan rule.](https://web.archive.org/web/20201029163555/https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
 **Legal Sets**
@@ -35,9 +36,11 @@ Note: last updated September 7, 2019. EC Old School uses the current [London Mul
 - *Fallen Empires*
 
 **Additional Sets and Cards Allowed (ie. REPRINTS)**
+
 Tournaments hosted by Eternal Central also allow all non-foil cards from the sets above, that were reprinted IN ANY LANGUAGE with the original frame and original art. So for example, a *Chronicles* City of Brass, *Fifth Edition* Wrath of God, *Time Spiral* Psionic Blast, and *Collector’s Edition* Mox Ruby would all be legal (original frame + original art), while an *Ice Age* Swords to Plowshares or *Arena 1996* Counterspell would not be legal (different art). The misprinted *Revised* Serendib Efreet (with Ifh-Biff Efreet’s art, and green border) is of course allowed, because it was printed in one of the original sets in 1994 *(Revised)*. We always encourage you to seek out the oldest and coolest versions of cards you can find, but these can serve as your de facto substitutes for the cards printed in 93-94. Absolutely no proxies and fake cards allowed. Finally, the following promotional cards from 1994 are also legal: Arena, Sewers of Estark, and Nalathni Dragon.
 
 **Deck Construction**
+
 Constructed decks must contain a minimum of 60 cards (no maximum deck size; however, you must be able to shuffle your deck with no assistance). If a player wishes to use a sideboard, it can contain up to 15 cards. With the exception of basic land cards (Plains, Island, Swamp, Mountain, Forest), a player’s combined deck and sideboard may not contain more than 4 of any individual card, counted by its English card title equivalent.
 
 **The following cards are banned by EC in 93-94 tournaments:**
@@ -74,6 +77,7 @@ Constructed decks must contain a minimum of 60 cards (no maximum deck size; howe
 - Wheel of Fortune
 
 **Notable Rules/Differences from Modern Era of Magic**
+
 – MANA BURN STILL HAPPENS (as in, players lose 1 point of life for each unused mana in the mana pool at the end of each phase)
 – THE FOLLOWING CARDS WILL HAVE THE UPDATED ORACLE TEXT, AS SHOWN BELOW:
 
@@ -97,6 +101,7 @@ Artifact
 For more details on these cards, read the Updated Errata and Wording for Falling Star, Chaos Orb, and Ring of Ma’rûf here.
 
 **No Draws in EC Tournaments**
+
 In order to encourage the maximum amount of Magic and matches being played (and disincentivize draws and concession for seeding), we enforce a strict no draw policy (intentional or otherwise). After 50 minutes if there was a tied match, the tie breaker will be a sudden death Chaos Orb flipping contest, similar to a hockey or soccer overtime shootout. If both players make or miss the Chaos Orb flip in the same round, repeat the process. The first person to make it while the other person misses will be declared the winner of the match. The point of Old School is to play Old School, so we always encourage everyone to play quickly and have fun each round, and this tournament structure has worked very well to that end.
 
 ---
