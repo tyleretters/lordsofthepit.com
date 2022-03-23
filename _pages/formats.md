@@ -19,6 +19,8 @@ The following rules mirror those as written by and posted on [Eternal Central.](
 
 ## Old School 93-94 Rules
 
+[As written by Eternal Central,](https://eternalcentral.com/9394rules/) here are the format rules for Old School 93-94.
+
 **All Old School 93-94 tournaments that Eternal Central hosts will use the rules below.** Note: last updated September 7, 2019. EC Old School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
 **Legal Sets**
