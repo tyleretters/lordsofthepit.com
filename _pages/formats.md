@@ -207,7 +207,7 @@ In order to encourage the maximum amount of Magic and matches being played (and 
 ### Middle School Rules
 
 **All Middle School tournaments that Eternal Central hosts will use the rules below.**
-Note: last updated May 22, 2020.
+Note: last updated May 22, 2020. EC Middle School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
 **Legal Sets**
 
@@ -315,4 +315,151 @@ We strongly feel that these specific older rules make for significantly better a
 
 As of right now, there is no official and explicit rule against drawing in Middle School tournaments (yet). This is a departure from our policy in other Old School tournaments (In order to encourage the maximum amount of Magic and matches being played, and disincentivize draws and concession for seeding, we normally enforce a strict no draw policy, intentional or otherwise). We are still experimenting with solutions at different events we run, and this will be revisited and updated accordingly when necessary.
 
-As usual, if you don’t enjoy these rules, you are free to experiment on your own. These are simply our recommended guidelines, and what we will use for events that we host and promote. 
+---
+
+### Classic Magic Rules
+
+**All Classic Magic tournaments that Eternal Central hosts will mirror the rules as written and maintained on the Classic Magic Facebook page.**
+Note: last updated June 4, 2019. Classic Magic uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
+
+**Legal Sets**
+
+**Classic Magic decks may consist of cards from these sets printed in 1993-2003:**
+- *Alpha
+- *Beta
+- *Unlimited
+- *Collector’s Edition (CE)
+- *International Collector’s Edition (IE)
+- *Arabian Nights
+- *Antiquities
+- *Revised
+- *Legends
+- *The Dark
+- *Fallen Empires
+- *Fourth Edition
+- *Chronicles
+- *Renaissance/Rinascimento
+- *Homelands
+- *Ice Age
+- *Alliances
+- *Mirage
+- *Visions
+- *Fifth Edition
+- *Weatherlight
+- *Portal 1
+- *Tempest
+- *Stronghold
+- *Classic Sixth Edition
+- *Exodus
+- *Portal 2
+- *Urza’s Saga
+- *Urza’s Legacy
+- *Urza’s Destiny
+- *Portal 3 Kingdoms
+- *Mercadian Masques
+- *Starter
+- *Nemesis
+- *Prophecy
+- *Invasion
+- *Planeshift
+- *Seventh Edition
+- *Apocalypse
+- *Odyssey
+- *Torment
+- *Judgment
+- *Onslaught
+- *Legions
+- *Scourge
+
+**Additional Sets and Cards Allowed**
+
+New border cards of any sort are not legal, proxies or not. This may seem absurd, but the whole point of the format is to play exclusively with old bordered cards, for the nostalgia.
+
+ALL FOREIGN LANGUAGE CARDS ARE LEGAL from any of the sets above, or Foreign Black Bordered reprints of those sets. Finally, the following promotional cards are also legal in Classic Magic: Arena, Sewers of Estark, Nalathni Dragon, Giant Badger, Windseeker Centaur, and Mana Crypt (note: Mana Crypt is restricted). Arena League Promos that were printed in 1996 (Fireball, Counterspell, Disenchant, basic lands) are also legal in Classic Magic.
+
+**Deck Construction**
+
+Constructed decks must contain a minimum of 60 cards (no maximum deck size; however, you must be able to shuffle your deck with no assistance). If a player wishes to use a sideboard, it can contain up to 15 cards. With the exception of basic land cards (Plains, Island, Swamp, Mountain, Forest) and Snow-Covered basic land cards (Snow-Covered Plains, Snow-Covered Island, Snow-Covered Swamp, Snow-Covered Mountain, Snow-Covered Forest), a player’s combined deck and sideboard may not contain more than 4 of any individual card, counted by its English card title equivalent.
+
+**The following cards are banned in Classic Magic:**
+- Amulet of Quoz
+- Bronze Tablet
+- Chaos Orb
+- Contract from Below
+- Darkpact
+- Demonic Attorney
+- Falling Star
+- Jeweled Bird
+- Rebirth
+- Tempest Efreet
+- Timmerian Fiends
+
+**The following cards are restricted in Classic Magic (maximum of 1 of each card per deck):**
+- Ancestral Recall
+- Balance
+- Black Lotus
+- Black Vise
+- Braingeyser
+- Burning Wish
+- Channel
+- Demonic Consultation
+- Demonic Tutor
+- Fact or Fiction
+- Fastbond
+- Flash
+- Gush
+- Imperial Seal
+- Library of Alexandria
+- Lion’s Eye Diamond
+- Lotus Petal
+- Mana Crypt
+- Mana Vault
+- Memory Jar
+- Maze of Ith
+- Merchant Scroll
+- Mind Twist
+- Mind’s Desire
+- Mox Emerald
+- Mox Jet
+- Mox Pearl
+- Mox Ruby
+- Mox Sapphire
+- Mystical Tutor
+- Necropotence
+- Regrowth
+- Shahrazad
+- Sol Ring
+- Strip Mine
+- Stroke of Genius
+- Time Walk
+- Timetwister
+- Tolarian Academy
+- Vampiric Tutor
+- Wheel of Fortune
+- Windfall
+- Yawgmoth’s Bargain
+- Yawgmoth’s Will
+
+**The Banned & Restricted List announcements will be made twice a year, on the following schedule:**
+- January 1
+- July 1
+
+**Notable Rules/Differences from Modern Era of Magic**
+- MANA BURN STILL HAPPENS (as in, players lose 1 point of life for each unused mana in the mana pool at the end of each phase).
+- DAMAGE USES THE STACK (as in, combat tricks such as Morphling, Triskelion, and Mogg Fanatic work).
+- THE WISH CYCLE RETURNS TO ORIGINAL (PRE-M10) FUNCTIONALITY (as in, Cunning Wish, Burning Wish, Living Wish, Death Wish, and Golden Wish were originally able to find an appropriate card that had either been removed from the game, or was located in your sideboard. The Wish cycle functionality has been restored to allow this).
+- THE FOLLOWING CARDS WILL HAVE THE UPDATED ORACLE TEXT, AS SHOWN BELOW:
+
+Time Vault
+2
+Artifact
+Time Vault comes into play tapped.
+Time Vault doesn’t untap during your untap step.
+Skip your next turn: Untap Time Vault and put a time counter on it.
+T, Remove a time counter from Time Vault: Take an extra turn after this one. Play this ability if only there’s a time counter on Time Vault.
+
+Illusionary Mask
+2
+Artifact
+X: : Put a creature card with converted mana cost X or less from your hand into play face down as a 0/1 creature. Put X mask counters on that creature. Play this ability only any time you could play a sorcery. You may turn the creature face up any time you could play an instant by removing all mask counters from it.
+*Note: this is similar to how Illusionary Mask worked in a previous rules update, prior to the modern wording.*
