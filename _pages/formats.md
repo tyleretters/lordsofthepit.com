@@ -10,7 +10,7 @@ permalink: /formats
 
 The following rules below mirror those found on Eternal Central, and are rehosted here as a community benefit to ensure the ability to reference when needed. 
 
-[Old School 95 Rules](## Old School 95 Rules)
+[Old School 95 Rules](##-Old-School-95-Rules)
 
 ---
 
