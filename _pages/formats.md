@@ -83,7 +83,7 @@ Constructed decks must contain a minimum of 60 cards (no maximum deck size; howe
 - MANA BURN STILL HAPPENS (as in, players lose 1 point of life for each unused mana in the mana pool at the end of each phase)
 - THE FOLLOWING CARDS WILL HAVE THE UPDATED ORACLE TEXT, AS SHOWN BELOW:
 
-Chaos Orb
+**Chaos Orb**
 
 2
 
@@ -91,7 +91,7 @@ Artifact
 
 1, Tap: Choose a nontoken permanent on the battlefield. If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least 360 degrees during the flip, and lands resting on the chosen permanent, destroy that permanent. Then destroy Chaos Orb. *(Note: because of how Chaos Orb is worded, with it being destroyed after a flip, it can still be Disenchanted or Shattered in response to the activation, which will nullify the ability to flip, since it is no longer on the battlefield. This is consistent with the wording of Chaos Orb not being sacrificed upon activation, as it probably would with modern templating. Also note that Chaos Orb chooses, but does not target.)*
 
-Falling Star
+**Falling Star**
 
 2R
 
@@ -99,7 +99,7 @@ Sorcery
 
 Choose any number of non-overlapping creatures on the battlefield. Flip Falling Star from at least a height of one foot. If Falling Star turns over completely at least 360 degrees during the flip, it deals 3 damage to each chosen creature it lands resting on. Any creatures damaged by Falling Star that are not destroyed become tapped. *(Note: Falling Star chooses upon resolution, but does not target.)*
 
-Ring of Ma’rûf
+**Ring of Ma’rûf**
 
 5
 
@@ -188,7 +188,7 @@ Constructed decks must contain a minimum of 60 cards (no maximum deck size; howe
 - MANA BURN STILL HAPPENS (as in, players lose 1 point of life for each unused mana in the mana pool at the end of each phase)
 - THE FOLLOWING CARDS WILL HAVE THE UPDATED ORACLE TEXT, AS SHOWN BELOW:
 
-Chaos Orb
+**Chaos Orb**
 
 2
 
@@ -196,7 +196,7 @@ Artifact
 
 1, Tap: Choose a nontoken permanent on the battlefield. If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least 360 degrees during the flip, and lands resting on the chosen permanent, destroy that permanent. Then destroy Chaos Orb. *(Note: because of how Chaos Orb is worded, with it being destroyed after a flip, it can still be Disenchanted or Shattered in response to the activation, which will nullify the ability to flip, since it is no longer on the battlefield. This is consistent with the wording of Chaos Orb not being sacrificed upon activation, as it probably would with modern templating. Also note that Chaos Orb chooses, but does not target.)*
 
-Falling Star
+**Falling Star**
 
 2R
 
@@ -204,7 +204,7 @@ Sorcery
 
 Choose any number of non-overlapping creatures on the battlefield. Flip Falling Star from at least a height of one foot. If Falling Star turns over completely at least 360 degrees during the flip, it deals 3 damage to each chosen creature it lands resting on. Any creatures damaged by Falling Star that are not destroyed become tapped. *(Note: Falling Star chooses upon resolution, but does not target.)*
 
-Ring of Ma’rûf
+**Ring of Ma’rûf**
 
 5
 
@@ -466,7 +466,7 @@ Constructed decks must contain a minimum of 60 cards (no maximum deck size; howe
 - THE WISH CYCLE RETURNS TO ORIGINAL (PRE-M10) FUNCTIONALITY (as in, Cunning Wish, Burning Wish, Living Wish, Death Wish, and Golden Wish were originally able to find an appropriate card that had either been removed from the game, or was located in your sideboard. The Wish cycle functionality has been restored to allow this).
 - THE FOLLOWING CARDS WILL HAVE THE UPDATED ORACLE TEXT, AS SHOWN BELOW:
 
-Time Vault
+**Time Vault**
 
 2
 
@@ -478,7 +478,7 @@ Skip your next turn: Untap Time Vault and put a time counter on it.
 
 T, Remove a time counter from Time Vault: Take an extra turn after this one. Play this ability if only there’s a time counter on Time Vault.
 
-Illusionary Mask
+**Illusionary Mask**
 
 2
 
