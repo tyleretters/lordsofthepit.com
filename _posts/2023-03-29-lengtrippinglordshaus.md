@@ -44,7 +44,7 @@ I spent the last two years preparing for Lords Haus 2.
 **Part Two: The Return Trip (Thursday)**
 
 *“But I’ll live Forever
-Questions Curse Me, Why?”* - Electric Wizard
+Questions Curse Me, Why?”* -Electric Wizard
 
 The trip was shorter than I remembered. It mattered little, Brother Andrew drove as always, and commented on the rush of familiarity as we turned left into Kilbuck Creek. Two years evaporated in an instant. We were once again where we were before. As if nothing changed. But all of us changed. We are all so different. Older? Stranger. Time is kinder to Librarians than it is to Lords, but no amount of prior tribulation can smother the luminescence of friendship in familiar faces. We were among the earlier arrivals on Thursday, but there was no shortage of welcoming embraces.
 
@@ -81,7 +81,7 @@ The level of dedication from everyone involved in Lords Haus was tangible in eve
 **Part Three: Phantom Green (Friday)**
 
 *“The Vanishing Man has madness to sow
-There are Secrets he Knows have never been told”* - Agents of Oblivion
+There are Secrets he Knows have never been told”* -Agents of Oblivion
 
 Lords’ Haus is the full actualization of what I envisioned when I stepped out of the mainstream of magic to start the MTG Underground. Seeing the dream come to life on its own is uplifting in a way that words cannot properly serve. But within any underground, there will always be the formation of another underground. Eventually, Darkthrone feels mainstream. Wu-Tang Clan merchandise is for sale at Target. People sleep every night but don’t know any of their songs. Ozzy Osborne becomes self-parody for a generation that has never heard Black Sabbath. When the world becomes an ugly reflection of the dream, we must steal its bones to make something new.
 
