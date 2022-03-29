@@ -235,3 +235,5 @@ I live in the Midwest, and good food is the exception rather than the rule in th
 Let it be Said: The Lords know how to throw a party.
 
 ![](/assets/images/lenglordshaus/ben2.JPG)
+
+*Editor's note: special thanks go to Robert Vincent for sharing his copious Lords Haus photos!*
