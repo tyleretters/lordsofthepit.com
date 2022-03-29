@@ -24,7 +24,7 @@ Tuknir was not fond of corporeal tethers.
 “Just because you can blow smoke does not make you a Dragon,” The Lady spoke, sending convulsions of fear through Stangg’s spines. He let himself breathe now that her attention was redirected, hoping his other self would remain quiet, keeping the attention anywhere else.
 Her gaze fixed on the floating face to which she had responded. Her attention forced him to further manifest. The slimy Lungs and limbs became encapsulated in bone, muscle, and sinew. As he forced flesh across his rapidly crafted legs, Tuknir Deathlock stepped forward to pass the bong to Lady Orca.
 
-*****
+![](/assets/images/marauders2022-01-29/maraudersbraids.png)
 
 February of 2020. From the Cold Wastes surrounding the Plateau of Leng, to the frigid reaches beyond the heart and borders of the Pit. It was a pilgrimage that began any other. Brother Andrew handled the Earthly matters, while I tended the Void from a state of constant ritual. We drifted West like smoke through a Drug Skeleton, bringing strange and cryptic offerings from the secret depths of Leng. Mishra could build a Workshop, but he could never match the strange and unorthodox offerings the spaces between. No celebration, even in the depths of the Pit, could be complete without the essence of Leng to keep rattle loose the constrictive reigns of Time and Space.
 
@@ -40,6 +40,8 @@ And the Librarian himself?
 Lurking in the darkness. Dancing in the Light.
 
 I spent the last two years preparing for Lords Haus 2.
+
+![](/assets/images/lenglordshaus/ben1.JPG)
 
 **Part Two: The Return Trip (Thursday)**
 
@@ -77,6 +79,8 @@ In that moment, I suspected I knew who the Steely Dan Bandit was.
 The rest of the night was an undulating dream. Much of it in proximity of the pool, or out in the night air, continually consuming the native plant life of Leng. I was rarely not in the best of company or lost in music. The was the first night, and like the others that would follow, it was too full of magic to end. It ran later than any of us was prepared for in these older, wearier days, but whenever we thought of giving it up, it gave us another out. In this case, my pursuit of slumber turned into another late cocktail of unknown composition (I never asked for anything specific, and defaulting my choice to the experts proved to be correct every time) and further conversation. Nathan was still manning the bar. I would gleefully argue that there was never a moment when the bar was not open and serving.
 
 The level of dedication from everyone involved in Lords Haus was tangible in every moment, but nowhere could it be seen more clearly than behind the bar for this seemingly endless string of days. For a brief moment, I wondered if we ever left. I tried to string together an Overlook Hotel joke in my mind, but I spared my server the grief, and after one final round I found my way into bed and the welcoming hunger of a deep sleep.
+
+![](/assets/images/lenglordshaus/lengorb.jpg)
 
 **Part Three: Phantom Green (Friday)**
 
@@ -123,6 +127,8 @@ I thought about my Alpha Lord of the Pit. Its blurry ink signature and bottle in
 
 I could tell you that I went swimming and met a variety of cocktails, that I made conversation with friends and filled my lungs with copious tokes of the Leng Leaf. I could tell you that this night ended much as the others, dragged on to a dangerously close proximity to the sunrise, and that the bar was never unstaffed. And all of those things would probably be true, but I have no memories of the deep part of the second day. Somewhere in the darkness I fell asleep where I intended.
 
+![](/assets/images/lenglordshaus/puzzleboxoflengcontents.jpg)
+
 **Part Four: Earth’s Last Picture (Saturday)**
 
 *“Would ye not rather fall into pleasant reverie
@@ -160,12 +166,16 @@ It was my turn to mulligan as the fiendish creature before me grinned delightful
 
 But the Balance came, and eventually The Abyss. My opponent was determined to lock me out of my victory. A close game that I could not seem to close, after nearly forty minutes of reciprocal violence, I managed to defeat the mighty Moss. In our second game. Sometime near its end, time was called, but we disregarded it, and gained back the time that was lost when I had to outwalk Frodo in pursuit of my enemy in his personal Mordor. As we shuffled up for game three, the Bob Police ascended to our perch and shut us down. He was having none of our nonsense, and we were sent to the Chaos Orb flip off.
 
+![](/assets/images/lenglordshaus/larrylightfootorca.jpg)
+
 Moss turned his hat around and gave me a look straight out of Over the Top. He was letting me know that he was Sylvester Stallone, and I was about to have my arm ripped off. If I even had arms. I looked down and discovered that I did. I looked back up, and he had hardly moved. His hat in the proper position. He placed the measuring device on the table, and I broke out the Lori Lightfoot “Biggest Dick in Oldschool” Lady Orca for a target. The Rocky montage of Moss flipping for his patch started playing in my head. He presumed victory. It was coursing through his veins.
 
 I have lost flip offs to the Moss Monster in the past. I have never won. And this motherfucker is hardly drinking. Me? Barely able to peer back through the mists. The moment is at hand. Having assessed the situation, I finished my drink. I concluded that I was not sure I could tell the difference between Thin Lizzy and Steely Dan. Did they share band members? Would getting rid of one solve the issue with the other? I would probably never know, and it brought me a moment of clarity. The odds were in my favor. My opponent was not an unstoppable flippernaut, but just one of Steely Dan’s seven fans. I was Black Sabbath incarnate. They were Lords of the Pit only after being fired as Servants of Leng. Their evil could not prevail against our drug fueled madness.
 
 We flipped. The night prior, I hit twenty-seven without opening my eyes. This would be easy. But it was not easy. We each hit twenty-five times before Moss stumbled. Fallen, he reminded me that I still needed to succeed to win. I looked him in the eye and flipped. I did not have to look to know. With the guidance of the Wrath of Lady Orca, I was avenged for the Steely affront from Thursday. And I was once again able to resume my otherwise impeccable friendship with one of the Pit’s Finest.	
 And we both made top 8 anyway.
+
+![](/assets/images/lenglordshaus/topmen.JPG)
 
 **Part Five: Supernaut (Top 8 and Beyond)**
 
@@ -175,6 +185,8 @@ I’ve seen the future and I’ve left it all behind”* -Black Sabbath
 Overcoming evil can be exhausting work. Doing so in the presence of its family, friends, and trusted confidants is the work of unsung heroes. Let each of us become our own festival, and celebrate with Unyaro Honey crystals. The Leng Leaf guided me safely through the woods, but I was oblivious to the landscape beyond. In the cold silence of the settling night, I watched the river and trees. They watched me as well. The air and my blood swirled about each other in unorthodox familiarity. I spend the majority of life outdoors in all seasons. It bewitches me with its beauty. I am often lost on the edge of familiarity.
 
 While I gave myself over to the night, inside the Lodge the top 8 was announced. Having felled Moss, I felt victorious. It was a fitting conclusion to my run. I forgot entirely about the inner workings of things, and was unaware that I had more magic to play. Fortunately, the Leng Cult takes care of its own, and soon my people found me, briefed me on the expectations upon my return, and ushered me inside. As this was happening it finally hit me that despite the sluggish performance of my deck, only one of these wretched spawns managed to defeat me.
+
+![](/assets/images/lenglordshaus/lengball.jpg)
 
 I already knew that Carter would win again, and I had seen him mercilessly ruin Moss in my vision. I was not going to deprive myself of seeing it play out. Fortunately, I was not paired as an obstacle. Unfortunately, that meant I was paired against Sam of Team Serious fame, in a match that did smile kindly upon my agenda. I have played the Power Monolith vs Eureka match enough times to know what to expect. The earlier I could cast Eureka, the more likely I was to win. I managed to do just that, but Sam managed to have it, and I was not made to suffer long as game two quickly repeated a similar pattern as game one.
 
@@ -198,6 +210,8 @@ I did not document the specifics of what I gave away, but the truth is out there
 
 The celebration followed the previous night parades amplified by the sudden onset of Daylight Savings Time. This cruel concept has wreaked endless havoc on the weeks since, and only now, weeks later, finally committing these crimes in written form, am I starting to properly adapt. But in that moment, it did not matter. The malort was long gone, and we were forced to drink good scotch or thrull blood to keep going. Nothing would keep us down. I do not remember the end, but the haze of waking up the next morning assured me that eventually, no matter how great the celebration, the night always comes to a fitting end.
 
+![](/assets/images/lenglordshaus/foodtruckburgerbuzz.JPG)
+
 **Part Six: The Fine Art of Phyrexian Hunger (Food from the Pit)**
 
 The Food arrangements at Lords’ Haus were impeccable. I avoided including them previously to discuss them in depth separately. Every meal was catered, and there was no shortage of food or snacks available at all times. A variety of Food Trucks were brought in for the primary meals, and the main event Saturday also featured a cornucopia of Chicago-style Pizza. High praise has already been offered for both the quality and variety of food both at and between meals. It does not do enough justice.
@@ -211,3 +225,5 @@ Lords’ Haus in both iterations has been a demonstration of not only considerat
 I live in the Midwest, and good food is the exception rather than the rule in the majority of places around me. Often vegetarian food is an afterthought, and the variety of options dwindles as you move away from urban centers or college towns. So when each meal arrived, I was confident that I would be taken care of, but I was blown away by the quality of everything I ate. Every meal was a dream. It is easy to take for granted, but having someone arrange your food for effectively three days and do better than you would have on your own is worth the price of admission. 
 
 Let it be Said: The Lords know how to throw a party.
+
+![](/assets/images/lenglordshaus/ben2.JPG)
