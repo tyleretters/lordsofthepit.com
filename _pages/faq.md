@@ -18,19 +18,43 @@ Membership in the Lords of the Pit is based on active involvement in our events 
 
 We value equality, inclusivity, tolerance and, of course, slinging old cardboard. 
 
-All members of the Lords of the Pit are unified under these values. We unequivocally reject racism and support the causes of equality, tolerence and inclusivity, not only in our club, but throughout the Old School community at large. Lords of the Pit events are a safe space for friends and strangers alike and are a catalyst for charitable giving to numerous Chicago-area organizations* as nominated by our members. In solidarity with the worldwide movement against institutional racism, we pledge upcoming charitable contributions to The Chicago Bond Fund, My Block My Hood My City, the NAACP and the Equal Justice Initiative.
+All members of the Lords of the Pit are unified under these values. We unequivocally reject racism and support the causes of equality, tolerence and inclusivity, not only in our club, but throughout the Old School community at large. Lords of the Pit events are a safe space for friends and strangers alike and are a catalyst for charitable giving to numerous Chicago-area organizations* as nominated by our members.
 
-*Sponsored organizations:
-https://cplfoundation.org
-http://www.ccolife.org/
-https://www.citizenschools.org
-https://girlswhocode.com
-https://www.pawschicago.org
-https://www.onetail.org
-https://www.chicagosfoodbank.org
-https://www.ridejanieride.org/
+*Previously sponsored organizations:
+
+[http://www.thekidzkorna.com/](http://www.thekidzkorna.com/)
+
+[https://chicagobond.org/](https://chicagobond.org/)
+
+[https://eji.org/](https://eji.org/)
+
+[https://www.formyblock.org/](https://www.formyblock.org/)
+
+[https://www.cradlestocrayons.org/](https://www.cradlestocrayons.org/)
+
+[https://cplfoundation.org](https://cplfoundation.org)
+
+[http://www.ccolife.org/](http://www.ccolife.org/)
+
+[https://www.citizenschools.org](https://www.citizenschools.org)
+
+[https://girlswhocode.com](https://girlswhocode.com)
+
+[https://www.pawschicago.org](https://www.pawschicago.org)
+
+[https://www.onetail.org](https://www.onetail.org)
+
+[https://www.chicagosfoodbank.org](https://www.chicagosfoodbank.org)
+
+[https://www.ridejanieride.org/](https://www.ridejanieride.org/)
 
 ![](/assets/images/2019/09/OSPB19LOTPFront.jpg)
+
+## What is your COVID-19 vaccine policy?
+
+---
+
+Attendees of Lords-hosted events are required to show proof of a COVID-19 vaccine at registration.
 
 ## What is Old School?
 
@@ -51,6 +75,9 @@ Never. Ever.
 ---
 
 For best results, start with the cards that gave you the most joy from your childhood. Proxies are totally okay. Next, get in contact with a [club near you](/clubs) to be invited to the next meet up!
+
+![](/assets/images/site/boiler-room.jpg)
+
 
 ## Do I need [power](https://en.wikipedia.org/wiki/Power_Nine) to enjoy Old School?
 
