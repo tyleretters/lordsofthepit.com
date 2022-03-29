@@ -15,6 +15,7 @@ category: Blog
 Stangg coughed midway through a monster toke on the Bong of Yawgmoth. He tried to recover graciously, feeling the eyes of the Lady peering through both of him. Her judgment burned more than the Leng Leaf smoke filling his lungs. More coughing, more scorn. He wanted to curse, to take another hit and demonstrate that the disruption, not a lack of fortitude, was the cause of this desperate need for air. Another toke hit would be suicide. If he could not get it under control, she would admonish him verbally.
 
 “You gotta let that shit go, man,” Stangg managed to retort before wiping his mouth. He needed to draw attention away from his stumble. Pass the Bong. First to himself. Confusion. Horror. Existential Dread. He was unraveling faster than the rage of Orca could burn him away. His reflection took over. It reached one of his trembling hands toward the blurry Dinosaur skull. The tears in his eyes distorted reality. Maybe it was the Leaf. Would his friend receive the outstretched offering?
+
 Did he have hands to accept it?
 
 Tuknir was not fond of corporeal tethers.
@@ -22,11 +23,12 @@ Tuknir was not fond of corporeal tethers.
 “I am not afraid of that dumb motherfucker. I will shatter his jaw like I shattered his bike lock,” Tuknir howled, then demonstrated proper bong use to whatever Stangg could see him.
 
 “Just because you can blow smoke does not make you a Dragon,” The Lady spoke, sending convulsions of fear through Stangg’s spines. He let himself breathe now that her attention was redirected, hoping his other self would remain quiet, keeping the attention anywhere else.
+
 Her gaze fixed on the floating face to which she had responded. Her attention forced him to further manifest. The slimy Lungs and limbs became encapsulated in bone, muscle, and sinew. As he forced flesh across his rapidly crafted legs, Tuknir Deathlock stepped forward to pass the bong to Lady Orca.
 
 February of 2020. From the Cold Wastes surrounding the Plateau of Leng, to the frigid reaches beyond the heart and borders of the Pit. It was a pilgrimage that began any other. Brother Andrew handled the Earthly matters, while I tended the Void from a state of constant ritual. We drifted West like smoke through a Drug Skeleton, bringing strange and cryptic offerings from the secret depths of Leng. Mishra could build a Workshop, but he could never match the strange and unorthodox offerings the spaces between. No celebration, even in the depths of the Pit, could be complete without the essence of Leng to keep rattle loose the constrictive reigns of Time and Space.
 
-There are no finer hosts than the Lords of the Pit. Their kindness to the Librarians has been demonstrated time and time again. We repay them by carving our name in their favorite things whenever they look away. Symbols and signs to remember us by. Lords’ Haus was still just an idea, but as it began the transition into reality, none of us could have imagined how important it would be when it passed into memory. At the beginning of that weekend, we were Primal Clay still in hand. In the course of the days to follow, we would be cast, or forms forever impressed by where they were sculpted. We were forged in the Lords’ Haus to better prepare us for the aftermath.
+There are no finer hosts than the Lords of the Pit. Their kindness to the Librarians has been demonstrated time and time again. We repay them by carving our name in their favorite things whenever they look away. Symbols and signs to remember us by. Lords’ Haus was still just an idea, but as it began the transition into reality, none of us could have imagined how important it would be when it passed into memory. At the beginning of that weekend, we were Primal Clay still in-hand. In the course of the days to follow, we would be cast, or forms forever impressed by where they were sculpted. We were forged in the Lords’ Haus to better prepare us for the aftermath.
 
 “After I opened the Leng Box, a pandemic broke out. Some coincidence is still omen.” -The Serious Prophet Rajah
 
