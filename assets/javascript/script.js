@@ -24,7 +24,7 @@ function checkKey(e) {
 
 $(function() {
 
-   $('article img').each(function() {  
+   $('.container img').each(function() {  
     // these asterisks are leftover from the markdown migration.
     // if you're ever bored, go in and replace all these on the posts
      alt = $(this).attr('alt').replace(/\*/g, '');

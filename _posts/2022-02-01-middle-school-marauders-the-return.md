@@ -6,7 +6,7 @@ date: "2022-02-01"
 category: Blog
 ---
 
-[HEADER IMAGE - TYLER PLEASE USE VOLRATH'S SHAPESHIFTER]
+![Volrath's Shapeshifter](/assets/images/banners/volraths-shapeshifter.jpg)
 
 *“Does anybody have an extra deck?”*
 

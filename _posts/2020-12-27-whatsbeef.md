@@ -6,7 +6,7 @@ date: "2020-12-27"
 category: Blog
 ---
 
-(HEADER IMAGE: TYLER PLEASE USE JUGGERNAUT)
+![Juggernaut](/assets/images/banners/juggernaut.jpg)
 
 Last December, I remember looking back fondly on my year of Old School: all of the meetups across the Lords’ local haunts, connecting with friends from across the country over Players Ball weekend, and our year-end blowout at the Party of the Pit Lords. Though none of us expected Lords Haüs to be the end of our in-person tournament season in 2020, it would provide a lasting reminder of the club’s values as so perfectly described by our humble T.O., Lord Agra: it’s not about the Magic, it’s about the Gathering.  
 

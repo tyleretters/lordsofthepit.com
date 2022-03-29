@@ -10,11 +10,18 @@ body {
   color: #333333;
   font-style: italic; }
 
+.post-mono p,
+.post-mono code,
+.post-mono pre {
+  color: #ffffff;
+  font-family: courier, monospace;
+  font-size: 1rem; }
+
 hr {
   background-color: #ffffff;
   border: none;
   height: 2px;
-  margin: 5px 0 5px 0; }
+  margin: 5px 0 1rem 0; }
 
 img {
   max-width: 100%;

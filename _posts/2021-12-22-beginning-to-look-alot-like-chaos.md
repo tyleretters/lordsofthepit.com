@@ -6,7 +6,7 @@ date: "2021-12-22"
 category: Blog
 ---
 
-[HEADER IMAGE - TYLER PLEASE USE BOOSTER TUTOR (CHRIS RUSH VERSION)]
+![](/assets/images/banners/booster-tutor.jpg)
 
 The Map Room is hallowed ground for Lords; a meeting place for crew members, a place to bring the out-of-towners on Sunday mornings for casual games over a Bloody Mary or perhaps a damn fine cup of coffee, black as midnight on a moonless night. Coming in right on the heels of our beloved Fall Brawl at DMen, the official return to in-person events amidst the ongoing pandemic, Map Room would play host to 10 Lords and associates for a format so wretched that only our very own Lord Sanders could have created it.
 
