@@ -6,7 +6,7 @@ date: "2023-03-29"
 category: Blog
 ---
 
-[HEADER IMAGE - TYLER PLEASE USE EITHER LIBRARIAN OF LENG OR CANDLES OF LENG]
+![Librarian of Leng](/assets/images/site/archives.jpg)
 
 **Part One: Is There Ever a Beginning?**
 
