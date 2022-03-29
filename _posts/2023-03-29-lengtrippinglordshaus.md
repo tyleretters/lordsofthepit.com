@@ -209,7 +209,7 @@ This was a prize handcrafted for me. If there was any doubt, the third piece of 
 
 The Leng Box is a prize contribution tradition that I have carried with me for a handful of years. It started when we were playing vintage, and it found a perfect home as part of the oldschool community. At the first Lords’ Haus I put a great deal of effort in giving back to the Lords for their hospitality. It was a smashing success, and I wanted to take it further this time.
 
-I have had two years without the usual if sporadic gatherings, so I have been denied the chance to give away things that I accumulate. I found myself with an abundance of ephemera and oddities, along with a heavy mix of alters, packs, alcohol, shot glasses, cat toys, and whatever else I could find about the library. It was a treasure trove fit for oldschool, but it did not feel like enough.
+I have had two years without the usual if sporadic gatherings, so I have been denied the chance to give away things that I accumulate. I found myself with an abundance of ephemera and oddities, along with a heavy mix of alters, packs, alcohol, shot glasses, cat toys, and whatever else I could find about the library. It was a treasure trove fit for Old School, but it did not feel like enough.
 
 I decided to take things a bit further, and I scripted a letter offering an exchange. I also brought along a rather large cedar box full of secrets, and offered it in place of the Leng Box, provided that the first box be given to last place. The second box was a Large raised bed planter made mostly of cedar, full of records, power tools, and some of the weirdest Leng Swag imaginable. When Sam was presented with the decision, he accepted, and my efforts were rewarded.
 
@@ -217,7 +217,7 @@ The event itself was reward enough for any of us, but the opportunity to cheat a
 
 I did not document the specifics of what I gave away, but the truth is out there. I imagine pictures are as well. And I am already thinking about my next effort, and how I will possibly manage to outdo what I have already done. That is the way of miracles. And a problem for a future and its own incarnation of the Librarian.
 
-The celebration followed the previous night parades amplified by the sudden onset of Daylight Savings Time. This cruel concept has wreaked endless havoc on the weeks since, and only now, weeks later, finally committing these crimes in written form, am I starting to properly adapt. But in that moment, it did not matter. The malort was long gone, and we were forced to drink good scotch or thrull blood to keep going. Nothing would keep us down. I do not remember the end, but the haze of waking up the next morning assured me that eventually, no matter how great the celebration, the night always comes to a fitting end.
+The celebration followed the previous night parades amplified by the sudden onset of Daylight Savings Time. This cruel concept has wreaked endless havoc on the weeks since, and only now, weeks later, finally committing these crimes in written form, am I starting to properly adapt. But in that moment, it did not matter. The Malort was long gone, and we were forced to drink good scotch or thrull blood to keep going. Nothing would keep us down. I do not remember the end, but the haze of waking up the next morning assured me that eventually, no matter how great the celebration, the night always comes to a fitting end.
 
 ![](/assets/images/lenglordshaus/foodtruckburgerbuzz.JPG)
 
