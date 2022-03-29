@@ -14,6 +14,7 @@ permalink: /contact
 
 ## Our Contributors
 
+- [@Franticc](https://twitter.com/Franticc/)
 - [@mtgmeatball](https://www.instagram.com/mtgmeatball/)
 - [@mtg_border_eraser](https://www.instagram.com/mtg_border_eraser/)
 - [@jedijulesMTG](https://www.instagram.com/jedijulesmtg/?hl=en)
