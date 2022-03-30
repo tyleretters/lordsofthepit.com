@@ -21,7 +21,7 @@ permalink: /contact
 - [@mtgmeatball](https://www.instagram.com/mtgmeatball/)
 - [@mtg_border_eraser](https://www.instagram.com/mtg_border_eraser/)
 - [@jedijulesMTG](https://www.instagram.com/jedijulesmtg/?hl=en)
-- [Freezybear371](https://twitter.com/Freezybear371)
+- [@Freezybear371](https://twitter.com/Freezybear371)
 - [@nonbasicland](https://twitter.com/nonbasicland)
 - [@mtg_beers_punts](https://twitter.com/mtg_beers_punts)
 - [@PitLordGrant](https://twitter.com/PitLordGrant)
