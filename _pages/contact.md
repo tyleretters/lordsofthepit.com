@@ -15,7 +15,7 @@ permalink: /contact
 ## Our Contributors
 
 - [@RobertV](http://www.robvincent.org/)
-- [@Shaman Ben](https://mtgunderground.wordpress.com/)
+- [@Shaman_Ben](https://mtgunderground.wordpress.com/)
 - [@Franticc](https://twitter.com/Franticc/)
 - [@understanding_ancestral](https://www.instagram.com/understanding_ancestral/)
 - [@mtgmeatball](https://www.instagram.com/mtgmeatball/)
