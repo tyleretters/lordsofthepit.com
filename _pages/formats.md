@@ -19,8 +19,6 @@ The following rules mirror those as written by and found on [Eternal Central.](h
 
 ## Old School 93-94 Rules
 
-[As written by Eternal Central,](https://eternalcentral.com/9394rules/) here are the format rules for Old School 93-94.
-
 **All Old School 93-94 tournaments that Eternal Central hosts will use the rules below.** Note: last updated September 7, 2019. EC Old School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
 **Legal Sets**
@@ -114,8 +112,6 @@ In order to encourage the maximum amount of Magic and matches being played (and 
 ---
 
 ## Old School 95 Rules
-
-[As written by Eternal Central,](https://eternalcentral.com/95rules/) here are the format rules for Old School 95.
 
 **All Old School 95 tournaments that Eternal Central hosts will use the rules below.** Note: last updated September 7, 2019. EC Old School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
@@ -219,8 +215,6 @@ In order to encourage the maximum amount of Magic and matches being played (and 
 ---
 
 ### Middle School Rules
-
-[As written by Eternal Central,](https://eternalcentral.com/middleschoolrules/) here are the format rules for Middle School.
 
 **All Middle School tournaments that Eternal Central hosts will use the rules below.** Note: last updated May 22, 2020. EC Middle School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
@@ -333,8 +327,6 @@ As of right now, there is no official and explicit rule against drawing in Middl
 ---
 
 ### Classic Magic Rules
-
-[As written by Eternal Central,](https://eternalcentral.com/classicmagicrules/) here are the format rules for Classic Magic.
 
 **All Classic Magic tournaments that Eternal Central hosts will mirror the rules as written and maintained on the Classic Magic Facebook page.** Note: last updated June 4, 2019. Classic Magic uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
 
