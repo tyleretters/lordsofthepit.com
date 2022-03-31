@@ -26,7 +26,7 @@ permalink: /contact
 - [@nonbasicland](https://twitter.com/nonbasicland)
 - [@mtg_beers_punts](https://twitter.com/mtg_beers_punts)
 - [@PitLordGrant](https://twitter.com/PitLordGrant)
-- [@Necron—99—](http://twitter.com/necron-99-)
+- [@Necron—99—](https://www.youtube.com/watch?v=CYcwqCsDeTo)
 - [@mozz2099](https://twitter.com/mozz2099)
 
 ![](/assets/images/2020/02/pitcast-crew.jpg)
