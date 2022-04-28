@@ -96,7 +96,7 @@ Day 2 ended with a bunch of folks betting drinks to earn Chaos Orb patches with 
 
 The window with no curtains, 18 inches from my face, had a clear line of sight into that glorious sunrise.  Good morning, world.  Pre-coffee, brain askew, I realized that after jamming cardboard and drinks for 2+ days, playing my trusty Deck of Decks for our main event did not hold its usual appeal.  I opted instead for a four-color aggro-control good stuff deck.  It’s more straight forward while still shuffling up some of my favorite *Betas* and all the Power.  I pulled the cards together but couldn’t find the right lands. Hey, it's close enough!  I grabbed my Vintage deck and the previous day’s mug in search of caffeine and opponents.  Time for some fucking Magic.  
 
-**Vintage!**
+**Vintage**
 
 I love Vintage.  It’s just so powerful and stupid.  Turn 1 may bring a million questions of the right line.  This was my first time in a Vintage “event” since LH1.  Ninteen players scraped lists together on Saturday morning to jam the most powerful format.  I picked cantrip.dec because it's an archetype I know and enjoy, and Pyroblast seems pretty good against all the broken blue Tinker shenanigans.  I picked up four copies of offensive looking Preordains (some experts consider it the best card in Vintage) to troll the crowd.  I enjoyed getting to play with some new old border cards… though I really missed the mark on forgetting to upgrade Dack.  Moss gifted me an (Avon) signed, un-bordered Island to mark our use of the land to troll folks since its release. It slotted right into the list.
 
@@ -213,6 +213,66 @@ Most of the Lords posted pics of their dinners that evening. Vegetables and othe
 ![Vincent](/assets/images/lordshaus2/MSdecklists/29vincentMS.jpg)
 
 **Old School Gallery**
+
+![Petray](/assets/images/lordshaus2/OSdecklists/01petrayOS.jpg)
+
+![Moss](/assets/images/lordshaus2/OSdecklists/02mossOS.JPG)
+
+![Braun](/assets/images/lordshaus2/OSdecklists/06braunOS.jpg)
+
+![Velasco](/assets/images/lordshaus2/OSdecklists/03velascoOS.jpg)
+
+![Krohlow](/assets/images/lordshaus2/OSdecklists/05krohlowOS.jpg)
+
+![Perry](/assets/images/lordshaus2/OSdecklists/04perryOS.jpg)
+
+![Punts](/assets/images/lordshaus2/OSdecklists/08puntsOS.jpg)
+
+![Friedman](/assets/images/lordshaus2/OSdecklists/10friedmanOS.jpg)
+
+![Butzen](/assets/images/lordshaus2/OSdecklists/11butzenOS.jpg)
+
+![Agra](/assets/images/lordshaus2/OSdecklists/12agraOS.jpg)
+
+![Wall](/assets/images/lordshaus2/OSdecklists/13wallOS.jpeg)
+
+![Jaco](/assets/images/lordshaus2/OSdecklists/14jacoOS.jpg)
+
+![Elleman](/assets/images/lordshaus2/OSdecklists/15ellemanOS.jpg)
+
+![Malone](/assets/images/lordshaus2/OSdecklists/16maloneOS.jpeg)
+
+![Blank](/assets/images/lordshaus2/OSdecklists/17blankOS.jpg)
+
+![Kotscharjan](/assets/images/lordshaus2/OSdecklists/18kotscharjanOS.jpg)
+
+![Grissom](/assets/images/lordshaus2/OSdecklists/19grissomOS.png)
+
+![Casleton](/assets/images/lordshaus2/OSdecklists/21casletonOS.jpeg)
+
+![Dotterer](/assets/images/lordshaus2/OSdecklists/22dottererOS.PNG)
+
+![Baran](/assets/images/lordshaus2/OSdecklists/24baranOS.JPG)
+
+![McCarthy](/assets/images/lordshaus2/OSdecklists/25mccarthyOS.jpg)
+
+![Quail](/assets/images/lordshaus2/OSdecklists/26quailOS.jpeg)
+
+![Piquard](/assets/images/lordshaus2/OSdecklists/27piquardOS.jpg)
+
+![Vincent](/assets/images/lordshaus2/OSdecklists/28vincentOS.jpg)
+
+![McLennan](/assets/images/lordshaus2/OSdecklists/29mclennanOS.jpg)
+
+![Schrank](/assets/images/lordshaus2/OSdecklists/31schrankOS.jpeg)
+
+![James](/assets/images/lordshaus2/OSdecklists/33jamesOS.JPEG)
+
+![Semmens](/assets/images/lordshaus2/OSdecklists/34semmensOS.jpg)
+
+![Walker](/assets/images/lordshaus2/OSdecklists/35walkerOS.jpeg)
+
+![MacDougall](/assets/images/lordshaus2/OSdecklists/36macdougallOS.jpeg)
 
 **Vintage Gallery**
 
