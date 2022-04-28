@@ -170,7 +170,47 @@ Most of the Lords posted pics of their dinners that evening. Vegetables and othe
 
 **Middle School Gallery**
 
-![](/assets/images/marauders2022-01-29/maraudersbraids.png)
+![Jaco](/assets/images/lordshaus2/MSdecklists/02jacoMS.jpg)
+
+![Krohlow](/assets/images/lordshaus2/MSdecklists/04krohlowMS.jpg)
+
+![MacDougall](/assets/images/lordshaus2/MSdecklists/05macdougallMS.jpeg)
+
+![Moss](/assets/images/lordshaus2/MSdecklists/06mossMS.jpeg)
+
+![McCarthy](/assets/images/lordshaus2/MSdecklists/08mccarthyMS.jpg)
+
+![Piquard](/assets/images/lordshaus2/MSdecklists/09piquardMS.jpg)
+
+![Elleman](/assets/images/lordshaus2/MSdecklists/11ellemanMS.jpg)
+
+![Finney](/assets/images/lordshaus2/MSdecklists/12finneyMS.jpg)
+
+![Baran](/assets/images/lordshaus2/MSdecklists/13baranMS.JPG)
+
+![James](/assets/images/lordshaus2/MSdecklists/14jamesMS.JPEG)
+
+![Grissom](/assets/images/lordshaus2/MSdecklists/16grissomMS.png)
+
+![Semmens](/assets/images/lordshaus2/MSdecklists/17semmensMS.jpg)
+
+![Butzen](/assets/images/lordshaus2/MSdecklists/18butzenMS.jpg)
+
+![Velasco](/assets/images/lordshaus2/MSdecklists/19velascoMS.jpg)
+
+![Braun](/assets/images/lordshaus2/MSdecklists/21braunMS.JPG)
+
+![Punts](/assets/images/lordshaus2/MSdecklists/22puntsMS.jpg)
+
+![Malone](/assets/images/lordshaus2/MSdecklists/25maloneMS.jpeg)
+
+![Quail](/assets/images/lordshaus2/MSdecklists/26quailMS.jpeg)
+
+![Mullen](/assets/images/lordshaus2/MSdecklists/27mullenMS.png)
+
+![Wall](/assets/images/lordshaus2/MSdecklists/28wallMS.jpeg)
+
+![Vincent](/assets/images/lordshaus2/MSdecklists/29vincentMS.jpg)
 
 **Old School Gallery**
 
