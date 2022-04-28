@@ -167,3 +167,7 @@ Each event and mini-event at the Haus also involved the ritualistic signing of c
 The weekend concluded much as it began, only in reverse.  Hauling stuff back into cars, last minute returning of loaned cardboard, food, and goodbyes. A huge thanks to all the Lords and friends for their company and, of course, to Bob, who once again went above and beyond to deliver such an experience. 
 
 Most of the Lords posted pics of their dinners that evening. Vegetables and other nutritious varieties featured prominently to begin offsetting the days of caloric damage.  Danny, Dom, and I opted for several airport beers instead and said goodbye until the next time. 
+
+**Middle School Gallery**
+
+**Old School Gallery**
