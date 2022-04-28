@@ -231,3 +231,5 @@ Most of the Lords posted pics of their dinners that evening. Vegetables and othe
 ![McCarthy](/assets/images/lordshaus2/vintagedecklists/mcarthyvintage.jpg)
 
 ![Velasco](/assets/images/lordshaus2/vintagedecklists/velascovintage.jpg)
+
+![](/assets/images/lordshaus2/LH2steelybanned.jpg)
