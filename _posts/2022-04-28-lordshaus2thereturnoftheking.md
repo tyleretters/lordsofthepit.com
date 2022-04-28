@@ -144,7 +144,7 @@ I don’t know what Jaco was playing but in the blind, I assumed his classic Baz
 
 We go to game 2.  Jaco dominated from start to finish, unleashing restricted cards and little dudes, using Sylvan Library to reload after I Swords’d them.  No Bazaars popped up.  It was evident he mis-sideboarded, thinking I was on more of a control shell, but his Dust to Dusts still found targets, destroying my Moxen.  At the conclusion, the shit talk increased as he boasts that now that he knows what I am playing, he will win easily.  In Game 3, the tables turned.  Jaco upped the tempo of play as we drew and threw cards at the table.  There is no more talking other than “go” with slight hand waves.  The rapid play suited my style and I out-card advantaged him with my own train of restricted cards.  We shuffled up for game 4 and I inquired as to why his new sideboard plan didn’t work.  No reply.  Game 4 we quickly exhausted our resources with one-for-ones, but I ground my way to the W by accumulating enough points of damage here and there.  A fitting battle to round out LH2. 4-2. 
 
-**Wait there’s more?**
+**Wait, there’s more?**
 
 I was retelling my bad beats as Bobby the Brain announced Top 8 and, low and behold, I snuck in at 8th place due to incomprehensible breaker math.  Ok then! Only snag: 1st place is the undefeated Carter whom I faced off against in the quarters.  His deck was tuned to beat Lion/Dib.  My deck was tuned to have 75 cards.  My plan was to find Serra.  
 
