@@ -1,7 +1,7 @@
 ---
 layout: post
 author: mtg_beers_punts
-title: "Lords Haus 2: Return of the King"
+title: "Lords Haus 2: The Return of the King"
 date: "2022-04-28"
 category: Blog
 ---
