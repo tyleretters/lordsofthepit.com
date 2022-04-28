@@ -22,7 +22,7 @@ Cracking Boosties
 Chaos Orb patches
 Chaos Orb trick flips
 
-**Day 0, Wednesday: Reunion**
+**Day 0, Wednesday: Reunions**
 
 Riding the Blue Line from O’Hare, holding a backpack filled with cardboard was oddly nostalgic and quiet.  I double checked the order of stops and popped up from the underground into a city I love.  Its fucking cold. I walked down a familiar street to find Bob’s front door and hopped with excitement, or from the cold.  I couldn’t help but give him a bear hug immediately.  Bob, being the amazing host he always is, had afternoon beer waiting as we discussed the logistics of moving, feeding, entertaining, and sleeping 30+ nerds.  After months of planning, Bob amassed tons of snacks, booze, sound equipment and, of course, cardboard for the event so the rest of us could show up and relax like nerd kings.
 
