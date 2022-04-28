@@ -34,7 +34,7 @@ At our advanced age, we should know better by now, but alas.  Some Filipino brea
 
 Arrival at the Haus was a mixture of reunions. We unloaded vehicles, cracked drinks, and found assigned rooms before quickly moving to the cardboard.
 
-**“Dom presents Crackin Boosties: A Brandon Sanders Production”**
+**“Dom presents Crackin' Boosties: A Brandon Sanders Production”**
 
 “DpCBaBSP” aka “Eternal Chaos” has been my favorite Magic “format” for the past twelve months or so.  It combines what we know and love in Old School with the variance and recklessness of cracking open booster packs.  It’s no longer clear what the rules are and perhaps it never was.  My preferred variant, that landed on with Dom and Shane, was ante boosters - at the start of every game, each player antes boosters of roughly equal value.  Booster Tutor is unrestricted, and each Tutor cast adds a sealed pack to the ante pile.  When you cast Booster Tutor, you can open a new pack or revisit your pool of cards opened earlier in the game.
 
