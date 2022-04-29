@@ -16,16 +16,26 @@ Lords Haus II was a three-day, fully-catered event for the Lords and friends of 
 Some of the events:
 
 Classic EDH
+
 Vintage Cube
+
 LH1 championship decks battle
+
 ‘95 2HG
+
 Middle School
+
 Vintage
+
 93/94 Championship
+
 Scotch tasting
+
 Cracking Boosties
+
 Chaos Orb patches
-Chaos Orb trick flips
+
+Chaos Orb trick flips tournament
 
 **Day 0, Wednesday: Reunions**
 
