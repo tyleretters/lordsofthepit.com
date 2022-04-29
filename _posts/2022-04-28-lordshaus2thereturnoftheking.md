@@ -267,6 +267,8 @@ Most of the Lords posted pics of their dinners that evening. Vegetables and othe
 
 **MIDDLE SCHOOL GALLERY**
 
+![Zinni](/assets/images/lordshaus2/01zinniMS.jpeg)
+
 ![Jaco](/assets/images/lordshaus2/MSdecklists/02jacoMS.jpg)
 
 ![Krohlow](/assets/images/lordshaus2/MSdecklists/04krohlowMS.jpg)
@@ -360,6 +362,8 @@ Most of the Lords posted pics of their dinners that evening. Vegetables and othe
 ![Vincent](/assets/images/lordshaus2/OSdecklists/28vincentOS.jpg)
 
 ![McLennan](/assets/images/lordshaus2/OSdecklists/29mclennanOS.jpg)
+
+![Zinni](/assets/images/lordshaus2/30zinniOS.jpeg)
 
 ![Schrank](/assets/images/lordshaus2/OSdecklists/31schrankOS.jpeg)
 
