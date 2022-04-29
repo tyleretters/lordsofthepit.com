@@ -1,7 +1,7 @@
 ---
 layout: post
 author: mtg_beers_punts
-title: "Lords Haus 2: The Return of the King"
+title: "Lords Haus 2: Judgement Day"
 date: "2022-04-28"
 category: Blog
 ---
@@ -11,7 +11,7 @@ The following is a long overdue, rambling recount of Lords Haus 2. Its illogical
 
 ![](/assets/images/lordshaus2/writeupimages/1.jpg)
 
-Lords Haus II was a three-day, fully-catered event for the Lords and friends of the club.  A chance to escape reality, incur sleep debts, and play cards together until the wee hours.  Attendees brought cards, gifts, and booze to stock the bar from which Nathan and Jaco slung drinks day and night. Food trucks rolled in at regular intervals, and folks gathered in the lingering winter chill to order and run back inside with their greasy goods.  There was a menagerie of planned and unplanned events with tons of space to chill including a giant indoor pool and hot tub with a 270-degree, windowed view of the surrounding forest.  A sound system was carted in to blast the good and the bad throughout the weekend.
+Lords Haus 2 was a three-day, fully-catered event for the Lords and friends of the club.  A chance to escape reality, incur sleep debts, and play cards together until the wee hours.  Attendees brought cards, gifts, and booze to stock the bar from which Nathan and Jaco slung drinks day and night. Food trucks rolled in at regular intervals, and folks gathered in the lingering winter chill to order and run back inside with their greasy goods.  There was a menagerie of planned and unplanned events with tons of space to chill including a giant indoor pool and hot tub with a 270-degree, windowed view of the surrounding forest.  A sound system was carted in to blast the good and the bad throughout the weekend.
 
 ![](/assets/images/lordshaus2/LH2judgemenday.png)
 
@@ -61,6 +61,8 @@ Arrival at the Haus was a mixture of reunions. We unloaded vehicles, cracked dri
 
 I brought a mixed box of *Strixhaven* and *Thrones of Eldraine* as my packs of choice.  *Strix* brings promo cards from Magic’s past and present like Time Warp, Demonic Tutor, and Inquisition.  *Eldraine* brings adventures, built-in two-for-ones, and powerful lands such as Mystic Sanctuary.  I matched the packs with a five-color control deck.  Counterspells, Control Magic, and Removal.  No threats.  Boosters can find big fatties when you need them.
 
+![](/assets/images/lordshaus2/nachos.jpg)
+
 A favorite moment was the joy on Shane’s face opening a Hullbreacher against my control pile only to pass the turn and have it Mind Twisted away.  I may have won (or lost?) the Crackin’ Boosties challenge with the most packs opened.  Reconstructing History was completely insane and recurred Time Walk and Regrowth at one point.  Appropriately, I opened the event tearing open wrappers with Dr. Elleman and ended it swapping packs with Shane.  It filled in time between rounds, during meals, and replaced sleep.  Big thanks to Lorien for the awesome Booster Tutor proxies putting an old border around the namesake card.
 
 ![](/assets/images/lordshaus2/boost.JPG)
@@ -104,6 +106,8 @@ Two pods fired.  Here, Cam captures everything that is multiplayer EDH.
 **’95-2HG**
 
 This format was an awesome way to hang out on Friday morning.  When the event was announced, Dom said he was looking for a partner, so I reached out asking if he wanted to link up.  His response: “you don’t want me,” and “you need a high-performance partner.”  So, I reached out to Danny instead to create beautiful misery together.  We landed on an all-in Lich deck matched with a control deck to prevent disruption -- a truly abhorrent combination.  Danny dominated the 2020 Fall Brawl with Lich and we figured no one else would risk a Necropotence deck since it knocks out both players' draw steps.  Danny and I goldfished and decided we wanted to go as fast as possible so early disruption was key.  The control deck was filled with counter magic and low curve disruption, including 4x Force Spike and Twiddle to take opponents off mana on early combo turns, and an unironic Healing Salve to combo with Lich.
+
+![](/assets/images/lordshaus2/puntsdanny.JPG)
 
 Danny and I thrived here, getting to debate what lands to play, how to mulligan, and the nuances of each move.  If you’re in a hurry in this format (or facing me and Danny) you may not have a good time.  Most of the competitive decks were abusing Underworld Dreams to deal 30 damage.  We ripped through the first two matches with Danny piecing the matrix together to make Lich go off while I just played The Abyss and countered anything relevant.
 
