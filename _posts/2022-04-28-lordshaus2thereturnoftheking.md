@@ -94,21 +94,39 @@ Danny and I thrived here, getting to debate what lands to play, how to mulligan,
 
 Our last match was an epic grindfest against Butzen and Tim. They had a similar strategy of pairing combo and control, but using Underworld Dreams as the finisher.  They proved the better and Fork shined, enabling the combo player to have a relevant combo piece that doubled as protection against counter magic.  It was a pleasure to battle against such solid play and deck building in this unexplored “format.”
 
+![](/assets/images/lordshaus2/writeupimages/13.jpg)
+
+![](/assets/images/lordshaus2/writeupimages/14.jpg)
+
 Above are the winning 2HG lists from team “Tim Butzen.”
 
 **Vintage Cube**
 
 Among the 10,000 things Bob did for the club was pull together his Vintage cube.  This is no small task, tracking down all the cards from across a collection.  Not only that, there were a ton of cool siggies, alters, etc. in the list.  The only proxies were Power since the official cards were in his 93/94 and Vintage decks.  The first pod quickly fired off with a whole bunch of sharks around the table.  I joked with Danny that I had drafted a couple MTGO cubes but had no idea what I was doing.  He shrugged and said “just draft Blue Red and do your thing.”
 
+![](/assets/images/lordshaus2/writeupimages/15.jpg)
+
 P1P1: Mox Ruby.  So far, so good.  I saw Dack with my third pick, followed by Force of Negation and Shelldock.  We were in business.  The last packs brought me Time Walk and a Timetwister to pair with Hullbreacher.  What a deck! Easily the best part was grabbing a pack with my all-time favorite Brainstorm in it.
 
+![](/assets/images/lordshaus2/writeupimages/16.jpg)
+
 Paper Vintage cube lived up to the hype and I highly recommend trying out a cube for those who have not given it a whirl.  This also sparked an idea for future Booster Tutor madness; use a cube for the packs and watch the power level go through the roof!  Maybe next time.
+
+![](/assets/images/lordshaus2/writeupimages/17.jpg)
 
 **Middle School Marauders**
 
 Life has been crazy over the past year with less time for Magic.  While I’ve dabbled in MS, I haven’t had the bandwidth to jump all-in and I’m often surprised by the cards and decks in this format.  Given that backdrop, and knowing I had a box of Boosters to open, I wanted to play something fast that didn’t care what my opponents did.  Trusty old Reanimator it was.  Round 1 had a promising start as I blasted Butzen in the face with Akroma. The wheels fell off from there. Shane mulliganed to three and beat me with a siyaq Dreadnought build.  Bob combo’d me out with Aluren, also sweet.  And Jaco ground me up with some control Oath stew that I didn’t understand.  Reanimator remains a fickle mistress that can’t always be trusted. I finished 2-4, but got to see some good friends and crack Boosties between the rounds.
 
+![](/assets/images/lordshaus2/writeupimages/18.jpg)
+
 The top tables were dominated by control with multiple Standstill/UW/Oath stews moving about with stalwart players Lil’ Greg, Zinni, Jaco, and Sam in the Top 4.  After Swiss+1, Zinni took the top spot on breakers with his Standstill list.  It’s no surprise that Zinni was able to take down the event despite his lack of recency; he has been crushing U/W lists in multiple formats for what must be at least a decade.
+
+![](/assets/images/lordshaus2/writeupimages/19.jpg)
+
+![](/assets/images/lordshaus2/writeupimages/20.jpg)
+
+![](/assets/images/lordshaus2/writeupimages/21.jpg)
 
 Day 2 ended with a bunch of folks betting drinks to earn Chaos Orb patches with Moss finally breaking a 69-year losing streak. Well done to Mossman, Justin, and Quail.
 
@@ -121,6 +139,8 @@ The window with no curtains, 18 inches from my face, had a clear line of sight i
 **Vintage**
 
 I love Vintage.  It’s just so powerful and stupid.  Turn 1 may bring a million questions of the right line.  This was my first time in a Vintage “event” since LH1.  Ninteen players scraped lists together on Saturday morning to jam the most powerful format.  I picked cantrip.dec because it's an archetype I know and enjoy, and Pyroblast seems pretty good against all the broken blue Tinker shenanigans.  I picked up four copies of offensive looking Preordains (some experts consider it the best card in Vintage) to troll the crowd.  I enjoyed getting to play with some new old border cards… though I really missed the mark on forgetting to upgrade Dack.  Moss gifted me an (Avon) signed, un-bordered Island to mark our use of the land to troll folks since its release. It slotted right into the list.
+
+![](/assets/images/lordshaus2/writeupimages/22.jpg)
 
 I will spare you, dear reader, with a blow-by-blow of the morning, but I will say that I got to Shattering Spree Shane’s Shops list back to the fucking stone age enough times that my 2-2 finish felt just fine.  I’ll also note that playing against Ian on PO was awesome with so much Power and counter magic available; it was the quintessential Vintage showdown.  Ian got the match by working through the counter magic and drawing all the cards.
 
