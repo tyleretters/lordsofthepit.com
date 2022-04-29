@@ -7,7 +7,11 @@ category: Blog
 ---
 The following is a long overdue, rambling recount of Lords Haus 2. Its illogical construction and formatting hopefully provide a somewhat accurate representation of its true memory, dulled by sleep deprivation and time.  It is a tall order to capture the pent-up pandemic demand released in a 72-hour nerdgasm, but I shall try.    
 
+![](/assets/images/lordshaus2/writeupimages/1.jpg)
+
 Lords Haus II was a three-day, fully-catered event for the Lords and friends of the club.  A chance to escape reality, incur sleep debts, and play cards together until the wee hours.  Attendees brought cards, gifts, and booze to stock the bar from which Nathan and Jaco slung drinks day and night. Food trucks rolled in at regular intervals, and folks gathered in the lingering winter chill to order and run back inside with their greasy goods.  There was a menagerie of planned and unplanned events with tons of space to chill including a giant indoor pool and hot tub with a 270-degree, windowed view of the surrounding forest.  A sound system was carted in to blast the good and the bad throughout the weekend.
+
+![](/assets/images/lordshaus2/writeupimages/3.jpg)
 
 Some of the events:
 Classic EDH
@@ -38,11 +42,17 @@ Arrival at the Haus was a mixture of reunions. We unloaded vehicles, cracked dri
 
 “DpCBaBSP” aka “Eternal Chaos” has been my favorite Magic “format” for the past twelve months or so.  It combines what we know and love in Old School with the variance and recklessness of cracking open booster packs.  It’s no longer clear what the rules are and perhaps it never was.  My preferred variant, that landed on with Dom and Shane, was ante boosters - at the start of every game, each player antes boosters of roughly equal value.  Booster Tutor is unrestricted, and each Tutor cast adds a sealed pack to the ante pile.  When you cast Booster Tutor, you can open a new pack or revisit your pool of cards opened earlier in the game.
 
+![](/assets/images/lordshaus2/writeupimages/5.jpg)
+
 I brought a mixed box of *Strixhaven* and *Thrones of Eldraine* as my packs of choice.  *Strix* brings promo cards from Magic’s past and present like Time Warp, Demonic Tutor, and Inquisition.  *Eldraine* brings adventures, built-in two-for-ones, and powerful lands such as Mystic Sanctuary.  I matched the packs with a five-color control deck.  Counterspells, Control Magic, and Removal.  No threats.  Boosters can find big fatties when you need them.
 
 A favorite moment was the joy on Shane’s face opening a Hullbreacher against my control pile only to pass the turn and have it Mind Twisted away.  I may have won (or lost?) the Crackin’ Boosties challenge with the most packs opened.  Reconstructing History was completely insane and recurred Time Walk and Regrowth at one point.  Appropriately, I opened the event tearing open wrappers with Dr. Elleman and ended it swapping packs with Shane.  It filled in time between rounds, during meals, and replaced sleep.  Big thanks to Lorien for the awesome Booster Tutor proxies putting an old border around the namesake card.
 
+![])(/assets/images/lordshaus2/writeupimages/6.jpg)
+
 This brings us to Shaman Ben.  Ben was quietly playing some Chaos against Cam one evening when all of a sudden, Cam’s laughter boomed throughout the house.  Ben had cast Booster Tutor and was ruffling through the folds of his coat to throw a *Revised* booster onto the table to be cracked immediately. Ben’s pack was awesome from a Booster Tutor perspective.  Luckily, Ben does not give a shit about dollar EV, only life EV. He happily flipped over hits such as Earthquake, Prodigal Sorcerer, REB, and Island.  The legend of the [Shaman](https://lordsofthepit.com/2022/03/29/leng-tripping-lords-haus/) grows.
+
+![](/assets/images/lordshaus2/writeupimages/7.jpg)
 
 **Lords Haus Un-Championship Decks**
 
