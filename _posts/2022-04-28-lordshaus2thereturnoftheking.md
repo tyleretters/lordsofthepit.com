@@ -85,7 +85,7 @@ We played three rounds with an eight-person pod.  After each match, players turn
 
 ![](/assets/images/lordshaus2/writeupimages/11.jpg)
 
-List of LH1 Championship Decks:
+List of Un-Championship Decks:
 
 Petray’s Pixies
 
