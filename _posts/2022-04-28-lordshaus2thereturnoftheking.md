@@ -86,13 +86,21 @@ We played three rounds with an eight-person pod.  After each match, players turn
 ![](/assets/images/lordshaus2/writeupimages/11.jpg)
 
 List of LH1 Championship Decks:
+
 Petray’s Pixies
+
 Rajah’s Storytime
+
 Butzen’s Bots
+
 Lorien’s Lions
+
 Sala’s Good Stuff
+
 The Danny Deck
+
 Tyler’s Fuck Your Lands
+
 JP’s Counterburn
 
 **Classic EDH**
