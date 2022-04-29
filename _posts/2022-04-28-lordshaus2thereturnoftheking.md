@@ -200,7 +200,7 @@ We go to game 2.  Jaco dominated from start to finish, unleashing restricted car
 
 I was retelling my bad beats as Bobby the Brain announced Top 8 and, low and behold, I snuck in at 8th place due to incomprehensible breaker math.  Ok then! Only snag: 1st place is the undefeated Carter whom I faced off against in the quarters.  His deck was tuned to beat Lion/Dib.  My deck was tuned to have 75 cards.  My plan was to find Serra.  
 
-We collected all eight players and began. The Top 8 had a diverse group of lists with several wild ones.  A huge shout out is owed to the Peoples’ champ, David Velasco, who had a fantastic tournament playing the TwiddleBerserk list he’s iterated on for a long time.  As a bonus, click here to view Lord Velasco's awesome gallery of Polaroid images from the weekend! Of course, Shaman Ben’s completely insane, personally-altered Eureka build made the field. 
+We collected all eight players and began. The Top 8 had a diverse group of lists with several wild ones.  A huge shout out is owed to the Peoples’ champ, David Velasco, who had a fantastic tournament playing the TwiddleBerserk list he’s iterated on for a long time.  As a bonus, click [here](https://photos.google.com/share/AF1QipMUDN_YTNDA-EXmofudtos-7hduW8D6ftDasc3ISI7m83aE-JLtaA0sJekynZ2tmQ?key=RFBjMXVGSUZCQXpCWWNmc2hPQUdvS1RHVVpnZW5n/)  to view Lord Velasco's  gallery of Instax images from the weekend. Of course, Shaman Ben’s completely insane, personally-altered Eureka build made the field. 
 
 ![](/assets/images/lordshaus2/writeupimages/27.jpg)
 
