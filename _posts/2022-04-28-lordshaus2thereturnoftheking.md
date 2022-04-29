@@ -5,6 +5,8 @@ title: "Lords Haus 2: The Return of the King"
 date: "2022-04-28"
 category: Blog
 ---
+![](/assets/images/banners/lordshaus2header.jpg)
+
 The following is a long overdue, rambling recount of Lords Haus 2. Its illogical construction and formatting hopefully provide a somewhat accurate representation of its true memory, dulled by sleep deprivation and time.  It is a tall order to capture the pent-up pandemic demand released in a 72-hour nerdgasm, but I shall try.    
 
 ![](/assets/images/lordshaus2/writeupimages/1.jpg)
