@@ -48,7 +48,7 @@ I brought a mixed box of *Strixhaven* and *Thrones of Eldraine* as my packs of c
 
 A favorite moment was the joy on Shane’s face opening a Hullbreacher against my control pile only to pass the turn and have it Mind Twisted away.  I may have won (or lost?) the Crackin’ Boosties challenge with the most packs opened.  Reconstructing History was completely insane and recurred Time Walk and Regrowth at one point.  Appropriately, I opened the event tearing open wrappers with Dr. Elleman and ended it swapping packs with Shane.  It filled in time between rounds, during meals, and replaced sleep.  Big thanks to Lorien for the awesome Booster Tutor proxies putting an old border around the namesake card.
 
-![])(/assets/images/lordshaus2/writeupimages/6.jpg)
+![](/assets/images/lordshaus2/writeupimages/6.jpg)
 
 This brings us to Shaman Ben.  Ben was quietly playing some Chaos against Cam one evening when all of a sudden, Cam’s laughter boomed throughout the house.  Ben had cast Booster Tutor and was ruffling through the folds of his coat to throw a *Revised* booster onto the table to be cracked immediately. Ben’s pack was awesome from a Booster Tutor perspective.  Luckily, Ben does not give a shit about dollar EV, only life EV. He happily flipped over hits such as Earthquake, Prodigal Sorcerer, REB, and Island.  The legend of the [Shaman](https://lordsofthepit.com/2022/03/29/leng-tripping-lords-haus/) grows.
 
