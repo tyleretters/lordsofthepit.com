@@ -122,15 +122,15 @@ Life has been crazy over the past year with less time for Magic.  While I’ve d
 
 The top tables were dominated by control with multiple Standstill/UW/Oath stews moving about with stalwart players Lil’ Greg, Zinni, Jaco, and Sam in the Top 4.  After Swiss+1, Zinni took the top spot on breakers with his Standstill list.  It’s no surprise that Zinni was able to take down the event despite his lack of recency; he has been crushing U/W lists in multiple formats for what must be at least a decade.
 
+![Marauders Standings](/assets/images/lordshaus2/MSdecklists/LH2standingsMS.png)
+
+Day 2 ended with a bunch of folks betting drinks to earn Chaos Orb patches with Moss finally breaking a 69-year losing streak. Well done to Mossman, Justin, and Quail!
+
 ![](/assets/images/lordshaus2/writeupimages/19.jpg)
 
 ![](/assets/images/lordshaus2/writeupimages/20.jpg)
 
 ![](/assets/images/lordshaus2/writeupimages/21.jpg)
-
-Day 2 ended with a bunch of folks betting drinks to earn Chaos Orb patches with Moss finally breaking a 69-year losing streak. Well done to Mossman, Justin, and Quail.
-
-![Marauders Standings](/assets/images/lordshaus2/MSdecklists/LH2standingsMS.png)
 
 **Day 3, Saturday: The Sun still rises in the East**
 
@@ -146,7 +146,11 @@ I will spare you, dear reader, with a blow-by-blow of the morning, but I will sa
 
 Bob won Vintage with Oath and Okos. Go Bob, go!  His deck photo is an MTGO screenshot, his biggest punt of the weekend.
 
+![](/assets/images/lordshaus2/writeupimages/23.jpg)
+
 Pizza time! It was impossible to be hungry here.  Food was constantly arriving and unlimited junk food overflowed from the kitchen.  I grabbed some Lou’s and beers and caught up with everyone before the main event began, the Lords’ championship.  I grabbed my 93/94 deck to mindlessly shuffle but it felt a bit fatter than usual.  I counted the cards… 79.  Welp, this is what I get for building a deck before coffee.  I perused through and remove some cards.
+
+![](/assets/images/lordshaus2/writeupimages/24.jpg)
 
 **93/94 Old School Championship**
 
@@ -157,6 +161,8 @@ Ian and I settled into the journey ahead at some over-stuffed leather chairs wit
 Pairings were posted and someone yelled out I was playing Danny.  Oh hell yes.  Besides our joyous 2HG partnership, Danny Friedman and I have somewhat of a long running rivalry, always trying to out-control each other in a field of other folks too nice to so blatantly run The Deck.  To deliver him an L in the opening round would be sweet indeed.  I was then surprised to see I was actually paired against Danny Dunaway.  
 
 Danny played a similar list to mine, but his list was more aggressive with burn and Black Vise.  Game 1, he showed the advantage of burn-heavy lists, unloaded a pair of opening Vises and quickly dispatched me.  Games 2/3 were a blur, but I know skill was heavily involved, especially in this Game 2 opener…
+
+![](/assets/images/lordshaus2/writeupimages/26.jpg)
 
 His Vices didn’t do enough in the mid-game and I was lucky enough to find the right colored mana to escape the near-mirror in three.  1-0.
 
