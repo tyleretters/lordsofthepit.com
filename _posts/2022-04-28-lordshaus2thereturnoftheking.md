@@ -50,9 +50,9 @@ A favorite moment was the joy on Shane’s face opening a Hullbreacher against m
 
 ![](/assets/images/lordshaus2/writeupimages/6.jpg)
 
-This brings us to Shaman Ben.  Ben was quietly playing some Chaos against Cam one evening when all of a sudden, Cam’s laughter boomed throughout the house.  Ben had cast Booster Tutor and was ruffling through the folds of his coat to throw a *Revised* booster onto the table to be cracked immediately. Ben’s pack was awesome from a Booster Tutor perspective.  Luckily, Ben does not give a shit about dollar EV, only life EV. He happily flipped over hits such as Earthquake, Prodigal Sorcerer, REB, and Island.  The legend of the [Shaman](https://lordsofthepit.com/2022/03/29/leng-tripping-lords-haus/) grows.
-
 ![](/assets/images/lordshaus2/writeupimages/7.jpg)
+
+This brings us to Shaman Ben.  Ben was quietly playing some Chaos against Cam one evening when all of a sudden, Cam’s laughter boomed throughout the house.  Ben had cast Booster Tutor and was ruffling through the folds of his coat to throw a *Revised* booster onto the table to be cracked immediately. Ben’s pack was awesome from a Booster Tutor perspective.  Luckily, Ben does not give a shit about dollar EV, only life EV. He happily flipped over hits such as Earthquake, Prodigal Sorcerer, REB, and Island.  The legend of the [Shaman](https://lordsofthepit.com/2022/03/29/leng-tripping-lords-haus/) grows.
 
 ![](/assets/images/lordshaus2/writeupimages/8.jpg)
 
@@ -82,7 +82,7 @@ JP’s Counterburn
 
 Two pods fired.  Here, Cam captures everything that is multiplayer EDH.
 
-
+![](/assets/images/lordshaus2/writeupimages/12.jpg)
 
 **Day 2, Friday: Settling in**
 
