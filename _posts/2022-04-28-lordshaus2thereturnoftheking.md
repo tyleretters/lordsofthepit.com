@@ -54,15 +54,19 @@ This brings us to Shaman Ben.  Ben was quietly playing some Chaos against Cam on
 
 ![](/assets/images/lordshaus2/writeupimages/7.jpg)
 
+![](/assets/images/lordshaus2/writeupimages/8.jpg)
+
 **Lords Haus Un-Championship Decks**
 
 What if you could change 93/94 decks every round?  This is a project I’ve wanted to do for a while and I’ve been a big fan of proxies ever since CE power went above $50 per Mox.  Thus, the LH1 Championship Decks were born.  Eight decks from LH1 were printed (excluding repeat archetypes) ala the Gold Border decks of yore, but with significantly lower artistic quality.  Since EDH is not my cup o’ tea, we ran this concurrently with EDH on Night 1.
 
-![](/assets/images/lordshaus2/writeupimages/8.jpg)
+![](/assets/images/lordshaus2/writeupimages/9.jpg)
+
+![](/assets/images/lordshaus2/writeupimages/10.jpg)
 
 We played three rounds with an eight-person pod.  After each match, players turned in their deck to get a random new 75. I played Shops in Round 1; for the first time I got to feel the power of a land that is functionally a Black Lotus.  This was a cool experience and a fun way to memorialize some of the top players and lists from LH1.  Ben Perry destroyed the field 3-0, and Grant complained his decks sucked all the way to a well-deserved 0-3.
 
-![](/assets/images/lordshaus2/writeupimages/9.jpg) ![](/assets/images/lordshaus2/writeupimages/10.jpg)
+![](/assets/images/lordshaus2/writeupimages/11.jpg)
 
 List of LH1 Championship Decks:
 Petray’s Pixies
@@ -78,7 +82,7 @@ JP’s Counterburn
 
 Two pods fired.  Here, Cam captures everything that is multiplayer EDH.
 
-![](/assets/images/lordshaus2/writeupimages/11.jpg)
+
 
 **Day 2, Friday: Settling in**
 
