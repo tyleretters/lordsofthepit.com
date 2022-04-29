@@ -32,6 +32,8 @@ Riding the Blue Line from O’Hare, holding a backpack filled with cardboard was
 
 We headed out to meet Shane and Dom at my favorite place in the city, having a seafood tower, prime beef, and enough cocktails to turn us sideways in the morning. We talked hats, suits, work, cardboard, and enjoyed a moment of normalcy together.
 
+![](/assets/images/lordshaus2/LH2judgemenday.png)
+
 **Day 1, Thursday: Lords help us**
 
 At our advanced age, we should know better by now, but alas.  Some Filipino breakfast with Jaco and Dom, followed by loading vehicles, shook off the previous evening’s haze.  Bob pre-planned for Lords to arrive at his house in timed increments to pick up food and gear to hump into the woods.  This ended up being a series of mini-reunions on the freezing street, dropping cases of cola and cookies onto the concrete to exchange hugs and laughs.  I finally got to meet the legend Cam after many webcam meetups throughout the COVID era.  Justin arrived from the airport, and once Bob’s house was emptied out he joined us on the road.  We made one last detour into Costco for more food and booze, just in case.
