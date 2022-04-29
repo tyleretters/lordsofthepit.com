@@ -195,7 +195,7 @@ We shuffled up and Danny won the roll.  He smoothy laid out Turn 1 Library of Al
 
 Well, hot damn, from player-of-the-year to reigning Lords Haus Champ, Carter Petray.  I talked tons of shit about dethroning the king. The king that arrived day-of on full rest. (Carter has real world responsibilities now?)  I ate my words as rapidly as ever.  I don’t even know how it happened, but Carter dismantled me with his deck of shitty 1/1 flyers and Relic Barriers (!?) that somehow coalesced into a fine weapon.  I cast Carter’s former CE Ancestral Recall and Time Walk against him, to no avail.  He operated on another level of play (juiced by actually sleeping the last couple nights, no doubt) and had a decklist tuned and ready.  A demonstrative performance from a great player, it felt like Carter was on another level entirely.   I returned to the bar to double down on Nathan’s cocktails. 2-2.
 
-![](/assets/images/lordshaus2/writeupimages/meatballjaco.jpg)
+![](/assets/images/lordshaus2/meatballjaco.JPG)
 
 **Round 5: Tim**
 
@@ -377,4 +377,4 @@ Most of the Lords posted pics of their dinners that evening. Vegetables and othe
 
 ![](/assets/images/lordshaus2/LH2steelybanned.jpg)
 
-![Thanks, Bob!](/assets/images/lordshaus2/writeupimages/blockbuster.jpg)
+![Thanks, Bob!](/assets/images/lordshaus2/blockbuster.JPG)
