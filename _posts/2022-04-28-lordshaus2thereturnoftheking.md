@@ -265,7 +265,7 @@ The weekend concluded much as it began, only in reverse.  Hauling stuff back int
 
 Most of the Lords posted pics of their dinners that evening. Vegetables and other nutritious varieties featured prominently to begin offsetting the days of caloric damage.  Danny, Dom, and I opted for several airport beers instead and said goodbye until the next time. 
 
-**Middle School Gallery**
+**MIDDLE SCHOOL GALLERY**
 
 ![Jaco](/assets/images/lordshaus2/MSdecklists/02jacoMS.jpg)
 
@@ -309,7 +309,7 @@ Most of the Lords posted pics of their dinners that evening. Vegetables and othe
 
 ![Vincent](/assets/images/lordshaus2/MSdecklists/29vincentMS.jpg)
 
-**Old School Gallery**
+**OLD SCHOOL GALLERY**
 
 ![Petray](/assets/images/lordshaus2/OSdecklists/01petrayOS.jpg)
 
@@ -371,7 +371,7 @@ Most of the Lords posted pics of their dinners that evening. Vegetables and othe
 
 ![MacDougall](/assets/images/lordshaus2/OSdecklists/36macdougallOS.jpeg)
 
-**Vintage Gallery**
+**VINTAGE GALLERY**
 
 ![Baran](/assets/images/lordshaus2/vintagedecklists/baranvintage.JPG)
 
