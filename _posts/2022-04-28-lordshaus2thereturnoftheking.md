@@ -223,17 +223,17 @@ We collected all eight players and began. The Top 8 had a diverse group of lists
 
 Check out [Pitcast](https://lordsofthepit.com/2022/03/16/et-tu-my-chude/) for a rundown of the rough sequence of play, but here’s a spoiler: the Champ is very good and I did not luck sack into Serra.  It was a pleasure to play against Carter again and like most OS Top 8s, it's fun to play with great people around. Danny and Lorien hung out and watched the beating unfold. Moss moseyed on over after his match to banter (and gather that sweet intelligence collection EV).  Yells came from down the table as distant shenanigans played out.  
 
-The Champ continued winning and faced off with his archnemesis Moss in the Finals.  It was the thing of fairy tales.  The returning champ with his little green shitters against the true heel Moss with his Tier 0 Shops build.  At this point, no one could even tell who the bad guy was anymore.  Carter aggro’d his way to victory, putting a back-to-back undefeated Lords Haus run into the history books.  
-
 ![](/assets/images/lordshaus2/writeupimages/28.jpg)
 
-To recap: Carter, a dude who basically stepped away from Magic for the past 18-24 months, popped by the morning of the event just to remind everyone that he is the best, secured his crown, drank half a beer, passed out on the couch, and drove off in the morning.  Well done sir, well done.
+The Champ continued winning and faced off with his archnemesis Moss in the Finals.  It was the thing of fairy tales.  The returning champ with his little green shitters against the true heel Moss with his Tier 0 Shops build.  At this point, no one could even tell who the bad guy was anymore.  Carter aggro’d his way to victory, putting a back-to-back undefeated Lords Haus run into the history books.  
 
 ![](/assets/images/lordshaus2/writeupimages/29.jpg)
 
-**Prizes and things**
+To recap: Carter, a dude who basically stepped away from Magic for the past 18-24 months, popped by the morning of the event just to remind everyone that he is the best, secured his crown, drank half a beer, passed out on the couch, and drove off in the morning.  Well done sir, well done.
 
 ![](/assets/images/lordshaus2/writeupimages/30.jpg)
+
+**Prizes and things**
 
 I love the Lords Haus tradition, adopted from Team Serious, that each person brings a prize for the community prize pool after the main event.  It’s more like a defacto gift exchange and as such creates a very personal feel.  People Brought things meaningful to them to share with others - special cards, homemade mystery boxes, music, art, booze, A GRADED PACK OF LEGENDS, etc.  Mrs. Punts not only supported me ditching my family responsibility to play cards for several days, but she created two little works of art.  The first was a contribution to the prize pool, memorializing my favorite new way to jam games with a more format-appropriate “Demonic” Booster Tutor.  The second was the return of the Golden Lord for the 93/94 Champion.  Tons of amazing stuff was arrayed on the grand piano.
 
