@@ -152,6 +152,8 @@ Pizza time! It was impossible to be hungry here.  Food was constantly arriving a
 
 ![](/assets/images/lordshaus2/writeupimages/24.jpg)
 
+![](/assets/images/lordshaus2/writeupimages/25.jpg)
+
 **93/94 Old School Championship**
 
 Ian and I settled into the journey ahead at some over-stuffed leather chairs within shouting distance of the bar.  I was relaxed after multiple days sans things to worry about.  Or perhaps I was just super tired. Either way, it was great to have another chance to jam some cards and catch up without real world worry for another afternoon.
@@ -200,17 +202,31 @@ I was retelling my bad beats as Bobby the Brain announced Top 8 and, low and beh
 
 We collected all eight players and began. The Top 8 had a diverse group of lists with several wild ones.  A huge shout out is owed to the Peoples’ champ, David Velasco, who had a fantastic tournament playing the TwiddleBerserk list he’s iterated on for a long time.  And, of course, Shaman Ben’s completely insane, personally-altered Eureka build made the field. 
 
+![](/assets/images/lordshaus2/writeupimages/27.jpg)
+
 Check out [Pitcast](https://lordsofthepit.com/2022/03/16/et-tu-my-chude/) for a rundown of the rough sequence of play, but here’s a spoiler: the Champ is very good and I did not luck sack into Serra.  It was a pleasure to play against Carter again and like most OS Top 8s, it's fun to play with great people around. Danny and Lorien hung out and watched the beating unfold. Moss moseyed on over after his match to banter (and gather that sweet intelligence collection EV).  Yells came from down the table as distant shenanigans played out.  
 
 The Champ continued winning and faced off with his archnemesis Moss in the Finals.  It was the thing of fairy tales.  The returning champ with his little green shitters against the true heel Moss with his Tier 0 Shops build.  At this point, no one could even tell who the bad guy was anymore.  Carter aggro’d his way to victory, putting a back-to-back undefeated Lords Haus run into the history books.  
 
-To recap: Carter, a dude who basically stepped away from Magic for the past 18-24 months, popped by the morning of the event just to remind everyone that he is the best, secured his crown, drank half a beer, passed out on the couch, and drove off in the morning.  Well done sir, well done.  
+![](/assets/images/lordshaus2/writeupimages/28.jpg)
+
+To recap: Carter, a dude who basically stepped away from Magic for the past 18-24 months, popped by the morning of the event just to remind everyone that he is the best, secured his crown, drank half a beer, passed out on the couch, and drove off in the morning.  Well done sir, well done.
+
+![](/assets/images/lordshaus2/writeupimages/29.jpg)
 
 **Prizes and things**
 
+![](/assets/images/lordshaus2/writeupimages/30.jpg)
+
 I love the Lords Haus tradition, adopted from Team Serious, that each person brings a prize for the community prize pool after the main event.  It’s more like a defacto gift exchange and as such creates a very personal feel.  People Brought things meaningful to them to share with others - special cards, homemade mystery boxes, music, art, booze, A GRADED PACK OF LEGENDS, etc.  Mrs. Punts not only supported me ditching my family responsibility to play cards for several days, but she created two little works of art.  The first was a contribution to the prize pool, memorializing my favorite new way to jam games with a more format-appropriate “Demonic” Booster Tutor.  The second was the return of the Golden Lord for the 93/94 Champion.  Tons of amazing stuff was arrayed on the grand piano.
 
+![](/assets/images/lordshaus2/writeupimages/31.jpg)
+
+![](/assets/images/lordshaus2/writeupimages/32.jpg)
+
 The champ marched off with his second Golden Lord. His P1P1 from the prize pool was a fitting meme end, with a repeat of the previous Haus’ power drill selection.  My Top 8 finish garnered an early pick.  I perused the table and noticed a nondescript leather pouch and a couple boxes.  Turns out, it was Dom’s contribution and he announced they were watches and cards.  Snap select.  Dom is a watch connoisseur and a man of style.  I am a man in need of both a watch and style.  More importantly, it was a way for Dom and I to connect over something he is passionate about and now I have a set of siyaq starter watches so my wrists have class on all occasions.
+
+![](/assets/images/lordshaus2/writeupimages/33.jpg)
 
 Each event and mini-event at the Haus also involved the ritualistic signing of cards to commemorate the event, punctuated with plenty of gift giving and trading.  Below are some of my loots.
 
