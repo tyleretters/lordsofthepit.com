@@ -11,7 +11,7 @@ The following is a long overdue, rambling recount of Lords Haus 2. Its illogical
 
 Lords Haus II was a three-day, fully-catered event for the Lords and friends of the club.  A chance to escape reality, incur sleep debts, and play cards together until the wee hours.  Attendees brought cards, gifts, and booze to stock the bar from which Nathan and Jaco slung drinks day and night. Food trucks rolled in at regular intervals, and folks gathered in the lingering winter chill to order and run back inside with their greasy goods.  There was a menagerie of planned and unplanned events with tons of space to chill including a giant indoor pool and hot tub with a 270-degree, windowed view of the surrounding forest.  A sound system was carted in to blast the good and the bad throughout the weekend.
 
-![](/assets/images/lordshaus2/writeupimages/4.jpg)
+![](/assets/images/lordshaus2/LH2judgemenday.png)
 
 Some of the events:
 Classic EDH
@@ -32,7 +32,7 @@ Riding the Blue Line from O’Hare, holding a backpack filled with cardboard was
 
 We headed out to meet Shane and Dom at my favorite place in the city, having a seafood tower, prime beef, and enough cocktails to turn us sideways in the morning. We talked hats, suits, work, cardboard, and enjoyed a moment of normalcy together.
 
-![](/assets/images/lordshaus2/LH2judgemenday.png)
+![](/assets/images/lordshaus2/writeupimages/4.jpg)
 
 **Day 1, Thursday: Lords help us**
 
