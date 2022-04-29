@@ -1,7 +1,7 @@
 ---
 layout: post
 author: mtg_beers_punts
-title: "Lords Haus 2: Judgement Day"
+title: "Lords Haus 2: Judgment Day"
 date: "2022-04-28"
 category: Blog
 ---
