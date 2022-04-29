@@ -63,7 +63,7 @@ I brought a mixed box of *Strixhaven* and *Thrones of Eldraine* as my packs of c
 
 A favorite moment was the joy on Shane’s face opening a Hullbreacher against my control pile only to pass the turn and have it Mind Twisted away.  I may have won (or lost?) the Crackin’ Boosties challenge with the most packs opened.  Reconstructing History was completely insane and recurred Time Walk and Regrowth at one point.  Appropriately, I opened the event tearing open wrappers with Dr. Elleman and ended it swapping packs with Shane.  It filled in time between rounds, during meals, and replaced sleep.  Big thanks to Lorien for the awesome Booster Tutor proxies putting an old border around the namesake card.
 
-![](/assets/images/lordshaus2/writeupimages/6.jpg)
+![](/assets/images/lordshaus2/boost.JPG)
 
 ![](/assets/images/lordshaus2/writeupimages/7.jpg)
 
