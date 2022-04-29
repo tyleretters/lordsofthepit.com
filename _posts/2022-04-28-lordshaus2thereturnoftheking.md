@@ -62,7 +62,7 @@ What if you could change 93/94 decks every round?  This is a project I’ve want
 
 We played three rounds with an eight-person pod.  After each match, players turned in their deck to get a random new 75. I played Shops in Round 1; for the first time I got to feel the power of a land that is functionally a Black Lotus.  This was a cool experience and a fun way to memorialize some of the top players and lists from LH1.  Ben Perry destroyed the field 3-0, and Grant complained his decks sucked all the way to a well-deserved 0-3.
 
-![](/assets/images/lordshaus2/writeupimages/9.jpg)
+![](/assets/images/lordshaus2/writeupimages/9.jpg) ![](/assets/images/lordshaus2/writeupimages/10.jpg)
 
 List of LH1 Championship Decks:
 Petray’s Pixies
@@ -78,7 +78,7 @@ JP’s Counterburn
 
 Two pods fired.  Here, Cam captures everything that is multiplayer EDH.
 
-![](/assets/images/lordshaus2/writeupimages/10.jpg)
+![](/assets/images/lordshaus2/writeupimages/11.jpg)
 
 **Day 2, Friday: Settling in**
 
