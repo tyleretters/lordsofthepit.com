@@ -14,6 +14,7 @@ Lords Haus II was a three-day, fully-catered event for the Lords and friends of 
 ![](/assets/images/lordshaus2/LH2judgemenday.png)
 
 Some of the events:
+
 Classic EDH
 Vintage Cube
 LH1 championship decks battle
