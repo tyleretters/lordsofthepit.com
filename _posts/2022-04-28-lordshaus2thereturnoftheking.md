@@ -92,6 +92,8 @@ The top tables were dominated by control with multiple Standstill/UW/Oath stews 
 
 Day 2 ended with a bunch of folks betting drinks to earn Chaos Orb patches with Moss finally breaking a 69-year losing streak. Well done to Mossman, Justin, and Quail.
 
+![Marauders Standings](/assets/images/lordshaus2/MSdecklists/LH2standingsMS.png)
+
 **Day 3, Saturday: The Sun still rises in the East**
 
 The window with no curtains, 18 inches from my face, had a clear line of sight into that glorious sunrise.  Good morning, world.  Pre-coffee, brain askew, I realized that after jamming cardboard and drinks for 2+ days, playing my trusty Deck of Decks for our main event did not hold its usual appeal.  I opted instead for a four-color aggro-control good stuff deck.  It’s more straight forward while still shuffling up some of my favorite *Betas* and all the Power.  I pulled the cards together but couldn’t find the right lands. Hey, it's close enough!  I grabbed my Vintage deck and the previous day’s mug in search of caffeine and opponents.  Time for some fucking Magic.  
@@ -143,6 +145,8 @@ What a way to finish out 93/94.  Jaco made his way down to the table and the ver
 I don’t know what Jaco was playing but in the blind, I assumed his classic Bazaar Zoo deck.  I looked at my opener – an odd one with Factory, Sol Ring, Lotus, and *Alpha* Serra Angel.  If he didn’t have Swords, the Serra would dominate anything Zoo can produce.  If he had Swords, I’d lose. I didn’t put an *Alpha* Angel in my deck to NOT turn one cast her, so I kept and slammed her down.  Jaco gave his patented small smile communicating “whatever, I don’t care.”  I’ve got him, I thought.  He played a bunch of irrelevant little dudes as Serra got in the red zone.  His Preacher was answered with removal.  He blew up my meager mana as I drew spell after spell.  Jaco dropped down to four life when he finally found Swords.  Uh oh.  His little dudes started swarming.  I was at five and, with a lethal swing pending next turn, he passed to me.  The top deck revealed a third mana source.  I cast Psionic Blast.  He responded with Lightning Bolt. A draw!   
 
 We go to game 2.  Jaco dominated from start to finish, unleashing restricted cards and little dudes, using Sylvan Library to reload after I Swords’d them.  No Bazaars popped up.  It was evident he mis-sideboarded, thinking I was on more of a control shell, but his Dust to Dusts still found targets, destroying my Moxen.  At the conclusion, the shit talk increased as he boasts that now that he knows what I am playing, he will win easily.  In Game 3, the tables turned.  Jaco upped the tempo of play as we drew and threw cards at the table.  There is no more talking other than “go” with slight hand waves.  The rapid play suited my style and I out-card advantaged him with my own train of restricted cards.  We shuffled up for game 4 and I inquired as to why his new sideboard plan didn’t work.  No reply.  Game 4 we quickly exhausted our resources with one-for-ones, but I ground my way to the W by accumulating enough points of damage here and there.  A fitting battle to round out LH2. 4-2. 
+
+![Standings after Swiss](/assets/images/lordshaus2/OSdecklists/LH1standingsafterswissOS.png)
 
 **Wait, there’s more?**
 
