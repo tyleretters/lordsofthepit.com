@@ -108,6 +108,6 @@ I’d made plans with Taylor Quail, my fellow Iowan in town for the weekend, and
 
 **Postlude II**
 
-An extra special shout-out is due to our very own Shane Semmens, whose recent heroics at Noobcon in Gothenburg, Sweden yielded him the Old School Ante 40K World Championship. Congratulations, Shane, for bringing Glory to the Lords!
+An extra special shout-out is due to our very own Shane Semmens, whose recent heroics in Gothenburg, Sweden yielded him the Old School Ante 40K World Championship. Congratulations, Shane, for bringing Glory to the Lords!
 
 ![](/assets/images/marauders_2022_04_23/candids/shanechampgif.gif)
