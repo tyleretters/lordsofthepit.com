@@ -12,7 +12,7 @@ A picturesque, mid-April afternoon greeted the Lords & Co. at Avondale’s DMen 
 
 ![](/assets/images/marauders_2022_04_23/morphlingv2small.png)
 
-The Middle School scene is alive & well in Chicago, with this latest meetup being our third such in 2022 and among our largest such for featuring the format. This edition of Marauders supported DMen’s own [meal donations program](https://www.donermen.com/donatea-meal) to the tune of over $300 raised. Thanks again, Lords and friends, for your continued generosity!
+The Middle School scene is alive & well in Chicago, with this latest meetup being our third such in 2022 and among our largest such featuring the format. This edition of Marauders supported DMen’s own [meal donations program](https://www.donermen.com/donatea-meal) to the tune of over $300 raised. Thanks again, Lords and friends, for your continued generosity!
 
 ![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
 
