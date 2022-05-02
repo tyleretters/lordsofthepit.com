@@ -6,7 +6,7 @@ date: "2022-05-02"
 category: Blog
 ---
 
-TYLER, PLEASE USE POX AS OUR HEADER IMAGE
+![Akroma, Angel of Wrath](/assets/images/banners/akroma.jpg)
 
 A picturesque, mid-April afternoon greeted the Lords & Co. at Avondale’s DMen Tap as temperatures in the upper 70s ushered out the mid-spring gloom, summoning jorts instead. Amidst this near-perfect backdrop, twenty-five mages Gathered for another installment of Middle School Marauders, filling DMen’s back to capacity and spilling out into the bar’s main holding for five rounds of Swiss action.
 
