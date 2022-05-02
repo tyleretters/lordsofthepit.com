@@ -24,7 +24,11 @@ After the battles and beverages, the Lords basked in the promise of summer on DM
 
 ![Hootin' & Hollerin'](/assets/images/marauders_2022_04_23/candids/hollerin.jpg)
 
-Postlude: I’d made plans with friend of the Lords, Taylor Quail and Lords Blank and Velasco to dine on Pequod’s following Marauders. With an hour to kill before the pizza party, Quail and I engaged in a Best-of-7 challenge of Eternal Chaos, cracking some *Forgotten Realms* packs I had left over from Lords Haus 2. My 5C Living Plane pile took Games 1-3, notably Control Magic’ing Q’s Guardian Beast to turn on my own Beast-Orb lock, then Q’s Esper Bots took Games 4-6, at one point Copy’ing his own Orb before redeploying Beast and rocking the Double Chorb Lock. Q used Booster Tutor to draft basic lands and mana fix, while I returned to Hive of the Eye Tyrant numerous times for man-land beats. The deciding Game 7 went the Bulu Master’s way, despite a comically poor (wind-aided?) Orb bounce, and we departed to dine on Chicago’s finest pan style.
+**Postlude I**
+
+I’d made plans with friend of the Lords, Taylor Quail and Lords Blank and Velasco to dine on Pequod’s following Marauders. With an hour to kill before the pizza party, Quail and I engaged in a Best-of-7 challenge of Eternal Chaos, cracking some *Forgotten Realms* packs I had left over from Lords Haus 2. My 5C Living Plane pile took Games 1-3, notably Control Magic’ing Q’s Guardian Beast to turn on my own Beast-Orb lock, then Q’s Esper Bots took Games 4-6, at one point Copy’ing his own Orb before redeploying Beast and rocking the Double Chorb Lock. Q used Booster Tutor to draft basic lands and mana fix, while I returned to Hive of the Eye Tyrant numerous times for man-land beats. The deciding Game 7 went the Bulu Master’s way, despite a comically poor (wind-aided?) Orb bounce, and we departed to dine on Chicago’s finest pan style.
+
+![BYOBeast](/assets/images/marauders_2022_04_23/candids/controlmagicbeastorb.jpg)
 
 **GALLERY**
 
@@ -46,32 +50,62 @@ Postlude: I’d made plans with friend of the Lords, Taylor Quail and Lords Blan
 
 ![Flores](/assets/images/marauders_2022_04_23/decklists/09floresMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Piquard](/assets/images/marauders_2022_04_23/decklists/10piquardMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Velasco](/assets/images/marauders_2022_04_23/decklists/11velascoMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Jones](/assets/images/marauders_2022_04_23/decklists/12jonesMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Baran](/assets/images/marauders_2022_04_23/decklists/13baranMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Zinni](/assets/images/marauders_2022_04_23/decklists/14zinniMS.png)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Quail](/assets/images/marauders_2022_04_23/decklists/15quailMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Moss](/assets/images/marauders_2022_04_23/decklists/16mossMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Mullen](/assets/images/marauders_2022_04_23/decklists/17mullenMS.png)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Cousin Gus](/assets/images/marauders_2022_04_23/decklists/18cousingusMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Beadle](/assets/images/marauders_2022_04_23/decklists/19beadleMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Braun](/assets/images/marauders_2022_04_23/decklists/20braunMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![McCarthy](/assets/images/marauders_2022_04_23/decklists/21mccarthyMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Derek](/assets/images/marauders_2022_04_23/decklists/23derekMS.jpg)
 
-![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
+![Semmens](/assets/images/marauders_2022_04_23/decklists/25semmensMS.jpg)
 
 **CANDIDS**
+
+![Dudesweats 1](/assets/images/marauders_2022_04_23/candids/dudesweats1.jpg)
+
+![Flores v. Quail](/assets/images/marauders_2022_04_23/candids/floresvsquail.jpg)
+
+![Dudesweats 2](/assets/images/marauders_2022_04_23/candids/dudesweats2.jpg)
+
+![Braun v. Beadle](/assets/images/marauders_2022_04_23/candids/braunvsbeadle.jpg)
+
+![Dudesweats 4](/assets/images/marauders_2022_04_23/candids/dudesweats4.jpg)
+
+![Back porch build](/assets/images/marauders_2022_04_23/candids/backporchbuild.jpg)
+
+![Dudesweats 5](/assets/images/marauders_2022_04_23/candids/dudesweats5.jpg)
+
+![Moss v. Baran](/assets/images/marauders_2022_04_23/candids/mossvsbaran.jpg)
+
+![Songs From the Big Chair](/assets/images/marauders_2022_04_23/candids/songsfromthebigchair.jpg)
+
+![Petray v. Quail](/assets/images/marauders_2022_04_23/candids/petrayvsquail.jpg)
+
+![Stone Cold Salute](/assets/images/marauders_2022_04_23/candids/mullensalute.jpg)
+
+![Velasco v. Cousin Gus](/assets/images/marauders_2022_04_23/candids/velascovscousingus.jpg)
+
+![Double Chorb](/assets/images/marauders_2022_04_23/candids/orbcopyorbbeast.jpg)
+
+**Postlude II**
+
+An extra special shout-out is due to our very own Lord Shane Semmens, whose recent heroics at Noobcon XXX in Gothenburg, Sweden yielded him the Old School Ante 40K World Championship. Congratulations, Shane, for bringing Glory to the Lords!
