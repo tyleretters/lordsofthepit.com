@@ -109,3 +109,5 @@ I’d made plans with friend of the Lords, Taylor Quail and Lords Blank and Vela
 **Postlude II**
 
 An extra special shout-out is due to our very own Lord Shane Semmens, whose recent heroics at Noobcon XXX in Gothenburg, Sweden yielded him the Old School Ante 40K World Championship. Congratulations, Shane, for bringing Glory to the Lords!
+
+![](/assets/images/marauders_2022_04_23/candids/shanechampgif.gif)
