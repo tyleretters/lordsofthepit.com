@@ -16,7 +16,7 @@ The Middle School scene is alive & well in Chicago, with this latest meetup bein
 
 ![Loots](/assets/images/marauders_2022_04_23/candids/loots.jpg)
 
-The field saw a vast array of MS archetypes and stews. Among them were: Lord Carter Petray’s defending Marauders champ list, Full English Breakfast (4-1), at fifth place; Lord Ian Blank’s signature Pox (4-1) pile at a stout fourth place; Brandon Adam’s UR Trix (4-1) taking the bronze; Zack Zurawski on The Rock (4-1), the “fairest deck in the format,” he said, at second, and Lord Greg Kotscharjan on UW Control (5-0), sans Standstill, assuming the top spot. See the decklist gallery below for comprehensive coverage of the day’s arsenals.
+The field saw a vast array of MS archetypes and stews. Among them were: Lord Carter Petray’s defending Marauders champ list, Full English Breakfast (4-1), at fifth place; Lord Ian Blank’s signature Pox (4-1) pile at a stout fourth place; Brandon Adam’s UR Trix (4-1) taking the bronze; Zack Zurawski on The Rock (4-1), the “fairest deck in the format,” he said, at secon; and Lord Greg Kotscharjan on UW Control (5-0), sans Standstill, assuming the top spot. See the decklist gallery below for comprehensive coverage of the day’s arsenals.
 
 ![Final Standings](/assets/images/marauders_2022_04_23/standings.jpg)
 
