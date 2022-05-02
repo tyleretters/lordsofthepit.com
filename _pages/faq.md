@@ -54,7 +54,7 @@ All members of the Lords of the Pit are unified under these values. We unequivoc
 
 ---
 
-Attendees of Lords-hosted events are required to show proof of a COVID-19 vaccine at registration.
+Lords-hosted events follow all local health regulations regarding COVID-19 vaccinations and masking.
 
 ## What is Old School?
 
