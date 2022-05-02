@@ -28,7 +28,7 @@ After the battles and beverages, the Lords basked in the promise of summer on DM
 
 I’d made plans with friend of the Lords, Taylor Quail and Lords Blank and Velasco to dine on Pequod’s following Marauders. With an hour to kill before the pizza party, Quail and I engaged in a Best-of-7 challenge of Eternal Chaos, cracking some *Forgotten Realms* packs I had left over from Lords Haus 2. My 5C Living Plane pile took Games 1-3, notably Control Magic’ing Q’s Guardian Beast to turn on my own Beast-Orb lock, then Q’s Esper Bots took Games 4-6, at one point Copy’ing his own Orb before redeploying Beast and rocking the Double Chorb Lock. Q used Booster Tutor to draft basic lands and mana fix, while I returned to Hive of the Eye Tyrant numerous times for man-land beats. The deciding Game 7 went the Bulu Master’s way, despite a comically poor (wind-aided?) Orb bounce, and we departed to dine on Chicago’s finest pan style.
 
-![BYOBeast](/assets/images/marauders_2022_04_23/candids/controlmagicbeastorb.jpg)
+![Double Chorb Lock](/assets/images/marauders_2022_04_23/candids/orbcopyorbbeast.jpg)
 
 **GALLERY**
 
@@ -84,6 +84,8 @@ I’d made plans with friend of the Lords, Taylor Quail and Lords Blank and Vela
 
 ![Flores v. Quail](/assets/images/marauders_2022_04_23/candids/floresvsquail.jpg)
 
+![Stone Cold Salute](/assets/images/marauders_2022_04_23/candids/mullensalute.jpg)
+
 ![Dudesweats 2](/assets/images/marauders_2022_04_23/candids/dudesweats2.jpg)
 
 ![Braun v. Beadle](/assets/images/marauders_2022_04_23/candids/braunvsbeadle.jpg)
@@ -100,11 +102,9 @@ I’d made plans with friend of the Lords, Taylor Quail and Lords Blank and Vela
 
 ![Petray v. Quail](/assets/images/marauders_2022_04_23/candids/petrayvsquail.jpg)
 
-![Stone Cold Salute](/assets/images/marauders_2022_04_23/candids/mullensalute.jpg)
-
 ![Velasco v. Cousin Gus](/assets/images/marauders_2022_04_23/candids/velascovscousingus.jpg)
 
-![Double Chorb](/assets/images/marauders_2022_04_23/candids/orbcopyorbbeast.jpg)
+![Beast Control](/assets/images/marauders_2022_04_23/candids/controlmagicbeastorb.jpg)
 
 **Postlude II**
 
