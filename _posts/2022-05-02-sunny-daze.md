@@ -82,13 +82,13 @@ I’d made plans with Taylor Quail, my fellow Iowan in-town for the weekend, and
 
 ![Dudesweats 1](/assets/images/marauders_2022_04_23/candids/dudesweats1.jpg)
 
-![Flores v. Quail](/assets/images/marauders_2022_04_23/candids/floresvsquail.jpg)
+![Flores (Monoblack Necro) v. Quail (Monogreen Land Destruction)](/assets/images/marauders_2022_04_23/candids/floresvsquail.jpg)
 
 ![Stone Cold Salute](/assets/images/marauders_2022_04_23/candids/mullensalute.jpg)
 
 ![Dudesweats 2](/assets/images/marauders_2022_04_23/candids/dudesweats2.jpg)
 
-![Braun v. Beadle](/assets/images/marauders_2022_04_23/candids/braunvsbeadle.jpg)
+![Braun (UW Control) v. Beadle (White Sox)](/assets/images/marauders_2022_04_23/candids/braunvsbeadle.jpg)
 
 ![Dudesweats 4](/assets/images/marauders_2022_04_23/candids/dudesweats4.jpg)
 
@@ -96,13 +96,13 @@ I’d made plans with Taylor Quail, my fellow Iowan in-town for the weekend, and
 
 ![Dudesweats 5](/assets/images/marauders_2022_04_23/candids/dudesweats5.jpg)
 
-![Moss v. Baran](/assets/images/marauders_2022_04_23/candids/mossvsbaran.jpg)
+![Moss (PatternRector) v. Baran (Worldgorger Combo)](/assets/images/marauders_2022_04_23/candids/mossvsbaran.jpg)
 
 ![Songs From the Big Chair](/assets/images/marauders_2022_04_23/candids/songsfromthebigchair.jpg)
 
-![Petray v. Quail](/assets/images/marauders_2022_04_23/candids/petrayvsquail.jpg)
+![Petray (Full English Breakfast) v. Quail (Monogreen)](/assets/images/marauders_2022_04_23/candids/petrayvsquail.jpg)
 
-![Velasco v. Cousin Gus](/assets/images/marauders_2022_04_23/candids/velascovscousingus.jpg)
+![Velasco (Esper Wizards) v. Cousin Gus (Zoblins)](/assets/images/marauders_2022_04_23/candids/velascovscousingus.jpg)
 
 ![Beast Control](/assets/images/marauders_2022_04_23/candids/controlmagicbeastorb.jpg)
 
