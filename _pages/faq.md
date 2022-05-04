@@ -14,11 +14,9 @@ The Lords of the Pit are the United States' premiere Old School Magic: the Gathe
 
 ![](/assets/images/2019/08/lotp.jpg)
 
-Membership in the Lords of the Pit is based on active involvement in our events and contributions to our cause -- the proliferation of Old School MTG in the United States, improving the world through the club's charitable contributions & community service, and fierce representation of our club.
+Membership in the Lords of the Pit is based on active involvement in our events and contributions to our cause -- the proliferation of Old School MTG in the United States, improving the world through our club's charitable contributions & community service, and fierce representation of our club.
 
-We value equality, inclusivity, tolerance and, of course, slinging old cardboard. 
-
-All members of the Lords of the Pit are unified under these values. We unequivocally reject racism and support the causes of equality, tolerence and inclusivity, not only in our club, but throughout the Old School community at large. Lords of the Pit events are a safe space for friends and strangers alike and are a catalyst for charitable giving to numerous Chicago-area organizations* as nominated by our members.
+We value equality, inclusivity, tolerance and, of course, slinging old cardboard. Lords of the Pit events are a safe space for friends and strangers alike and are a catalyst for charitable giving to numerous Chicago-area organizations* as nominated by our members.
 
 *Previously sponsored organizations:
 
@@ -47,6 +45,8 @@ All members of the Lords of the Pit are unified under these values. We unequivoc
 [https://www.chicagosfoodbank.org](https://www.chicagosfoodbank.org)
 
 [https://www.ridejanieride.org/](https://www.ridejanieride.org/)
+
+[https://www.donermen.com/donatea-meal](https://www.donermen.com/donatea-meal)
 
 ![](/assets/images/2019/09/OSPB19LOTPFront.jpg)
 
