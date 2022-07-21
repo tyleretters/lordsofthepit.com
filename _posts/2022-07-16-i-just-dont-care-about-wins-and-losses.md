@@ -124,7 +124,7 @@ Oppression is a very real card. Paired with Nether Spirits, too.
 
 My cycling technology enables me to surgically land keys spells. Crop Rotation into a Wasteland to answer his lone factory. ("Perhaps wastelands this year...")
 
-![Battle of Wits](/assets/images/2022/hotter-than-july-oppression.jpg)
+![Oppression](/assets/images/2022/hotter-than-july-oppression.jpg)
 
 
 Exalted Angel closes it.
