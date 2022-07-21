@@ -212,6 +212,40 @@ Friends and foes.
 
 Imagined and real.
 
+## PART 7: Decklists
 
+![Ben](/assets/images/2022/hotter-than-july-deck-ben.jpg)
+
+![Cardbreaker](/assets/images/2022/hotter-than-july-deck-cardbreaker.jpg)
+
+![Carter](/assets/images/2022/hotter-than-july-deck-carter.jpg)
+
+![Chet](/assets/images/2022/hotter-than-july-deck-chet.jpg)
+
+![DG](/assets/images/2022/hotter-than-july-deck-dg.jpg)
+
+![Enrique](/assets/images/2022/hotter-than-july-deck-enrique.jpg)
+
+![Etters](/assets/images/2022/hotter-than-july-deck-etters.jpg)
+
+![Grant](/assets/images/2022/hotter-than-july-deck-grant.jpg)
+
+![Greg](/assets/images/2022/hotter-than-july-deck-greg.jpg)
+
+![Jacord](/assets/images/2022/hotter-than-july-deck-jacord.jpg)
+
+![Jimmy](/assets/images/2022/hotter-than-july-deck-jimmy.jpg)
+
+![Lorien](/assets/images/2022/hotter-than-july-deck-lorien.jpg)
+
+![Moss](/assets/images/2022/hotter-than-july-deck-moss.jpg)
+
+![Ray](/assets/images/2022/hotter-than-july-deck-ray.jpg)
+
+![Scatman](/assets/images/2022/hotter-than-july-deck-scatman.jpg)
+
+![Shane](/assets/images/2022/hotter-than-july-deck-shane.jpg)
+
+![Tim](/assets/images/2022/hotter-than-july-deck-tim.jpg)
 
 
