@@ -14,6 +14,8 @@ The 2022 Chicago autumn seemed like it would last forever. Day after day it was 
 
 Eighteen mages entered to do battle. Only one could leave the winner of Fall Brawl 5, the Lords’ OS95 event for the year. When it was finished, all that remained was a pile of corpses, some Incinerated, others crushed by Black Vises. I crawled away from the carnage victorious, but at what price? My summoned Atogs and Serendib Efreets had destroyed all my opponents, and when there was no one left to kill, they mutinied. I barely had time to planeswalk back through the portal before they could hunt me down. Back at DMen, I nervously looked outside to make sure the creatures hadn’t tracked me back to Earth. There were no monsters to be seen, but the doom of Dominaria had followed me home: a light dusting of snow was descending from an ashen sky. The Ice Age was upon Chicago.
 
+![](/assets/images/fallbrawl5/fb5.png)
+
 **Part 1: Fire in the Ice**
 
 Since the inception of Fall Brawl, I had been a devout cultist of Necropotence, combining it first with Land’s Edge, and then, once the use of Demonic Consultation was restricted, Mirror Universe and Drain Life. After a near-miss 2nd place finish at last year’s Fall Brawl, I set aside death magick for the one thing that was more powerful: sweathog sorcery. 
@@ -21,6 +23,8 @@ Since the inception of Fall Brawl, I had been a devout cultist of Necropotence, 
 This year, I played a fairly stock OS94 URb Atog list, but I added three Portents. Portent, I reasoned, was better than Chain Lightning or Incinerate because most of the other cards in my deck were more powerful than Chain Lightning or Incinerate, and Portent helped me dig to them. The Portents were good all day. If I played this deck again I’d add a fourth and drop a land (I already played a couple extra compared to other Atog decks). 
 
 The only other change I made to the main deck was suggested by Archdeckbuilder Finney at the last minute, who was aghast to learn I had not planned to play Mana Crypt. I was concerned about the damage I’d take from it, especially against aggro decks, which I expected a lot of. But the sweet promise of an easy turn-one Serendib made me cut my Emerald for it. I never got the T1 Serendib off Mana Crypt, but I did use it for a T1 Timetwister on a mull to five, which ended up winning me the game. I added three Ice Age cards to my sideboard: two Mystic Remoras, which are great against creature-light decks; and one Dance of the Dead, for Reanimator.
+
+![Liches get stitches](/assets/images/fallbrawl5/lichpin.jpg)
 
 The matchups didn’t quite go according to plan. I was hoping to run into a couple Necropotence decks and cheese them out with Black Vises and Lightning Bolts before they could reap the benefits of their card advantage engine, but I didn’t face a single one. No control decks, either. Four out of the five matches were other aggro decks, and the fifth, Reanimator, I’d call combo aggro. It was a tense day of piling on damage as quickly as I could, hoping I could be just a little bit faster than my opponents. Fortune was on my side, and I ended the day undefeated.
 
@@ -55,21 +59,27 @@ Black Vise went from a niche card in 2019 to a strategy the majority of players 
 
 To my eye, aggro decks appeared to be over-represented this year compared to other years, but that partially depends on how I’ve defined “aggro” versus “midrange.” What’s clearer is the overwhelming number of aggro decks in the Top 8 this year, versus other years. Usually, a Fall Brawl Top 8 (which, for such a small tournament, basically signifies decks with winning records) has a reasonable mix of combo, aggro, and control. This year, seven of the Top 8 decks were aggro, with Dreams squeaking in at 8th place. It’s possible that both the trend of more players with Black Vise and more streamlined aggro decks was a reaction to last year’s Brawl, where 1st and 2nd place both played Necropotence.
 
+![Loots](/assets/images/fallbrawl5/candids/loots.jpg)
+
 A couple other random insights:
 
 This is the first time an aggro deck has won a Fall Brawl.
 
 In 2018, both 1st and 2nd place were Reanimator, the bogeyman of the format. Since Demonic Consultation was restricted in 2019, Reanimator has not made a Top 4. Typically, one or two players are on Reanimator each year.
 
+![The Child](/assets/images/fallbrawl5/candids/toydrive.jpg)
+
 **Epilogue: The Friends that Keep Us Warm**
 
 As is our tradition around the holidays, for our charitable giving, we brought toys for the less fortunate, which will be delivered by Lord Moss after another round of toy collecting at December’s Christmas Chaos 2.  
+
+![Sorry, Charlie](assets/images/fallbrawl5/candids/orbflipsandmisses.jpg)
 
 We were blessed with a surprise visit from the wandering Lord Hahn, who attempted his Chaos Orb patch. Unfortunately, the secrets of the Orb eluded him, and ultimately it was he who was flipped, not the Orb. There’s always next time, Charlie.
 
 Alan Finney, who had traveled all the way from Nashville, was bestowed a rare (mythic rare?) gray LotP back patch. It signifies that Alan is an honorary Lord–despite not being a Chicagoan, we have judged him to meet our highest standards of prosociality, deckbuilding, and knowing a shit-ton about Fugazi. [Welcome to the party, pal](https://lordsofthepit.com/2019/12/18/welcome-to-the-party-pal/).
 
-**GALLERY**
+**OS95 GALLERY**
 
 ![Elleman](/assets/images/fallbrawl5/01elleman.jpg)
 
@@ -109,28 +119,36 @@ Alan Finney, who had traveled all the way from Nashville, was bestowed a rare (m
 
 **CANDIDS**
 
-![Dudesweats 1](/assets/images/marauders_2022_04_23/candids/dudesweats1.jpg)
+![Battles 1](/assets/images/fallbrawl5/candids/battles.jpg)
 
-![Flores (Monoblack Necro) v. Quail (Monogreen Land Destruction)](/assets/images/marauders_2022_04_23/candids/floresvsquail.jpg)
+![Braun v Rohr](/assets/images/fallbrawl5/candids/braunvrohr.jpg)
 
-![Stone Cold Salute](/assets/images/marauders_2022_04_23/candids/mullensalute.jpg)
+![Elleman v Jaco](/assets/images/fallbrawl5/candids/ellemanvjaco.jpg)
 
-![Dudesweats 2](/assets/images/marauders_2022_04_23/candids/dudesweats2.jpg)
+![Battles 2](/assets/images/fallbrawl5/candids/battles2.jpg)
 
-![Braun (UW Control) v. Beadle (White Sox)](/assets/images/marauders_2022_04_23/candids/braunvsbeadle.jpg)
+![Surprise!](/assets/images/fallbrawl5/candids/surprise.jpg)
 
-![Dudesweats 4](/assets/images/marauders_2022_04_23/candids/dudesweats4.jpg)
+![Finney v Vincent](/assets/images/fallbrawl5/candids/finneyvvincent.jpg)
 
-![Back Porch Build](/assets/images/marauders_2022_04_23/candids/backporchbuild.jpg)
+![Battles 3](/assets/images/fallbrawl5/candids/battles3.jpg)
 
-![Dudesweats 5](/assets/images/marauders_2022_04_23/candids/dudesweats5.jpg)
+![Jester's Cap](/assets/images/fallbrawl5/candids/jesterscap.jpg)
 
-![Moss (PatternRector) v. Baran (Worldgorger Combo)](/assets/images/marauders_2022_04_23/candids/mossvsbaran.jpg)
+![Moss v Mattson](/assets/images/fallbrawl5/candids/mossvmattson.jpg)
 
-![Songs From the Big Chair](/assets/images/marauders_2022_04_23/candids/songsfromthebigchair.jpg)
+![Our Prodigal Sorcerer return](/assets/images/fallbrawl5/candids/prodigalsorcerer.jpg)
 
-![Petray (Full English Breakfast) v. Quail (Monogreen)](/assets/images/marauders_2022_04_23/candids/petrayvsquail.jpg)
+![Sanders v Piquardo](/assets/images/fallbrawl5/candids/sandersvpiquard.jpg)
 
-![Velasco (Esper Wizards) v. Cousin Gus (Zoblins)](/assets/images/marauders_2022_04_23/candids/velascovscousingus.jpg)
+![Velasco v Jones](/assets/images/fallbrawl5/candids/velascovjones.jpg)
 
-![Beast Control](/assets/images/marauders_2022_04_23/candids/controlmagicbeastorb.jpg)
+![Semmens v Jones in Alpha40](/assets/images/fallbrawl5/candids/semmensvjonesa40.jpg)
+
+![Jaco v Elleman](/assets/images/fallbrawl5/candids/ellemanvjaco2.jpg)
+
+![Downtime activity](/assets/images/fallbrawl5/candids/betweenrounds.jpg)
+
+![Kumas](/assets/images/fallbrawl5/candids/kumas.jpg)
+
+![Lich Lord Sanders going off](/assets/images/fallbrawl5/candids/sanderslichgrandeur.jpg)
