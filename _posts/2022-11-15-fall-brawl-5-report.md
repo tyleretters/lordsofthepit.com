@@ -75,7 +75,7 @@ In 2018, both 1st and 2nd place were Reanimator, the bogeyman of the format. Sin
 
 As is our tradition around the holidays, for our charitable giving, we brought toys for the less fortunate, which will be delivered by Lord Moss after another round of toy collecting at December’s Christmas Chaos 2.  
 
-![Sorry, Charlie](assets/images/fallbrawl5/candids/orbflipsandmisses.jpg)
+![Sorry, Charlie](/assets/images/fallbrawl5/candids/orbflipsandmisses.jpg)
 
 We were blessed with a surprise visit from the wandering Lord Hahn, who attempted his Chaos Orb patch. Unfortunately, the secrets of the Orb eluded him, and ultimately it was he who was flipped, not the Orb. There’s always next time, Charlie.
 
