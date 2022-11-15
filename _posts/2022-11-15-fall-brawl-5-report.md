@@ -6,7 +6,7 @@ date: "2022-11-15"
 category: Blog
 ---
 
-(TYLER, PLZ USE MYSTIC REMORA AS THE HEADER IMAGE)
+![Mystic Remora](/assets/images/banners/mystic-remora.jpg)
 
 **Prologue: Gate to a Frozen Hell**
 
