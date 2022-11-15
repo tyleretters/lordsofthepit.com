@@ -6,15 +6,15 @@ date: "2022-11-15"
 category: Blog
 ---
 
-(TYLER, USE MYSTIC REMORA AS THE HEADER IMAGE PLZ)
+(TYLER, PLZ USE MYSTIC REMORA AS THE HEADER IMAGE)
 
-Prologue: Gate to a Frozen Hell
+**Prologue: Gate to a Frozen Hell**
 
-The 2022 Chicago autumn seemed like it would last forever. Day after day it was the same: sunny weather, cool breezes, you rarely even needed a jacket. The Indian summer abruptly ended on Saturday, November 12, when the Lords of the Pit and a few fellow sorcerers gathered at DMen Tap, as was our sacred tradition. From Dmen’s back room, we cast a ritual we had stolen from an Orcish Librarian, opening a portal to the space-time of Dominaria when it was a frigid wasteland in the aftermath of the Sylex Blast. 
+The 2022 Chicago autumn seemed like it would last forever. Day after day it was the same: sunny weather, cool breezes, you rarely even needed a jacket. The Indian summer abruptly ended on Saturday, November 12, when the Lords of the Pit and a few fellow sorcerers gathered at DMen Tap, as was our sacred tradition. From DMen’s back room, we cast a ritual we had stolen from an Orcish Librarian, opening a portal to the space-time of Dominaria when it was a frigid wasteland in the aftermath of the Sylex Blast. 
 
-Eighteen mages entered to do battle. Only one could leave the winner of Fall Brawl 5, the Lords’ OS95 event for the year. When it was finished, all that remained was a pile of corpses, some Incinerated, others crushed by Black Vises. I crawled away from the carnage victorious, but at what price? My summoned Atogs and Serendib Efreets had destroyed all my opponents, and when there was no one left to kill, they mutinied. I barely had time to planeswalk back through the portal before they could hunt me down. Back at Dmen, I nervously looked outside to make sure the creatures hadn’t tracked me back to Earth. There were no monsters to be seen, but the doom of Dominaria had followed me home: a light dusting of snow was descending from an ashen sky. The Ice Age was upon Chicago.
+Eighteen mages entered to do battle. Only one could leave the winner of Fall Brawl 5, the Lords’ OS95 event for the year. When it was finished, all that remained was a pile of corpses, some Incinerated, others crushed by Black Vises. I crawled away from the carnage victorious, but at what price? My summoned Atogs and Serendib Efreets had destroyed all my opponents, and when there was no one left to kill, they mutinied. I barely had time to planeswalk back through the portal before they could hunt me down. Back at DMen, I nervously looked outside to make sure the creatures hadn’t tracked me back to Earth. There were no monsters to be seen, but the doom of Dominaria had followed me home: a light dusting of snow was descending from an ashen sky. The Ice Age was upon Chicago.
 
-Part 1: Fire in the Ice
+**Part 1: Fire in the Ice**
 
 Since the inception of Fall Brawl, I had been a devout cultist of Necropotence, combining it first with Land’s Edge, and then, once the use of Demonic Consultation was restricted, Mirror Universe and Drain Life. After a near-miss 2nd place finish at last year’s Fall Brawl, I set aside death magick for the one thing that was more powerful: sweathog sorcery. 
 
@@ -36,7 +36,9 @@ Round 4 (Matt Braun, RU Atog): On the play game one, turn one he cast Blood Moon
 
 Round 5 (Matt Moss, WU Weenie): Game one he had a Plains and a Lions in play and I had a City of Brass and a Strip Mine. I DTed for Earthquake. He played another Plains, a Javelineer, and a Lions. I topdecked a Mox, played it and another Strip Mine, destroyed both his lands, and Earthquaked for 1. He scooped.
 
-Part 2: Crunching the Numbers on Black Vise, and Other Compulsive Research
+![Final Standings](/assets/images/fallbrawl5/swissstandings.jfif)
+
+**Part 2: Crunching the Numbers on Black Vise, and Other Compulsive Research**
 
 With just one Chicago event per year and about 20 people playing per Fall Brawl, OS95 is far from a solved format. However, I guessed that four years of data (2018 has too many missing decklists) were enough to check out a few hypotheses. For example, based on my anecdotal observations, it seemed like virtually no one was playing Necro at Fall Brawl 5, but almost everyone was playing Black Vise. The data set I compiled can be found here.
 
@@ -59,61 +61,51 @@ This is the first time an aggro deck has won a Fall Brawl.
 
 In 2018, both 1st and 2nd place were Reanimator, the bogeyman of the format. Since Demonic Consultation was restricted in 2019, Reanimator has not made a Top 4. Typically, one or two players are on Reanimator each year.
 
-Epilogue: The Friends that Keep Us Warm
+**Epilogue: The Friends that Keep Us Warm**
 
 As is our tradition around the holidays, for our charitable giving, we brought toys for the less fortunate, which will be delivered by Lord Moss after another round of toy collecting at December’s Christmas Chaos 2.  
 
 We were blessed with a surprise visit from the wandering Lord Hahn, who attempted his Chaos Orb patch. Unfortunately, the secrets of the Orb eluded him, and ultimately it was he who was flipped, not the Orb. There’s always next time, Charlie.
 
-Alan Finney, who had traveled all the way from Nashville, was bestowed a rare (mythic rare?) gray LotP back patch. It signifies that Alan is an honorary Lord–despite not being a Chicagoan, we have judged him to meet our highest standards of prosociality, deckbuilding, and knowing a shit-ton about Fugazi. Welcome to the party, pal.
+Alan Finney, who had traveled all the way from Nashville, was bestowed a rare (mythic rare?) gray LotP back patch. It signifies that Alan is an honorary Lord–despite not being a Chicagoan, we have judged him to meet our highest standards of prosociality, deckbuilding, and knowing a shit-ton about Fugazi. [Welcome to the party, pal](https://lordsofthepit.com/2019/12/18/welcome-to-the-party-pal/).
 
 **GALLERY**
 
-![Kotscharjan](/assets/images/marauders_2022_04_23/decklists/01kotscharjanMS.jpg)
+![Elleman](/assets/images/fallbrawl5/01elleman.jpg)
 
-![Zurawski](/assets/images/marauders_2022_04_23/decklists/02zurawskiMS.jpg)
+![Rohr](/assets/images/fallbrawl5/02rohr.jpg)
 
-![Adams](/assets/images/marauders_2022_04_23/decklists/03adamsMS.jpg)
+![Blank](/assets/images/fallbrawl5/03blank.jpg)
 
-![Blank](/assets/images/marauders_2022_04_23/decklists/04blankMS.jpg)
+![Moss](/assets/images/fallbrawl5/04moss.jpg)
 
-![Petray](/assets/images/marauders_2022_04_23/decklists/05petrayMS.jpg)
+![Braun](/assets/images/fallbrawl5/05braun.jfif)
 
-![Mattson](/assets/images/marauders_2022_04_23/decklists/06mattsonMS.JPG)
+![Baran](/assets/images/fallbrawl5/06baran.jpg)
 
-![Krohlow](/assets/images/marauders_2022_04_23/decklists/07krohlowMS.jpg)
+![Velasco](/assets/images/fallbrawl5/07velasco.jpg)
 
-![Agra](/assets/images/marauders_2022_04_23/decklists/08agraMS.jpg)
+![Jones](/assets/images/fallbrawl5/08jones.jpg)
 
-![Flores](/assets/images/marauders_2022_04_23/decklists/09floresMS.jpg)
+![Finney](/assets/images/fallbrawl5/09finney.jpg)
 
-![Piquard](/assets/images/marauders_2022_04_23/decklists/10piquardMS.jpg)
+![Jaco](/assets/images/fallbrawl5/10jaco.jpg)
 
-![Velasco](/assets/images/marauders_2022_04_23/decklists/11velascoMS.jpg)
+![MacDougall](/assets/images/fallbrawl5/11macdougall.jpg)
 
-![Jones](/assets/images/marauders_2022_04_23/decklists/12jonesMS.jpg)
+![Sanders](/assets/images/fallbrawl5/12sanders.jpg)
 
-![Baran](/assets/images/marauders_2022_04_23/decklists/13baranMS.jpg)
+![Piquard](/assets/images/fallbrawl5/13piquard.jpg)
 
-![Zinni](/assets/images/marauders_2022_04_23/decklists/14zinniMS.png)
+![Hahn](/assets/images/fallbrawl5/14hahn.jpg)
 
-![Quail](/assets/images/marauders_2022_04_23/decklists/15quailMS.jpg)
+![Chet](/assets/images/fallbrawl5/15chet.jpg)
 
-![Moss](/assets/images/marauders_2022_04_23/decklists/16mossMS.jpg)
+![Semmens](/assets/images/fallbrawl5/16semmens.jpg)
 
-![Mullen](/assets/images/marauders_2022_04_23/decklists/17mullenMS.png)
+![Vincent](/assets/images/fallbrawl5/17vincent.jpg)
 
-![Cousin Gus](/assets/images/marauders_2022_04_23/decklists/18cousingusMS.jpg)
-
-![Beadle](/assets/images/marauders_2022_04_23/decklists/19beadleMS.jpg)
-
-![Braun](/assets/images/marauders_2022_04_23/decklists/20braunMS.jpg)
-
-![McCarthy](/assets/images/marauders_2022_04_23/decklists/21mccarthyMS.jpg)
-
-![Derek](/assets/images/marauders_2022_04_23/decklists/23derekMS.jpg)
-
-![Semmens](/assets/images/marauders_2022_04_23/decklists/25semmensMS.jpg)
+![Mattson](/assets/images/fallbrawl5/18mattson.jpg)
 
 **CANDIDS**
 
@@ -142,5 +134,3 @@ Alan Finney, who had traveled all the way from Nashville, was bestowed a rare (m
 ![Velasco (Esper Wizards) v. Cousin Gus (Zoblins)](/assets/images/marauders_2022_04_23/candids/velascovscousingus.jpg)
 
 ![Beast Control](/assets/images/marauders_2022_04_23/candids/controlmagicbeastorb.jpg)
-
-![](/assets/images/marauders_2022_04_23/candids/shanechampgif.gif)
