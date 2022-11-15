@@ -7,10 +7,14 @@ permalink: /meetups
 ## Upcoming Lords of the Pit Events
 ---
 
-Stay tuned for upcoming LOTP action!
+![](/assets/images/2022/christmaschaos2.jpg)
 
 ## Past Lords of the Pit Events
 ---
+
+![](/assets/images/2022/fb5.png)
+
+![](/assets/images/2022/hotterthanjuly.jpg)
 
 ![](/assets/images/2022/maraudershype2022-04-23.png)
 
