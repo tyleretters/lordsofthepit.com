@@ -10,7 +10,7 @@ category: Blog
 
 **Prologue: Gate to a Frozen Hell**
 
-The 2022 Chicago autumn seemed like it would last forever. Day after day it was the same: sunny weather, cool breezes, you rarely even needed a jacket. The Indian summer abruptly ended on Saturday, November 12, when the Lords of the Pit and a few fellow sorcerers gathered at DMen Tap, as was our sacred tradition. From DMen’s back room, we cast a ritual we had stolen from an Orcish Librarian, opening a portal to the space-time of Dominaria when it was a frigid wasteland in the aftermath of the Sylex Blast. 
+The 2022 Chicago autumn seemed like it would last forever. Day after day it was the same: sunny weather, cool breezes, you rarely even needed a jacket. The Indian summer abruptly ended on Saturday, November 12, when the Lords of the Pit and a few fellow sorcerers gathered at DMen Tap, as is our sacred tradition. From DMen’s back room, we cast a ritual we had stolen from an Orcish Librarian, opening a portal to the space-time of Dominaria when it was a frigid wasteland in the aftermath of the Sylex Blast. 
 
 ![](/assets/images/fallbrawl5/fb5.png)
 
@@ -24,7 +24,7 @@ Since the inception of Fall Brawl, I had been a devout cultist of Necropotence, 
 
 This year, I played a fairly stock OS94 URb Atog list, but I added three Portents. Portent, I reasoned, was better than Chain Lightning or Incinerate because most of the other cards in my deck were more powerful than Chain Lightning or Incinerate, and Portent helped me dig to them. The Portents were good all day. If I played this deck again I’d add a fourth and drop a land (I already played a couple extra compared to other Atog decks). 
 
-The only other change I made to the main deck was suggested by Archdeckbuilder Finney at the last minute, who was aghast to learn I had not planned to play Mana Crypt. I was concerned about the damage I’d take from it, especially against aggro decks, which I expected a lot of. But the sweet promise of an easy turn-one Serendib made me cut my Emerald for it. I never got the T1 Serendib off Mana Crypt, but I did use it for a T1 Timetwister on a mull to five, which ended up winning me the game. I added three Ice Age cards to my sideboard: two Mystic Remoras, which are great against creature-light decks; and one Dance of the Dead, for Reanimator.
+The only other change I made to the main deck was suggested by Archdeckbuilder Alan Finney at the last minute, who was aghast to learn I had not planned to play Mana Crypt. I was concerned about the damage I’d take from it, especially against aggro decks, which I expected a lot of. But the sweet promise of an easy turn-one Serendib made me cut my Emerald for it. I never got the T1 Serendib off Mana Crypt, but I did use it for a T1 Timetwister on a mull to five, which ended up winning me the game. I added three Ice Age cards to my sideboard: two Mystic Remoras, which are great against creature-light decks; and one Dance of the Dead, for Reanimator.
 
 ![Liches get stitches](/assets/images/fallbrawl5/lichpin.jpg)
 
@@ -137,7 +137,7 @@ Alan Finney, who had traveled all the way from Nashville, was bestowed a rare (m
 
 ![Battles 3](/assets/images/fallbrawl5/candids/battles3.jpg)
 
-![Jester's Cap](/assets/images/fallbrawl5/candids/jesterscap.jpg)
+![Jester's Cap Orb flip-off](/assets/images/fallbrawl5/candids/jesterscap.jpg)
 
 ![Moss v Mattson](/assets/images/fallbrawl5/candids/mossvmattson.jpg)
 
