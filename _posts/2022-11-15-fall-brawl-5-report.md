@@ -12,9 +12,11 @@ category: Blog
 
 The 2022 Chicago autumn seemed like it would last forever. Day after day it was the same: sunny weather, cool breezes, you rarely even needed a jacket. The Indian summer abruptly ended on Saturday, November 12, when the Lords of the Pit and a few fellow sorcerers gathered at DMen Tap, as was our sacred tradition. From DMen’s back room, we cast a ritual we had stolen from an Orcish Librarian, opening a portal to the space-time of Dominaria when it was a frigid wasteland in the aftermath of the Sylex Blast. 
 
+![](/assets/images/fallbrawl5/fb5.png)
+
 Eighteen mages entered to do battle. Only one could leave the winner of Fall Brawl 5, the Lords’ OS95 event for the year. When it was finished, all that remained was a pile of corpses, some Incinerated, others crushed by Black Vises. I crawled away from the carnage victorious, but at what price? My summoned Atogs and Serendib Efreets had destroyed all my opponents, and when there was no one left to kill, they mutinied. I barely had time to planeswalk back through the portal before they could hunt me down. Back at DMen, I nervously looked outside to make sure the creatures hadn’t tracked me back to Earth. There were no monsters to be seen, but the doom of Dominaria had followed me home: a light dusting of snow was descending from an ashen sky. The Ice Age was upon Chicago.
 
-![](/assets/images/fallbrawl5/fb5.png)
+![Loots](/assets/images/fallbrawl5/candids/loots.jpg)
 
 **Part 1: Fire in the Ice**
 
@@ -40,7 +42,7 @@ Round 4 (Matt Braun, RU Atog): On the play game one, turn one he cast Blood Moon
 
 Round 5 (Matt Moss, WU Weenie): Game one he had a Plains and a Lions in play and I had a City of Brass and a Strip Mine. I DTed for Earthquake. He played another Plains, a Javelineer, and a Lions. I topdecked a Mox, played it and another Strip Mine, destroyed both his lands, and Earthquaked for 1. He scooped.
 
-![Final Standings](/assets/images/fallbrawl5/swissstandings.jfif)
+![Fatality](/assets/images/fallbrawl5/candids/mossvelleman.jpg)
 
 **Part 2: Crunching the Numbers on Black Vise, and Other Compulsive Research**
 
@@ -59,7 +61,7 @@ Black Vise went from a niche card in 2019 to a strategy the majority of players 
 
 To my eye, aggro decks appeared to be over-represented this year compared to other years, but that partially depends on how I’ve defined “aggro” versus “midrange.” What’s clearer is the overwhelming number of aggro decks in the Top 8 this year, versus other years. Usually, a Fall Brawl Top 8 (which, for such a small tournament, basically signifies decks with winning records) has a reasonable mix of combo, aggro, and control. This year, seven of the Top 8 decks were aggro, with Dreams squeaking in at 8th place. It’s possible that both the trend of more players with Black Vise and more streamlined aggro decks was a reaction to last year’s Brawl, where 1st and 2nd place both played Necropotence.
 
-![Loots](/assets/images/fallbrawl5/candids/loots.jpg)
+![Final Standings](/assets/images/fallbrawl5/swissstandings.jfif)
 
 A couple other random insights:
 
@@ -76,6 +78,8 @@ As is our tradition around the holidays, for our charitable giving, we brought t
 ![Sorry, Charlie](assets/images/fallbrawl5/candids/orbflipsandmisses.jpg)
 
 We were blessed with a surprise visit from the wandering Lord Hahn, who attempted his Chaos Orb patch. Unfortunately, the secrets of the Orb eluded him, and ultimately it was he who was flipped, not the Orb. There’s always next time, Charlie.
+
+![Congratulations, Alan!](/assets/images/fallbrawl5/candids/finneycut.jpg)
 
 Alan Finney, who had traveled all the way from Nashville, was bestowed a rare (mythic rare?) gray LotP back patch. It signifies that Alan is an honorary Lord–despite not being a Chicagoan, we have judged him to meet our highest standards of prosociality, deckbuilding, and knowing a shit-ton about Fugazi. [Welcome to the party, pal](https://lordsofthepit.com/2019/12/18/welcome-to-the-party-pal/).
 
