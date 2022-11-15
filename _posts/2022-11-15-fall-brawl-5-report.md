@@ -141,7 +141,7 @@ Alan Finney, who had traveled all the way from Nashville, was bestowed a rare (m
 
 ![Moss v Mattson](/assets/images/fallbrawl5/candids/mossvmattson.jpg)
 
-![Our Prodigal Sorcerer return](/assets/images/fallbrawl5/candids/prodigalsorcerer.jpg)
+![Our Prodigal Sorcerer returns](/assets/images/fallbrawl5/candids/prodigalsorcerer.jpg)
 
 ![Sanders v Piquardo](/assets/images/fallbrawl5/candids/sandersvpiquard.jpg)
 
