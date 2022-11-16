@@ -46,7 +46,7 @@ Round 5 (Matt Moss, WU Weenie): Game one he had a Plains and a Lions in play and
 
 **Part 2: Crunching the Numbers on Black Vise, and Other Compulsive Research**
 
-With just one Chicago event per year and about 20 people playing per Fall Brawl, OS95 is far from a solved format. However, I guessed that four years of data (2018 has too many missing decklists) were enough to check out a few hypotheses. For example, based on my anecdotal observations, it seemed like virtually no one was playing Necro at Fall Brawl 5, but almost everyone was playing Black Vise. The data set I compiled can be found here.
+With just one Chicago event per year and about 20 people playing per Fall Brawl, OS95 is far from a solved format. However, I guessed that four years of data (2018 has too many missing decklists) were enough to check out a few hypotheses. For example, based on my anecdotal observations, it seemed like virtually no one was playing Necro at Fall Brawl 5, but almost everyone was playing Black Vise. The data set I compiled can be found [here](https://docs.google.com/spreadsheets/d/19T9NQluxCYGkR-31gnE2-Y_7wWC8OA9D0CgR3FH6Ox4/edit?usp=sharing).
 
 The Necropotence data are inconclusive. About four players, or 20% of the field, tend to play Necro each year, although last year there were six and this year just three. Not huge differences, though. 
 
@@ -81,7 +81,7 @@ We were blessed with a surprise visit from the wandering Lord Hahn, who attempte
 
 ![Congratulations, Alan!](/assets/images/fallbrawl5/candids/finneycut.jpg)
 
-Alan Finney, who had traveled all the way from Nashville, was bestowed a rare (mythic rare?) gray LotP back patch. It signifies that Alan is an honorary Lord–despite not being a Chicagoan, we have judged him to meet our highest standards of prosociality, deckbuilding, and knowing a shit-ton about Fugazi. [Welcome to the party, pal](https://lordsofthepit.com/2019/12/18/welcome-to-the-party-pal/).
+Alan Finney, who had traveled all the way from Nashville, was bestowed a rare (mythic rare?) gray LotP back patch. It signifies that Alan is an honorary Lord–despite not being a Chicagoan, we have judged him to meet our highest standards of prosociality, deckbuilding, and knowing a shit-ton about Fugazi. Welcome to the party, [pal](https://lordsofthepit.com/2019/12/18/welcome-to-the-party-pal/).
 
 **OS95 GALLERY**
 
