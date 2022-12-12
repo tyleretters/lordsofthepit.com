@@ -18,7 +18,7 @@ We added two new cards, legal as four-ofs, for Christmas Chaos 2. First was *Unf
 
 ![Velasco's Legions](/assets/images/2022/xmaschaos2/velascolegions.jpg)
 
-The new hotness of Opening Ceremony completely outclassed the old & busted Booster Tutor, both in form and function – why cast one spell from a boostie when you can cast many? And Summon the Pack, while gimmicky, has life as a spicily flavourful win-con for a control list or a ramp list. Perhaps OC could be too powerful, but isn’t that the whole point of this fringiest of fringe sub-format variants?
+The new hotness of Opening Ceremony completely outclassed the old & busted Booster Tutor, both in form and function – why cast one spell from a boostie when you can cast many? And Summon the Pack, while gimmicky, has life as a spicily flavourful win-con for a control or ramp lists. Perhaps OC could be too powerful, but isn’t that the whole point of this fringiest of fringe sub-format variants?
 
 ![Standings](/assets/images/2022/xmaschaos2/standings.jfif)
 
