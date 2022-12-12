@@ -8,7 +8,7 @@ category: Blog
 
 (TYLER, PLZ USE OPENING CEREMONY AS THE HEADER IMAGE)
 
-Steel gray overcast skies greeted the nine hale mages who Gathered at DMen Tap to partake in the Lords’ second iteration of Christmas Chaos. Amidst the holiday redecoration of DMen’s backroom into a Krampus-inspired dungeon, the Lords & Co. deposited numerous toys in offering for Pt. II of our annual [Toy Drive](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.advocatechildrenshospital.com/health-resources/support-services/child-life-program/make-a-donation/easset_upload_file12353_436179_e.pdf). Our format of choice, in keeping with last December’s Gathering, was Eternal Chaos – Chicago favorite pack-cracking, dopamine-inducing degeneracy – albeit a modified version for 2022.
+Steel gray overcast skies greeted the nine hale mages who Gathered at DMen Tap to partake in the Lords’ second iteration of Christmas Chaos. Amidst the holiday redecoration of DMen’s backroom into a Krampus-inspired dungeon, the Lords & Co. deposited numerous toys in offering for Pt. II of our annual [Toy Drive](www.advocatechildrenshospital.com/health-resources/support-services/child-life-program/make-a-donation/easset_upload_file12353_436179_e.pdf). Our format of choice, in keeping with last December’s Gathering, was Eternal Chaos – Chicago favorite pack-cracking, dopamine-inducing degeneracy – albeit a modified version for 2022.
 
 ![](/assets/images/2022/xmaschaos2/xmaschaos2.jpg)
 
