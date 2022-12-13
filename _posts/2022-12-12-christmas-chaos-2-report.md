@@ -36,15 +36,15 @@ Thus concludes 2022, another fine year of Old School Magic in Chicago. Happy Hol
 
 **GALLERY**
 
-![Velasco](/assets/images/fallbrawl5/candids/02velasco.jpg)
+![Velasco](/assets/images/2022/xmaschaos2/lists/02velasco.jpg)
 
-![Chet](/assets/images/fallbrawl5/candids/03chet.jpg)
+![Chet](/assets/images/2022/xmaschaos2/lists/03chet.jpg)
 
-![Elleman](/assets/images/fallbrawl5/candids/04elleman.jpg)
+![Elleman](/assets/images/2022/xmaschaos2/lists/04elleman.jpg)
 
-![Blank](/assets/images/fallbrawl5/candids/06blank.jpg)
+![Blank](/assets/images/2022/xmaschaos2/lists/06blank.jpg)
 
-![Moss](/assets/images/fallbrawl5/candids/09moss.jpg)
+![Moss](/assets/images/2022/xmaschaos2/lists/09moss.jpg)
 
 **CANDIDS**
 
