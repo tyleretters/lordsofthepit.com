@@ -50,7 +50,7 @@ Other decks in the room included Power Monolith (Blank), Underworld Dreams Combo
 
 ![Snap?](/assets/images/2022/xmaschaos2/keeper.jpg)
 
-![Krampus](/assets/images/2022/xmaschaos2/krampusaltar.jpg)
+![Altar to Krampus](/assets/images/2022/xmaschaos2/krampusaltar.jpg)
 
 ![Middle School interlude w/Meatball](/assets/images/2022/xmaschaos2/meatball.jpg)
 
