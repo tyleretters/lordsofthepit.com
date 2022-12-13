@@ -6,7 +6,7 @@ date: "2022-12-12"
 category: Blog
 ---
 
-(TYLER, PLZ USE OPENING CEREMONY AS THE HEADER IMAGE)
+![Opening Ceremony](/assets/images/banners/opening-ceremony.jpg)
 
 Steel gray overcast skies greeted the nine hale mages who Gathered at DMen Tap to partake in the Lords’ second iteration of Christmas Chaos. Amidst the holiday redecoration of DMen’s backroom into a Krampus-inspired dungeon, the Lords & Co. deposited numerous toys in offering of Pt. II of our annual [Toy Drive](https://www.advocatechildrenshospital.com/health-resources/support-services/child-life-program/make-a-donation/). Our format of choice, in keeping with last December’s Gathering, was Eternal Chaos – Chicago's favorite pack-cracking, dopamine-inducing degeneracy – albeit a modified version for 2022.
 
