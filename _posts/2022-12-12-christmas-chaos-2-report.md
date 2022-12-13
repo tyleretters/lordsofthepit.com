@@ -26,13 +26,9 @@ In gaming action, Jimmy McCarthy used Shops to take down the field at 5-0, even 
 
 ![](/assets/images/2022/xmaschaos2/lotpalter.jpg)
 
-Other decks in the room included Power Monolith (Blank), Underworld Dreams Combo (Jones) and 5C Shops (Semmens & Moss). After the day’s battles, a handful of hungry mages made their way down the block to dine on Trespassada and Recall the day’s broken plays.
+Other decks in the room included Power Monolith (Blank), Underworld Dreams Combo (Jones) and 5C Shops (Semmens & Moss). After the day’s battles, a handful of hungry mages made their way down the block to dine on Trespassada and Recall the day’s broken plays. Thus concludes 2022, another fine year of Old School Magic in Chicago. Happy Holidays from the Lords of the Pit!
 
 ![Toys & Loots](/assets/images/2022/xmaschaos2/loots.jpg)
-
-Thus concludes 2022, another fine year of Old School Magic in Chicago. Happy Holidays from the Lords of the Pit!
-
-![LOTP 2022 Toy Drive](/assets/images/2022/xmaschaos2/lotp2022toydrive.jpg)
 
 **GALLERY**
 
@@ -47,6 +43,8 @@ Thus concludes 2022, another fine year of Old School Magic in Chicago. Happy Hol
 ![Moss](/assets/images/2022/xmaschaos2/lists/09moss.jpg)
 
 **CANDIDS**
+
+![LOTP 2022 Toy Drive](/assets/images/2022/xmaschaos2/lotp2022toydrive.jpg)
 
 ![Battles1](/assets/images/2022/xmaschaos2/battles1.jpg)
 
