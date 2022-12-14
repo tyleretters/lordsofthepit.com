@@ -7,10 +7,12 @@ permalink: /meetups
 ## Upcoming Lords of the Pit Events
 ---
 
-![](/assets/images/2022/christmaschaos2.jpg)
+STAY TUNED FOR FUTURE MEET-UPS!
 
 ## Past Lords of the Pit Events
 ---
+
+![](/assets/images/2022/christmaschaos2.jpg)
 
 ![](/assets/images/2022/fb5.png)
 
