@@ -32,6 +32,8 @@ Other decks in the room included Power Monolith (Blank), Underworld Dreams Combo
 
 **GALLERY**
 
+![McCarthy](/assets/images/2022/xmaschaos2/lists/01jimmy.jpg)
+
 ![Velasco](/assets/images/2022/xmaschaos2/lists/02velasco.jpg)
 
 ![Chet](/assets/images/2022/xmaschaos2/lists/03chet.jpg)
@@ -39,6 +41,8 @@ Other decks in the room included Power Monolith (Blank), Underworld Dreams Combo
 ![Elleman](/assets/images/2022/xmaschaos2/lists/04elleman.jpg)
 
 ![Blank](/assets/images/2022/xmaschaos2/lists/06blank.jpg)
+
+![Jones](/assets/images/2022/xmaschaos2/lists/07jones.jpg)
 
 ![Moss](/assets/images/2022/xmaschaos2/lists/09moss.jpg)
 
