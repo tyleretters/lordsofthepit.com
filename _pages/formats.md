@@ -279,7 +279,6 @@ Constructed decks must contain a minimum of 60 cards (no maximum deck size; howe
 - Goblin Recruiter
 - Imperial Seal
 - Jeweled Bird
-- Lion’s Eye Diamond
 - Mana Crypt
 - Mana Vault
 - Memory Jar
