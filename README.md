@@ -10,3 +10,7 @@ You can work entirely in GitHub, but you won't be able to preview your changes u
 ## Resources
 
 - [We write in Markdown.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Running Locally
+
+`bundle exec jekyll serve --baseurl ''`
