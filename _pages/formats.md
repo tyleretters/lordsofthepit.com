@@ -17,6 +17,12 @@ The following rules mirror those as written by and found on [Eternal Central.](h
 
 ---
 
+## LotP Format Rules
+
+- [Eternal Chaos](#eternal-chaos-rules)
+
+---
+
 ## Old School 93-94 Rules
 
 **All Old School 93-94 tournaments that Eternal Central hosts will use the rules below.** Note: last updated September 7, 2019. EC Old School uses the current [London Mulligan rule.](https://magic.wizards.com/en/articles/archive/news/london-mulligan-2019-06-03)
@@ -476,3 +482,40 @@ T, Remove a time counter from Time Vault: Take an extra turn after this one. Pla
 Artifact
 
 X: : Put a creature card with converted mana cost X or less from your hand into play face down as a 0/1 creature. Put X mask counters on that creature. Play this ability only any time you could play a sorcery. You may turn the creature face up any time you could play an instant by removing all mask counters from it. *Note: this is similar to how Illusionary Mask worked in a previous rules update, prior to the modern wording.*
+
+---
+
+## Eternal Chaos Rules
+
+Eternal Chaos (aka K-OS, aka Crackin’ Boosties) uses the Eternal Central OS 93-94 ruleset as its base, with the following modifications:
+
+**The following cards (hereafter referred to as “boostie cards”) are legal to play and unrestricted:**
+- Booster Tutor
+- Opening Ceremony
+- Summon the Pack
+
+**The boostie cards have been given the following errata:**
+- Every instance of “sealed Magic booster pack” is replaced with “sealed Magic booster pack or booster pack that you have opened during the current match.” For example, Booster Tutor would read, “Open a sealed Magic booster pack or booster pack that you have opened during the current match, reveal the cards, and put one of them into your hand.”
+
+
+**Deck Construction and Open Packs**
+
+A deck is not allowed to have a pre-constructed sideboard. For each match, a player’s sideboard consists of cards from booster packs that the player opened during the match. Any card that has not been tutored or added to the deck between games is still considered to be part of its pack. Once a card from a booster pack has been tutored with a boostie card or added to a deck between games, it is no longer part of that pack and you can no longer tutor that card with a boostie card. Because a player can continue to pull from the same pack even after it has been opened, each player should keep track of which cards are still in which of their open packs.
+
+**Between games of a match, a player may do any of the following:**
+- Crack open a maximum of one new pack.
+- Put any number of cards from their sideboard into their deck.
+- Put any number of cards from their deck into their sideboard, so long as the deck they present to their opponent has the appropriate minimum number of cards.
+
+**Between Matches**
+
+At the end of a match, a player must remove from their deck and sideboard all cards from all packs that were opened. No cards from packs opened in that match may be used in the player's subsequent matches.
+
+**Gentleman's Agreement Banlist**
+
+At the beginning of a new match, both players may agree to ban certain cards during their match. If they do, they may remove those cards from their decks and decrease the minimum required deck size by the appropriate number of banned cards removed from their decks. For example, if both players were to agree to ban Mind Twist for the duration of the match, they may do so, and the minimum required deck size would be 59 cards for each player who removed Mind Twist from their deck. 
+ 
+**Definition of a booster pack**
+
+For new sets, a booster pack will have the word "booster" on it, such as a "draft booster" or a "themed booster.” Booster packs from older sets may not have the word "booster" on them, but there were fewer products back then, so you should be able to figure it out. A tournament pack is not a booster.
+

@@ -52,10 +52,10 @@ The Necropotence data are inconclusive. About four players, or 20% of the field,
 
 The Black Vise data are more compelling. Here's the number of players (and % of players in a given Brawl) with at least one Black Vise in their 75, by year: 
 
-2019: 2 players (9%)
-2020: 4 players  (22%)
-2021: 6 players (27%)
-2022: 12 players (67%)
+- 2019: 2 players (9%)
+- 2020: 4 players  (22%)
+- 2021: 6 players (27%)
+- 2022: 12 players (67%)
 
 Black Vise went from a niche card in 2019 to a strategy the majority of players had in 2022. In this most recent Brawl, half of the Black Vise decks had them only in the sideboard, for matchups like Necro, Land Tax, and other Ivory Tower decks. The other half used them in the main deck to complement some kind of aggressive strategy. 
 
