@@ -7,7 +7,7 @@ permalink: /meetups
 ## Upcoming Lords of the Pit Events
 ---
 
-![](/assets/images/2023/madisonoffensive2024.jfif/)
+![](/assets/images/2023/madisonoffensive2024v2.jpg/)
 
 ## Past Lords of the Pit Events
 ---
