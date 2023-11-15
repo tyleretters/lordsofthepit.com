@@ -70,6 +70,8 @@ A subset of a children's card game adapted for an aging demographic.
 
 Never. Ever.
 
+![](/assets/images/2023/newlords.jpg)
+
 ## Ok, how do I get started with Old School?
 
 ---
