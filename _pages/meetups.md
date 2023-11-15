@@ -9,6 +9,8 @@ permalink: /meetups
 
 ![](/assets/images/2023/hollyjollykos.png/)
 
+![](/assets/images/2023/madisonoffensive2024v3.png/)
+
 ## Past Lords of the Pit Events
 ---
 ![](/assets/images/2023/fallbrawl62023.jpeg)
