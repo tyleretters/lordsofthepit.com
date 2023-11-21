@@ -50,12 +50,6 @@ We value equality, inclusivity, tolerance and, of course, slinging old cardboard
 
 ![](/assets/images/2019/09/OSPB19LOTPFront.jpg)
 
-## What is your COVID-19 vaccine policy?
-
----
-
-Lords-hosted events follow all local health regulations regarding COVID-19 vaccinations and masking.
-
 ## What is Old School?
 
 ---
