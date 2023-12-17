@@ -489,10 +489,10 @@ X: : Put a creature card with converted mana cost X or less from your hand into 
 
 Eternal Chaos (aka K-OS, aka Crackin’ Boosties) uses the Eternal Central OS 93-94 ruleset as its base, with the following modifications:
 
-**The following cards (hereafter referred to as “boostie cards”) are legal to play and unrestricted:**
-- Booster Tutor
-- Opening Ceremony
-- Summon the Pack
+**The following cards (hereafter referred to as “boostie cards”) are legal to play:**
+- Booster Tutor (4 of)
+- Opening Ceremony (4 of)
+- Summon the Pack (Restricted)
 
 **The boostie cards have been given the following errata:**
 - Every instance of “sealed Magic booster pack” is replaced with “sealed Magic booster pack or booster pack that you have opened during the current match.” For example, Booster Tutor would read, “Open a sealed Magic booster pack or booster pack that you have opened during the current match, reveal the cards, and put one of them into your hand.”
