@@ -6,17 +6,16 @@ permalink: /meetups
 
 ## Upcoming Lords of the Pit Events
 ---
-
-![](/assets/images/2023/hollyjollykos.png)
-
 ![](/assets/images/2023/lotprobocop.jpg)
 
 ![](/assets/images/2023/madisonoffensive2024v3.png)
 
-![](/assets/images/2023/fabledtriplecrown.jpg)
+![](/assets/images/2023/robocopclean.png)
 
 ## Past Lords of the Pit Events
 ---
+![](/assets/images/2023/hollyjollykos.png)
+
 ![](/assets/images/2023/fallbrawl62023.jpeg)
 
 ![](/assets/images/2022/christmaschaos2.jpg)
