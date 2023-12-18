@@ -22,7 +22,7 @@ In keeping with the tradition established at Chaos’22, the “winner” of our
 
 Chaos’23 was a final hurrah for Summon the Pack as unrestricted. For future meetups, the Lords will play this utterly broken card as a one-of. Why? It’s essentially an eight mana “win the game” card: once a player can resolve it, he almost always puts lethal power on the board. Consider also the combination of StP with certain specialty themed or commander-specific boosters where the power level of the creatures hitting the tabletop is uncanny for us old school mages. Not only that, but the relative value of numerous ETB triggers pays off even if an opponent manages a Balance or Wrath. With StP unrestricted, most games are a race to cast it, and most games have the same ending. A restricted StP will still allow for some occasional fun hi-variance brokenness without being quite as format-warping.
 
-Meanwhile, Contract From Below was a fine addition for those looking for even more gambling degeneracy. Not every attendee had it this day, but a proposal for 2024 would offer an award to whomever nets the most anted packs.
+Meanwhile, Contract From Below was a fine addition for those looking for even more gambling degeneracy. Not every attendee had it this day, but a proposal for 2024 would offer an award to whomever nets the most anted packs won.
 
 ![Loots](/assets/images/hollyjollykos2023/candids/loots.jpg)
 
