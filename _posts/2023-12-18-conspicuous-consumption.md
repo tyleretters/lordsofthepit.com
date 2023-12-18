@@ -26,7 +26,7 @@ Meanwhile, Contract From Below was a fine addition for those looking for even mo
 
 ![Loots](/assets/images/hollyjollykos2023/candids/loots.jpg)
 
-In other nuttiness news, Lord Brandon Sanders’ epic pull of a #236/500 Mox Amber Schematic from a pack of *The Brothers War* smashed a club record for most valuable card cracked. Lord Sanders intends to harvest the Mox for EV on eBay.
+In other nuttiness news, Lord Brandon Sanders’ epic pull of a #236/500 Mox Amber Schematic from a pack of *The Brothers War* smashed a club record for most valuable card cracked. Lord Sanders intends to harvest the Mox for EV on [eBay](https://www.ebay.com/itm/145504521687?mkcid=16&mkevt=1&mkrid=711-127632-2357-0&ssspo=2GrrhmMOSyq&sssrc=2524149&ssuid=2GrrhmMOSyq&var=&widget_ver=artemis&media=COPY).
 
 Following the cellophane-wrapped afternoon, a handful of Lords decamped to the nearby Bucket of Blood to browse LPs and sci-fi/fantasy paperbacks. From there we wandered our separate ways into the rainy Saturday…
 
