@@ -6,6 +6,8 @@ date: "2023-12-18"
 category: Blog
 ---
 
+[TYLER, FOR THE HEADER IMAGE PLEASE USE 'SUMMON THE PACK']
+
 A miserable drizzle greeted the Lords of the Pit as we made our way to DMen’s Krampus-themed back room for our third annual “Chaos” event to close out 2023. While the year was a tad quiet for the club in terms of the absolute number of meetups held, the fact that we had 14 ballers engaged for this, our most consumption-conscious of subvariant “formats,” shows that good (bad?) ideas never die.
 
 For Holly Jolly K-OS, the Lords collected donations in care of The Ark Initiative, a street-level meal program operating one Saturday per month at the Wilson Red Line. The Lords generously raised $469 for Ark, which will translate into nearly 220 meals served.
@@ -48,28 +50,14 @@ Happy Holidays from the Lords of the Pit!
 
 **CANDIDS**
 
-![Wrappers](/assets/images/hollyjollykos2023/candids/detritus.jpg)
+![Detritus](/assets/images/hollyjollykos2023/candids/detritus.jpg)
 
-![Battles1](/assets/images/2022/xmaschaos2/battles1.jpg)
+![Dudesweats](/assets/images/hollyjollykos2023/candids/dudesweats.jpg)
 
-![Snap?](/assets/images/2022/xmaschaos2/keeper.jpg)
+![BTFOOC](/assets/images/hollyjollykos2023/candids/btfooc1.jpg)
 
-![Altar to Krampus](/assets/images/2022/xmaschaos2/krampusaltar.jpg)
+![Shane Summons The Pack](/assets/images/hollyjollykos2023/candids/summonthepack.jpg)
 
-![Middle School interlude w/Meatball](/assets/images/2022/xmaschaos2/meatball.jpg)
+![Moss Snap Keep](/assets/images/hollyjollykos2023/candids/snapkeep.jpg)
 
-![Battles2](/assets/images/2022/xmaschaos2/battles2.jpg)
-
-![Juzam ignores the World Cup stream](/assets/images/2022/xmaschaos2/worldcup.jpg)
-
-![Battles3](/assets/images/2022/xmaschaos2/wurmcoil.jpg)
-
-![There Can Be Only One](/assets/images/2022/xmaschaos2/jimmy.jpg)
-
-![He who cracks the most Boosties, wins](/assets/images/2022/xmaschaos2/velasco.jpg)
-
-**POSTLUDE**
-
-The Lords want to give an extra special shoutout and congratulations to Team Serious member and friend of the Pit, Rajah James, for his triumph at the Eternal Weekend Vintage MTG tournament in Pittsburgh, PA. Well done, Raj!
-
-![](/assets/images/2022/xmaschaos2/LH1finals.jpg)
+![Donutology](/assets/images/hollyjollykos2023/candids/donutology.jpg)
