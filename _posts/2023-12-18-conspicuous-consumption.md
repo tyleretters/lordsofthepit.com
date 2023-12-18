@@ -10,7 +10,7 @@ category: Blog
 
 A miserable drizzle greeted the Lords of the Pit as we made our way to DMen’s Krampus-themed back room for our third annual “Chaos” event to close out 2023. While the year was a tad quiet for the club in terms of the absolute number of meetups held, the fact that we had 14 ballers engaged for this, our most consumption-conscious of subvariant “formats,” shows that good (bad?) ideas never die.
 
-For Holly Jolly K-OS, the Lords collected donations in care of The Ark Initiative, a street-level meal program operating one Saturday per month at the Wilson Red Line. The Lords generously raised $469 for Ark, which will translate into nearly 220 meals served.
+For Holly Jolly K-OS, the Lords collected donations in care of [The Ark Initiative](https://www.arkinitiativeltd.org/), a street-level meal program operating one Saturday per month at the Wilson Red Line. The Lords generously raised $469 for Ark, which will translate into nearly 220 meals served.
 
 ![](/assets/images/hollyjollykos2023/hollyjollykos.png)
 
