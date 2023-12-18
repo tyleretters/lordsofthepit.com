@@ -20,9 +20,9 @@ In keeping with the tradition established at Chaos’22, the “winner” of our
 
 ![Adams & Krampus](/assets/images/hollyjollykos2023/candids/no1.jpg)
 
-Chaos’23 was a final hurrah for Summon the Pack as unrestricted. For future meetups, the Lords will play this utterly broken card as a one-of. Why? It’s essentially an eight mana “win the game” card: once a player can resolve it, he almost always puts lethal power on the board. Consider also the combination of StP with certain specialty themed or commander-specific boosters where the power level of the creatures hitting the tabletop is uncanny for us old school mages. Not only that, but the relative value of numerous ETB triggers pays off even if an opponent manages a Balance or Wrath. With StP unrestricted, most games are a race to cast it, and most games have the same ending. A restricted StP will still allow for some occasional fun hi-variance brokenness without being quite as format-warping.
+Chaos’23 was the swan song for Summon the Pack as unrestricted. At future meetups, the Lords will play this utterly broken card as a one-of. Why? It’s essentially an eight mana “win the game” card: once a player can resolve it, he almost always puts lethal power on the board. Consider also the combination of StP with certain specialty themed or commander-specific boosters where the power level of the creatures hitting the tabletop is uncanny for us old school mages. Not only that, but the relative value of numerous ETB triggers pays off even if an opponent manages a Balance or Wrath. With StP unrestricted, most games are a race to cast it, and most games have the same ending. A restricted StP will still allow for some occasional fun hi-variance brokenness without being quite as format-warping.
 
-Meanwhile, Contract From Below was a fine addition for those looking for even more gambling degeneracy. Not every attendee had it this day, but a proposal for 2024 would offer an award to whomever nets the most anted packs won.
+Meanwhile, Opening Ceremony feels safe as a four-of in Chaos. While certainly powerful, it's far from being the game-ending elbow drop that StP is. OC is also a fun "mini puzzle" within the game as its caster considers how best to make use of the mana and the cards within the cracked pack. It's not exactly the swiftest card to play, but then we also went with more or less untimed rounds and just played one less round to allow more time for the drawn-out games. Lastly, Contract From Below was a fine addition for those looking for even more gambling degeneracy. Not every attendee had it this day, but a proposal for 2024 would offer an award to whomever nets the most anted packs won.
 
 ![Loots](/assets/images/hollyjollykos2023/candids/loots.jpg)
 
@@ -56,11 +56,15 @@ Happy Holidays from the Lords of the Pit!
 
 ![Shane Summons The Pack](/assets/images/hollyjollykos2023/candids/summonthepack.jpg)
 
+![Velasco Antes Up](/assets/images/hollyjollykos2023/velascoante.jpg)
+
 ![Detritus](/assets/images/hollyjollykos2023/candids/detritus.jpg)
 
 ![Dudesweats](/assets/images/hollyjollykos2023/candids/dudesweats.jpg)
 
 ![BTFOOC](/assets/images/hollyjollykos2023/candids/btfooc1.jpg)
+
+![Dudesweats2](/assets/images/hollyjollykos2023/dudesweats2.jpg)
 
 ![Moss' Snap Keep](/assets/images/hollyjollykos2023/candids/snapkeep.jpg)
 
