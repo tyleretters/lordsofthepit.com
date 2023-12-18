@@ -34,21 +34,27 @@ Happy Holidays from the Lords of the Pit!
 
 **DECKS GALLERY**
 
-![McCarthy](/assets/images/2022/xmaschaos2/lists/01jimmy.jpg)
+![Adams](/assets/images/hollyjollykos2023/decklists/adams.jpg)
 
-![Velasco](/assets/images/2022/xmaschaos2/lists/02velasco.jpg)
+![Chet](/assets/images/hollyjollykos2023/decklists/chet.jpg)
 
-![Chet](/assets/images/2022/xmaschaos2/lists/03chet.jpg)
+![Elleman](/assets/images/hollyjollykos2023/decklists/elleman.jpg)
 
-![Elleman](/assets/images/2022/xmaschaos2/lists/04elleman.jpg)
+![Jones](/assets/images/hollyjollykos2023/decklists/jones.jpg)
 
-![Blank](/assets/images/2022/xmaschaos2/lists/06blank.jpg)
+![Moss](/assets/images/hollyjollykos2023/decklists/moss.jpg)
 
-![Jones](/assets/images/2022/xmaschaos2/lists/07jones.jpg)
+![Piquard](/assets/images/hollyjollykos2023/decklists/piquard.jpg)
 
-![Moss](/assets/images/2022/xmaschaos2/lists/09moss.jpg)
+![Sanders](/assets/images/hollyjollykos2023/decklists/sanders.jpg)
+
+![Semmens](/assets/images/hollyjollykos2023/decklists/semmens.jpg)
+
+![Velasco](/assets/images/hollyjollykos2023/decklists/velasco.jpg)
 
 **CANDIDS**
+
+![Shane Summons The Pack](/assets/images/hollyjollykos2023/candids/summonthepack.jpg)
 
 ![Detritus](/assets/images/hollyjollykos2023/candids/detritus.jpg)
 
@@ -56,8 +62,6 @@ Happy Holidays from the Lords of the Pit!
 
 ![BTFOOC](/assets/images/hollyjollykos2023/candids/btfooc1.jpg)
 
-![Shane Summons The Pack](/assets/images/hollyjollykos2023/candids/summonthepack.jpg)
-
-![Moss Snap Keep](/assets/images/hollyjollykos2023/candids/snapkeep.jpg)
+![Moss' Snap Keep](/assets/images/hollyjollykos2023/candids/snapkeep.jpg)
 
 ![Donutology](/assets/images/hollyjollykos2023/candids/donutology.jpg)
