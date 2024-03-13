@@ -83,7 +83,7 @@ Finally, I want to recognize and show my appreciation to the great Lords, Thrull
 
 ![Get on the bus!](/assets/images/2024fabledtriplecrown/FTC_Bus2.jpg)
 
-![Chilis Sprawl](/assets/images/2024fabledtriplecrown/FTC_Chilis2.jpg)
+![Chili's Sprawl](/assets/images/2024fabledtriplecrown/FTC_Chilis2.jpg)
 
 ![Mean Mugging](/assets/images/2024fabledtriplecrown/FTC_Chilis3.jpg)
 
@@ -93,7 +93,7 @@ Finally, I want to recognize and show my appreciation to the great Lords, Thrull
 
 ![Last stop, Red Lobster.](/assets/images/2024fabledtriplecrown/FTC_Bus4.jpg)
 
-![The put us in the back room, which was a good call](/assets/images/2024fabledtriplecrown/FTC_RL3.jpg)
+![They put us in the back room, a good call](/assets/images/2024fabledtriplecrown/FTC_RL3.jpg)
 
 ![Rajah’s Lobster: Before](/assets/images/2024fabledtriplecrown/FTC_RL1.jpg)
 
