@@ -13,7 +13,7 @@ Just because you can do something, doesn’t mean you should. You shouldn’t me
 
 ![](/assets/images/2024fabledtriplecrown/FTC_Flyer.jpg)
 
-Enter, the fabled Triple Crown. The amalgamation of an ill conceived tournament series concocted by the rancid minds of Moss, Mullen and yours truly. We ideated three separate tournaments based on the run-and-gun casual events from earlier in the club history. A return to the Rosemont Chili’s dubbed WW4, the Arby’s Roast Beef Bash, and last but not least, Red Lobstercon. With Lords champing at the bit and friends coming in for Magiccon Chicago, I made the executive decision to merge the three hypothetical events into one foul combo meal. 
+Enter, the fabled Triple Crown. The amalgamation of an ill conceived tournament series concocted by the rancid minds of Moss, Mullen and yours truly. We ideated three separate tournaments based on the run-and-gun casual events from earlier in the club's history. A return to the Rosemont Chili’s dubbed WW4, the Arby’s Roast Beef Bash, and last but not least, Red Lobstercon. With Lords champing at the bit and friends coming in for Magiccon Chicago, I made the executive decision to merge the three hypothetical events into one foul combo meal. 
 
 ![The calm before the storm](/assets/images/2024fabledtriplecrown/FTC_Bus1.jpg)
 
