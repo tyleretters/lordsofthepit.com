@@ -91,7 +91,7 @@ Finally, I want to recognize and show my appreciation to the great Lords, Thrull
 
 ![Shout out to the chill staff](/assets/images/2024fabledtriplecrown/FTC_Arbys3.jpg)
 
-![Last stop, Red Lobster.](/assets/images/2024fabledtriplecrown/FTC_Bus4.jpg)
+![Next stop, Red Lobster](/assets/images/2024fabledtriplecrown/FTC_Bus4.jpg)
 
 ![They put us in the back room, a good call](/assets/images/2024fabledtriplecrown/FTC_RL3.jpg)
 
