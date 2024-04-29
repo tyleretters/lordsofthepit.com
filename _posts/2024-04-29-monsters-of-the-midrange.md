@@ -12,9 +12,9 @@ Twenty-one Lords & Co. gathered at the stalwart confines of DMen Tap on 4/20/202
 
 In an afternoon filled with stews and brews – made safe for mid-rangey lists and greedy mana bases by virtue of restricted Strip Mine – it was Lord Tim Baran who stood undefeated atop a pile of vanquished foes. Tim played 5C Sedge Troll Goodstuff.
 
-See our deck list gallery below for the club’s other takes on Swedish OS.
+See our deck list gallery below for the club’s other takes on the Swedish OS format.
 
-Also, special shoutout to that one wack dude who played loud-ass Venom pinball the whole day. An anonymous Lord – as well as the machine, probably – were tilting.
+Also, special shoutout to that one wack dude who played loud-ass Venom pinball the whole day. An anonymous Lord – as well as the machine, probably – were tilted.
 
 ![Loots](/assets/images/relicwarV2024/loots.jpg)
 
