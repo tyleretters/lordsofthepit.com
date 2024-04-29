@@ -8,15 +8,17 @@ category: Blog
 
 ![Sedge Troll](/assets/images/banners/sedge-troll.jpg)
 
-Twenty-one Lords & Co. gathered at the stalwart confines of DMen Tap on 4/20/2024 for the fifth installment of our Relic War, Chicago’s (pseudo) annual tip of the cap to Swedish OS MTG.
+Twenty-one Lords & Co. gathered at the stalwart confines of DMen Tap on 4/20/2024 for our fifth installment of the Relic War, Chicago's (pseudo) annual tip of the cap to Swedish OS MTG.
 
 In an afternoon filled with stews and brews – made safe for mid-rangey lists and greedy mana bases by virtue of restricted Strip Mine – it was Lord Tim Baran who stood undefeated atop a pile of vanquished foes. Tim played 5C Sedge Troll Goodstuff.
 
 See our deck list gallery below for the club’s other takes on Swedish OS.
 
-Also, special shout out to that one wack dude who played loud-ass Venom pinball the whole day. An anonymous Lord – as well as the machine, probably – were tilting.
+Also, special shoutout to that one wack dude who played loud-ass Venom pinball the whole day. An anonymous Lord – as well as the machine, probably – were tilting.
 
 ![Loots](/assets/images/relicwarV2024/loots.jpg)
+
+![Standings](/assets/images/relicwarV2024/relicwarVstandings.JPG)
 
 **DECK LIST GALLERY**
 
