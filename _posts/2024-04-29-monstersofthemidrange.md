@@ -18,7 +18,7 @@ Also, special shout out to that one wack dude who played loud-ass Venom pinball 
 
 ![Loots](/assets/images/relicwarV2024/loots.jpg)
 
-**DECKLIST GALLERY**
+**DECK LIST GALLERY**
 
 ![Baran](/assets/images/relicwarV2024/decklists/baran.png)
 
