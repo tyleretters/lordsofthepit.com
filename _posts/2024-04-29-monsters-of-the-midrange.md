@@ -6,7 +6,7 @@ date: "2024-04-29"
 category: Blog
 ---
 
-[TYLER, PLEASE USE SEDGE TROLL AS OUR BANNER IMAGE.]
+![Sedge Troll](/assets/images/banners/sedge-troll.jpg)
 
 Twenty-one Lords & Co. gathered at the stalwart confines of DMen Tap on 4/20/2024 for the fifth installment of our Relic War, Chicago’s (pseudo) annual tip of the cap to Swedish OS MTG.
 
