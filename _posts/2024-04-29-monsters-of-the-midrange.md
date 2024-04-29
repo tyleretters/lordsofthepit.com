@@ -24,33 +24,33 @@ Also, special shoutout to that one wack dude who played loud-ass Venom pinball t
 
 ![Baran](/assets/images/relicwarV2024/decklists/baran.png)
 
+![Braun](/assets/images/relicwarV2024/decklists/braun.jpg)
+
 ![Zinni](/assets/images/relicwarV2024/decklists/zinni.jpg)
+
+![Caleb](/assets/images/relicwarV2024/decklists/caleb.jpg)
 
 ![Butzen](/assets/images/relicwarV2024/decklists/butzen.jpg)
 
-![Braun](/assets/images/relicwarV2024/decklists/braun.jpg)
-
 ![Elleman](/assets/images/relicwarV2024/decklists/elleman.jpg)
-
-![Blank](/assets/images/relicwarV2024/decklists/blank.jpg)
-
-![Jones](/assets/images/relicwarV2024/decklists/jones.jpg)
-
-![Kotscharjan](/assets/images/relicwarV2024/decklists/kotscharjan.jpg)
 
 ![Moss](/assets/images/relicwarV2024/decklists/moss.jpg)
 
+![Kotscharjan](/assets/images/relicwarV2024/decklists/kotscharjan.jpg)
+
+![Jones](/assets/images/relicwarV2024/decklists/jones.jpg)
+
+![Blank](/assets/images/relicwarV2024/decklists/blank.jpg)
+
 ![MacDougall](/assets/images/relicwarV2024/decklists/macdougall.jpg)
-
-![Jeremiah](/assets/images/relicwarV2024/decklists/Jeremiah.jpg)
-
-![Agra](/assets/images/relicwarV2024/decklists/agra.jpg)
-
-![Caleb](/assets/images/relicwarV2024/decklists/caleb.jpg)
 
 ![Gura](/assets/images/relicwarV2024/decklists/gura.jpg)
 
 ![Velasco](/assets/images/relicwarV2024/decklists/velasco.jpg)
+
+![Jeremiah](/assets/images/relicwarV2024/decklists/Jeremiah.jpg)
+
+![Agra](/assets/images/relicwarV2024/decklists/agra.jpg)
 
 ![Rohr](/assets/images/relicwarV2024/decklists/rohr.jpg)
 
