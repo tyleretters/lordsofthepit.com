@@ -12,7 +12,7 @@ category: Blog
 
 Nostalgia is mostly based on our childhood environment—whatever era we happened to be born into. Nostalgia for particular media tends to be more specific to whatever micro-environment we grew up in; similar to a sexual fetish, it all depends on what we were exposed to as impressionable preteens. For example, I just happened to encounter *Conan the Barbarian* (1982) and the art of Boris Vallejo (see: *Siren Song*) at the age of 12, and for that reason, fantasy settings and babes hold a special place in my heart.
 
-Dave, from Indiana's Order of the Ebon Hand, must have been exposed to *Thrashin'* (1986) at just the right age. *Thrashin'* is a film that imagines an L.A. where skateboarding has been infused into every element of pop culture; for example, breakdancing is dead as disco, and instead teens hop around on skateboards on the dancefloor while the Red Hot Chili Peppers jam out on stage. 
+Dave, from Indiana, must have been exposed to *Thrashin'* (1986) at just the right age. *Thrashin'* is a film that imagines an L.A. where skateboarding has been infused into every element of pop culture; for example, breakdancing is dead as disco, and instead teens hop around on skateboards on the dancefloor while the Red Hot Chili Peppers jam out on stage. 
 
 A quick synopsis of the *Thrashin'* story is that Corey, the protagonist played by a young Josh Brolin, is a skater from the Valley who has come to the city with his buddies to compete in a couple skating competitions, the biggest being a downhill race where the winner gets a cash prize and signed to a skateboard label. The antagonists of the film are the Daggers, a group of mischievous punks who, with their bepatched denim vests and hometown territoriality, bear more than a passing resemblance to the Lords of the Pit. Inevitably,  Corey falls in love with Chrissy, an Indiana girl who just happens to be the little sister of Hook, the lord of the Daggers. 
 
@@ -42,7 +42,7 @@ At Kumite 4, I went 3-3 with a midrange build that played Erhnam Djinns, no Fore
 
 Here's a quick recap of my matches:
 
-Round 1 (Ebon Dave on Mono-White Karma Tomb): Dave's brew was cool, but turning my lands into swamps didn't slow my robots down enough, and he couldn't get a Karma to stick. 2-0.
+Round 1 (Dave on Mono-White Karma Tomb): Dave's brew was cool, but turning my lands into swamps didn't slow my robots down enough, and he couldn't get a Karma to stick. 2-0.
 
 ![Dave's Mono-White Karma 
 Tomb](/assets/images/2024thrashbash/DecklistDave.jpg)
@@ -82,7 +82,7 @@ Thrash Bash's actual venue, Tippecanoe Place, is more-or-less the complete oppos
 
 ![The Prize Table](/assets/images/2024thrashbash/Venue4.jpg)
 
-The only carry-over from Old School's more raucous days is the Chaos Orb flipping challenge of the Lords of the Pit, where a participant can bet a number of liquor shots against hitting fifty Orb flips in a row. Every shot nullifies one miss; so if you bet two shots, you can miss up to two flips while you try to get to fifty. At first, a passerby would hardly notice the crowd of nerds quietly counting the early hits, almost whispering, “One… two… three… four…” But as the count gets closer and closer to the climax, it crescendos into giddy yelling, “Forty- seven! Forty-eight!! Forty-nine!!! FIFTY!!!!” The Lords awarded two Orb patches at Thrash Bash ’24, one to Ebon Dave, who bet one shot but hit all fifty in a row. The other was to Thrull Caleb Dragonborn, who bet three but only needed two. Congrats to both!
+The only carry-over from Old School's more raucous days is the Chaos Orb flipping challenge of the Lords of the Pit, where a participant can bet a number of liquor shots against hitting fifty Orb flips in a row. Every shot nullifies one miss; so if you bet two shots, you can miss up to two flips while you try to get to fifty. At first, a passerby would hardly notice the crowd of nerds quietly counting the early hits, almost whispering, “One… two… three… four…” But as the count gets closer and closer to the climax, it crescendos into giddy yelling, “Forty- seven! Forty-eight!! Forty-nine!!! FIFTY!!!!” The Lords awarded two Orb patches at Thrash Bash ’24, one to Dave, who bet one shot but hit all fifty in a row. The other was to Thrull Caleb Dragonborn, who bet three but only needed two. Congrats to both!
 
 
 
@@ -94,7 +94,7 @@ The only carry-over from Old School's more raucous days is the Chaos Orb flippin
 
 ![Caleb with His Patch](/assets/images/2024thrashbash/OrbPatchDragonborn.jpg)
 
-In the end, Dave and the Ebon Hand helped raise $1,830.76 for Cultivate Food Rescue, an all-time donation record for the Bash! Until next year, a word to the wise: If you hang around here, you hang out with Daggers.
+In the end, Dave helped raise $1,830.76 for Cultivate Food Rescue, an all-time donation record for the Bash! Until next year, a word to the wise: If you hang around here, you hang out with Daggers.
 
 ![Selections from My Sweet Loot](/assets/images/2024thrashbash/Loot1.jpg)
 
