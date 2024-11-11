@@ -90,6 +90,6 @@ Following a hiatus, the Lords are pleased to bring back the LOTP Toy Drive for 2
 
 ![More battles](/assets/images/fallbrawl7/battles1.jpg)
 
-![Wrangling](/assets/images/fallbrawl7/rounds.jpg)
+![](/assets/images/fallbrawl7/rounds.jpg)
 
-![The Back Room](/assets/images/fallbrawl7/backroom.jpg)
+![](/assets/images/fallbrawl7/backroom.jpg)
