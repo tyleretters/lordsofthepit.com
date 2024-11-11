@@ -6,7 +6,7 @@ date: "2024-11-10"
 category: Blog
 ---
 
-HEADER IMAGE -- TYLER PLEASE USE ICE AGE POWER SINK
+![](/assets/images/banners/baron.jpg)
 
 It may be hard to believe but the Fall Brawl is the longest running annual OS meetup we have in Chicago. Now in its seventh year, the lion’s share of Fall Brawls have taken place in DMen Tap’s backroom, where on a cool November Saturday, twenty aged but able mages found themselves shuffling cardboard and throwing down. A few newcomers joined in the spellslinging, too, bringing some fresh faces to the otherwise ever-haggard assemblage of dudesweats.
 
