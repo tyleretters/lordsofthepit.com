@@ -60,6 +60,8 @@ Following a hiatus, the Lords are pleased to bring back the LOTP Toy Drive for 2
 
 ![Holt](/assets/images/fallbrawl7/decklists/17holt.JPG)
 
+![Morales](/assets/images/fallbrawl7/decklists/18morales.jpg)
+
 ![Mohr](/assets/images/fallbrawl7/decklists/20mohr.jpg)
 
 **CANDIDS**
