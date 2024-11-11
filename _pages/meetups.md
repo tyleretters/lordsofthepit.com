@@ -6,12 +6,17 @@ permalink: /meetups
 
 ## Upcoming Lords of the Pit Events
 ---
-![](/assets/images/summershandy.png)
 
-![](/assets/images/CCC3.jpg)
+STAY TUNED!
 
 ## Past Lords of the Pit Events
 ---
+![](/assets/images/fb7.png)
+
+![](/assets/images/CCC3.jpg)
+
+![](/assets/images/summershandy.png)
+
 ![](/assets/images/2023/fabledtriplecrownclean2.png)
 
 ![](/assets/images/2023/robocopclean.png)
