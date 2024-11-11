@@ -14,11 +14,11 @@ It may be hard to believe but the Fall Brawl is the longest running annual OS me
 
 The Gathering began with a queue of black-clad fellas outside DMen, awaiting doors to unlock at noon. With telltale backpacks in-tow, any well-versed observer along Belmont would surely recognize and appreciate the fearsome sweathoggery ready to uncoil. After a half hour or so of small talk, we fired Round 1.
 
-The Fall Brawl field was Necro-light this year, with just one such list (JP) among the T8. Shops (Baran), Stasis (Petray) and Willowgeddon (Semmens) were among the other top decks. A surplus of Zuran Orbs lengthened plenty of games and seemed to be the overall most-played ‘95 card in the room. After five rounds, Lord Tim Baran emerged undefeated with a Shops list featuring Jester’s Cap. Lord Robert Vincent, meanwhile, took the award for most ‘95 cards used (12) and a copy of The Duelist issue no. X.
+The Fall Brawl field was Necro-light this year, with just one such list (JP) among the T8. Shops (Baran), Stasis (Petray) and Willowgeddon (Semmens) were among the other top decks. A surplus of Zuran Orbs lengthened plenty of games and seemed to be the overall most-played ‘95 card in the room. After five rounds, Lord Tim Baran emerged undefeated with a Shops list featuring Jester’s Cap. Lord Robert Vincent, meanwhile, took the award for most ‘95 cards used (12) and a copy of The Duelist issue no. 5 (June 1995).
 
 ![LOTP Toy Drive '24](/assets/images/fallbrawl7/lotptoydrive.jpg)
 
-Following a hiatus, the Lords were pleased to bring back the LOTP Toy Drive for 2024, spearheaded by our very own Lord Petray. The MTG Meatball selected XXX as this year’s beneficiary, and the Lords are collecting toys & donations up until December’s Holly Jolly Chaos event.
+Following a hiatus, the Lords are pleased to bring back the LOTP Toy Drive for 2024, spearheaded by our very own Lord Petray. The drive will benefit Children’s Charity of Orland Park, and the Lords are collecting toys & donations up until December’s Holly Jolly Chaos event.
 
 ![Loots](/assets/images/fallbrawl7/loots.jpg)
 
