@@ -28,6 +28,10 @@ Battles
 
 ![Baran](/assets/images/fallbrawl7/decklists/1baran.JPG)
 
+![Petray](/assets/images/fallbrawl7/decklists/2petray.jpg)
+
+![JP](/assets/images/fallbrawl7/decklists/3jp.jpg)
+
 ![Semmens](/assets/images/fallbrawl7/decklists/4semmens.jpg)
 
 ![MacDougall](/assets/images/fallbrawl7/decklists/5macdougall.jpg)
@@ -53,6 +57,8 @@ Battles
 ![Blank](/assets/images/fallbrawl7/decklists/15blank.jpg)
 
 ![Vincent](/assets/images/fallbrawl7/decklists/16vincent.jpg)
+
+![Holt](/assets/images/fallbrawl7/decklists/17holt.JPG)
 
 ![Mohr](/assets/images/fallbrawl7/decklists/20mohr.jpg)
 
