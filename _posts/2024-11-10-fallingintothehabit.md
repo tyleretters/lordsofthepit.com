@@ -8,7 +8,7 @@ category: Blog
 
 **TYLER, PLEASE USE DANCE OF THE DEAD AS A HEADER IMAGE.**
 
-It may be hard to believe but Fall Brawl is the longest running annual OS meetup we have in Chicago. Now in its seventh year, the lion’s share of Fall Brawls have taken place in DMen Tap’s backroom, where on this cool Saturday in November, twenty aged but able mages found themselves shuffling up and throwing down cardboard. A few newcomers joined in the spellslinging, too, bringing some fresh faces to the otherwise ever-haggard assemblage of dudesweats.
+It may be hard to believe but Fall Brawl is the longest running annual OS meetup we have in Chicago. Now in its seventh year, the lion’s share of Fall Brawls have taken place in DMen Tap’s backroom, where on this cool Saturday in November, twenty aged but able mages found themselves shuffling up and throwing down. A few newcomers joined in the spellslinging, too, bringing some fresh faces to the otherwise ever-haggard assemblage of dudesweats.
 
 ![](/assets/images/fallbrawl7/FB7.png)
 
