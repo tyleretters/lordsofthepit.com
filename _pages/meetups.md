@@ -7,7 +7,7 @@ permalink: /meetups
 ## Upcoming Lords of the Pit Events
 ---
 
-STAY TUNED!
+![](/assets/images/HJC4.jpg)
 
 ## Past Lords of the Pit Events
 ---
