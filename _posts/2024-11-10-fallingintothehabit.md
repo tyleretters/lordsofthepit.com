@@ -84,11 +84,13 @@ Following a hiatus, the Lords are pleased to bring back the LOTP Toy Drive for 2
 
 ![Top Men](/assets/images/fallbrawl7/baranvssemmens.jpg)
 
+![Sweathogs](/assets/images/fallbrawl7/sweathoggery.jpg)
+
 ![Tanking](/assets/images/fallbrawl7/mosstank.jpg)
 
 ![Egg-Man](/assets/images/fallbrawl7/piquardovsfinney.jpg)
 
-![More battles](/assets/images/fallbrawl7/battles1.jpg)
+![Dressed in Monoblack](/assets/images/fallbrawl7/allblack.jpg)
 
 ![](/assets/images/fallbrawl7/rounds.jpg)
 
