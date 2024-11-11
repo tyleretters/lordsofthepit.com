@@ -11,7 +11,7 @@ STAY TUNED!
 
 ## Past Lords of the Pit Events
 ---
-![](/assets/images/fb7.png)
+![](/assets/images/FB7.png)
 
 ![](/assets/images/CCC3.jpg)
 
