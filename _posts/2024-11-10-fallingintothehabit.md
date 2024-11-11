@@ -72,7 +72,7 @@ Following a hiatus, the Lords are pleased to bring back the LOTP Toy Drive for 2
 
 ![Shane gets Capped](/assets/images/fallbrawl7/capped.jpg)
 
-![Serraspiritlink.dec](/assets/images/fallbrawl7/macdougallvspiquardo.jpg)
+![serraspiritlink.dec](/assets/images/fallbrawl7/macdougallvspiquardo.jpg)
 
 ![Round 5. One game. Fifty minutes. Dude decks himself.](/assets/images/fallbrawl7/walkerballed.jpg)
 
@@ -86,7 +86,7 @@ Following a hiatus, the Lords are pleased to bring back the LOTP Toy Drive for 2
 
 ![Egg-Man](/assets/images/fallbrawl7/piquardovsfinney.jpg)
 
-![More battless](/assets/images/fallbrawl7/battles1.jpg)
+![More battles](/assets/images/fallbrawl7/battles1.jpg)
 
 ![Wrangling](/assets/images/fallbrawl7/rounds.jpg)
 
