@@ -12,7 +12,7 @@ It may be hard to believe but Fall Brawl is the longest running annual OS meetup
 
 ![](/assets/images/fallbrawl7/FB7.png)
 
-The Gathering began with a queue of black-clad fellas outside DMen, awaiting doors to unlock at noon. With telltale backpacks in-tow, any well-versed observer along Belmont Ave. would surely recognize and appreciate the fearsome sweathoggery about to uncoil. After a half hour or so of beverages and small talk, we fired Round 1.
+The Gathering began with a queue of black-clad fellas outside DMen, awaiting doors to unlock at noon. With telltale backpacks in-tow, any well-versed observer along Belmont Ave. would surely recognize and appreciate the fearsome sweathoggery about to uncoil. After a half hour of beverages and small talk, we fired Round 1.
 
 The Fall Brawl field was Necro-light this year, with just one such list (JP) among the T8. Shops (Baran), Stasis (Petray) and Willowgeddon (Semmens) were among the other top decks. A surplus of Zuran Orbs lengthened plenty of games and seemed to be the overall most-played ‘95 card in the room. After five rounds, Lord Tim Baran emerged undefeated with a Shops list featuring Jester’s Cap. Lord Robert Vincent, meanwhile, took the award for most ‘95 cards used (12) and a copy of *The Duelist* issue no. 5 (June 1995).
 
