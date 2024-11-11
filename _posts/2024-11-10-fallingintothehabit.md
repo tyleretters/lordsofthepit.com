@@ -8,19 +8,19 @@ category: Blog
 
 HEADER IMAGE -- TYLER PLEASE USE ICE AGE POWER SINK
 
-Opening
+![](/assets/images/fallbrawl7/FB7.png)
 
-![Gathering](/assets/images/fallbrawl7/FB7.png)
+It may be hard to believe but the Fall Brawl is the longest running annual OS meetup we have in Chicago. Now in its seventh year, the lion’s share of Fall Brawls have taken place in DMen Tap’s backroom, where on a cool November Saturday, twenty aged but able mages found themselves shuffling cardboard and throwing down. A few newcomers joined in the spellslinging, too, bringing some fresh faces to the otherwise ever-haggard assemblage of dudesweats.
 
-Scene
+The Gathering began with a queue of black-clad fellas outside DMen, awaiting doors to unlock at noon. With telltale backpacks in-tow, any well-versed observer along Belmont would surely recognize and appreciate the fearsome sweathoggery ready to uncoil. After a half hour or so of small talk, we fired Round 1.
+
+The Fall Brawl field was Necro-light this year, with just one such list (JP) among the T8. Shops (Baran), Stasis (Petray) and Willowgeddon (Semmens) were among the other top decks. A surplus of Zuran Orbs lengthened plenty of games and seemed to be the overall most-played ‘95 card in the room. After five rounds, Lord Tim Baran emerged undefeated with a Shops list featuring Jester’s Cap. Lord Robert Vincent, meanwhile, took the award for most ‘95 cards used (12) and a copy of The Duelist issue no. X.
 
 ![LOTP Toy Drive '24](/assets/images/fallbrawl7/lotptoydrive.jpg)
 
-Toy Drive
+Following a hiatus, the Lords were pleased to bring back the LOTP Toy Drive for 2024, spearheaded by our very own Lord Petray. The MTG Meatball selected XXX as this year’s beneficiary, and the Lords are collecting toys & donations up until December’s Holly Jolly Chaos event.
 
 ![Loots](/assets/images/fallbrawl7/loots.jpg)
-
-Battles
 
 ![Standings](/assets/images/fallbrawl7/standings.jpg)
 
@@ -63,3 +63,31 @@ Battles
 ![Mohr](/assets/images/fallbrawl7/decklists/20mohr.jpg)
 
 **CANDIDS**
+
+![Gathering](/assets/images/fallbrawl7/gathering.jpg)
+
+![Finney gets balled](/assets/images/fallbrawl7/finneyballed.jpg)
+
+![Round 1 battles](/assets/images/fallbrawl7/battles2.jpg)
+
+![Shane gets Capped](/assets/images/fallbrawl7/capped.jpg)
+
+![Serraspiritlink.dec](/assets/images/fallbrawl7/macdougallvspiquardo.jpg)
+
+![Round 5. One game. Fifty minutes. Dude decks himself.](/assets/images/fallbrawl7/walkerballed.jpg)
+
+![5/5 Preacher Flex](/assets/images/fallbrawl7/preacherflex.jpg)
+
+!["I'm about to roll him up," Meatball says of his quarry, Ian.](/assets/images/fallbrawl7/petrayvsblank.jpg)
+
+![Top Men](/assets/images/fallbrawl7/baranvssemmens.jpg)
+
+![Tanking](/assets/images/fallbrawl7/mosstank.jpg)
+
+![Hatchlings](/assets/images/fallbrawl7/piquardovsfinney.jpg)
+
+![More battless](/assets/images/fallbrawl7/battles1.jpg)
+
+![Wrangling](/assets/images/fallbrawl7/rounds.jpg)
+
+![The Back Room](/assets/images/fallbrawl7/backroom.jpg)
