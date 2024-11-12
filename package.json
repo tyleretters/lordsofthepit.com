@@ -1,0 +1,12 @@
+{
+  "name": "lordsofthepit.com",
+  "description": "Moss Sux",
+  "scripts": {
+    "dev": "bundle exec jekyll serve --baseurl '' --livereload",
+    "watch": "sass --watch assets/stylesheets/style.sass:assets/stylesheets/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyleretters/lordsofthepit.com.git"
+  }
+}
