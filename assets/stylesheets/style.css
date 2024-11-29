@@ -8,7 +8,7 @@ body {
 
 .faded {
   font-size: 16px;
-  color: #333333;
+  color: #454545;
   font-style: italic;
 }
 
@@ -46,7 +46,7 @@ a {
   color: #ff0000;
 }
 a:hover {
-  color: #cc0000;
+  color: #830000;
 }
 
 .btn-primary {
@@ -112,7 +112,7 @@ nav.navbar-dark .navbar-nav a.nav-link {
   text-align: center;
 }
 nav.navbar-dark .navbar-nav a.nav-link:hover {
-  color: #cc0000;
+  color: #830000;
   text-decoration: underline;
 }
 nav.navbar-dark .navbar-nav li.active {
