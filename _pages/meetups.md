@@ -7,7 +7,7 @@ permalink: /meetups
 ## Upcoming Lords of the Pit Events
 ---
 
-Stay tuned!
+![](/assets/images/lotpmarchradness25.jpg)
 
 ## Past Lords of the Pit Events
 ---
