@@ -60,11 +60,9 @@ When the GM finished his spiel, a scruffy-bearded, long-haired Millennial in a p
 
 The GM passed around the pre-generated character sheets. The vested dude snapped up the first fighter that was offered. Zinni and I lunged at the next two fighter sheets because mechanically they were the simplest: Step into danger and hit things. I tried to quickly but methodically scan my sheet for the important details: Level 7, human fighter, 3/2 attacks per round, +2 Longsword, Short Bow with eight +1 Arrows, Armor Class of 1, a Ring of Water Walking, a Potion of Extra-Healing.
 
-
-![Harrold, My Tournament Avatar](/assets/images/gary-con-there-and-back-again/harrold.jpg)
-
-
 We were briefed on the quest: the Duke had been betrayed by a group of five adventurers turned assassins. They had possession of the Soul Gem, which had trapped the soul of the Duke within it. Our mission was to travel to the dungeons beneath the fortress of Inverness, exact justice on the assassins, recover the Soul Gem, and find the other two Eldritch Jewels. 
+
+![The tournament game was a modified version of an old AD&D module](/assets/images/gary-con-there-and-back-again/ghost-tower-cover.jpg)
 
 And then it began. The GM laid out the first map, an 8.5x11 photocopied black-and-white sheet that showed a birds-eye view of the ruined fortress: four half-crumbled towers with the central tower in complete ruins. Deteriorating walls connected the four. We stood outside the gate. What would we do?
 
@@ -83,6 +81,8 @@ There was plenty of tension, though. Hallways led to rooms, and every room had a
 Sometimes we’d quickly unite on a common decision, sometimes we’d hem and haw, sometimes we’d argue. Often, it fell to one of the fighters who felt strongly enough about their solution to simply try it, because we were the most likely to survive if something went wrong.
 
 At one point, we opened a door and a magical torrent of water in the next room dropped into a bottomless pit. I remembered my Ring of Water Walking. I tied a rope around my waist and tried to leap onto the river. Something went wrong. I fell into the pit and drowned. They pulled me back to safety. Lord Zinni held a sword under my nose and saw my breath condense on it; I had been magically charmed and was merely asleep. They shook me awake. The whole thing was an illusion. We closed our eyes and walked through the room.
+
+![Harrold, My Tournament Avatar](/assets/images/gary-con-there-and-back-again/harrold.jpg)
 
 Everyone did their part. The thief disabled traps and unlocked doors. The cleric and druid healed us and kept anyone from dying to poison. The wizards shot fireballs and magic missiles. The ranger tussled with an ambushing jungle cat. 
 
