@@ -62,7 +62,7 @@ The GM passed around the pre-generated character sheets. The vested dude snapped
 
 We were briefed on the quest: the Duke had been betrayed by a group of five adventurers turned assassins. They had possession of the Soul Gem, which had trapped the soul of the Duke within it. Our mission was to travel to the dungeons beneath the fortress of Inverness, exact justice on the assassins, recover the Soul Gem, and find the other two Eldritch Jewels. 
 
-![The tournament game was a modified version of an old AD&D module](/assets/images/gary-con-there-and-back-again/ghost-tower-cover.jpg)
+![The tournament game was a modified version of an old AD&D module.](/assets/images/gary-con-there-and-back-again/ghost-tower-cover.jpg)
 
 And then it began. The GM laid out the first map, an 8.5x11 photocopied black-and-white sheet that showed a birds-eye view of the ruined fortress: four half-crumbled towers with the central tower in complete ruins. Deteriorating walls connected the four. We stood outside the gate. What would we do?
 
