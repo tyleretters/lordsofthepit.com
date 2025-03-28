@@ -2,7 +2,7 @@
 layout: post
 author: mtg_border_eraser
 title: "Gary Con XVII: There and Back Again"
-date: "2025-03-27"
+date: "2025-03-28"
 category: Blog
 ---
 
