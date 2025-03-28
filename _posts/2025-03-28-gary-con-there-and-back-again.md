@@ -74,6 +74,8 @@ Although there was only a very basic image to set the scene, my adrenaline made 
 
 We found the first assassin down there, dead, turned an unearthly white after the Soul Gem had absorbed his soul. The evil adventurers had turned on themselves, apparently. We unceremoniously cut off his head and stuffed it in the thief’s bag of holding for evidence he had been slain. We stepped through the secret door and started through the maze. 
 
+![A piece of original art Lord Zinni bought.](/assets/images/gary-con-there-and-back-again/zinni_art.jpg)
+
 My heart was racing. Lord Zinni whispered to me that he hated feeling out of his element. I was high on the thrill of it. I knew how to dungeon-delve, but like a newborn I had to learn how to connect my intention with the mechanics of the new body I was inhabiting. It didn't take long, and the GM was very helpful at explaining what you had to roll, and what to add, for any game action you wanted to take. He also had great deadpan humor, which helped ease the tension a little.
 
 There was plenty of tension, though. Hallways led to rooms, and every room had a puzzle or challenge to overcome, and any one of them could be deadly. Do you risk removing the Decanter of Endless Wine from the pedestal? It might bring the faerie statues to life. Which astrological glyphs do you step on to get through a room? There’s a small pyramid with magical items piled high. Which to grab first, and how? 
@@ -133,17 +135,15 @@ Despite a draining weekend and having stayed up too late the night before, we wo
 
 “Just one more game,” I joked.
 
-![A Pirate Borg game Lord Zinni played.](/assets/images/gary-con-there-and-back-again/pirate-borg.jpg)
-
 I made a last-minute audible to join a 9-11 am “Age of Vikings” game, which was modified from the “Call of Cthulhu” system to be more combat-heavy. It was the only game of the weekend where the system hadn’t actually been released and the hosts were using the sessions to playtest.
 
 The session was supposed to be a five-person group, but a couple people must have partied too hard, as they didn’t show up. I arrived a few minutes late, and since the other two players had chosen straightforward melee classes, I went with the spellcaster. The game was easy to play and the setting was cool enough. 
 
 The magic system was probably the most interesting part. You had a set of runes that could combine to create different spells. Some spells you had by default, but you could also mix-and-match runes to create a custom spell (the GM had the final say on what exactly it did). When I wasn’t needed to drive the game forward, I was fiddling with combining the runes and finally figured one out (kinship + fire + defense), but never found the right opportunity to use it.
 
-I made my way to the vendor hall to see if I had any winning raffle tickets, but all my luck had been spent on winning the tournament. The other Lords finished up their games and we headed out to drop Lord Mith at O’Hare.
+![A Pirate Borg game Lord Zinni played.](/assets/images/gary-con-there-and-back-again/pirate-borg.jpg)
 
-![A piece of original art Lord Zinni bought.](/assets/images/gary-con-there-and-back-again/zinni_art.jpg)
+I made my way to the vendor hall to see if I had any winning raffle tickets, but all my luck had been spent on winning the tournament. The other Lords finished up their games and we headed out to drop Lord Mith at O’Hare.
 
 As we drove out of town, it occurred to me that Lake Geneva reminded me of growing up in Sand Springs, Oklahoma. Lord Semmens said it reminded him of his childhood home in rural Michigan. Much of the US is covered in these quiet, small towns with gently sloping hills and long, empty, winding roads, where you can confidently expect nothing to ever happen. 
 
