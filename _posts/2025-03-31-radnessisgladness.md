@@ -20,7 +20,7 @@ Other notable piles included Thrashin’ Dave’s highly-tuned Monogreen (3-2) a
 
 ![Loots](/assets/images/marchradness/marchradnesscandids/signedloots.jpg)
 
-(It should be noted here that your erstwhile reporter, on Arabian Aggro, entered the day fearing no City in a Bottle, but that lack of streetwise resulted in a grim 1-4 showing, much to the cheers of the attendees.)
+(It should be noted here that your erstwhile reporter, on Arabian Aggro, entered the day fearing no City in a Bottle, but that lack of streetwise resulted in a grim 1-4 showing, much to the attendees' cheers.)
 
 We fired round one at 12:30 p.m. and wrapped final announcements at 4:45 p.m., making for a fast-paced, fun afternoon, after which Lords and thrulls dispersed along Belmont Ave to depart along our various paths to Parts Unknown.
 
