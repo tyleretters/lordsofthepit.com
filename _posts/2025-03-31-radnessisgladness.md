@@ -12,7 +12,7 @@ Beneath the steel grey of a late March Chicago sky, 22 Lords & Co. met to duel i
 
 ![Motley Crüe](/assets/images/marchradness/marchradnesscandids/crew.jpg)
 
-After five rounds of Swiss action, Lord Lorien Ellemen, still gleaming from an AD&D team championship win at the previous week’s [Garycon XVII](https://lordsofthepit.com/2025/03/28/gary-con-there-and-back-again/), piloted a particularly sweaty iteration of Atog-Shops to a sterling 5-0 record. Lorien defeated Lady of the Pit Brie Agra (4-1, 5C Bantgeddon) to secure the top spot and a group-signed Fear. Rounding out the top four were Lords Jimmy McCarthy (4-1, Shops) and Tim Baran (3-2, 5C Rack).
+After five rounds of Swiss action, Lord Lorien Ellemen, still gleaming from an AD&D team championship win at the previous week’s [Garycon XVII](https://lordsofthepit.com/2025/03/28/gary-con-there-and-back-again/), piloted a particularly sweaty iteration of Atog-Shops to a sterling 5-0 record. Lorien defeated Lady of the Pit Brie Agra (4-1, 5C Bantgeddon) to secure the top spot, as well as a group-signed Fear. Rounding out the top four were Lords Jimmy McCarthy (4-1, Shops) and Tim Baran (3-2, 5C Rack).
 
 ![Look on my Works, ye Mighty, and despair!](/assets/images/marchradness/marchradnesscandids/sweathog.jpg)
 
