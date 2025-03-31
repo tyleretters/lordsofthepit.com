@@ -4,13 +4,10 @@ title: Meetups
 permalink: /meetups
 ---
 
-## Upcoming Lords of the Pit Events
----
-
-![](/assets/images/lotpmarchradness25.jpg)
-
 ## Past Lords of the Pit Events
 ---
+![](/assets/images/lotpmarchradness25.jpg)
+
 ![](/assets/images/HJC4.jpg)
 
 ![](/assets/images/FB7.png)
