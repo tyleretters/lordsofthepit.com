@@ -24,6 +24,8 @@ Other notable piles included Thrashin’ Dave’s high-tuned Monogreen pile (3-2
 
 We fired round one at 12:30 p.m. and wrapped final announcements at 4:45 p.m., making for a fast-paced, fun afternoon, after which Lords and thrulls dispersed along Belmont Ave to depart along our various paths to Parts Unknown.
 
+![Standings](/assets/images/marchradness/marchradnesscandids/standings.jpg)
+
 **DECK LIST GALLERY**
 
 ![Elleman](/assets/images/marchradness/marchradnesscandids/01elleman.jpg)
@@ -60,4 +62,16 @@ We fired round one at 12:30 p.m. and wrapped final announcements at 4:45 p.m., m
 
 **CANDIDS**
 
-![Gathering](/assets/images/fallbrawl7/gathering.jpg)
+![Harambe & Friends](/assets/images/marchradness/marchradnesscandids/arabians.jpg)
+
+![Balanced back to the Stone Age](/assets/images/marchradness/marchradnesscandids/balancestoneage.jpg)
+
+![Butzen Seppuku](/assets/images/marchradness/marchradnesscandids/butzenseppuku.jpg)
+
+![Geddon'd back to the Stone Age](/assets/images/marchradness/marchradnesscandids/geddonstoneage.jpg)
+
+![Moss' misery...](/assets/images/marchradness/marchradnesscandids/mossballed.jpg)
+
+![...equals Shane's glee!](/assets/images/marchradness/marchradnesscandids/shaneglee.jpg)
+
+![](/assets/images/marchradness/marchradnesscandids/lootshamms.jpg)
