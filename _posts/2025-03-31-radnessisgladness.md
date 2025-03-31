@@ -26,7 +26,37 @@ We fired round one at 12:30 p.m. and wrapped final announcements at 4:45 p.m., m
 
 **DECK LIST GALLERY**
 
-![Baran](/assets/images/fallbrawl7/decklists/1baran.JPG)
+![Elleman](/assets/images/marchradness/marchradnesscandids/01elleman.jpg)
+
+![Agra](/assets/images/marchradness/marchradnesscandids/02agra.jpg)
+
+![McCarthy](/assets/images/marchradness/marchradnesscandids/03mccarthy.jpg)
+
+![Baran](/assets/images/marchradness/marchradnesscandids/04baran.png)
+
+![Caleb](/assets/images/marchradness/marchradnesscandids/05caleb.jpg)
+
+![Voegeli](/assets/images/marchradness/marchradnesscandids/06voegeli.jpg)
+
+![Joe C.](/assets/images/marchradness/marchradnesscandids/07joec.jpg)
+
+![Sam](/assets/images/marchradness/marchradnesscandids/09sam.jpg)
+
+![Thrashin' Dave](/assets/images/marchradness/marchradnesscandids/10thrashindave.jpg)
+
+![Chad](/assets/images/marchradness/marchradnesscandids/14chad.png)
+
+![Dickson](/assets/images/marchradness/marchradnesscandids/15dickson.jpg)
+
+![Velasco](/assets/images/marchradness/marchradnesscandids/16velasco.jpg)
+
+![Jaco](/assets/images/marchradness/marchradnesscandids/18jaco.jpg)
+
+![Jones](/assets/images/marchradness/marchradnesscandids/19jones.jpg)
+
+![Bob H.](/assets/images/marchradness/marchradnesscandids/20bobh.png)
+
+![Moss](/assets/images/marchradness/marchradnesscandids/21moss.jpg)
 
 **CANDIDS**
 
