@@ -8,7 +8,7 @@ category: Blog
 
 **TYLER, FOR HEADER IMAGE PLEASE USE 'FEAR'.**
 
-Beneath the steel grey of a late March Chicago sky, 22 Lords & Co. met to duel in the arcane arts of cardboard carnage at our longtime stomping ground, DMen Tap, for the first meetup of 2025, the aptly titled “March Radness.” It had been quite some time (years, perhaps?) since the Lords had hosted a regular, “old school” old school EC 93/94 meetup, and interest seemed keen as we were able to attract a number of newcomers. There may have been some new faces, but the format remains, as ever: Blue is busted, White gets wins, and the rest is a matter of personal taste (plus four Strip Mines). Still, the ritual, dark though it may be, felt vibrant as folk met to give hugs, shake hands, pound knucks, deface cards, then battle to the death amidst the prismatic planes of Dominaria.
+Beneath the steel grey of a late March Chicago sky, 22 Lords & Co. met to duel in the arcane arts of cardboard carnage at our longtime stomping ground, DMen Tap, for the first meetup of 2025 - the aptly titled “March Radness.” It had been quite some time (years, perhaps?) since the Lords had hosted a regular, “old school” old school EC 93/94 meetup, and interest seemed keen as we were able to attract a number of newcomers. There may have been some new faces, but the format remains, as ever: Blue is busted, White gets wins, and the rest is a matter of personal taste (plus four Strip Mines). Still, the ritual, dark though it may be, felt vibrant as folk met to give hugs, shake hands, pound knucks, deface cards, then battle to the death amidst the prismatic planes of Dominaria.
 
 ![Motley Crüe](/assets/images/marchradness/marchradnesscandids/crew.jpg)
 
