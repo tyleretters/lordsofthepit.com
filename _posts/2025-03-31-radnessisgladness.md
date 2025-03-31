@@ -16,7 +16,7 @@ After five rounds of Swiss action, Lord Lorien Ellemen, still gleaming from an A
 
 ![Look on my Works, ye Mighty, and despair!](/assets/images/marchradness/marchradnesscandids/sweathog.jpg)
 
-Other notable piles included Thrashin’ Dave’s high-tuned Monogreen pile (3-2) and newcomer Graham’s UR Mind Bomb/Primoridal Ooze (2-3) monstrosity. A requisite number of standard issue Atogs and Monoblack lists also prowled the battlefields.
+Other notable piles included Thrashin’ Dave’s highly-tuned Monogreen pile (3-2) and newcomer Graham’s UR Mind Bomb/Primoridal Ooze (2-3) monstrosity. A requisite number of standard issue Atogs and Monoblack lists also prowled the battlefields.
 
 ![Loots](/assets/images/marchradness/marchradnesscandids/signedloots.jpg)
 
