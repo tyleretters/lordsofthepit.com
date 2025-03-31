@@ -75,3 +75,5 @@ We fired round one at 12:30 p.m. and wrapped final announcements at 4:45 p.m., m
 ![...equals Shane's glee!](/assets/images/marchradness/marchradnesscandids/shaneglee.jpg)
 
 ![](/assets/images/marchradness/marchradnesscandids/lootshamms.jpg)
+
+![](/assets/images/lotpmarchradness25.jpg)
