@@ -1,0 +1,5 @@
+{
+  "build": {
+    "ignore": "git branch --show-current | grep -qE '^(draft)$' && exit 0 || exit 1"
+  }
+}
