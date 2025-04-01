@@ -62,6 +62,8 @@ We fired round one at 12:30 p.m. and wrapped final announcements at 4:45 p.m., m
 
 ![Moss](/assets/images/marchradness/marchradnesscandids/21moss.jpg)
 
+![Vincent](/assets/images/marchradness/marchradnesscandids/22vincent.jpg)
+
 **CANDIDS**
 
 ![Harambe & Friends](/assets/images/marchradness/marchradnesscandids/arabians.jpg)
