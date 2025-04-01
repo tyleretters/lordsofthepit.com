@@ -46,6 +46,8 @@ We fired round one at 12:30 p.m. and wrapped final announcements at 4:45 p.m., m
 
 ![Thrashin' Dave](/assets/images/marchradness/marchradnesscandids/10thrashindave.jpg)
 
+![Semmens](/assets/images/marchradness/marchradnesscandids/13semmens.jpg)
+
 ![Chad](/assets/images/marchradness/marchradnesscandids/14chad.png)
 
 ![Dickson](/assets/images/marchradness/marchradnesscandids/15dickson.jpg)
