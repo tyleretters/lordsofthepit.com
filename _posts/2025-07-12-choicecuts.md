@@ -10,7 +10,7 @@ category: Blog
 
 _“Beef is when you roll no less than (60) deep.”_
 
-A fine July afternoon greeted the Lords of the Pit as they assembled at DMen Tap for a midsummer showdown. After letting the Beef marinate for five years, going all the way back to the Christmas Beef 2020, the Lords re-seasoned the hyper-niche “format,” this time with a Middle School flavor. The result, the Middle School Beef Bash, attracted 15 Lords plus a handful of observing luminaries.
+A fine July afternoon greeted the Lords of the Pit as they assembled at DMen Tap for a midsummer showdown. After letting the Beef marinate for five years, going all the way back to the [Christmas Beef 2020](https://lordsofthepit.com/2020/12/27/whatsbeef/), the Lords re-seasoned the hyper-niche “format,” this time with a Middle School flavor. The result, the Middle School Beef Bash, attracted 15 Lords plus a handful of observing luminaries.
 
 MS Beef carried a requirement of 60 maindeck power at all times, up from the 40 power required during the 2020 outing. Additionally, Phyrexian Dreadnought was banned to prevent copycats from overloading on Middle School’s foremost “big” creature. Also new for 2025: the event “winner” (aka “Biggest Beef”) would only count maindeck creature power. Call this the Danny Friedman Rule after the cunning Lord broke the scale last time with 132 power stuffed into the sideboard.
 
@@ -30,7 +30,7 @@ Four rounds of Beefin’ was chewy enough as the games proved to be as silly as 
 
 ![Loots](/assets/images/2025msbeefbash/decklists/loots.jpg)
 
-For the Middle School Beef Bash, the Lords raised over $300 in support of the Ark Initiative, a street-level non-profit organization that provides healthy meals to hungry people one Saturday per month at the Wilson Red Line.
+For the Middle School Beef Bash, the Lords raised over $300 in support of the [Ark Initiative](https://www.instagram.com/arkinitiativeltd/), a street-level non-profit organization that provides healthy meals to hungry people one Saturday per month at the Wilson Red Line.
 
 _(Your humble reporter takes no responsibility for the quality of puns used in this write-up.)_
 
