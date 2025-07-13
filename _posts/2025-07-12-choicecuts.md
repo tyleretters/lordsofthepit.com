@@ -10,7 +10,7 @@ category: Blog
 
 _“Beef is when you roll no less than (60) deep.”_
 
-A fine July afternoon greeted the Lords of the Pit as they assembled at DMen Tap for a midsummer showdown. After letting the Beef marinate for five years, going all the way back to the [Christmas Beef 2020](https://lordsofthepit.com/2020/12/27/whatsbeef/), the Lords re-seasoned the hyper-niche “format,” this time with a Middle School flavor. The result, the Middle School Beef Bash, attracted 15 Lords plus a handful of observing luminaries.
+A fine July afternoon greeted the Lords of the Pit as they assembled at DMen Tap for a midsummer showdown. After letting the Beef marinate for five years, going all the way back to the [Christmas Beef 2020](https://lordsofthepit.com/2020/12/27/whatsbeef/), the Lords thawed out and re-seasoned the hyper-niche “format,” this time with a Middle School flavor. The result, the Middle School Beef Bash, attracted 15 Lords plus a handful of observing luminaries.
 
 MS Beef carried a requirement of 60 maindeck power at all times, up from the 40 power required during the 2020 outing. Additionally, Phyrexian Dreadnought was banned to prevent copycats from overloading on Middle School’s foremost “big” creature. Also new for 2025: the event “winner” (aka “Biggest Beef”) would only count maindeck creature power. Call this the Danny Friedman Rule after the cunning Lord broke the scale last time with 132 power stuffed into the sideboard.
 
