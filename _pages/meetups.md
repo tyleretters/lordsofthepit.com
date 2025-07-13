@@ -6,6 +6,8 @@ permalink: /meetups
 
 ## Past Lords of the Pit Events
 ---
+![](/assets/images/2025msbeefbash/decklists/beefbashposter.png)
+
 ![](/assets/images/lotpmarchradness25.jpg)
 
 ![](/assets/images/HJC4.jpg)
