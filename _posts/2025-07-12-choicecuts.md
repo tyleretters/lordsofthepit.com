@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mosstodon
-title: "Radness is Gladness"
+title: "Choice Cuts"
 date: "2025-07-12"
 category: Blog
 ---
