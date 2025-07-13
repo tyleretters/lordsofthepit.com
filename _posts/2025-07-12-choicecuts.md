@@ -64,7 +64,7 @@ _(Your humble reporter takes no responsibility for the quality of puns used in t
 
 ![Ball or Get Balled](/assets/images/2025msbeefbash/decklists/grantlyvsbeedle.jpg)
 
-![Baloths](/assets/images/2025msbeefbash/decklists/baloths.jpg)
+![Baloth Beats](/assets/images/2025msbeefbash/decklists/baloths.jpg)
 
 ![DMen Dudesweats](/assets/images/2025msbeefbash/decklists/dmendudes.jpg)
 
