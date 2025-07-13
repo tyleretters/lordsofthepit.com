@@ -14,7 +14,7 @@ A fine July afternoon greeted the Lords of the Pit as they assembled at DMen Tap
 
 MS Beef carried a requirement of 60 maindeck power at all times, up from the 40 power required during the 2020 outing. Additionally, Phyrexian Dreadnought was banned to prevent copycats from overloading on Middle School’s foremost “big” creature. Also new for 2025: the event “winner” (aka “Biggest Beef”) would only count maindeck creature power. Call this the Danny Friedman Rule after the cunning Lord broke the scale last time with 132 power stuffed into the sideboard.
 
-![](/assets/images/2025msbeefbash/decklists/weighin.jpeg)
+![Serving Size](/assets/images/2025msbeefbash/decklists/weighin.jpeg)
 
 MS Beef offered the comfy familiarity of a regularly-played format plus a taste of yesteryear, throwing back to those bygone, youthful days when your biggest, baddest creech always went in your deck.
 
