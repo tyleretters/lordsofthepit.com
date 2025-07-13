@@ -28,7 +28,7 @@ As a secondary prize, a pair of group-signed “Beefmongers” (aka Spiritmonger
 
 ![Loots](/assets/images/2025msbeefbash/decklists/loots.jpg)
 
-Four rounds of Beefin’ was chewy enough as the games proved to be as silly as the format – play largely hinged on landing a fast fattie, or else just going wide and low to the ground. A lot of decks seemed to shoot past each other (which is a common feature in MS). Is there a future for Beef? Certainly, although the format could stand to cure for a bit before serving again. Perhaps next time we’d consider expanding waistlines with a 75 power requirement.
+Four rounds of Beefin’ was chewy enough as the games proved to be as silly as the format – play largely hinged on landing a fast fattie, or else just going wide and low to the ground. A lot of decks seemed to shoot past each other (common in Middle School). Is there a future for Beef? Certainly, although the format could stand to cure for a bit before serving again. Perhaps next time we’d consider expanding waistlines with a 75 power requirement.
 
 For the Middle School Beef Bash, the Lords raised over $300 in support of the [Ark Initiative](https://www.instagram.com/arkinitiativeltd/), a street-level non-profit organization that provides healthy meals to hungry people one Saturday per month at the Wilson Red Line.
 
