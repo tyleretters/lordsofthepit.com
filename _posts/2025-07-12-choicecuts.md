@@ -9,6 +9,7 @@ category: Blog
 ![](/assets/images/2025msbeefbash/decklists/beefbashposter.png)
 
 _“Beef is when you roll no less than (60) deep.”_
+~ Biggie Smalls
 
 A fine July afternoon greeted the Lords of the Pit as they assembled at DMen Tap for a midsummer showdown. After letting Beef marinate for five years, going all the way back to the Christmas Beef 2020, the Lords re-seasoned the hyper-niche “format,” this time with a Middle School flavor. The result, the Middle School Beef Bash, attracted 15 Lords plus a handful of observing luminaries.
 
