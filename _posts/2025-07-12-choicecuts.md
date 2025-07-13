@@ -16,7 +16,7 @@ MS Beef carried a requirement of 60 maindeck power at all times, up from the 40 
 
 ![Heavy Registry](/assets/images/2025msbeefbash/decklists/weighin.jpeg)
 
-MS Beef offered the comfy familiarity of a regularly-played format plus a taste of yesteryear, throwing back to those bygone, youthful days when your biggest, baddest creech always went in your deck.
+MS Beef offered all the comfy familiarity of a regularly-played format plus an extra taste of yesteryear, throwing back to those bygone, youthful days when your biggest, baddest creech always went in your deck.
 
 A gaggle of Lords assembled at the nearby Caravanserai coffee shop while awaiting DMen to unlock their doors, then at noon the weigh-in began as players registered their decks’ total power. Most hung in the 60s. A couple pushed well into the 70s. Two improbable piles packed on the poundage — Lords Rohr (193) & McCarthy (180) loomed large over the competition like Kaiju in terrified Tokyo. Rohr took home the prize for Biggest Beef, a group-signed “Beef” (aka Thorn) Elemental.
 
