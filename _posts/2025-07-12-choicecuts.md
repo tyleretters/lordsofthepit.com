@@ -20,7 +20,7 @@ MS Beef offered the comfy familiarity of a regularly-played format plus a taste 
 
 A gaggle of Lords assembled at the nearby Caravanserai coffee shop while awaiting DMen to unlock their doors, then at noon the weigh-in began as players registered their decks’ total power. Most hung in the 60s. A couple pushed well into the 70s. Two improbable piles packed on the poundage — Lords Rohr (193) & McCarthy (180) loomed large over the competition like Kaiju in terrified Tokyo. Rohr took home the prize for Biggest Beef, a group-signed “Beef” (aka Thorn) Elemental.
 
-![The Undisputed Universal Middle Schoool Beef Champion](/assets/images/2025msbeefbash/decklists/rohrshrug.jpg)
+![Rohr, seen here getting balled, served up the Biggest Beef deck - 193 power!](/assets/images/2025msbeefbash/decklists/rohrshrug.jpg)
 
 On the leaner side of the aisle, Lords Blank, Braun & Beedle (all 65 power or below) were the day’s top try-hards, all at 3-1 with Ian taking the breakers via a Monoblack discard deck. Braun brought a Goblins pile while Beedle was on Red Aggro. Fourth place was shared by the two-headed monster of Lords Semmens (1-1) and Adams (2-0 on Elves). Rounding out the T8 were Lords MacDougall (Monowhite), Elleman (Bots), Moss (4C Survival) and Sanders (Mostly Legal Cards).
 
