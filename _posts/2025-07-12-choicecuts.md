@@ -20,7 +20,7 @@ A gaggle of Lords assembled at the nearby Caravanserai coffee shop while awaitin
 
 ![Rohr, seen here getting balled, served up the Biggest Beef - 193 power!](/assets/images/2025msbeefbash/decklists/rohrshrug.jpg)
 
-On the leaner side of the aisle, Lords Blank, Braun & Beedle (all 65 power or below) were the day’s top try-hards, all at 3-1 with Ian taking the breakers via a Monoblack discard deck. Braun brought a Goblins pile while Beedle was on Red Aggro. Fourth place was shared by the two-headed monster of Lords Semmens (1-1) and Adams (2-0 on Elves). Rounding out the T8 were Lords MacDougall (Monowhite), Elleman (Bots), Moss (4C Survival) and Sanders (Mostly Legal Cards).
+On the leaner side of the aisle, Lords Blank, Braun & Beedle (Killer Bs all 65 power or below) were the day’s top try-hards, all at 3-1 with Ian taking the breakers via a Monoblack discard deck. Braun brought a Goblins pile while Beedle was on Red Aggro. Fourth place was shared by the two-headed monster of Lords Semmens (1-1) and Adams (2-0 on Elves). Rounding out the T8 were Lords MacDougall (Monowhite), Elleman (Bots), Moss (4C Survival) and Sanders (Mostly Legal Cards).
 
 As a secondary prize, a pair of group-signed “Beefmongers” (aka Spiritmongers) went to the players that achieved the Beefiest Boardstate combined. That honor was shared by Lords Elleman & Adams who racked up an aggregate power of 42; perhaps a little lighter than expected but a product of the day’s fast-paced games.
 
