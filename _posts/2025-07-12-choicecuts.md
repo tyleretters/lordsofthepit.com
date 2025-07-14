@@ -81,3 +81,15 @@ _(Your humble reporter takes no responsibility for the quality of puns used in t
 ![](/assets/images/2025msbeefbash/decklists/00standings.png)
 
 ![](/assets/images/2025msbeefbash/decklists/lotpkoozie.jpg)
+
+**BONUS CONTENT: GRANTLY V. MOSSTODON DMEN BLOOD BOWL GRUDGEMATCH**
+
+![Kickoff](/assets/images/2025msbeefbash/decklists/bb1.jpg)
+
+![Orcs with da ball](/assets/images/2025msbeefbash/decklists/bb2.jpg)
+
+![Defense](/assets/images/2025msbeefbash/decklists/bb3.jpg)
+
+![](/assets/images/2025msbeefbash/decklists/bb4.jpg)
+
+![Final Score: Orcs 1 Humans 0](/assets/images/2025msbeefbash/decklists/bb5.jpg)
