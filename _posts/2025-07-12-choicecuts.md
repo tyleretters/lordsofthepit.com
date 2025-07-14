@@ -56,6 +56,8 @@ _(Your humble reporter takes no responsibility for the quality of puns used in t
 
 ![McCarthy](/assets/images/2025msbeefbash/decklists/12mccarthy.jpg)
 
+![Rohr](/assets/images/2025msbeefbash/decklists/13rohr.jpg)
+
 ![Jones](/assets/images/2025msbeefbash/decklists/14jones.jpg)
 
 **CANDIDS**
