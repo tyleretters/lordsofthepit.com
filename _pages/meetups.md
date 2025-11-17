@@ -5,6 +5,8 @@ permalink: /meetups
 ---
 
 ## Past Lords of the Pit Events
+
+![](/assets/images/fbposter.png)
 ---
 ![](/assets/images/2025msbeefbash/decklists/beefbashposter.png)
 
