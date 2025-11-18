@@ -22,9 +22,9 @@ But the Wheel never stops spinning, and at the Fall Brawl the Lords inducted two
 
 Back to the spell-slinging. In keeping with recent OS95 meta trends, both Necropotence and Reanimator were in short supply in the Fall Brawl field. Lords Elleman (Esper Necro) and Jaco (Reanimator) fearlessly piloted these once-fearsome archetypes, though it seems the format (via direct damage & graveyard hate) has seemingly declawed these former Tier 1 decks – for now, at least.
 
-![](/assets/images/fallbrawl8/standings.png)
-
 Meanwhile, the day's sweatiest mages dabbled with '95 cards to bolster otherwise well-established OS stratagems. Lord Rohr inserted Tindr Wall & Jester’s Cap into a Shops/Titania’s Song prison stew. Lord MacDougall added _Ice Age_ cantrips and Merchant Scroll to a UW Skies list. Lord Moss bolstered Jeskai Atog with Incinerate, Mana Crypt and Zorb, and it was Josh Burgoa, our champion by way of Chattanooga TN, who took down the Fall Brawl with a UW Midrange pile that leaned into Adarkar Wastes for mana fixing. Burgoa’s play was as tight as his shit-talking as he ran the gauntlet to a sterling 5-0 finish.
+
+![](/assets/images/fallbrawl8/standings.png)
 
 During the Fall Brawl, the Lords & Co. raised $760 in support of [The Ark Initiative](https://www.arkinitiativeltd.org/), a Chicago street-level organization that delivers healthy meals to needy people one Saturday per month at the Wilson Red Line.
 
