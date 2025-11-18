@@ -26,7 +26,7 @@ Meanwhile, the day's sweatiest mages dabbled with '95 cards to bolster otherwise
 
 ![](/assets/images/fallbrawl8/standings.png)
 
-During the Fall Brawl, the Lords & Co. raised $760 in support of [The Ark Initiative](https://www.arkinitiativeltd.org/), a Chicago street-level organization that delivers healthy meals to needy people one Saturday per month at the Wilson Red Line.
+During the Fall Brawl, the Lords & Co. raised $760 in support of [The Ark Initiative](https://www.arkinitiativeltd.org/), a Chicago street-level organization that delivers healthy meals to needy people one Saturday per month at the [Wilson](https://www.transitchicago.com/station/wils/) Red Line.
 
 **DECK LISTS**
 
