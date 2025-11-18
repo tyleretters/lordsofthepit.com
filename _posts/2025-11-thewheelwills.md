@@ -8,7 +8,7 @@ category: Blog
 
 ![](/assets/images/fallbrawl8/fbposter.png)
 
-The changing leaves, shortened days, and nip of winter’s grasp upon the wind can signal but one thing – the return of the Lords of the Pit to [DMen Tap](http://www.dmentap.com/) for our annual Fall Brawl. For the eighth installment of this venerable tournament, 23 Lords & guests assembled to sling ancient spells from an era long gone but never forgotten. This particular Gathering was more than any mere OS95 meetup, however, as the club also bid farewell to one member and welcomed a pair of newcomers.
+The changing leaves, shortened days, and nip of winter’s grasp upon the wind can signal but one thing – the return of the Lords of the Pit to [DMen Tap](http://www.dmentap.com/) for the club's annual Fall Brawl. For the eighth installment of this venerable tournament, 23 Lords & guests assembled to sling ancient spells from an era long gone but never forgotten. This particular Gathering was more than any mere OS95 meetup, however, as the Lords also bid farewell to one member and welcomed a pair of newcomers.
 
 ![](/assets/images/fallbrawl8/candids/loots.jpeg)
 
@@ -30,45 +30,86 @@ During the Fall Brawl, the Lords & Co. raised $760 in support of [The Ark Initia
 
 **DECK LISTS**
 
-![Blank](/assets/images/2025msbeefbash/decklists/01blank.jpg)
+![Burgoa](/assets/images/fallbrawl8/decklists/01burgoa.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Moss](/assets/images/fallbrawl8/decklists/02moss.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![MacDougall](/assets/images/fallbrawl8/decklists/03macdougall.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Rohr](/assets/images/fallbrawl8/decklists/04rohr.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Walker](/assets/images/fallbrawl8/decklists/05walker.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Beadle](/assets/images/fallbrawl8/decklists/06beadle.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Thrashin' Dave](/assets/images/fallbrawl8/decklists/07thrashindave.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Vincent](/assets/images/fallbrawl8/decklists/08vincent.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Joe Sea](/assets/images/fallbrawl8/decklists/09joesea.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Braun](/assets/images/fallbrawl8/decklists/10braun.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Zinni](/assets/images/fallbrawl8/decklists/11zinni.png)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Graham](/assets/images/fallbrawl8/decklists/12graham.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Jaco](/assets/images/fallbrawl8/decklists/13jaco.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![JP Lamp](/assets/images/fallbrawl8/decklists/14JP.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Elleman](/assets/images/fallbrawl8/decklists/15elleman.jpg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Jones](/assets/images/fallbrawl8/decklists/16jones.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Sanders](/assets/images/fallbrawl8/decklists/17sanders.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Finney](/assets/images/fallbrawl8/decklists/18finney.jpeg)
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Baran](/assets/images/fallbrawl8/decklists/19baran.jpeg)
 
 **CANDIDS**
 
-![Aggrocrag](/assets/images/2025msbeefbash/decklists/aggro.jpg)
+![Dudesweats](/assets/images/fallbrawl8/candids/dudesweats.jpeg)
 
+![6/6 Juzam](/assets/images/fallbrawl8/candids/66juzam.jpeg)
+
+![Havenwood teq](/assets/images/fallbrawl8/candids/havenwoodteq.jpeg)
+
+![Dudesweats2](/assets/images/fallbrawl8/candids/dudesweats2.jpeg)
+
+![Balled by Time Bomb!](/assets/images/fallbrawl8/candids/timebomb.jpeg)
+
+![Balled by  Stable Ooze!](/assets/images/fallbrawl8/candids/thinking.jpeg)
+
+![Dudesweats3](/assets/images/fallbrawl8/candids/dudesweats3.jpeg)
+
+![Jaco v. Jones](/assets/images/fallbrawl8/candids/jacojones.jpeg)
+
+![Old bull instructs young bull](/assets/images/fallbrawl8/candids/oldbullyoungbull.jpeg)
+
+![Dudesweats4](/assets/images/fallbrawl8/candids/backcorner.jpeg)
+
+![Reanimator](/assets/images/fallbrawl8/candids/reanimator.jpeg)
+
+![Moss v. MacDougall](/assets/images/fallbrawl8/candids/mossmacdougall.jpeg)
+
+![Dudesweats5](/assets/images/fallbrawl8/candids/gathering.jpeg)
+
+![Elleman v. Sanders](assets/images/fallbrawl8/candids/ellemansanders.jpeg)
+
+![Orb flips!](/assets/images/fallbrawl8/candids/orbflips.jpeg)
+
+![Keep?](/assets/images/fallbrawl8/candids/snapkeep.jpeg)
+
+![Burgoa v. Thrashin' Dave](/assets/images/fallbrawl8/candids/burgoathrashindave.jpeg)
+
+![Jones v. Finney](/assets/images/fallbrawl8/candids/jonesfinney.jpeg)
+
+![Keep.](/assets/images/fallbrawl8/candids/recklesshate.jpeg)
+
+![Sanders' Shades](/assets/images/fallbrawl8/candids/sandersunlocked.jpeg)
+
+![Stack](/assets/images/fallbrawl8/candids/bigstack.jpeg)
+
+![](/assets/images/fallbrawl8/candids/dungeonsynth.jpeg)
