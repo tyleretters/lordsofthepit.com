@@ -12,7 +12,7 @@ Changing leaves, shortened days, and the nip of winter’s grasp on the wind can
 
 ![](/assets/images/fallbrawl8/candids/loots.jpeg)
 
-While not in attendance as a combatant, Lord Shane Semmens was at the Fall Brawl to sell pimp cardboard+in advance of his pending relocation across the Atlantic. Shane, an OG Lord and among the club’s most-stalwart of members, will be dearly missed. Best of luck, Shane!
+While not in attendance as a combatant, Lord Shane Semmens was at the Fall Brawl to sell pimp cardboard in advance of his pending relocation across the Atlantic. Shane, an OG Lord and among the club’s most-stalwart of members, will be dearly missed. Best of luck, Shane!
 
 ![](/assets/images/fallbrawl8/candids/newlords.jpeg)
 
