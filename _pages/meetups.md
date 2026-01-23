@@ -8,6 +8,8 @@ permalink: /meetups
 
 ![](/assets/images/fbposter.png)
 ---
+![](/assets/images/2018/lotpmovienite2026.png)
+
 ![](/assets/images/2025msbeefbash/decklists/beefbashposter.png)
 
 ![](/assets/images/lotpmarchradness25.jpg)
