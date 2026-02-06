@@ -1,9 +1,10 @@
-_site
+dist
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 .DS_Store
+.cloudflare
 *.pdf
 *.zip
 *.psd
@@ -11,3 +12,5 @@ vendor
 *.mp3
 *.mp4
 .idea
+node_modules
+.claude

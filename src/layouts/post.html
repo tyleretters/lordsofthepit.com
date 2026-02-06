@@ -1,0 +1,64 @@
+---
+layout: default.html
+---
+
+<div class="flex flex-wrap -mx-4">
+  <div class="w-full sm:w-2/3 px-4">
+    <article itemscope itemtype="http://schema.org/BlogPosting">
+      <header>
+        <h1 itemprop="name headline">{{ title | escape }}</h1>
+        <hr />
+        <p>
+          <time
+            datetime="{{ page.date | date_to_xmlschema }}"
+            itemprop="datePublished"
+          >
+            {%- assign date_format = site.minima.date_format | default: "%b %-d,
+            %Y" -%} {{ page.date | date: date_format }}
+          </time>
+          by {{ author }}
+        </p>
+      </header>
+
+      <div
+        itemprop="articleBody"
+        {%
+        if
+        monospace
+        %}
+        class="post-mono"
+        {%
+        endif
+        %}
+      >
+        {{ content }}
+      </div>
+    </article>
+
+    <div class="flex flex-wrap -mx-4">
+      <div class="w-full px-4">
+        <h2 class="post-footer">
+          More Posts
+          <span class="faded"
+            >Pro tip: Use your left and right arrow keys to quickly browse
+            through posts.</span
+          >
+        </h2>
+        <hr />
+      </div>
+    </div>
+    <div class="flex flex-wrap -mx-4">
+      <div class="w-full sm:w-1/2 px-4 next-post">
+        {% if next.url %}
+        <a href="{{ next.url }}">&larr; {{ next.data.title }}</a>
+        {% endif %}
+      </div>
+      <div class="w-full sm:w-1/2 px-4 previous-post">
+        {% if previous.url %}
+        <a href="{{ previous.url }}">{{ previous.data.title }} &rarr;</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {% include "aside.html" %}
+</div>

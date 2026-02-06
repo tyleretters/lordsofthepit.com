@@ -1,0 +1,194 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-black text-white pt-xl font-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  /* Bootstrap-style typography */
+  h1 {
+    font-size: 2.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+
+  h3 {
+    font-size: 1.75rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+
+  h4 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+
+  h5 {
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+
+  h6 {
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    margin-bottom: 1rem;
+  }
+
+  ul,
+  ol {
+    margin-bottom: 1rem;
+  }
+
+  li {
+    margin-bottom: 0.25rem;
+  }
+
+  img {
+    @apply max-w-full h-auto;
+  }
+
+  iframe {
+    @apply border-none;
+  }
+
+  blockquote {
+    @apply pl-4 border-l border-white;
+    margin: 1rem 0;
+  }
+
+  hr {
+    @apply bg-white border-none;
+    height: 2px;
+    margin: 5px 0 1rem 0;
+  }
+
+  a {
+    @apply text-red hover:text-dark-red;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-serif;
+  }
+
+  time {
+    color: #999;
+    font-size: 0.9rem;
+  }
+}
+
+@layer components {
+  .faded {
+    @apply text-base text-faded italic;
+  }
+
+  .post-mono p,
+  .post-mono code,
+  .post-mono pre {
+    @apply text-white font-mono text-base;
+  }
+
+  .btn-primary,
+  button {
+    @apply bg-black border border-red text-red font-semibold rounded px-4 py-2;
+    @apply hover:bg-red hover:text-black focus:bg-red focus:text-black;
+    @apply active:bg-red active:text-black;
+  }
+
+  .all-posts,
+  .previous-post {
+    @apply text-right;
+  }
+
+  article p img {
+    @apply mx-auto block;
+  }
+
+  article {
+    margin-bottom: 200px;
+  }
+
+  /* Navigation */
+  nav {
+    @apply border-b-2 border-white bg-black;
+  }
+
+  nav a {
+    @apply uppercase text-red text-center hover:text-dark-red hover:underline;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+  }
+
+  nav li.active a {
+    @apply underline;
+  }
+
+  /* Mobile nav button */
+  nav button {
+    background: #000;
+    color: #ff0000;
+    border: 1px solid #ff0000;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+  }
+
+  nav button:hover {
+    background: #ff0000;
+    color: #000;
+  }
+
+  nav button span {
+    font-size: 1.5rem;
+  }
+
+  /* Footer */
+  footer.lotp-footer {
+    margin-top: 50px;
+    @apply bg-black text-center;
+  }
+
+  /* Arcanaeum image grid styling */
+  .arcanaeum-row {
+    margin-bottom: 50px;
+  }
+
+  .arcanaeum-row a {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+
+  .arcanaeum-row img {
+    margin-bottom: 0.5rem;
+  }
+
+  /* Main container overflow */
+  main {
+    overflow: hidden;
+  }
+}

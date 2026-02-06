@@ -1,0 +1,16 @@
+**/.git
+.vscode
+.cloudflare
+.claude
+dist
+_editors
+package-lock.json
+node_modules
+src/assets/images
+src/assets/stylesheets/style.css
+
+# Liquid templates with complex syntax
+src/includes/aside.html
+src/includes/head.html
+src/includes/javascript.html
+src/includes/layouts/arcanaeum.html

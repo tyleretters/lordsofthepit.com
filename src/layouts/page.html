@@ -1,0 +1,13 @@
+---
+layout: default.html
+---
+
+<div class="flex flex-wrap -mx-4">
+  <div class="w-full sm:w-2/3 px-4">
+    {%- if title -%}
+    <h1>{{ title | escape }}</h1>
+    {%- endif -%} {{ content }}
+  </div>
+
+  {% include "aside.html" %}
+</div>

@@ -1,7 +1,20 @@
 {
+  "type": "module",
   "scripts": {
-    "dev": "bundle exec jekyll serve --baseurl '' --livereload",
-    "watch": "sass --watch assets/stylesheets/style.sass:assets/stylesheets/style.css",
-    "build": "./build.sh"
+    "dev": "concurrently \"npm run watch:css\" \"npx @11ty/eleventy --serve\" --names \"tailwind,11ty\" --prefix-colors \"blue,green\"",
+    "watch:css": "npx tailwindcss -i src/assets/stylesheets/input.css -o src/assets/stylesheets/style.css --watch",
+    "build:css": "npx tailwindcss -i src/assets/stylesheets/input.css -o src/assets/stylesheets/style.css --minify",
+    "build": "npm run build:css && npx @11ty/eleventy",
+    "pretty": "prettier --write ."
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-plugin-rss": "^2.0.4",
+    "@shopify/prettier-plugin-liquid": "^1.10.0",
+    "autoprefixer": "^10.4.24",
+    "concurrently": "^9.2.1",
+    "postcss": "^8.5.6",
+    "prettier": "^3.8.1",
+    "tailwindcss": "^3.4.19"
   }
 }

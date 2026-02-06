@@ -1,0 +1,31 @@
+---
+layout: default.html
+---
+<div class="flex flex-wrap -mx-4">
+  <div class="w-full sm:w-2/3 px-4">
+    {% for post in collections.posts | limit: 3 %}
+    <article>
+
+    <header>
+      <h1>{{ post.data.title | escape }}</h1>
+      <hr>
+      <p>
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ post.date | date: date_format }}
+        </time> by {{ post.data.author }} · <a href="{{ post.url | relative_url }}">Link</a>
+      </p>
+    </header>
+    <div{% if post.data.monospace %} class="post-mono"{% endif %}>
+      {{ post.content }}
+    </div>
+
+    </article>
+    {% endfor %}
+    <hr>
+    <p class="all-posts"><a href="/archives">View All Posts &rarr;</a></p>
+  </div>
+
+{% include "aside.html" %}
+
+</div>
