@@ -20,7 +20,7 @@
 
 @layer base {
   body {
-    @apply bg-black text-white pt-xl font-serif;
+    @apply bg-black text-white font-serif;
     font-size: 16px;
     line-height: 1.5;
   }
@@ -152,7 +152,7 @@
 
   /* Navigation */
   nav {
-    @apply border-b-2 border-white bg-black;
+    @apply border-b-2 border-white bg-black py-1;
   }
 
   nav a {
