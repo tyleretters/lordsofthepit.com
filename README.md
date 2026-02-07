@@ -18,7 +18,7 @@ Static website for the Chicago-based Old School Magic: the Gathering club. Featu
 ### Prerequisites
 
 - Node.js 20.x
-- Git with Git LFS installed (`brew install git-lfs` on macOS)
+- Git
 
 ### Setup
 
@@ -26,10 +26,6 @@ Static website for the Chicago-based Old School Magic: the Gathering club. Featu
 # Clone repository
 git clone https://github.com/tyleretters/lordsofthepit.com.git
 cd lordsofthepit.com
-
-# Initialize Git LFS
-git lfs install
-git lfs pull
 
 # Install dependencies
 npm install
@@ -104,14 +100,13 @@ npm run pretty       # Format code with Prettier
 - `date`: Date in `YYYY-MM-DD` format (strict requirement)
 - `category`: Usually `blog`
 
-## Images & Git LFS
+## Images
 
-All images are stored in `src/assets/images/` and tracked with Git LFS.
+All images are stored in `src/assets/images/` and committed directly to the repository.
 
 - Total images: ~1,746 files (~3.1GB)
-- LFS configured in `.gitattributes` for jpg, jpeg, png, gif
-- Images are **not** committed directly to git history
-- On clone, run `git lfs pull` to download image files
+- Images are regular git objects (no LFS required)
+- Repository size: ~3.2GB (well under GitHub's 100GB limit)
 
 ## Deployment
 
@@ -146,8 +141,9 @@ All images are stored in `src/assets/images/` and tracked with Git LFS.
 ### February 2026: Git History Cleanup
 
 - Removed 6.3GB of image blobs from git history using `git-filter-repo`
-- Set up proper Git LFS tracking for all images
-- Reduced clone size from 6.3GB to ~3.2GB
+- Images now stored directly in repository (~3.2GB)
+- Removed Git LFS due to bandwidth limitations
+- Repository size well under GitHub's 100GB limit
 
 See [MIGRATION.md](MIGRATION.md) for full details.
 
