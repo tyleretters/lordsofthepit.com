@@ -1,8 +1,14 @@
 import pluginRss from '@11ty/eleventy-plugin-rss'
+import markdownItAnchor from 'markdown-it-anchor'
 
 export default function (eleventyConfig) {
   // Allow missing file extensions (like Jekyll)
   eleventyConfig.configureErrorReporting({ allowMissingExtensions: true })
+
+  // Add anchor IDs to headings
+  eleventyConfig.amendLibrary('md', (mdLib) => {
+    mdLib.use(markdownItAnchor)
+  })
 
   // Add RSS plugin
   eleventyConfig.addPlugin(pluginRss)

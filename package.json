@@ -13,6 +13,7 @@
     "@shopify/prettier-plugin-liquid": "^1.10.0",
     "autoprefixer": "^10.4.24",
     "concurrently": "^9.2.1",
+    "markdown-it-anchor": "^9.2.0",
     "postcss": "^8.5.6",
     "prettier": "^3.8.1",
     "tailwindcss": "^3.4.19"
