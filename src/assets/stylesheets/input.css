@@ -1,6 +1,22 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --color-red: #ff0000;
+  --color-dark-red: #830000;
+  --color-faded: #454545;
+
+  --spacing-xs: 5px;
+  --spacing-sm: 10px;
+  --spacing-md: 25px;
+  --spacing-lg: 50px;
+  --spacing-xl: 100px;
+  --spacing-2xl: 200px;
+
+  --font-serif: 'times new roman', serif;
+  --font-mono: courier, monospace;
+}
 
 @layer base {
   body {
@@ -116,7 +132,7 @@
 
   .btn-primary,
   button {
-    @apply bg-black border border-red text-red font-semibold rounded px-4 py-2;
+    @apply bg-black border border-red text-red font-semibold rounded-sm px-4 py-2;
     @apply hover:bg-red hover:text-black focus:bg-red focus:text-black;
     @apply active:bg-red active:text-black;
   }
