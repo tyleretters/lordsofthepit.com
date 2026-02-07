@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: Cocktails
-permalink: /cocktails
+permalink: /cocktails/
 ---
 
 ![](/assets/images/site/cocktails.jpg)

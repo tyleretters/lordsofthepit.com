@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: Contact
-permalink: /contact
+permalink: /contact/
 ---
 
 ![](/assets/images/site/contact.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: Meetups
-permalink: /meetups
+permalink: /meetups/
 ---
 
 ## Past Lords of the Pit Events

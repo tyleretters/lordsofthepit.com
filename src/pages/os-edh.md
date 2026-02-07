@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: OS-EDH
-permalink: /os-edh
+permalink: /os-edh/
 ---
 
 ![](/assets/images/site/os-edh.jpg)

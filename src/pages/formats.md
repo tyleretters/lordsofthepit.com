@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: Formats
-permalink: /formats
+permalink: /formats/
 ---
 
 ![](/assets/images/banners/vamp.jpg)

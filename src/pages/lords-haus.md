@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: "Lords' Haüs 2: The Sequel"
-permalink: /lords-haus
+permalink: /lords-haus/
 ---
 
 ![](/assets/images/banners/lordshaus2header.jpg)

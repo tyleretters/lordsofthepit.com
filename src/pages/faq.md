@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: FAQ
-permalink: /faq
+permalink: /faq/
 ---
 
 ![](/assets/images/site/faq.jpg)

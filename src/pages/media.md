@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: Media
-permalink: /media
+permalink: /media/
 ---
 
 ![](/assets/images/site/media.jpg)
