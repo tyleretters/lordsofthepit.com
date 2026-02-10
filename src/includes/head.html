@@ -22,7 +22,16 @@
 {% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
 {% if excerpt %}<meta name="twitter:description" content="{{ excerpt | strip_html }}">{% else %}<meta name="twitter:description" content="{{ site.description }}">{% endif %}
 <meta name="twitter:image:src" content="{{ site.url }}/assets/images/site/lords-of-the-pit-open-graph.jpg">  
-<meta property=”og:image” content=”{{ site.url }}/assets/images/site/lords-of-the-pit-open-graph.jpg” />
+<meta property="og:image" content="{{ site.url }}/assets/images/site/lords-of-the-pit-open-graph.jpg" />
+
+{% if pagination %}
+  {% if pagination.href.previous %}
+    <link rel="prev" href="{{ site.url }}{{ pagination.href.previous }}" />
+  {% endif %}
+  {% if pagination.href.next %}
+    <link rel="next" href="{{ site.url }}{{ pagination.href.next }}" />
+  {% endif %}
+{% endif %}
 
 <script src="https://kit.fontawesome.com/bf8e061a12.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="{{ "/assets/stylesheets/style.css" | relative_url }}?{{site.time | date: '%s%N'}}">

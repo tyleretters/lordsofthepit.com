@@ -207,4 +207,27 @@
   main {
     overflow: hidden;
   }
+
+  /* Pagination styling */
+  .pagination {
+    @apply w-full;
+  }
+
+  .pagination-link {
+    @apply inline-block px-3 py-2 border border-red text-red hover:bg-red hover:text-black transition-colors;
+    min-width: 40px;
+    text-align: center;
+  }
+
+  .pagination-current {
+    @apply inline-block px-3 py-2 bg-red text-black border border-red font-bold;
+    min-width: 40px;
+    text-align: center;
+  }
+
+  .pagination-ellipsis {
+    @apply inline-block px-3 py-2 text-faded;
+    min-width: 40px;
+    text-align: center;
+  }
 }

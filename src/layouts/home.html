@@ -3,7 +3,7 @@ layout: default.html
 ---
 <div class="flex flex-wrap -mx-4">
   <div class="w-full sm:w-2/3 px-4">
-    {% for post in collections.posts | limit: 3 %}
+    {% for post in posts %}
     <article>
 
     <header>
@@ -18,10 +18,15 @@ layout: default.html
     </header>
     <div{% if post.data.monospace %} class="post-mono"{% endif %}>
       {{ post.content }}
+
+      <p><a href="https://lordsofthepit.com"><img src="/assets/images/2018/07/441691733915336714.png" alt=""></a></p>
     </div>
 
     </article>
     {% endfor %}
+
+    {% include "pagination.html" %}
+
     <hr>
     <p class="all-posts"><a href="/archives">View All Posts &rarr;</a></p>
   </div>
