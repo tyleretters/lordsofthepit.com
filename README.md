@@ -36,10 +36,7 @@ npm run pretty       # Format code with Prettier
 
 ## Deployment
 
-- **Automatic:** Push to `main` triggers Cloudflare Pages deployment
-- **Build Command:** `npm run build`
-- **Output Directory:** `dist`
-- **Build Time:** ~2-3 minutes (includes npm install + build)
+Deployed to a Cloudflare Worker (Workers Static Assets) on push to `main` via `.github/workflows/deploy.yml`. The workflow runs `npm ci`, `npm run build`, and `wrangler deploy`. Worker config: `wrangler.jsonc`. Requires `CLOUDFLARE_API_TOKEN` repo secret.
 
 ## Code Style
 
