@@ -20,7 +20,7 @@ export default function (eleventyConfig) {
       "The Lords of the Pit are the United States' premiere Old School Magic: the Gathering club based out of Chicago, IL. Members of this group include current club members ('Lords') as well as prospective new members ('Thrulls').",
     baseurl: '/',
     url: 'https://lordsofthepit.com',
-    s3BucketPrefix: 'https://lordsofthepit.s3.us-east-2.amazonaws.com',
+    s3BucketPrefix: 'https://assets.lordsofthepit.com',
     lang: 'en',
   })
 

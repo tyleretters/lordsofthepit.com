@@ -50,7 +50,7 @@ Lords of the Pit is a static website for a Chicago-based Old School Magic: the G
 - **3.1GB+ of images** stored directly in git (no LFS)
 - All images in `src/assets/images/`
 - Images are regular git objects (no special setup required)
-- S3 bucket available for PDFs: `https://lordsofthepit.s3.us-east-2.amazonaws.com`
+- R2 bucket available for PDFs: `https://assets.lordsofthepit.com` (migrated from S3 to Cloudflare R2)
 
 ### Writer-Friendly Workflow
 
