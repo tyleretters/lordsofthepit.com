@@ -27,7 +27,7 @@ Old School Elder Dragon Highlander (or “OS-EDH”) is an Eternal MTG format fa
 
 ![](/assets/images/2019/02/unnamed.jpg)
 
-Additionally, Lords Etters Moss collaborated to create the “missing shard” Elder Dragon Legends, filling a gap left by WotC in the early 1990s. We now have Elder Dragons representing BUG, RUG, Jeskai, Junk and Mardu! We took inspiration from the dragons of Skyrim and sought to adapt character-dragons from that classic game to the realm of Dominaria. See the gallery below for more detail. If you would like to try our new Elder Dragons with your own playgroup, [downloadable cards are available here]({{ site.s3BucketPrefix }}/os-edh.zip).
+Additionally, Lords Etters Moss collaborated to create the “missing shard” Elder Dragon Legends, filling a gap left by WotC in the early 1990s. We now have Elder Dragons representing BUG, RUG, Jeskai, Junk and Mardu! We took inspiration from the dragons of Skyrim and sought to adapt character-dragons from that classic game to the realm of Dominaria. See the gallery below for more detail. If you would like to try our new Elder Dragons with your own playgroup, [downloadable cards are available here]({{ site.cdnBaseUrl }}/os-edh.zip).
 
 ![](/assets/images/2020/nkotb.jpg)
 
